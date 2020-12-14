@@ -1,0 +1,1 @@
+# translator-concept-oppositeness
