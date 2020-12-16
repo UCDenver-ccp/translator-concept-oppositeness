@@ -1,0 +1,117 @@
+	mature eosinophil	immature eosinophil
+	mature B cell	immature B cell
+	branched duct epithelial cell	non-branched duct epithelial cell
+	sexual spore	asexual spore
+	mature T cell	immature T cell
+	mature neutrophil	immature neutrophil
+	trichoblast	atrichoblast
+	mature gamma-delta T cell	immature gamma-delta T cell
+	mature alpha-beta T cell	immature alpha-beta T cell
+	mature basophil	immature basophil
+	mature myeloid dendritic cell	immature myeloid dendritic cell
+	mature natural killer cell	immature natural killer cell
+	sexual reproduction	asexual reproduction
+	voluntary skeletal muscle contraction	involuntary skeletal muscle contraction
+	classical arabinogalactan protein metabolic process	non-classical arabinogalactan protein metabolic process
+	symmetric radial glial cell division in the forebrain	asymmetric radial glial cell division in the forebrain
+	mitosis	amitosis
+	substituted mannan metabolic process	unsubstituted mannan metabolic process
+	ion transport	anion transport
+	lytic virus budding from plasma membrane	non-lytic virus budding from plasma membrane
+	isotropic cell growth	anisotropic cell growth
+	activation of Hog1	inactivation of Hog1
+	compatible pollen-pistil interaction	incompatible pollen-pistil interaction
+	aerobic organosilicon metabolic process	anaerobic organosilicon metabolic process
+	aerobic benzoate metabolic process	anaerobic benzoate metabolic process
+	eye photoreceptor cell fate commitment	non-eye photoreceptor cell fate commitment
+	ion binding	anion binding
+	determinate inflorescence morphogenesis	indeterminate inflorescence morphogenesis
+	activation of MAPKK activity	inactivation of MAPKK activity
+	lytic viral exocytosis	non-lytic viral exocytosis
+	associative learning	nonassociative learning
+	activation of MAPK activity	inactivation of MAPK activity
+	ion channel activity	anion channel activity
+	astral spindle assembly involved in male meiosis	anastral spindle assembly involved in male meiosis
+	aerobic cobalamin biosynthetic process	anaerobic cobalamin biosynthetic process
+	aerobic phenol metabolic process	anaerobic phenol metabolic process
+	activation of recombination (HML)	inactivation of recombination (HML)
+	trichoblast fate specification	atrichoblast fate specification
+	activation of MAPK (mating sensu Fungi)	inactivation of MAPK (mating sensu Fungi)
+	phosphorylation	dephosphorylation
+	ion transmembrane transporter activity	anion transmembrane transporter activity
+	lytic viral release	non-lytic viral release
+	activation of MAPK activity during osmolarity sensing	inactivation of MAPK activity during osmolarity sensing
+	aerobic fructose catabolic process	anaerobic fructose catabolic process
+	glycolytic fermentation	non-glycolytic fermentation
+	activation of MAPKKK activity	inactivation of MAPKKK activity
+	cyclic photosynthetic phosphorylation	noncyclic photosynthetic phosphorylation
+	muscle alpha-actinin binding	nonmuscle alpha-actinin binding
+	recombinational repair	non-recombinational repair
+	mature B cell differentiation	immature B cell differentiation
+	developmental growth	non-developmental growth
+	polar-amino acid-transporting ATPase activity	nonpolar-amino acid-transporting ATPase activity
+	activation of MAPK activity during cell wall biogenesis	inactivation of MAPK activity during cell wall biogenesis
+	developmental cell growth	non-developmental cell growth
+	membrane-bound organelle	non-membrane-bound organelle
+	aerobic gallate catabolic process	anaerobic gallate catabolic process
+	symmetric neuroblast division	asymmetric neuroblast division
+	aerobic phenol biosynthetic process	anaerobic phenol biosynthetic process
+	aerobic glycerol catabolic process	anaerobic glycerol catabolic process
+	soluble fraction	insoluble fraction
+	organic anion transmembrane transporter activity	inorganic anion transmembrane transporter activity
+	aerobic respiration, using ammonium as electron donor	anaerobic respiration, using ammonium as electron donor
+	aerobic respiration	anaerobic respiration
+	ion homeostasis	anion homeostasis
+	segmented viral genome	non-segmented viral genome
+	activation of MAPK during sporulation (sensu Fungi)	inactivation of MAPK during sporulation (sensu Fungi)
+	eye photoreceptor cell differentiation	non-eye photoreceptor cell differentiation
+	motile primary cilium	nonmotile primary cilium
+	trichoblast differentiation	atrichoblast differentiation
+	aerobic electron transport	anaerobic electron transport
+	covalent chromatin modification	non-covalent chromatin modification
+	organic cation transmembrane transporter activity	inorganic cation transmembrane transporter activity
+	eye photoreceptor cell development	non-eye photoreceptor cell development
+	specific RNA polymerase II transcription factor activity	nonspecific RNA polymerase II transcription factor activity
+	lytic virus budding from ER membrane	non-lytic virus budding from ER membrane
+	activation of MAPK (mating sensu Saccharomyces)	inactivation of MAPK (mating sensu Saccharomyces)
+	phosphorylation-gated channel activity	dephosphorylation-gated channel activity
+	saturated monocarboxylic acid metabolic process	unsaturated monocarboxylic acid metabolic process
+	activation of MAPK (pseudohyphal growth)	inactivation of MAPK (pseudohyphal growth)
+	lytic virus budding from Golgi membrane	non-lytic virus budding from Golgi membrane
+	symmetric synapse	asymmetric synapse
+	intein-mediated protein splicing	non-intein-mediated protein splicing
+	aerobic phenol catabolic process	anaerobic phenol catabolic process
+	organic anion transport	inorganic anion transport
+	activation of MAPK during sporulation (sensu Saccharomyces)	inactivation of MAPK during sporulation (sensu Saccharomyces)
+	aerobic nitrilotriacetate metabolic process	anaerobic nitrilotriacetate metabolic process
+	astral spindle assembly	anastral spindle assembly
+	symmetric dimethyl-L-arginine	asymmetric dimethyl-L-arginine
+	polar-amino acid-transporting ATPase activity	nonpolar-amino acid-transporting ATPase activity
+	synthetic	asynthetic
+	sexual spore wall	asexual spore wall
+	organic anion transmembrane transporter activity	inorganic anion transmembrane transporter activity
+	sequence-specific DNA binding, bending	non-sequence-specific DNA binding, bending
+	segmented viral genome	non-segmented viral genome
+	glycosylation reaction	deglycosylation reaction
+	membrane-bounded organelle	non-membrane-bounded organelle
+	phosphorylation reaction	dephosphorylation reaction
+	ion transmembrane transporter activity	anion transmembrane transporter activity
+	palmitoylation reaction	depalmitoylation reaction
+	carboxylation reaction	decarboxylation reaction
+	methylation reaction	demethylation reaction
+	neddylation reaction	deneddylation reaction
+	myristoylation reaction	demyristoylation reaction
+	ion channel activity	anion channel activity
+	acetylation reaction	deacetylation reaction
+	active sex chromosome	inactive sex chromosome
+	phosphorylation of RNA polymerase II C-terminal domain	dephosphorylation of RNA polymerase II C-terminal domain
+	sumoylation reaction	desumoylation reaction
+	growing cell tip	non-growing cell tip
+	symmetric synapse	asymmetric synapse
+	formylation reaction	deformylation reaction
+	organic cation transmembrane transporter activity	inorganic cation transmembrane transporter activity
+	farnesylation reaction	defarnesylation reaction
+	motile primary cilium	nonmotile primary cilium
+	phosphorylation-gated channel activity	dephosphorylation-gated channel activity
+	ubiquitination reaction	deubiquitination reaction
+	ion binding	anion binding

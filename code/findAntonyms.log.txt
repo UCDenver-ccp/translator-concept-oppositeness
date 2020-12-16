@@ -1,0 +1,36 @@
+
+SUBTRACT 14 FROM THE COUNT OF ANTONYMS FOR EVERY ONTOLOGY!
+
+
+CRAFT-2.0 ontologies
+
+Cell Line Ontology
+      12
+     858
+Gene Ontology
+      75
+   25472
+NCBI Taxonomy
+       0
+ 5654381
+Protein Ontology
+       0
+   26989
+Sequence Ontology
+       0
+    1727
+
+OTHER ONTOLOGIES
+
+Regulation of Transcription Ontology
+      30
+  147820
+Mouse Gross Anatomy and Development Ontology
+       0
+   19446
+Human Phenotype Ontology
+       0
+   15656
+African Traditional Medicine Ontology
+       0
+     224
