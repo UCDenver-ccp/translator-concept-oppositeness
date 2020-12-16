@@ -1,0 +1,54 @@
+---
+title: "OWL ontologies in R with ontologyIndex"
+author: "KBC"
+date: "10/13/2017"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# install.packages() only needs to be run the first time that you use the script
+#install.packages("ontologyIndex")
+library(ontologyIndex)
+```
+
+## Try some basic functions
+
+
+
+```{r read.in.ongologies}
+data(hpo)
+numbers.of.ancestors <- length(get_ancestors(hpo, c("HP:0001873", "HP:0011877")))
+numbers.of.ancestors <- c()
+for (i in 1:length(hpo$name)) {
+#for (i in 1:100) {
+  #print(hpo$name[i])
+  name.contents <- hpo$name[i]
+  #print(name.contents)
+  # TODO: verify that there's only one name!
+  number.of.ancestors.this.term <- length(get_ancestors(hpo, c(names(name.contents))))
+  numbers.of.ancestors <- c(numbers.of.ancestors, number.of.ancestors.this.term)
+  #print(number.of.ancestors.this.term)
+}
+
+print(mean(numbers.of.ancestors))
+print(median(numbers.of.ancestors))
+print(range(numbers.of.ancestors))
+summary(numbers.of.ancestors)
+#shapiro.test(numbers.of.ancestors)
+print(sd(numbers.of.ancestors))
+boxplot(numbers.of.ancestors)
+
+```
+
+## Basic analyses
+
+You can also embed plots, for example:
+
+```{r}
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

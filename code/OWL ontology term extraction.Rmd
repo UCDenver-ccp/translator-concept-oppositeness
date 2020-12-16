@@ -1,0 +1,92 @@
+---
+title: "ALS ontology comparative analysis"
+author: "KBC"
+date: "10/14/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# these two lines only need to be run the first time that you use this script
+#source("https://bioconductor.org/biocLite.R")
+#biocLite("ontoCAT")
+library(ontoCAT)
+library(stringr)
+```
+
+## Introduction
+
+The goal of this analysis is to compare the SLA ontology to two other ontologies. We want to do a comparison because we want to report quantitative characteristics of the SLA ontology, and  qualitative measures do not, in general, mean anything (in the sense of not being interpretable) in isolation.  
+
+The line of reasoning here is that we'll compare our ontology to two _published_ ontologies. If our ontology "looks like" the published ontologies, then we can claim that it is, itself, "ready for publication."  If it doesn't, then we'll have a plan for how to develop it (in the sense of knowing which dimensions of the ontology need to be improved).  There is no directly comparable ontology, so for comparison purposes, we will use one ontology related to another neurodegenerative disease, and one ontology related to delivery of health care.
+
+
+
+## Load the ontologies
+
+Note that when the SLA ontology loads, we get a bunch of warnings about multiple labels that don't show up in the output that you'll see here.
+
+```{r load.the.ontologies}
+# Amyotrophic lateral sclerosis ontology
+ontology.sla <- getOntology("/Users/transfer/Documents/ONSTOPARONMODSEPTEMEBRE.owl")
+# Alzheimer's ontology
+#ontology.ad <- getOntology("/Users/transfer/Documents/Alzheimer_Ontology_v15R-xml_merged.owl")
+# Nursing Care Coordination Ontology
+#ontology.ncco <- getOntology("/Users/transfer/Documents/RackMultipart20131105-23208-n8u32x.owl")
+#getOntologyRelationNames(ontology.sla)
+```
+
+## The concepts
+
+Let's get some basic descriptive statistics about the concepts themselves.
+
+```{r}
+terms.sla <- getAllTerms(ontology.sla)
+summary(terms.sla)
+term.ids.sla <- getAllTermIds(ontology.sla)
+summary(term.ids.sla)
+
+print(paste("Count of terms:", length(terms.sla), "Count of IDs:", length(term.ids.sla)))
+```
+
+The terms have this form:
+
+- PlaquetteDuReseau: plaquette du réseau
+- Insatisfaction: insatisfaction
+- DemandeDeVNI: demande de vni
+- Organisme_Public: organisme public
+
+...so, you need to erase everything from the left edge up to and including the space between the colon and the beginning of the text string.
+
+
+```{r eval = FALSE}
+terms.sla[[1]]
+for (i in 1:length(terms.sla)) {
+  #print(paste(terms.sla[[1]]))
+  current.term <- terms.sla[[i]]
+  print(paste("Original:", current.term))
+  current.term <-  current.term %>% str_replace("[^\\s]+:\\s", "")
+  }
+
+
+```
+
+
+```{r}
+strings.sla <- 
+```
+
+
+
+## Replicability/Reproducibility information
+
+These commands give us some of the information that would be needed in order to replicate the analysis that we're doing today.
+
+```{r}
+getOntologyDescription(ontology.sla)
+
+
+sessionInfo()
+```
+

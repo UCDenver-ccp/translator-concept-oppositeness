@@ -1,0 +1,495 @@
+---
+#title: 'A simple frequency-based analysis of textual data: Gene Ontology terms'
+title: 'A simple frequency-based analysis of textual data: ALS network messages'
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# install.packages("readr")  # only need to do once
+#install.packages("tidytext") # only need to do once
+#install.packages("calibrate") # only need to do once
+#install.packages("SnowballC") # only need to do once
+library(dplyr) # for data_frame, unnest_tokens
+library(tidytext) # does tidytext load dplyr anyway?
+library(readr) # to read in text file
+library(calibrate) # to label points in plot
+library(SnowballC) # for stemming
+library(stringr) # for regular expression str_replace_all()
+```
+
+## Introduction
+
+The purpose of this script is to demonstrate a simple statistical analysis of a collection of textual data.  We'll see some preprocessing options, as well as a couple of simple distributional analyses that can be done more or less "out of the box" with widely available language processing packages.
+
+We're focusing the analysis on terms from the Gene Ontology, but this can be applied to any sort of textual data.  The specific use case here is to find evidence for the kinds of relations that the kinds of things that are modeled by the Gene Ontology could be involved in.
+
+To try this on the ALS (amyotropic lateral sclerosis) data, we'll use your data as the first corpus, and for the second corpus, I downloaded a novel, just for demonstration purposes.
+
+TODO: ALS data needs to go through normalization script!xxx
+
+### The start of the pipeline: input and preprocessing
+
+The pipeline first reads in the data and does some preprocessing. 
+
+#### Setting parameters
+
+In order to allow _relatively_ easy experimentation, we'll pull out a bunch of parameters and put them early in the file so that you can follow what you're doing relatively easily.
+
+```{r}
+STEMMING <- TRUE
+NORMALIZE.NUMBERS <- TRUE
+NORMALIZE.CASE <- TRUE
+STOPWORD.REMOVAL <- TRUE
+
+print(paste("STEMMING:", STEMMING))
+print(paste("NORMALIZE CASE:", NORMALIZE.CASE))
+print(paste("NORMALIZE NUMBERS:", NORMALIZE.NUMBERS))
+print(paste("REMOVE STOPWORDS:", STOPWORD.REMOVAL))
+```
+
+
+#### Gene Ontology preprocessing
+In this case, the preprocessing consists of three steps:
+
+1. Separate the basic units of analysis---in this case, the lines in the .obo file.
+2. Pull out only the lines that contain terms.
+3. Remove the leading string from each of those lines.
+4. TODO: remove the _obsolete_ terms (a special designation in OBO ontologies).
+
+
+
+```{r read.in.data}
+# from library readr
+
+# ontology data
+#text.complete <- read_file("/Users/transfer/Documents/scripts/go.obo.short")
+#text.by.line <- strsplit(text.complete, split = "\n")
+# returns a list, apparently, with everything in the first element, so use [[1]] to
+# get to the text in the next step
+# filter out lines not containing a name (consider synonyms later, maybe)
+#text.by.line.filtered <- grep("^name: ", text.by.line[[1]], value = TRUE, invert = FALSE) ## flodel, Stack Overflow
+#text.by.line.filtered[1:10]
+# strip the text that we used to identify the lines that we want, but that we don't actually want to use in the analysis
+#text.by.line.filtered <- gsub("^name: ", "", text.by.line.filtered)
+#text.by.line.filtered[1:10]
+
+
+# French novel data
+#text.complete <- read_file("/Users/transfer/Documents/scripts/sample.french.book.stendahl.txt")
+
+# French ASL data
+# CAUTION: THIS PROBABLY ONLY HAS PART OF THE DATA
+text.complete <- read_file("/Users/transfer/Documents/From Sonia/2013/002_13 ANO DC/002-13_08-02-2013_appel-recu_D-R_1dd75173675af81b7b2eba846c169aa4_12-02-2013_SUI_3319e893e059190605dba05fb9b00a79.txt")
+text.by.line <- strsplit(text.complete, split = "\n")
+text.by.line.filtered <- text.by.line[[1]]
+```
+
+#### French ALS data preprocessing
+
+### Converting the textual data into an easily processable format
+
+Now you have all of your text in a vector of units of some sort--in my case so far, a vector of lines.  The next task is to convert it to the _tidy_ format.  This will facilitate later statistical analyses.
+
+```{r tidy.it.up}
+text.df <- data_frame(line = 1:length(text.by.line.filtered), text = text.by.line.filtered) # from library dplyr
+head(text.df)
+
+#text.df %>% unnest_tokens(word, text)
+text.tokenized <- text.df %>% unnest_tokens(word, text)
+head(text.tokenized)
+
+```
+
+### Preprocessing: Normalizing case
+
+```{r}
+
+```
+
+### Preprocessing: Normalizing numbers
+
+```{r normalize.numbers}
+#```{r eval = FALSE}
+
+normalize.numbers <- function(input.text) {
+  text.tokenized <- input.text # relic of pre-functional version--TODO: refactor
+  text.tokenized$word <- str_replace_all(text.tokenized$word, "^\\d+$", "NUMBER")
+  # with a comma
+  text.tokenized$word <- str_replace_all(text.tokenized$word, "^\\d+,\\d+$", "NUMBER")
+  # with a period
+  text.tokenized$word <- str_replace_all(text.tokenized$word, "^\\d+\\.\\d+$", "NUMBER")
+  # clearly there are other patterns for numbers, but this will catch most of them
+  return(text.tokenized)
+}
+
+if (TRUE == NORMALIZE.NUMBERS) {}
+```
+
+### Preprocessing: stopwords
+
+I'm not necessarily a fan of using stopwords, but if you want to do so, here's where and how you would do it.  Set _eval_ to _TRUE_ to see how this works/what it does.
+
+One good reason _not_ to remove stopwords: your goal is to do extraction of relations.  It is common in English (and I'm guessing in French) for relations to be indicated by exactly the words that usually get removed when we remove stopwords.  For example, in the following sentence:
+
+_Phosphorylation of NBR1 by GSK3 modulates protein aggregation_ (PMID 24879152)
+
+...it is _only_ the words _of_ and _by_ that indicate which of the two proteins is the kinase (GSK3) and which is the substrate (NBR1).  Note that the opposite order is entirely grammatical:
+
+_Phosphorylationby GSK3 of NBR1 modulates protein aggregation_
+
+...and if the stopwords are removed, it is not possible to distinguish between the two.
+
+```{r stop.words} 
+#```{r stop.words, eval=FALSE} 
+
+normalize.stopword.removal <- function(text.input) {
+  text.tokenized <- text.input # relic of pre-functional design TODO: refactor
+  # Let's see how many words we have before removing the stopwords:
+  print("Count before removing stopwords:")
+  nrow(text.tokenized)
+
+  data("stop_words") # you can use filter() to use only a subset of this; you can
+  # also define your own stopwords somewhere--see the "Text mining with R" book chapter
+  # on sentiment analysis, I think.  It's not difficult.
+  text.no.stop.words <- text.tokenized %>% anti_join(stop_words)
+  head(text.no.stop.words)
+  # now we need to replace the tokenized text with the no-stop-words version, or else rewrite   everything that follows
+  text.tokenized <- text.no.stop.words
+
+  # ...and how many words we have after removing the stopwords:
+  print("Count after removing stopwords:")
+  nrow(text.tokenized)
+  return(text.tokenized)
+}
+
+if (TRUE == STOPWORD.REMOVAL) {}
+```
+
+### Preprocessing: stemming
+
+```{r stemming}
+
+normalize.stemming <- function(text.input) {
+  system.time(
+    text.stemmed <- text.tokenized$word %>% wordStem(language = "porter")
+    #text.stemmed <- text.tokenized$word %>% wordStem(language = "french")
+  
+      #mutate(word_stem = wordStem(word_clean, language="english"))
+  )
+
+  text.tokenized$stem <- text.stemmed
+  head(text.tokenized)
+}
+
+if (TRUE == STEMMING) {}
+```
+
+## Analysis
+
+Having done all of the processing, we are now ready to start the analysis.  This gets increasingly elaborate, but everything starts with counting.  Of course, even the counts are affected by the preprocessing that we did, and that effect will percolate through the rest of the analysis.
+
+### Word counts
+
+There are actually at least two ways to count words: word tokens, and word types. You use each of them for different things, so you need to do both.
+
+Here we do the counts of word types, and then use those to calculate actual frequencies.  Then we will see if, and how, those both change if we apply stemming.  Further exercises would be to see how the results change if we do/don't normalize case, if we change the tokenization...
+
+```{r}
+text.tokenized %>% count(word, sort = TRUE) # count() is from dplyr, "word" is a column name in text.df
+head(text.tokenized)
+
+#text.tokenized$count <- text.tokenized %>% count(word, sort = TRUE) # count() is from dplyr, "word" is a column name
+text.counts <- text.tokenized %>% count(word, sort = TRUE)
+text.counts$frequency <- text.counts$n / sum(text.counts$n)
+head(text.counts)
+
+#stem.counts <- text.tokenized %>% count(stem, sort = TRUE)
+#text.counts$stem.counts <- stem.counts
+#head(stem.counts)
+
+# Does that change if we look at stems, instead of the raw (inflected) words?
+if (TRUE == STEMMING) {
+stem.counts <- text.tokenized %>% count(stem, sort = TRUE)
+stem.counts$stem.frequency <- stem.counts$n / sum(text.counts$n) # ...or should it be sum stem.counts$n?  Do we want frequencies of stems per tokens, or per stems??
+head(stem.counts)
+}
+```
+
+...yes, it does change---and possibly for the worse.  Moral of the story: just because you _can,_ doesn't mean you _should_---you need to look at the effects of the processing steps.
+
+Note that when we look at the French ALS data, we see the number 10 high on the list of most frequent words.  There are two things that that should make us think about:
+
+1. Does that tell us something about the domain, about the document structure...
+2. Should we consider normalizing all numbers?
+
+## Reporting
+
+#### Simple descriptive statistics
+
+One of the side-effects of having used the tokenizer that unnest_tokens() gives us by default is that we have no idea what the number of _tokens_ is--only the number of _words_.  Different thing.
+```{r}
+# TODO: find out how to use Tiffany's LaTeX-generating here, instead.
+#print(paste("Tokens (words):"), count())
+#print(paste("After stopword removal:"), count())
+#print(paste("Types:"), count())
+#print(paste("After stopword removal:"), count())
+#print(paste("Stem types:"), count())
+#print(paste("After stopword removal:"))
+#print(paste("Note that all numbers will be different if you don't lowercase."))
+#print(paste())
+```
+
+## Distributions
+
+For starters, we'll look at the extent to which this data meets one of our fundamental expectations of natural language: the relationship between frequency and frequency-ordered rank, most commonly expressed as Zipf's Law.  We'll play with four ways of plotting it.
+
+```{r}
+# if you do 2,2 instead of doing 1,2 twice, it squishes the y axis (i.e., the height) down way too far, and it's ugly as hell
+par(mfrow=c(1,2))
+plot(1:nrow(text.counts), text.counts$n, main = "Count over rank",
+     xlab = "Rank",
+     ylab = "Count")
+
+plot(1:nrow(text.counts), text.counts$frequency, main = "Frequency over rank",
+     xlab = "Rank",
+     ylab = "Frequency")
+
+par(mfrow=c(1,2))
+plot(log(1:nrow(text.counts)), log(text.counts$n), main = "Log count over log rank",
+     xlab = "Rank",
+     ylab = "Count")
+
+plot(log(1:nrow(text.counts)), log(text.counts$frequency), main = "Log frequency over log rank",
+     xlab = "Rank",
+     ylab = "Frequency")
+
+par(mfrow=c(1,1))
+```
+
+### Complexity analysis
+
+Since a crucial part of the plan for this data is to use it to do text processing, we're going to care about how easy/difficult it would be to do that processing.  Everything that we've done so far has been _relevant_ to that question, but now we're going to look at four things that are _focused_ on that question.  These are things that we know from tons of previous work to be relevant to language processing, and we know good theoretical reasons _why_ we shouldn't be surprised that that's the case.
+
+These things are:
+
+1. Coordination
+2. Negation
+3. Anaphoric reference
+
+```{r}
+french.coordinators <- c("et", "ou", "mais") # ou is ambiguous with où after normalization of accents
+french.explicit.negatives <- c("ne", "non", "pas", "jamais", "personne")
+french.pronominal.anaphora <- c("je", "tu", "il", "elle", "nous")
+
+frequency.coordinators <- 0
+frequency.negatives <- 0
+frequency.pronominal.anaphora <- 0
+
+# my.text will contain a vector of text, my.regular.expressions will contain strings to be plugged into a regular expression--all the negatives, or all the coordinators, or whatever
+frequency.calculation <- function(my.text, my.regular.expressions) {
+  # returns a list of integer matrices...
+  #match.results <- str_locate_all(my.text, my.regular.expressions)
+  match.results <- str_locate(my.text, my.regular.expressions)
+  print(match.results)
+  # ...so the length of that list ought to be the number of matches
+  count.of.matches <- length(match.results) # 
+  return(count.of.matches)
+}
+
+if (TRUE) {
+ # should return 3
+ test.text <- c("Et", "et", "ou", "ne", "pas", "personne", "Personne", "Nous", "il", "elle")
+ test.matches <- frequency.calculation(test.text, french.coordinators)
+ test.count <- length(test.matches[[1]])
+ print(test.count)
+ 
+ 
+ # should return 4
+ test.text <- c("Et", "et", "ou", "ne", "pas", "personne", "Personne", "Nous", "il", "elle")
+ test.matches <- frequency.calculation(test.text, french.explicit.negatives)
+ test.count <- length(test.matches[[1]])
+ print(test.count)
+ 
+ # should return 3
+test.text <- c("Et", "et", "ou", "ne", "pas", "personne", "Personne", "Nous", "il", "elle")
+ test.matches <- frequency.calculation(test.text, french.pronominal.anaphora)
+ test.count <- length(test.matches[[1]])
+ print(test.count)
+}
+
+```
+
+## Comparative data
+
+So far, we've been looking at our data in isolation, just trying to get a general sense for the nature of the data--basic descriptive statistics, basic distributional characteristics, and the like.  Now we're going to go the next step, and start comparing it to other data.  In the end, numbers are mostly only meaningful in comparison with something else, so we'll want to see how the numbers that we've found compare to at least one other corpus.  (That's the norm, but it's probably worth looking at more than one--we'll see why in a second.)
+
+The big question is what data you should be using as your "reference"--the data that you're not interested in per se, but that you need as a sort of baseline.  What (population of) data you sample--and, of course, how you sample it--is going to affect your findings.  The easy answer is that you should be using data that will let you test your hypothesis, but it is not always easy to put that into practice.  For example: suppose that you want to investigate some aspect of clinical language.  Do you compare that to non-clinical language?  If so: should it be biomedical--say, from scientific journal articles?  Or, should it be as "general" as possible?  If so: what does that even mean?  And don't rule out clinical language so fast--maybe what you want is a genre of clinical language that's different from yours.  
+
+...and that's why I say that there might be some value to having multiple "reference" corpora, even though it really hasn't been the norm in this kind of research, by any means.
+
+### Read in the reference corpus
+
+Here we read in the reference, or at any rate, second, corpus.  We repeat all of the steps from above, but without explaining why we're doing each step.
+
+TODO: pull out all of the preceding code into functions so that you can pass in a file name, and get a tibble returned at the end of the pipeline.
+
+```{r}
+# from library readr
+# UNCOMMENT if you are not working with the French data
+#text.complete.corpus02 <- read_file("/Users/transfer/Documents/scripts/ro.obo.txt")
+# COMMENT out if you are working with the French data
+#text.complete.corpus02 <- #read_file("/Users/transfer/Documents/scripts/sample.french.book.verne.txt")
+
+text.complete.corpus02 <- read_file("/Users/transfer/Documents/Scripts-new/sample.french.book.verne.txt")
+
+text.by.line.corpus02 <- strsplit(text.complete.corpus02, split = "\n")
+# returns a list, apparently, with everything in the first element, so use [[1]] to
+# get to the text in the next step
+# filter out lines not containing a name (consider synonyms later, maybe)
+# UNCOMMENT this next line if you're NOT doing the French data
+#text.by.line.filtered.corpus02 <- grep("^name: ", text.by.line.corpus02[[1]], value = TRUE, invert = FALSE) ## flodel, Stack Overflow
+# COMMENT this line out if you are NOT doing the French data
+text.by.line.filtered.corpus02 <- text.by.line.corpus02[[1]] 
+text.by.line.filtered.corpus02[1:10]
+# strip the text that we used to identify the lines that we want, but that we don't actually want to use in the analysis
+text.by.line.filtered.corpus02 <- gsub("^name: ", "", text.by.line.filtered.corpus02)
+# print out the first few lines, just to be sure that it looks like the data got read in OK
+# UNCOMMENT this line if you're not working with the French data
+text.by.line.filtered.corpus02[1:10]
+
+
+text.df.corpus02 <- data_frame(line = 1:length(text.by.line.filtered.corpus02), text = text.by.line.filtered.corpus02) # from library dplyr
+head(text.df.corpus02)
+
+#text.df %>% unnest_tokens(word, text)
+text.tokenized.corpus02 <- text.df.corpus02 %>% unnest_tokens(word, text)
+head(text.tokenized.corpus02)
+
+# Let's see how many words we have before removing the stopwords:
+nrow(text.tokenized.corpus02)
+
+data("stop_words") # you can use filter() to use only a subset of this; you can
+# also define your own stopwords somewhere--see the "Text mining with R" book chapter
+# on sentiment analysis, I think.  It's not difficult.
+text.no.stop.words.corpus02 <- text.tokenized.corpus02 %>% anti_join(stop_words)
+head(text.no.stop.words.corpus02)
+# now we need to replace the tokenized text with the no-stop-words version, or else rewrite everything that follows
+text.tokenized.corpus02 <- text.no.stop.words.corpus02
+
+# ...and how many words we have after removing the stopwords:
+nrow(text.tokenized.corpus02)
+
+system.time(
+  text.stemmed.corpus02 <- text.tokenized.corpus02$word %>% wordStem(language = "porter")
+    #mutate(word_stem = wordStem(word_clean, language="english"))
+)
+
+text.tokenized.corpus02$stem <- text.stemmed.corpus02
+head(text.tokenized.corpus02)
+
+text.tokenized.corpus02 %>% count(word, sort = TRUE) # count() is from dplyr, "word" is a column name in text.df
+head(text.tokenized.corpus02)
+
+#text.tokenized$count <- text.tokenized %>% count(word, sort = TRUE) # count() is from dplyr, "word" is a column name
+text.counts.corpus02 <- text.tokenized.corpus02 %>% count(word, sort = TRUE)
+text.counts.corpus02$frequency <- text.counts.corpus02$n / sum(text.counts.corpus02$n)
+head(text.counts.corpus02)
+
+#stem.counts <- text.tokenized %>% count(stem, sort = TRUE)
+#text.counts$stem.counts <- stem.counts
+#head(stem.counts)
+
+# Does that change if we look at stems, instead of the raw (inflected) words?
+stem.counts.corpus02 <- text.tokenized.corpus02 %>% count(stem, sort = TRUE)
+stem.counts.corpus02$stem.frequency <- stem.counts.corpus02$n / sum(text.counts.corpus02$n) # ...or should it be sum stem.counts$n?  Do we want frequencies of stems per tokens, or per stems??
+head(stem.counts.corpus02)
+
+```
+
+### How many stems/words are in one, but not the other?  
+
+```{r}
+in.corpus01.not.in.corpus02 <- anti_join(stem.counts, stem.counts.corpus02, by = "stem")
+print(paste(nrow(in.corpus01.not.in.corpus02), "out of", nrow(stem.counts)))
+
+in.corpus02.not.in.corpus01 <- anti_join(stem.counts.corpus02, stem.counts, by = "stem")
+
+print(paste(nrow(in.corpus02.not.in.corpus01), "out of", nrow(stem.counts.corpus02)))
+
+# TODO: validate the counts by taking the inverses of the anti-joins and adding their counts to the counts of the anti-joins; that should sum to the total number of rows in each one.
+```
+
+
+## Which words are they?
+
+...probably only want the highest-frequency ones...
+
+```{r}
+
+print("In corpus01, not in corpus02 (high-frequency):")
+head(in.corpus01.not.in.corpus02)
+
+print("In corpus01, not in corpus02 (low-frequency):")
+tail(in.corpus01.not.in.corpus02)
+
+print("In corpus02, not in corpus01 (high-frequency():")
+head(in.corpus02.not.in.corpus01)
+print("In corpus02, not in corpus01 (low-frequency():")
+tail(in.corpus02.not.in.corpus01)
+```
+
+NB: those seem to be sorted the opposite of what I thought, and also I seem to have frequencies in what I thought was raw counts...
+
+```{r}
+# get the stems that occur in both of them--this is done
+# by inner_join()
+#combined.stem.frequencies <- stem.counts %>% inner_join(stem.counts.corpus02, by = "stem.frequency")
+## TODO xxx: are these frequencies??  They look like counts...
+combined.stem.frequencies <- inner_join(stem.counts, stem.counts.corpus02, by = "stem")
+nrow(combined.stem.frequencies)
+head(combined.stem.frequencies)
+
+combined.stem.frequencies <- mutate(combined.stem.frequencies, relative.frequency = stem.frequency.x / stem.frequency.y)
+
+head(combined.stem.frequencies)
+
+# now sort it, and you're good
+
+combined.stem.frequencies <- arrange(combined.stem.frequencies, desc(combined.stem.frequencies$relative.frequency))
+print("Over-represented in the data under study:")
+head(combined.stem.frequencies)
+
+combined.stem.frequencies <- arrange(combined.stem.frequencies, combined.stem.frequencies$relative.frequency)
+print("Over-represented in the reference data:")
+head(combined.stem.frequencies)
+
+
+# add the graphic
+
+
+# textxy() is from the calibrate package
+plot(jitter(combined.stem.frequencies$stem.frequency.x), 
+     jitter(combined.stem.frequencies$stem.frequency.y),
+     abline(lm(combined.stem.frequencies$stem.frequency.y ~ combined.stem.frequencies$stem.frequency.x)))
+     #,
+     #)
+     #textxy(combined.stem.frequencies$stem.frequency.x, combined.stem.frequencies$stem.frequency.y, combined.stem.frequencies$stem))
+text(combined.stem.frequencies$stem.frequency.x,
+                 combined.stem.frequencies$stem.frequency.y,
+                 combined.stem.frequencies$stem, cex=0.6, pos=4, col="red")
+
+cor(combined.stem.frequencies$stem.frequency.x, combined.stem.frequencies$stem.frequency.y)
+```
+
+## Documentation of session information
+
+To facilitate replicability and to improve the chances of reproducibility (or at least the chances of understanding failures of reproducibility), we document the R session information here.
+
+```{r}
+sessionInfo()
+```
+
