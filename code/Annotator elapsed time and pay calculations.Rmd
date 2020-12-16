@@ -1,0 +1,38 @@
+---
+title: "TRANSLATOR Opposites"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+data <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/annotatorTimesForTRANSLATOROpposites3.csv", header = FALSE, sep = ",")
+
+median.time.in.seconds <- median(data$V1) 
+median.time.in.seconds
+median.tasks.per.minute <- 60 / median.time.in.seconds
+pay.per.task <- 0.10
+median.pay.per.hour <- 60 * (median.tasks.per.minute * pay.per.task)
+
+print(paste("At 60 seconds per minute, a median time of ", median.time.in.seconds, "seconds per task yields a median of", median.tasks.per.minute, "HITs completed per minute, and at $0.10 per task,", "for a median hourly rate of", median.pay.per.hour))
+```
+
+## Including Plots
+
+
+
+```{r pressure, echo=FALSE}
+# https://delladata.fr/introduction-a-la-visualisation-sous-r-avec-le-package-ggplot2/
+ggplot(data,aes(y = V1)) + geom_boxplot()
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
