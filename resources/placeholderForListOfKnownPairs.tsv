@@ -1,0 +1,12 @@
+Add:
+
+Kevin CRAFT data
+Kevin MIMIC data
+Fiji CRAFT data
+Fiji MIMIC data
+
+Then we will need to make their unions
+
+...or before that, take lists from my Perl script (filterOntologies.pl)
+
+
