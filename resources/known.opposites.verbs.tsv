@@ -1,4 +1,4 @@
 complain	deny
-deny	statei
+deny	state
 claim	deny
 deny	report
