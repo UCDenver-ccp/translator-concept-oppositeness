@@ -2,3 +2,6 @@ complain	deny
 deny	state
 claim	deny
 deny	report
+destabilize	stabilize
+dephosphorylate	phosphorylate
+

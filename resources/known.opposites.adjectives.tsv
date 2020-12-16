@@ -8,6 +8,7 @@ afebrile	febrile
 affected	unaffected
 alive	dead
 anterior	posterior
+asexual	sexual
 attractive	repellent
 benign	cancerous
 benign	malignant
@@ -54,9 +55,11 @@ healthy	pathological
 immune	susceptible
 infectious	noncontagious
 injured	intact
+inner	outer
 inorganic	organic
 intact	ruptured
 invertebrate	vertebrate
+irreversable	reversable
 large	little
 large	small
 left	right
