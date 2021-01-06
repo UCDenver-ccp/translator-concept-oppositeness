@@ -1,6 +1,8 @@
 ---
 title: "TRANSLATOR Opposites"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -26,7 +28,7 @@ median.pay.per.hour <- 60 * (median.tasks.per.minute * pay.per.task)
 print(paste("At 60 seconds per minute, a median time of ", median.time.in.seconds, "seconds per task yields a median of", median.tasks.per.minute, "HITs completed per minute, and at $0.10 per task,", "for a median hourly rate of", median.pay.per.hour))
 ```
 
-## Including Plots
+Across the entire set of Turkers, the variability in time per assignment was enormous, and the median was quite high. Consequently, the median hourly rate was quite low.
 
 
 
@@ -35,4 +37,42 @@ print(paste("At 60 seconds per minute, a median time of ", median.time.in.second
 ggplot(data,aes(y = V1)) + geom_boxplot()
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Breaking the time per assignment down by annotator, we see that most of the annotators were actually fast. However, one slow annotator accounted for most of the HITs. Consequently, most annotators received an hourly rate that is _much_ higher than the median.
+
+Oh, wait, that's not true. In fact most annotators received a low hourly rate of a bit over $3/hour, while one annotator got a _terribly_ low rate, and unfortunately did most of the HITs.
+
+```{r}
+# the spreadsheet is hairy, so use fread with fill = TRUE
+library(data.table)
+amt <- fread("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/Batch name TRANSLATOR Opposites 3.csv", header = TRUE, sep = ",", fill = TRUE)
+#head(amt)
+amt$WorkerId <- as.factor(amt$WorkerId)
+amt$Input.word01 <- as.factor(amt$Input.word01)
+amt$Input.word02 <- as.factor(amt$Input.word02)
+amt$Input.goldResponse <-as.factor(amt$Input.goldResponse)
+amt$Input.goldVerify <- as.factor(amt$Input.goldVerify)
+library(dplyr)
+
+by.turker <- amt %>% group_by(WorkerId)
+#head(by.turker)
+ggplot(amt, aes(y = WorkTimeInSeconds)) + geom_boxplot()
+ggplot(amt, aes(x = WorkerId, y = WorkTimeInSeconds)) + geom_boxplot()
+
+# does this look any different if I plot the grouped 
+ggplot(by.turker, aes(x = WorkerId, y = WorkTimeInSeconds)) + geom_boxplot()
+#print(amt$WorkerId)
+#unique(amt$WorkerId)
+
+# I think that I accidentally set up this run so that only one Turker did each pair, so I will calculate IAA with me.
+
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+

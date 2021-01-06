@@ -4,5 +4,7 @@
 
 File named "Batch name TRANSLATOR Opposites 3" corresponds to input file "Opposites annotation - Second experiment inputs.csv". 19 unique annotators did annotation of 220 items.  Master status required, pay of $0.10 per assignment. It appears that I set the number of assignments such that only 19 annotators did this, which means that they had fewer opportunities to "train" themselves. They ended up with an hourly rate of $3.30 an hour, which is way too low. (See the calculations in the .html document in this directory.) I had the number of assignments set to 1, so I will try changing that to 20--I don't really understand what that does, but hopefully I end up with way fewer annotators doing more tasks each, which should speed them up considerably.
 
+
  
 
+6yhhn8ik,,,,,

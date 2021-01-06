@@ -1,0 +1,17 @@
+parent	child
+child	parent
+offspring	parent
+ancestor	descendant
+ancestral	XX
+enzyme	substrate
+DNA	RNA
+DNA	messenger RNA
+amino acid	messenger RNA
+mutant	wild type
+mutant	wild
+domestic	wild
+domesticated	wild
+domesticated	feral
+domestic	feral
+species	strain
+dominant allele	recessive allele

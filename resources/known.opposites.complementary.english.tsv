@@ -1,0 +1,26 @@
+dead	live
+alive	dead
+live	killed
+viable	non-viable
+dead	viable
+claim	deny
+deny	report
+elektra	oedipal
+placement	removal
+ablation	placement
+ablate	place
+insertion	removal
+insert	remove
+place	remove
+placement	removal
+manual	robotic
+hemorrhagic stroke	ischemic stroke
+allopathic	homeopathic
+allopathic medicine	alternative medicine
+medical	surgical
+id	superego
+depressed	manic
+depression	mania
+implant	remove
+implantation	removal
+
