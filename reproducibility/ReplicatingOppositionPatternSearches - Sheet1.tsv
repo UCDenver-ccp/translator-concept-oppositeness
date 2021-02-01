@@ -1,0 +1,21 @@
+Date	Search interface	Dataset	Pattern	Hits	OutputsStoredIn
+?	STRIKE-CORD	CORD-19	is the opposite of	102	
+?	STRIKE-CORD	CORD-19	, the opposite of	36	
+	STRIKE-CORD	CORD-19			
+2021/02/01	Sketch Engine	British Academic Written English (7M words)	is the opposite of	6	
+2021/02/01	Sketch Engine	British Academic Written English (7M words)	, the opposite of	0	
+2021/02/01	Sketch Engine	DOAJ Corpus of open access journals (2.7B words)	is the opposite of	831	
+2021/02/01	Sketch Engine	DOAJ Corpus of open access journals (2.7B words)	, the opposite of	236	
+	GScholar				
+	GScholar				
+	GScholar				
+2021/02/01	PubMed		is the opposite of	0	
+2021/02/01	PubMed		, the opposite of	0	
+2021/02/01	PubMed		the opposite of	0	
+2021/02/01	PMC	all	is the opposite of	1 (about ontologies!)	
+2021/02/01	PMC	all	, the opposite of	0	
+2021/02/01	PMC	all	the opposite of	0 (why? should be at least equal to hits for "is the opposite of"!)	
+2021/02/01	PMC	all	opposite of	17	
+	ACLRepository				
+	ACLRepository				
+	ACLRepository				
