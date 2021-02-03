@@ -1,0 +1,40 @@
+word01,word02
+alive,dead
+aorta,orca
+apple,pple
+bubble,bubble
+cation,anion
+complex,simple
+ictal,interictal
+ictal,ictal
+demethylation,methylation
+methylated enzyme,unmethylated enzyme
+demethylated enzyme,methylated enzyme
+demethylated enzyme,unmethylated enzyme
+methylated enzyme,methylated enzyme
+decreased variability,increased variability
+increased stability,increased variability
+decreased stability of data,decreased variability of data
+stable,variable
+stable,variable
+stable,horse
+stable angina,unstable angina
+fertile,sterile
+fertile male,sterile male
+fertile female,sterile female
+fertile male,sterile female
+fertile female,sterile female
+pop,poppy
+able,ble
+aromatic,non-aromatic
+increased diameter,normal diameter
+decreased diameter,normal diameter
+increased blood pressure,normal diameter
+decreased diameter,decreased pressure
+decreased methylation,increased diameter
+full,partially full
+empty,full
+empty,partially empty
+empty,completely empty
+full,completely full
+completely full,partially empty

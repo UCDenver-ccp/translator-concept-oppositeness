@@ -1,3 +1,4 @@
+ictal	interictal
 dead	live
 alive	dead
 live	killed
@@ -23,4 +24,6 @@ depressed	manic
 depression	mania
 implant	remove
 implantation	removal
+hyperplasia	hypoplasia
+epileptic seizure	non-epileptic seizure
 
