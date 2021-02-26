@@ -1,4 +1,11 @@
-BASIC CONTRAST:
+## TWO TYPES OF FILES IN THE RESOURCES DIRECTORY
+
+1. Contents categorized by inferences that they license (or do not)
+2. Contents categorized by morphology---lexical category (POS), or prefixal morphology
+
+The contents of these two types of files can overlap.  For example, <alive,dead> might appear in the "complementary" file (opposites of the excluded middle), and also in the "adjectives" file.
+
+BASIC CONTRASTS BETWEEN INFERENTIALLY-CATEGORIZED OPPOSITIONS:
 
 A. Middle is/is not excluded
 B. You can or cannot be more than one

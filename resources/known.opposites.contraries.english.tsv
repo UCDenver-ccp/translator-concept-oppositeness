@@ -2,7 +2,7 @@ parent	child
 child	parent
 offspring	parent
 ancestor	descendant
-ancestral	XX
+ancestral	modern
 enzyme	substrate
 DNA	RNA
 DNA	messenger RNA

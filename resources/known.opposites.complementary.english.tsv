@@ -1,29 +1,28 @@
-ictal	interictal
-dead	live
-alive	dead
-live	killed
-viable	non-viable
-dead	viable
-claim	deny
-deny	report
-elektra	oedipal
-placement	removal
-ablation	placement
 ablate	place
-insertion	removal
-insert	remove
-place	remove
-placement	removal
-manual	robotic
-hemorrhagic stroke	ischemic stroke
+ablation	placement
+alive	dead
 allopathic	homeopathic
 allopathic medicine	alternative medicine
-medical	surgical
-id	superego
+claim	deny
+dead	live
+dead	viable
+deny	report
 depressed	manic
 depression	mania
+elektra	oedipal
+epileptic seizure	non-epileptic seizure
+hemorrhagic stroke	ischemic stroke
+hyperplasia	hypoplasia
+ictal	interictal
+id	superego
 implant	remove
 implantation	removal
-hyperplasia	hypoplasia
-epileptic seizure	non-epileptic seizure
-
+insert	remove
+insertion	removal
+live	killed
+manual	robotic
+medical	surgical
+place	remove
+placement	removal
+placement	removal
+viable	non-viable
