@@ -23,5 +23,9 @@ Complementary pairs are found in the file known.opposites.complementary.english.
 
 Contrary pairs are found in the file known.opposites.contraries.english.tsv.   
 
+## OTHER FILES
 
+known.non-negatives.english.tsv: Words that start with strings that look like they could be negative prefixes, but are not.  Examples: "alive" is not a+live, "deep" is not de+ep.
+
+known.opposites.adjectives.english.tsv: Pairs of opposites (loosely speaking) that are adjectives. Examples: <benign,malignant>. 
 
