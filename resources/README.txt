@@ -1,3 +1,12 @@
+BASIC CONTRAST:
+
+A. Middle is/is not excluded
+B. You can or cannot be more than one
+
+1. Complementary: excluded middle. dead/alive
+2. Antonym: middle not excluded. cold/warm/hot
+3. Relational, so you can be more than one: parent/child
+
 "Antonynms" differ with respect to some attribute (long, short) or change in some attribute (to lengthen, to shorten). They exist on a continuum, and an entity can be neither of them: not being long does not of necessity imply being short. 
 
 Antonyms do not support the inference if not(X), then Y.
