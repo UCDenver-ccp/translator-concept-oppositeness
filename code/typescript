@@ -1,0 +1,336 @@
+Script started on Wed Mar 10 08:39:04 2021
+[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/code[0m[27m[24m[Jkevincohen@MacBook-Pro-2 code % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/code[0m[27m[24m[Jkevincohen@MacBook-Pro-2 code % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/code[0m[27m[24m[Jkevincohen@MacBook-Pro-2 code % [K[?2004hsscripts[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/Scripts-new[0m[27m[24m[Jkevincohen@MacBook-Pro-2 Scripts-new % [K[?2004hlls -lt *.Rmd | head[?2004l
+-rw-r--r--@ 1 kevincohen  staff   4575 Mar 10 08:38 OWLOntologies.Rmd
+-rw-r--r--@ 1 kevincohen  staff   3004 Mar  8 11:31 OWL ontology term extraction.Rmd
+-rw-r--r--@ 1 kevincohen  staff  21395 Feb 24 09:09 Scientific writing if I am right if I am wrong.Rmd
+-rw-r--r--@ 1 kevincohen  staff   6762 Feb 19 10:12 GGPlot2 drills.Rmd
+-rw-r--r--@ 1 kevincohen  staff   1841 Feb  9 08:18 Spanish Verb Practice.Rmd
+-rw-r--r--@ 1 kevincohen  staff   5009 Jan 29 19:17 FAIR.Rmd
+-rw-r--r--@ 1 kevincohen  staff    989 Jan 29 19:03 CPBS 2020 Admissions.Rmd
+-rw-r--r--@ 1 kevincohen  staff  15750 Dec 29 04:34 TopicModels Take II.Rmd
+-rw-r--r--@ 1 kevincohen  staff   9046 Dec 16 08:58 TRANSLATOR_Co-occurrence_baselines.Rmd
+-rw-r--r--@ 1 kevincohen  staff   6940 Dec  3 11:02 TRANSLATOR_Co-occurrence_baselines.Rmd.bk00.Rmd
+[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/Scripts-ne | head[?2004l
+-rw-r--r--@ 1 kevincohen  staff   4575 Mar 10 08:38 OWLOntolRANSLATOR_Co-occurrence_baselines.Rmd[?2004l
+[?1h=---
+title: "TRANSLATOR Co-occurrence baseline calculations"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+DEBUG = FALSE
+ECHO = TRUE
+```
+
+## Introduction
+
+This document gives descriptive statistics on our pilot relation annotation project.
+It also establishes baseline performance of co-occurrence for the six relations.
+These will be used as benchmarks in development of relation extraction applications during the next funding period.
+
+_One of the relations needs to be updated--see spreadsheet on Google Sheets_
+
+Author: Kevin Cohen
+
+```{r function.definitions, echo=ECHO}
+# Countables for *every* relation
+yes = 0;
+no = 0;
+anaphora = 0;
+entity = 0;
+other.relations = 0;
+segmentation = 0;
+speculation = 0;
+
+counts.relation <- function(relation, yeses, nos, anaphora, entities, other.relations, segmentation) {
+[7mTRANSLATOR_Co-occurrence_baselines.Rmd[27m[K[K  this.relation <- as.data.frame(relation = relation, 
+                                 yes = yeses,
+                                 no = nos,
+                                 anaphora = anaphora,
+                                 entities = entities,
+                                 other.relations = other.relations,
+                                 segmentation = segmentation)
+  return(this.relation)
+}
+
+
+#a.relation <- counts.relation("gene-gene", yes, no, anaphora, entity, other.relations, segmentation)
+
+# need a separate function for the directional ones
+calculateTruePositives <- function(results.df) {
+  true_positives = c()
+  #true_positives <- sum(results.df$yes, results.df$increase, results.df$decrease, results.df$direction.unspecified)
+  for (i in 1:nrow(results.df)) {
+    true_positives <- c(true_positives, sum(results.df$yes[i], results.df$increase[i], results.df$decrease[i], results.df$direc tion.unspecified[i]))
+  }
+  return(true_positives)
+}
+  
+
+calculateFalseNegatives <- function(results.df) {
+  false_negatives <- c()
+  for (i in 1:nrow(results.df)) {
+    false_negatives <- c(false_negatives, sum(results.df$anaphora[i])) # don't need sum at this point, but probably will at som e point
+  }
+  return(false_negatives)
+}
+
+calculatePrecision <- function(true_positive, false_positive) {
+:[K[K  if(DEBUG) { print(paste("TPs:", true_positive, "FPs:", false_positive)) }
+  precision = true_positive / (true_positive + false_positive)
+  if (DEBUG) { print(paste("Precisions:", precision)) }
+  return(precision)
+}
+calculateRecall <- function(true_positive, false_negative) {
+  recall = true_positive / (true_positive + false_negative)
+  return(recall)
+}
+calculateF_measure <- function(precision, recall) {
+  f_measure = (2 * precision * recall) / (precision + recall)
+  return(f_measure)
+}
+
+# TESTS
+
+```
+
+## Calculate figures of merit for all relations
+
+
+
+```{r read.in.data, echo=ECHO}
+
+# development data
+# relations = c("chemical.gene", "gene.gene", "disease.symptom")
+# yeses = c(100, 25, 100)
+# nos = c(50, 175, 25)
+# anaphora = c(10, 20, 30)
+# entity = c(25, 50, 10)
+# speculations = c(10, 15, 5)
+# other_relations = c(10, 10, 10)
+# precisions = c(0, 0, 0)
+# recalls = c(0, 0, 0)
+# f_measures = c(0, 0, 0)
+:[K[K
+# if trouble, see the code for sentence-level binary classification
+baseline_data <- read.table("/Users/kevincohen/Dropbox/Scripts-new/TRANSLATOR baselines - Sheet1.tsv",
+                            header = TRUE, sep = "\t")
+# for initial dev data
+#baseline_data <- data.frame(relation = relations, yes = yeses, no = nos, anaphora = anaphora, entity = entity, speculation = s peculations, 
+#                            other.relations = other_relations, precision = precisions, recall = recalls, f_measure = f_measure s)
+#head(baseline_data)
+print.data.frame(baseline_data)
+#true_positives = baseline_data$yes
+true_positives = calculatres of merit for all relations
+
+
+
+```{r read.in.data, echo=ECHO}
+
+# deveta$no + baseline_data$other_relations # NO IDEA why this isn't working!!!
+false_positives <- sum(baseline_data$no, 
+                       baseline_data$entity, 
+                       baseline_data$speculation, 
+                       baseline_data$process, 
+                       baseline_data$other_relations)
+false_positives
+
+if (DEBUG) {
+    baseline_data$no
+    baseline_data$other.relations
+    false_positives
+}
+false_negatives = calculateFalseNegatives(baseline_data)
+false_negatives
+baseline_data$precision = calculatePrecision(true_positives, false_positives)
+baseline_data$recall = calculateRecall(true_positives, false_negatives)
+baseline_data$f_measure = calculateF_measure(baseline_data$precision, baseline_data$recall)
+print.data.frame(baseline_data)
+#head(baseline_data)
+#print.data.frame(cbind(baseline_data[,1], baseline_data[,9:11]))
+:[K[K#performance_to_print.df <- cbind(baseline_data[1,], baseline_data[,9:11])
+
+#relations <- baseline_data[, baseline_data$relation]
+#precisions <- baseline_data[,baseline_data$precision]
+#recalls <- baseline_data[,baseline_data$recall]
+#f_measures <- baseline_data[baseline_data$f_measure]
+#performance_to_print.df <- cbind(precisions, recalls, )
+#print.data.frame(performance_to_print.df)
+```
+
+## Descriptive statistics of dataset
+
+_TODO: plot balance per relation_
+```{r descriptive.statistics, echo=ECHO}
+#total_exemplars = sum(baseline_data[, c(2:ncol(baseline_data))])
+#total_exemplars = sum(baseline_data[, c(3:ncol(baseline_data))])
+total_exemplars <- sum(true_positives, false_positives, false_negatives)
+total_exemplars
+#baseline_data$total_exemplars <- sum(baseline_data[2:ncol(baseline_data)]) # not what I want
+#baseline_data$total_exemplars <- sum(baseline_data[3:ncol(baseline_data)]) # not what I want
+#baseline_data$total.annotated <- rowsum(baseline_data[2:ncol(baseline_data)])
+baseline_data$total.annotated <- baseline_data$yes + baseline_data$no + baseline_data$anaphora + baseline_data$entity + baselin e_data$speculation + baseline_data$process + baseline_data$other.relation + baseline_data$increase + baseline_data$decrease + b aseline_data$direction.unspecified
+baseline_data$total.annotated
+#my_plot_statistics <- ggplot(data = baseline_data, aes(x = relation, y = sum(c(yes, no, anaphora, entity, other.relations)) +  geom_bar(stat="identity")))
+#my_plot_statistics <- ggplot(data = baseline_data, aes(x = relation, y = no)) + geom_bar(stat="identity")
+#my_plot_statistics <- ggplot(data = baseline_data, aes(x = relation, y = yes + no + anaphora + entity + other.relations)) + ge om_bar(stat="identity")
+
+#my_plot_statistics <- ggplot(data = baseline_data, aes(x = relation.name.abbreviation, y = yes + no + anaphora + entity + othe r.relations)) + geom_bar(stat="identity") + xlab("Relation") + ggtitle("Total annotations minus sentence segmentation errors")  + ylab("Exemplars")
+my_plot_statistics <- ggplot(data = baseline_data, aes(x = relation.name.abbreviation, y = total.annotated)) + geom_bar(stat="i :[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/Scripts-new[0m[27m[24m[Jkevincohen@MacBook-Pro-2 Scripts-new % [K[?2004hmore TRANSLATOR_Co-occurrence_baselines.Rmd[?2004l
+[?1h=---
+title: "TRANSLATOR Co-occurrence baseline calculations"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+DEBUG = FALSE
+ECHO = TRUE
+```
+
+## Introduction
+
+This document gives descriptive statistics on our pilot relation annotation project.
+It also establishes baseline performance of co-occurrence for the six relations.
+These will be used as benchmarks in development of relation extraction applications during the next funding period.
+
+_One of the relations needs to be updated--see spreadsheet on Google Sheets_
+
+Author: Kevin Cohen
+
+```{r function.definitions, echo=ECHO}
+# Countables for *every* relation
+yes = 0;
+no = 0;
+anaphora = 0;
+entity = 0;
+other.relations = 0;
+segmentation = 0;
+speculation = 0;
+
+counts.relation <- function(relation, yeses, nos, anaphora, entities, other.relations, segmentation) {
+[7mTRANSLATOR_Co-occurrence_baselines.Rmd[27m[K[K  thimore TRANSLATOR_Co-occurrence_baselines.Rmd[?2004l
+[?1h=---
+title: "TRANSLATOR Co-occurrence baseline calculations"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+DEBUG = FALSE
+ECHO = TRUE
+```
+
+## Introduction
+
+This document gives descriptive statistics on our pilot relation annotation project.
+It also establishes baseline performance of co-occurrence for the six relations.
+These will be used as benchmarks in development of relation extraction applications during the next funding period.
+
+_One of the relations needs to be updated--see spreadsheet on Google Sheets_
+
+Author: Kevin Cohen
+
+```{r function.definitions, echo=ECHO}
+# Countables for *every* relation
+yes = 0;
+no = 0;
+anaphora = 0;
+entity = 0;
+other.relations = 0;
+segmentation = 0;
+speculation = 0;
+
+counts.relation <- function(relation, yeses, nos, anaphora, entities, other.relations, segmentation) {
+[7mTRANSLATOR_Co-occurrence_baselines.Rmd[27m[K[K  this.relation <- as.data.frame(relation = relation, 
+                                 yes = yeses,
+                                 no = nos,
+                                 anaphora = anaphora,
+                                 entities = entities,
+                                 other.relations = other.relations,
+                                 segmentation = segmentation)
+  return(this.relation)
+}
+
+
+#a.relation <- counts.relation("gene-gene", yes, no, anaphora, entity, other.relations, segmentation)
+
+# need a separate function for the directional ones
+calculateTruePositives <- function(results.df) {
+  true_positives = c()
+  #true_positives <- sum(results.df$yes, results.df$increase, results.df$decrease, results.df$direction.unspecified)
+  for (i in 1:nrow(results.df)) {
+    true_positives <- c(true_positives, sum(results.df$yes[i], results.df$increase[i], results.df$decrease[i], results.df$direc tion.unspecified[i]))
+  }
+  return(true_positives)
+}
+  
+
+calculateFalseNegatives <- function(results.df) {
+  false_negatives <- c()
+  for (i in 1:nrow(results.df)) {
+    false_negatives <- c(false_negatives, sum(results.df$anaphora[i])) # don't need sum at this point, but probably will at som e point
+[K
+# if trouble, see the code for sentence-level binary classification
+baseline_data <- read.table("/Users/kevincohen/Dropbox/Scripts-new/TRANSLATOR baselines - Sheet1.tsv",
+                            header = TRUE, sep = "\t")
+# for initial dev data
+#baseline_data <- data.frame(relation = relations, yes = yeses, no = nos, anaphora = anaphora, entity = entity, speculation = s peculations, 
+#                            other.relations = other_relations, precision = precisions, recall = recalls, f_measure = f_measure s)
+#head(baseline_data)
+print.data.frame(baseline_data)
+#true_positives = baseline_data$yes
+true_positives = calculateTruePositives(baseline_data)
+true_positives
+#false_positives <- baseline_data$no + baseline_data$other_relations # NO IDEA why this isn't working!!!
+false_positives <- sum(baseline_data$no, 
+                       baseline_data$entity, 
+                       baseline_data$speculation, 
+                       baseline_data$process, 
+                       baseline_data$other_relations)
+false_positives
+
+if (DEBUG) {
+    baseline_data$no
+    baseline_data$other.relations
+    false_positives
+}
+false_negatives = calculateFalseNegatives(baseline_data)
+false_negatives
+baseline_data$precision = calculatePrecision(true_positives, false_positives)
+baseline_data$recall = calculateRecall(true_positives, false_negatives)
+baseline_data$f_measure = calculateF_measure(baseline_data$precision, baseline_data$recall)
+print.data.frame(baseline_data)
+#head(baseline_data)
+#print.data.frame(cbind(baseline_data[,1], baseline_data[,9:11]))
+:[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/Scripts-new[0m[27m[24m[Jkevincohen@MacBook-Pro-2 Scripts-new % [K[?2004hmore TRANSLATOR_Co-occurrence_baselines.Rmd[43D                                           [43D                       baseline_data$process, 
+                       baseline_data$other_relations)
+false_positives
+
+if (DEBUG) {
+    baseline_data$no
+    baseline_data$other.relations
+    false_positives
+}
+false_negatives = calculateFalseNegatives(baseline_data)
+false_negatives
+baseline_data$precision = calculatePrecision(true_positives, false_positives)
+baseline_data$recall = calculateRecall(true_positives, false_negatives)
+baseline_data$f_measure = calculateF_measure(baseline_data$precision, baseline_data$recall)
+print.data.frame(baseline_data)
+#head(baseline_data)
+#print.data.frame(cbind(baseline_data[,1], baseline_data[,9:11]))
+:[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                                                               ]7;file://MacBook-Pro-2.attlocal.net/Users/kevincohen/Dropbox/Scripts-new[0m[27m[24m[Jkevincohen@MacBook-Pro-2 Scripts-new % [K[?2004hmore TRANSLATOR_Co-occurrence_baselines.Rmd[43D                                           [43D

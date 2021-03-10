@@ -24,5 +24,18 @@ while (my $line = <IN>) {
   #print $concept02;  
   #print $logical;
   #print $textual;
-  if ($logical eq "t" && $textual eq "t") { print "$concept01\t$concept02\n";}  
+  
+  # IF YOU WANT ONLY OPPOSITES THAT CHRIS GOT FROM LOGICAL OR FROM TEXTUAL EVIDENCE,
+  # YOU CAN SPECIFY THAT HERE
+  # evidence from BOTH
+  #if ($logical eq "t" && $textual eq "t") { print "$concept01\t$concept02\n";}  
+  # evidence from LOGICAL DEFINITION ONLY
+  if ($logical eq "t" && $textual eq "f") { print "$concept01\t$concept02\n"; }
+  # evidence from TERMS ONLY
+  # if ($logical eq "f" && $textual eq "t") { print "$concept01\t$concept02\n"; }
+  # evidence from EITHER ON
+  #if ($logical eq "t" || $textual eq "t") { print "$concept01\t$concept02\n"; }  
+  # Catch errors--this should never happen
+  #if ($logical eq "f" && $textual eq "f") { print "Something's wrong: these concepts have no evidence for opposition. $line\n"; }
+
 }
