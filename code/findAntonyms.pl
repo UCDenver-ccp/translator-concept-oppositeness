@@ -29,8 +29,8 @@
 use strict 'vars';
 
 # set to 1 for debugging output, to 0 to suppress same
-my $DEBUG = 0;
-#my $DEBUG = 1;
+#my $DEBUG = 0;
+my $DEBUG = 1;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;
@@ -38,14 +38,6 @@ my $ANNOTATION_TRAINING = 0;
 # used for drawing random samples from a list of distractors/quality control pairs
 use List::Util 'shuffle';
 srand(1789); # i hate not setting a seed; this is good for develpment, of course, but to actually use it for multiple annotators, you need a different set of quality control pairs every time--or just use the same one for everyone??
-
-
-#my %gene_ontology_terms = ("phosphorylation" => 1,
-#                           "dephosphorylation" => 1, 
-#                           "apoptosis" => 1);
-
-my $identifier_prefix = "CL";
-#my $identifier_prefix = "GO";
 
 my %gene_ontology_terms = ();
 my %uniquePairs = ();
@@ -60,13 +52,10 @@ my $term = undef;
 
 while (my $line = <IN>) {
 	# here we're assuming a single word only--TODO
-	#my @stuff = split(" ", $line);
-	#$gene_ontology_terms{$stuff[1,@stuff]} = 1;
-        # $line =~ /^(GO:\d+)\s+(.+)/; # not sure what file format this works for
 
         # do I want to declare the ontology's identifier prefix?
         # note that regarding PR, it might not be worth looking. I tried grepping for names that include "mutant" or "mutated", and only found 11...
-        if ($line =~ /^id:\s+((GO|CL|UBERON|NCBITaxon|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt):\d+)$/o) { $id = $1; }
+        if ($line =~ /^id:\s+((GO|CL|UBERON|NCBITaxon|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP):\d+)$/o) { $id = $1; }
         #if ($line =~ /^id:\s+(CL:\d+)$/) { $id = $1; $DEBUG && print "ID: $id\n"; }
 	#my $id = $1;
         #if ($line =~ /^id:\s+(UBERON:\d+)$/) {$id = $1; $DEBUG && print "ID: $id\n"; }
@@ -117,20 +106,17 @@ if ($ANNOTATION_TRAINING) {
 foreach my $term (keys(%gene_ontology_terms)) {
 
 
-  0 && print "Looking for antonyms of $term\n";
+  $DEBUG && print "Looking for antonyms of $term\n";
 	
   foreach my $affix (@negative_affixes) {
 
 	my $candidate_antonym = $affix . $term;
-        0 && print "Candidate: $candidate_antonym\n";
+        $DEBUG && print "Candidate: $candidate_antonym\n";
 
    
         # is the candidate in the ontology, too?
         if ($gene_ontology_terms{$candidate_antonym}) {
-	  0 && print "$candidate_antonym is an antonym of $term\n";
-	  #print "name:\t$term\n";
-          #print "antonym:\t$candidate_antonym\n";
-          #printTSV($term, $candidate_antonym);#
+	  $DEBUG && print "$candidate_antonym is an antonym of $term\n";
           storePair($term, $candidate_antonym); 
 	}
   }
@@ -161,9 +147,10 @@ sub twoWordTerms() {
 sub lexicalizedOpposites() {
 
   my $candidate_term = $_;
-  0 &&  print "Input to lexicalizedOpposites(): $candidate_term\n";
+  $DEBUG &&  print "Input to lexicalizedOpposites(): $candidate_term\n";
 
   foreach my $opposite (keys(%opposites)) {
+    $DEBUG && print "OPPOSITE BEING TESTED: $opposite\n";
     if ($candidate_term =~ /\b$opposite\b/) {
       $candidate_term =~ s/$opposite/$opposites{$opposite}/;
       return $candidate_term;
