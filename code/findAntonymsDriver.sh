@@ -8,11 +8,11 @@ rm findAntonyms.txt
 ####cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/CL.obo | egrep '(name|term):' | wc -l
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/CL.obo > findAntonyms.txt
 
-####echo "Gene Ontology"
-####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | wc -l
-####cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | egrep '(name|term):' | wc -l 
-####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo >> findAntonyms.txt
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo 
+echo "Gene Ontology"
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | wc -l
+cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | egrep '(name|term):' | wc -l 
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo >> findAntonyms.txt
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo 
 
 ####echo "NCBI Taxonomy"
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/NCBITaxon.obo | wc -l

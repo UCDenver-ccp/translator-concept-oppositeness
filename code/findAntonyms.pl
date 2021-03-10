@@ -29,8 +29,8 @@
 use strict 'vars';
 
 # set to 1 for debugging output, to 0 to suppress same
-#my $DEBUG = 0;
-my $DEBUG = 1;
+my $DEBUG = 0;
+#my $DEBUG = 1;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;
@@ -63,7 +63,8 @@ while (my $line = <IN>) {
         #if ($line =~ /^name:\s+(.*)$/) { $term = $1; } # does greediness work as I hope here, or will I end up with leading whitespace?
 	# in some .obo files, I'm seeing "term", while it's "name" in others... 
         
-        if ($line =~ /^(name|term):\s+(.*)$/) { $term = $2; $DEBUG && print "term: $term\n"; } # does greediness work as I hope here, or will I end up with leading whitespace? 
+#        if ($line =~ /^(name|term):\s+(.*)$/) { $term = $2; $DEBUG && print "term: $term\n"; } # does greediness work as I hope here, or will I end up with leading whitespace? 
+        if ($line =~ /^(name|term):\s+(.*)$/) { $term = lc($2); $DEBUG && print "term: $term\n"; } # does greediness work as I hope here, or will I end up with leading whitespace? 
         #my $term = $2;
         
         if ($id && $term)  {
