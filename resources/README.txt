@@ -37,4 +37,10 @@ known.non-negatives.english.tsv: Words that start with strings that look like th
 known.opposites.adjectives.english.tsv: Pairs of opposites (loosely speaking) that are adjectives. Examples: <benign,malignant>.
 
 known.non-negatives.english.tsv and known.non-opposites.english.tsv: words in the non-negatives file (should) appear in the non-opposites file iff removing the (apparently but) negative "morpheme" leaves an actual word.  (In linguistic terminology: a free morpheme.)  So, "alive" appears in the list of non-negatives because the "a" at the beginning is not a negative morpheme.  It also appears in the non-opposites file, as part of the pair <alive,live>, because (a) "live" is an actual word, and (b) "alive" and "live" are not opposites. In contrast, "deep" appears in the list of non-negatives (because "de" is not a negative morpheme here), but it does not appear in the non-opposites file, because "ed" is not a word.
+
+## FILES FROM https://github.com/drseb/phenopposites/tree/master/opposites
+
+antonyms_hp.txt: pairs of opposites found by Chris Mungall's project. Format: a pair of concepts with a binary value telling you whether they were returned by examining the logical definitions, and another binary value telling you whether they were returned by examining the terms.
+
+
  
