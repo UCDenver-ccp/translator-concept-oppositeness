@@ -1,4 +1,4 @@
-rm findAntonyms.txt
+#rm findAntonyms.txt
 
 ####echo
 ####echo "CRAFT-2.0 ONTOLOGIES"

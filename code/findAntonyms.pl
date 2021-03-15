@@ -32,6 +32,9 @@ use strict 'vars';
 my $DEBUG = 0;
 #my $DEBUG = 1;
 
+# set this to 1 if you only want the IDs--otherwise, to 0
+my $IDS_ONLY = 0;
+
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;
 
@@ -41,6 +44,11 @@ srand(1789); # i hate not setting a seed; this is good for develpment, of course
 
 my %gene_ontology_terms = ();
 my %uniquePairs = ();
+
+# store the IDs, which sometimes you want to output, and sometimes you don't.
+# TODO: make a single hash that stores terms, IDs, and everything else--probably key off of the terms; since they're
+# what I work with the most, let's make it easy to get them with the keys() function
+my %ontology_ids = ();
 
 my $infile = pop(@ARGV);
 
@@ -69,6 +77,7 @@ while (my $line = <IN>) {
         
         if ($id && $term)  {
           $gene_ontology_terms{$term} = 1;
+          $ontology_ids{$term} = $id;
           $DEBUG && print "Just read in $id $term\n";
           undef($id); undef($term); 
         }
@@ -131,9 +140,21 @@ foreach my $term (keys(%gene_ontology_terms)) {
 }
 
 # output the unique pairs only
-my @unique_pairs = keys(%uniquePairs);
+my @unique_pairs = sort(keys(%uniquePairs));
 foreach my $pair (@unique_pairs) {
-  printTSV(split("---", $pair));
+
+  # these are *terms*
+  my ($concept01, $concept02) = split("---", $pair);
+  
+  # if you just want to output the IDs, or just the terms, or...
+  if ($IDS_ONLY) {
+    print "$ontology_ids{$concept01}\t$ontology_ids{$concept02}\n";
+  } elsif (1) {
+    print "$concept01\t$ontology_ids{$concept01}\t$concept02\t$ontology_ids{$concept02}\n";
+  } else {
+    printTSV(split("---", $pair));
+  }
+  
 }
 
 sub twoWordTerms() {
