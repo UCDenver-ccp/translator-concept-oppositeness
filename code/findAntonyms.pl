@@ -29,6 +29,7 @@
 use strict 'vars';
 
 # set to 1 for debugging output, to 0 to suppress same
+
 my $DEBUG = 0;
 #my $DEBUG = 1;
 
@@ -51,6 +52,7 @@ my %uniquePairs = ();
 my %ontology_ids = ();
 
 my $infile = pop(@ARGV);
+$DEBUG && print "Infile: $infile\n";
 
 open (IN, $infile) || die "Couldn't open infile: $!\n";
 
@@ -63,7 +65,10 @@ while (my $line = <IN>) {
 
         # do I want to declare the ontology's identifier prefix?
         # note that regarding PR, it might not be worth looking. I tried grepping for names that include "mutant" or "mutated", and only found 11...
-        if ($line =~ /^id:\s+((GO|CL|UBERON|NCBITaxon|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP):\d+)$/o) { $id = $1; }
+        if ($line =~ /^id:\s+((GO|CL|UBERON|NCBITaxon|PATO|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP):\d+)$/o) { 
+          $id = $1; 
+          $DEBUG && print "ID: $id\n";
+        }
         #if ($line =~ /^id:\s+(CL:\d+)$/) { $id = $1; $DEBUG && print "ID: $id\n"; }
 	#my $id = $1;
         #if ($line =~ /^id:\s+(UBERON:\d+)$/) {$id = $1; $DEBUG && print "ID: $id\n"; }

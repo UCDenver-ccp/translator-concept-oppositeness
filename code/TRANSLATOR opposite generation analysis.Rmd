@@ -1,0 +1,40 @@
+---
+title: "TRANSLATOR Hits for generated opposites"
+author: "KBC"
+date: "3/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The data
+
+Data: I took terms from PATO and added oppositional prefixes.  Some occur natively in PATO already, some don't.  Then I did a quoted search of PubMed Central for all of them---non-negated, "native" negated, and generated.
+
+Question: what happens if we try to validate generated negatives by seeing whether or not they actually get used?
+
+```{r cars}
+hits <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/TRANSLATOR generated antonyms - Sheet1 (1).tsv", header = TRUE, sep = "\t")
+
+hits$native <- as.factor(hits$native.or.not)
+hits$prefix <- as.factor(hits$prefix)
+library(ggplot2)
+ggplot(data = hits, mapping = aes(x = native, y = hits)) +
+  geom_col()
+ggplot(data = hits, mapping = aes(x = prefix, y = hits)) +
+  geom_col()
+ggplot(data = subset(hits$prefix != "∅", mapping = aes(x = prefix, y = hits)))
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

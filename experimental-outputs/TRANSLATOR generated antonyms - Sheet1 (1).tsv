@@ -1,0 +1,23 @@
+wordform	hits	wordtype	native.or.not	prefix
+"unfasciculated" 	28	fasciculated	0	un
+"fasciculated"	1296	fasciculated	1	∅
+"defasciculated"	384	fasciculated	1	de
+"non-fasciculated" OR "nonfasciculated"	33	fasciculated	0	non
+"saturated blue"	22	saturated blue	1	∅
+"desaturated blue"	1	saturated blue	1	de
+"unsaturated blue"	2	saturated blue	0	un
+"non-saturated blue" OR "nonsaturated blue"	0	saturated blue	0	non
+"permeable"	120395	permeable	1	∅
+"impermeable"	34571	permeable	1	in
+"non-permeable" OR "nonpermeable"	1966	permeable	0	non
+"unpermeable"	13	permeable	0	un
+"phosphorylated"	330760	phosphorylated	1	∅
+"dephosphorylated"	35262	phosphorylated	1	de
+"unphosphorylated"	22370	phosphorylated	0	un
+"non-phosphorylated" OR "nonphosphorylated"	21487	phosphorylated	0	non
+"aphosphorylated"	7	phosphorylated	0	a
+"disphosphorylated" OR "dysphosphorylated"	8	phosphorylated	0	dis
+"euploid"	4129	euploid	1	∅
+"aneuploid"	14279	euploid	1	an
+"aeuploid"	3	euploid	0	a
+"non-euploid" OR "noneuploid"	21	euploid	0	non

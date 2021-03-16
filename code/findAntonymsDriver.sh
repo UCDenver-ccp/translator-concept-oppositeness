@@ -8,10 +8,10 @@
 ####cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/CL.obo | egrep '(name|term):' | wc -l
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/CL.obo > findAntonyms.txt
 
-echo "Gene Ontology"
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | wc -l
-cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | egrep '(name|term):' | wc -l 
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo >> findAntonyms.txt
+#echo "Gene Ontology"
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | wc -l
+#cat /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo | egrep '(name|term):' | wc -l 
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo >> findAntonyms.txt
 #./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/craft-2.0/ontologies/GO.obo 
 
 ####echo "NCBI Taxonomy"
@@ -45,16 +45,23 @@ echo
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/EMAP_combined-2016-2-10.obo >> findAntonyms.txt
 
 echo "Human Phenotype Ontology"
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | wc -l
-cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep '(name|term):' | wc -l
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo >> findAntonyms.txt
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | wc -l
+#cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep '(name|term):' | wc -l
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo > findAntonyms.txt
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo
 
 ####echo "African Traditional Medicine Ontology"
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/african_medicine.obo | wc -l
 ####cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/african_medicine.obo | egrep '(name|term):' | wc -l
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/african_medicine.obo >> findAntonyms.txt
 
+#echo "PATO"
+#cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/pato.2021-03-10.obo | egrep '(name|term):' | wc -l
+#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/pato.2021-03-10.obo >> findAntonyms.txt
+ 
+
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/craft-ontologies/CHEBI/CHEBI/CHEBI.obo > findAntonyms.txt
+#cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/ | egrep '(name|term):' | wc -l
 
 #./findAntonyms.pl | wc -l
 #cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/ | egrep '(name|term):' | wc -l
