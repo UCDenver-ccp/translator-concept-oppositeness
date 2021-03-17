@@ -59,7 +59,10 @@ echo "Human Phenotype Ontology"
 #cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/pato.2021-03-10.obo | egrep '(name|term):' | wc -l
 #./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/pato.2021-03-10.obo >> findAntonyms.txt
  
+echo "MPO"
+./findAntonyms.pl /Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/resources/ontologies/MPheno_OBO.ontology.2020-03-31
 
+echo "ChEBI"
 ./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/craft-ontologies/CHEBI/CHEBI/CHEBI.obo > findAntonyms.txt
 #cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/ | egrep '(name|term):' | wc -l
 

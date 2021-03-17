@@ -1,0 +1,8 @@
+abnormally fast depolarization	MP:010101	abnormally slow depolarization	MP:0101010101
+abnormally slow depolarization	MP:0101010101	abnormally fast depolarization	MP:010101
+early dorsal spine development	MP:0101	late dorsal spine development	MP:0101
+exercise-induced high blood pressure	MP:0101	exercise-induced low blood pressure	MP:0101
+exercise-induced low blood pressure	MP:0101	exercise-induced high blood pressure	MP:0101
+fast	MP:010101010101	slow	MP:01010101
+late dorsal spine development	MP:0101	early dorsal spine development	MP:0101
+slow	MP:01010101	fast	MP:010101010101

@@ -1,0 +1,189 @@
+name: normal myocardial thickness
+id: MP:0101
+name: abnormal myocardial thickness
+id: MP:0101
+name: drug-induced abnormal myocardial thickness
+id: MP:0101
+name: exercise-induced abnormal myocardial thickness
+id: MP:0101
+name: abnormality
+id: MP:0101
+name: drug-induced abnormality
+id: MP:0101
+name: exercise-induced abnormality
+id: MP:0101
+name: hypertension
+id: MP:0101
+name: high blood pressure
+id: MP:0101
+name: sinus node cell depolarization
+id: MP:0101
+name: sinus node cell repolarization
+id: MP:0101
+name: left bundle branch hyperconductivity
+id: MP:0101
+name: left bundle branch hypoconductivity
+id: MP:0101
+name: lacrimal gland hypertrophy
+id: MP:0013454
+name: lacrimal gland hypotrophy
+id: MP:0101010101
+name: lacrimal gland hyperplasia
+id: MP:0014150
+name: lacrimal gland hypoplasia
+id: MP:0014151
+name: lacrimal gland
+id: MP:0101010101010101
+name: gland hypertrophy
+id: MP:0101010101010101
+name: stomach epithelial hyperplasia
+id: MP:0005493
+name: lacrimal gland dysplasia
+id: MP:0001346
+name: stomach mucosa hyperplasia
+id: MP:0010799
+name: abnormal stomach non-glandular epithelium morphology
+id: MP:0000472
+name: abnormal stomach glandular epithelium morphology
+id: MP:0000473
+name: increased stomach glandular epithelium tumor incidence
+id: MP:0012406
+name: increased duodenum glandular epithelium tumor incidence
+id: MP:0012408
+name: abnormal white adipose tissue physiology
+id: MP:0005670
+name: abnormal brown adipose tissue physiology
+id: MP:0011698
+name: hypertrophy
+id: MP:0101010101
+name: hypotrophy
+id: MP:01010101010101
+name: hyperkinetic
+id: SNOMED:01010101
+name: hypokinetic
+id: SNOMED:010101010101
+name: warm
+id: MP:010101
+name: wet
+id: MP:010101010101
+name: hot
+id: MP:0101010101
+name: cold
+id: MP:0101010101
+name: fast
+id: MP:010101010101
+name: slow
+id: MP:01010101
+name: abnormally fast depolarization
+id: MP:010101
+name: abnormally slow depolarization
+id: MP:0101010101
+name: abnormally fast kidney cell depolarization
+id: MP:010101
+name: abnormally slow liver cell depolarization
+id: MP:0101
+name: exercise-induced high blood pressure
+id: MP:0101
+name: exercise-induced low blood pressure
+id: MP:0101
+name: exercise-induced hypertension
+id: MP:0101
+name: exercise-induced hypotension
+id: MP:0101
+name: exercise-induced pulmonary hypotension
+id: MP:0101
+name: early dorsal spine development
+id: MP:0101
+name: early ventral spine development
+id: MP:0101
+name: late dorsal spine development
+id: MP:0101
+name: early dorsal spine development
+id: MP:0101
+name: leukopenia
+id: MP:0101
+name: leukocytosis
+id: MP:0101
+name: leukopenic
+id: MP:0101
+name: leukocytotic
+id: MP:0101
+name: hydrophilia
+id: MP:0101
+name: hydrophobia
+id: MP:0101
+name: hydrophilic
+id: MP:0101
+name: hydrophobic
+id: MP:0101
+name: precocious leukopenic hearing loss
+id: MP:0101
+name: precocious leukocytotic hearing loss
+id: MP:0101
+name: drug-induced leukocytosis
+id: MP:0101
+name: drug-induced leukopenia
+id: MP:0101
+name: drug-induced hypothermia
+id: MP:0101
+name: drug-induced hyperthermia
+id: MP:0101
+name: hypertrophic cardiomyopathy
+id: MP:0101
+name: non-hypertrophic cardiomyopathy
+id: MP:0101
+name: nonhypertrophic cardiomyopathy
+id: MP:0101
+name: late-stage Hodgkin's lymphoma
+id: MP:0101
+name: late-stage non-Hodgkin's lymphoma
+id: MP:0101
+name: early depolarization
+id: MP:0101
+name: early polarization
+id: MP:0101
+name: late depolarization
+id: MP:0101
+name: late polarization 
+id: MP:0101
+name: cranial-caudal cell migration
+id: MP:0101
+name: caudal-cranial cell migration
+id: MP:0101
+name: lateral cell migration
+id: MP:0101
+name: movement through cell membrane
+id: MP:0101
+name: movement across cell membrane
+id: MP:0101
+name: nosocomial infection
+id: MP:0101
+name: hospital-associated infection
+id: MP:0101
+name: zoonotic transmission
+id: MP:0101
+name: transmission from farm animal
+id: MP:0101
+name: transmission from companion animal
+id: MP:0101
+name: movement of anions against a gradient
+id: MP:0101
+name: movement of cations against a gradient
+id: MP:0101
+name: protein folding
+id: MP:0101
+name: protein unfolding
+id: MP:0101
+name: heliotrophy
+id: MP:0101
+name: pleiotropy
+id: MP:0101
+name: meiosis
+id: MP:0101
+name: mitosis
+id: MP:0101
+name: meiotic
+id: MP:0101
+name: mitotic
+id: MP:0101
+
