@@ -45,9 +45,9 @@ echo
 ####./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/EMAP_combined-2016-2-10.obo >> findAntonyms.txt
 
 echo "Human Phenotype Ontology"
-#./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | wc -l
-#cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep '(name|term):' | wc -l
-./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo > findAntonyms.txt
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | wc -l
+cat /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep '(name|term):' | wc -l
+./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo > /Users/kevincohen/Dropbox/N-Z/translator-concept-opposites/experimental-ouputs/hp_opposites.tsv
 #./findAntonyms.pl /Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo
 
 ####echo "African Traditional Medicine Ontology"

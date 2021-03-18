@@ -1,33 +1,105 @@
-HP:0011790	HP:0011791
-HP:0032320	HP:0032321
-HP:0031197	HP:0031199
-HP:0001334	HP:0010953
-HP:0010860	HP:0010861
-HP:0030640	HP:0030641
-HP:0002908	HP:0008282
-HP:0031777	HP:0031778
-HP:0031776	HP:0031726
-HP:0100620	HP:0100621
-HP:0032310	HP:0012234
-HP:0040082	HP:0031588
-HP:0007529	HP:0007476
-HP:0012189	HP:0012539
-HP:0012734	HP:0001958
-HP:0006870	HP:0006988
-HP:0002865	HP:0040198
-HP:0011962	HP:0011961
-HP:0005866	HP:0005725
-HP:0031245	HP:0031246
-HP:0002073	HP:0002470
-HP:0002448	HP:0007030
-HP:0000529	HP:0200068
-HP:0003676	HP:0003680
-HP:0003508	HP:0003498
-HP:0011407	HP:0001519
-HP:0011683	HP:0011684
-HP:0011746	HP:0011745
-HP:0030357	HP:0030358
-HP:0007262	HP:0030176
-HP:0032792	HP:0010819
-HP:0011147	HP:0007270
-HP:0032863	HP:0011151
+abnormal b cell negative selection	MP:0004944	abnormal b cell positive selection	MP:0004943
+abnormal b cell positive selection	MP:0004943	abnormal b cell negative selection	MP:0004944
+abnormal cd11b-high dendritic cell number	MP:0013647	abnormal cd11b-low dendritic cell number	MP:0013650
+abnormal cd11b-low dendritic cell number	MP:0013650	abnormal cd11b-high dendritic cell number	MP:0013647
+abnormal cd4-negative nk t cell number	MP:0013509	abnormal cd4-positive nk t cell number	MP:0013518
+abnormal cd4-positive nk t cell number	MP:0013518	abnormal cd4-negative nk t cell number	MP:0013509
+abnormal cd4-positive, cd25-positive nk t cell number	MP:0013881	abnormal cd4-negative, cd25-positive nk t cell number	MP:0013884
+abnormal dorsal pancreas morphology	MP:0013866	abnormal ventral pancreas morphology	MP:0013867
+abnormal dorsal pancreas topology	MP:0013865	abnormal ventral pancreas topology	MP:0013868
+abnormal dorsal spinal root morphology	MP:0003994	abnormal ventral spinal root morphology	MP:0003993
+abnormal dorsal striatum morphology	MP:0004102	abnormal ventral striatum morphology	MP:0004103
+abnormal double-negative t cell morphology	MP:0002407	abnormal double-positive t cell morphology	MP:0002408
+abnormal double-positive t cell morphology	MP:0002408	abnormal double-negative t cell morphology	MP:0002407
+abnormal early germinal center b cell number	MP:0013681	abnormal late germinal center b cell number	MP:0013682
+abnormal early pro-b cell	MP:0005019	abnormal late pro-b cell	MP:0005020
+abnormal late germinal center b cell number	MP:0013682	abnormal early germinal center b cell number	MP:0013681
+abnormal late pro-b cell	MP:0005020	abnormal early pro-b cell	MP:0005019
+abnormal ly6c high monocyte number	MP:0013021	abnormal ly6c low monocyte number	MP:0013024
+abnormal ly6c low monocyte number	MP:0013024	abnormal ly6c high monocyte number	MP:0013021
+abnormal lymph node primary follicle morphology	MP:0002345	abnormal lymph node secondary follicle morphology	MP:0002346
+abnormal memory-marker cd4-negative nk t cell number	MP:0013512	abnormal memory-marker cd4-positive nk t cell number	MP:0013521
+abnormal memory-marker cd4-positive nk t cell number	MP:0013521	abnormal memory-marker cd4-negative nk t cell number	MP:0013512
+abnormal negative t cell selection	MP:0004918	abnormal positive t cell selection	MP:0004919
+abnormal positive t cell selection	MP:0004919	abnormal negative t cell selection	MP:0004918
+abnormal primary muscle spindle morphology	MP:0000991	abnormal secondary muscle spindle morphology	MP:0000994
+abnormal primary ovarian follicle morphology	MP:0009362	abnormal secondary ovarian follicle morphology	MP:0009363
+abnormal primary ovarian follicle number	MP:0011123	abnormal secondary ovarian follicle number	MP:0011127
+abnormal primary palate development	MP:0009654	abnormal secondary palate development	MP:0009655
+abnormal primary palate morphology	MP:0013549	abnormal secondary palate morphology	MP:0013550
+abnormal primary polar body morphology	MP:0012737	abnormal secondary polar body morphology	MP:0012738
+abnormal primary sex determination	MP:0002211	abnormal secondary sex determination	MP:0002212
+abnormal primary somatosensory cortex morphology	MP:0000860	abnormal secondary somatosensory cortex morphology	MP:0000863
+abnormal spinal cord dorsal column morphology	MP:0009677	abnormal spinal cord ventral column morphology	MP:0009679
+abnormal spinal cord dorsal horn morphology	MP:0006282	abnormal spinal cord ventral horn morphology	MP:0005112
+abnormal spinal cord ventral column morphology	MP:0009679	abnormal spinal cord dorsal column morphology	MP:0009677
+abnormal spinal cord ventral horn morphology	MP:0005112	abnormal spinal cord dorsal horn morphology	MP:0006282
+abnormal spleen primary b follicle morphology	MP:0008471	abnormal spleen secondary b follicle morphology	MP:0008472
+abnormal ventral pancreas morphology	MP:0013867	abnormal dorsal pancreas morphology	MP:0013866
+abnormal ventral pancreas topology	MP:0013868	abnormal dorsal pancreas topology	MP:0013865
+abnormal ventral spinal root morphology	MP:0003993	abnormal dorsal spinal root morphology	MP:0003994
+abnormal ventral striatum morphology	MP:0004103	abnormal dorsal striatum morphology	MP:0004102
+absent dorsal pancreas	MP:0014112	absent ventral pancreas	MP:0014110
+absent early pro-b cells	MP:0005433	absent late pro-b cells	MP:0005434
+absent late pro-b cells	MP:0005434	absent early pro-b cells	MP:0005433
+absent primary muscle spindle	MP:0000992	absent secondary muscle spindle	MP:0000995
+absent primary ovarian follicles	MP:0011126	absent secondary ovarian follicles	MP:0011130
+absent ventral pancreas	MP:0014110	absent dorsal pancreas	MP:0014112
+cleft primary palate	MP:0009893	cleft secondary palate	MP:0009890
+convulsive seizures	MP:0000947	nonconvulsive seizures	MP:0000948
+decreased cd11b-high dendritic cell number	MP:0013649	decreased cd11b-low dendritic cell number	MP:0013652
+decreased cd11b-low dendritic cell number	MP:0013652	decreased cd11b-high dendritic cell number	MP:0013649
+decreased cd4-negative nk t cell number	MP:0013510	decreased cd4-positive nk t cell number	MP:0013519
+decreased cd4-positive nk t cell number	MP:0013519	decreased cd4-negative nk t cell number	MP:0013510
+decreased cd4-positive, cd25-positive nk t cell number	MP:0013882	decreased cd4-negative, cd25-positive nk t cell number	MP:0013885
+decreased double-negative t cell number	MP:0005089	decreased double-positive t cell number	MP:0005092
+decreased double-positive t cell number	MP:0005092	decreased double-negative t cell number	MP:0005089
+decreased early germinal center b cell number	MP:0013683	decreased late germinal center b cell number	MP:0013685
+decreased late germinal center b cell number	MP:0013685	decreased early germinal center b cell number	MP:0013683
+decreased ly6c high monocyte number	MP:0013023	decreased ly6c low monocyte number	MP:0013026
+decreased ly6c low monocyte number	MP:0013026	decreased ly6c high monocyte number	MP:0013023
+decreased memory-marker cd4-negative nk t cell number	MP:0013513	decreased memory-marker cd4-positive nk t cell number	MP:0013522
+decreased memory-marker cd4-positive nk t cell number	MP:0013522	decreased memory-marker cd4-negative nk t cell number	MP:0013513
+decreased primary ovarian follicle number	MP:0011125	decreased secondary ovarian follicle number	MP:0011129
+fast extinction of fear memory	MP:0012319	slow extinction of fear memory	MP:0012318
+fast rem	MP:0003239	slow rem	MP:0003238
+focal dorsal hair loss	MP:0010202	focal ventral hair loss	MP:0010203
+focal ventral hair loss	MP:0010203	focal dorsal hair loss	MP:0010202
+high carcass lipid	MP:0020113	low carcass lipid	MP:0020114
+high mean erythrocyte cell number	MP:0002593	low mean erythrocyte cell number	MP:0002594
+high mean heart rate adaptation	MP:0020096	low mean heart rate adaptation	MP:0020097
+high preference for an addictive substance	MP:0012342	low preference for an addictive substance	MP:0012341
+high withers	MP:0020210	low withers	MP:0020209
+increased cd11b-high dendritic cell number	MP:0013648	increased cd11b-low dendritic cell number	MP:0013651
+increased cd11b-low dendritic cell number	MP:0013651	increased cd11b-high dendritic cell number	MP:0013648
+increased cd4-negative nk t cell number	MP:0013511	increased cd4-positive nk t cell number	MP:0013520
+increased cd4-positive nk t cell number	MP:0013520	increased cd4-negative nk t cell number	MP:0013511
+increased cd4-positive, cd25-positive nk t cell number	MP:0013883	increased cd4-negative, cd25-positive nk t cell number	MP:0013886
+increased double-negative t cell number	MP:0005090	increased double-positive t cell number	MP:0005091
+increased double-positive t cell number	MP:0005091	increased double-negative t cell number	MP:0005090
+increased early germinal center b cell number	MP:0013684	increased late germinal center b cell number	MP:0013686
+increased early pro-b cell number	MP:0003133	increased late pro-b cell number	MP:0003134
+increased late germinal center b cell number	MP:0013686	increased early germinal center b cell number	MP:0013684
+increased late pro-b cell number	MP:0003134	increased early pro-b cell number	MP:0003133
+increased ly6c high monocyte number	MP:0013022	increased ly6c low monocyte number	MP:0013025
+increased ly6c low monocyte number	MP:0013025	increased ly6c high monocyte number	MP:0013022
+increased memory-marker cd4-negative nk t cell number	MP:0013514	increased memory-marker cd4-positive nk t cell number	MP:0013523
+increased memory-marker cd4-positive nk t cell number	MP:0013523	increased memory-marker cd4-negative nk t cell number	MP:0013514
+increased primary ovarian follicle number	MP:0011124	increased secondary ovarian follicle number	MP:0011128
+low carcass lipid	MP:0020114	high carcass lipid	MP:0020113
+low mean erythrocyte cell number	MP:0002594	high mean erythrocyte cell number	MP:0002593
+low mean heart rate adaptation	MP:0020097	high mean heart rate adaptation	MP:0020096
+low preference for an addictive substance	MP:0012341	high preference for an addictive substance	MP:0012342
+low withers	MP:0020209	high withers	MP:0020210
+mature cataract	MP:0013732	immature cataract	MP:0013731
+obsolete gram negative	MP:0001795	obsolete gram positive	MP:0001796
+obsolete gram positive	MP:0001796	obsolete gram negative	MP:0001795
+obstructive hydrocephaly	MP:0000917	non-obstructive hydrocephaly	MP:0001893
+partial loss of primary muscle spindle	MP:0000993	partial loss of secondary muscle spindle	MP:0000996
+primary sex reversal	MP:0002995	secondary sex reversal	MP:0001939
+slow extinction of fear memory	MP:0012318	fast extinction of fear memory	MP:0012319
+slow rem	MP:0003238	fast rem	MP:0003239
+small dorsal pancreas	MP:0014113	small ventral pancreas	MP:0014111
+small ventral pancreas	MP:0014111	small dorsal pancreas	MP:0014113
+syndromic hearing impairment	MP:0006330	nonsyndromic hearing impairment	MP:0006328
+syndromic hearing loss	MP:0004750	nonsyndromic hearing loss	MP:0004749
