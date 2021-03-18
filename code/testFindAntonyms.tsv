@@ -1,0 +1,12 @@
+abnormally fast depolarization	MP:010101	abnormally slow depolarization	MP:0101010101
+abnormally slow depolarization	MP:0101010101	abnormally fast depolarization	MP:010101
+early depolarization	MP:0101	late depolarization	MP:0101
+early dorsal spine development	MP:0101	early ventral spine development	MP:0101
+early ventral spine development	MP:0101	early dorsal spine development	MP:0101
+exercise-induced high blood pressure	MP:0101	exercise-induced low blood pressure	MP:0101
+exercise-induced low blood pressure	MP:0101	exercise-induced high blood pressure	MP:0101
+fast	MP:010101010101	slow	MP:01010101
+hypertrophic cardiomyopathy	MP:0101	non-hypertrophic cardiomyopathy	MP:0101
+hypertrophic cardiomyopathy	MP:0101	nonhypertrophic cardiomyopathy	MP:0101
+late depolarization	MP:0101	early depolarization	MP:0101
+slow	MP:01010101	fast	MP:010101010101

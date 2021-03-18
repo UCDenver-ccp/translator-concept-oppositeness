@@ -4,7 +4,7 @@ abnormal cd11b-high dendritic cell number	MP:0013647	abnormal cd11b-low dendriti
 abnormal cd11b-low dendritic cell number	MP:0013650	abnormal cd11b-high dendritic cell number	MP:0013647
 abnormal cd4-negative nk t cell number	MP:0013509	abnormal cd4-positive nk t cell number	MP:0013518
 abnormal cd4-positive nk t cell number	MP:0013518	abnormal cd4-negative nk t cell number	MP:0013509
-abnormal cd4-positive, cd25-positive nk t cell number	MP:0013881	abnormal cd4-negative, cd25-positive nk t cell number	MP:0013884
+"abnormal cd4-positive, cd25-positive nk t cell number"	MP:0013881	"abnormal cd4-negative, cd25-positive nk t cell number"	MP:0013884
 abnormal dorsal pancreas morphology	MP:0013866	abnormal ventral pancreas morphology	MP:0013867
 abnormal dorsal pancreas topology	MP:0013865	abnormal ventral pancreas topology	MP:0013868
 abnormal dorsal spinal root morphology	MP:0003994	abnormal ventral spinal root morphology	MP:0003993
@@ -51,7 +51,7 @@ decreased cd11b-high dendritic cell number	MP:0013649	decreased cd11b-low dendri
 decreased cd11b-low dendritic cell number	MP:0013652	decreased cd11b-high dendritic cell number	MP:0013649
 decreased cd4-negative nk t cell number	MP:0013510	decreased cd4-positive nk t cell number	MP:0013519
 decreased cd4-positive nk t cell number	MP:0013519	decreased cd4-negative nk t cell number	MP:0013510
-decreased cd4-positive, cd25-positive nk t cell number	MP:0013882	decreased cd4-negative, cd25-positive nk t cell number	MP:0013885
+"decreased cd4-positive, cd25-positive nk t cell number"	MP:0013882	"decreased cd4-negative, cd25-positive nk t cell number"	MP:0013885
 decreased double-negative t cell number	MP:0005089	decreased double-positive t cell number	MP:0005092
 decreased double-positive t cell number	MP:0005092	decreased double-negative t cell number	MP:0005089
 decreased early germinal center b cell number	MP:0013683	decreased late germinal center b cell number	MP:0013685
@@ -74,7 +74,7 @@ increased cd11b-high dendritic cell number	MP:0013648	increased cd11b-low dendri
 increased cd11b-low dendritic cell number	MP:0013651	increased cd11b-high dendritic cell number	MP:0013648
 increased cd4-negative nk t cell number	MP:0013511	increased cd4-positive nk t cell number	MP:0013520
 increased cd4-positive nk t cell number	MP:0013520	increased cd4-negative nk t cell number	MP:0013511
-increased cd4-positive, cd25-positive nk t cell number	MP:0013883	increased cd4-negative, cd25-positive nk t cell number	MP:0013886
+"increased cd4-positive, cd25-positive nk t cell number"	MP:0013883	"increased cd4-negative, cd25-positive nk t cell number"	MP:0013886
 increased double-negative t cell number	MP:0005090	increased double-positive t cell number	MP:0005091
 increased double-positive t cell number	MP:0005091	increased double-negative t cell number	MP:0005090
 increased early germinal center b cell number	MP:0013684	increased late germinal center b cell number	MP:0013686

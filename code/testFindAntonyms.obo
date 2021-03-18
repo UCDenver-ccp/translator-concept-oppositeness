@@ -24,6 +24,10 @@ name: left bundle branch hyperconductivity
 id: MP:0101
 name: left bundle branch hypoconductivity
 id: MP:0101
+name: right bundle branch hyperconductivity
+id: MP:0101
+name: right bundle branch hypoconductivity
+id: MP:0101
 name: lacrimal gland hypertrophy
 id: MP:0013454
 name: lacrimal gland hypotrophy
