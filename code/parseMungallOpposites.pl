@@ -17,7 +17,7 @@ open (IN, $file) || die "Couldn't open input file: $!\n";
 # count how many came from which kind(s) of evidence (textual, logical, or both)
 my %evidence_counts = ("TEXTUAL" => 0,
                        "LOGICAL" => 0,
-                       "BOTH" => 0);
+                       "BOTH_TEXTUAL_AND_LOGICAL" => 0);
 
 
 # specify whether you want to output pairs that he found from text *only*, from logical 
