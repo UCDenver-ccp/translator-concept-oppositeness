@@ -25,7 +25,7 @@ ggplot(data = hits, mapping = aes(x = native, y = hits)) +
   geom_col()
 ggplot(data = hits, mapping = aes(x = prefix, y = hits)) +
   geom_col()
-ggplot(data = subset(hits$prefix != "∅", mapping = aes(x = prefix, y = hits)))
+ggplot(data = subset(hits$prefix != "∅", mappin1g = aes(x = prefix, y = hits)))
 
 ```
 
