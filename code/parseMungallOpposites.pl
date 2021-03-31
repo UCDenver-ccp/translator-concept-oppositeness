@@ -13,6 +13,7 @@ use strict 'vars';
 # otherwise, testing/reproduction is impossible.
 srand(1789); # extra points if you recognize the year 
 
+############### SET/INITIALIZE THE GLOBAL VARIABLES #####################
 # set to 1 for helpful debugging output, to 0 to suppress same
 my $DEBUG = 0;
 
@@ -43,8 +44,8 @@ my %evidence_counts = ("TEXTUAL" => 0,
 # you either have set more than one of them to TRUE, or none of them to TRUE, and neither of those situations
 # is likely to be what you wanted.
 my $TEXTUAL_EVIDENCE = 0;
-my $LOGICAL_EVIDENCE = 1;
-my $BOTH_TEXTUAL_AND_LOGICAL = 0;
+my $LOGICAL_EVIDENCE = 0;
+my $BOTH_TEXTUAL_AND_LOGICAL = 1;
 
 # rather than printing the pairs of opposites as I come across them, as I was doing,
 # I need to sort them--otherwise testing becomes impossible. So:
