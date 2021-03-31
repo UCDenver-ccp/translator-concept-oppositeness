@@ -50,12 +50,12 @@ foreach my $pair (@sorted_pairs) {
 # need to be removed since my findAntonyms.pl script does not output them
 sub removeURL() {
  my $input = $_[0];
- 1 && print "Input to removeURL(): <$input>\n";
+ $DEBUG && print "Input to removeURL(): <$input>\n";
 
  my $output = $input; # I don't hate temp variables, HSQMYP
  #$output =~ s/[A-Z]+[:_]\d+$//;
  $output =~ s/.+[^A-Z]([A-Z]+[:_]\d+)$/$1/;
 
- 1 && print "Returning from removeURL(): <$output>\n";
+ $DEBUG && print "Returning from removeURL(): <$output>\n";
  return $output;
 } # close function definition removeURL()
