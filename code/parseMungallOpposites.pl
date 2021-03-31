@@ -17,7 +17,7 @@ srand(1789); # extra points if you recognize the year
 # set to 1 for helpful debugging output, to 0 to suppress same
 my $DEBUG = 0;
 
-my $TEST_RUN = 1; # if set to 1, this makes you run on the test data and suppresses all output except the pairs of opposites--no counts or other
+my $TEST_RUN = 0; # if set to 1, this makes you run on the test data and suppresses all output except the pairs of opposites--no counts or other
 # validation data are returned at the end if it's a test run.
 
 my $file = "";
