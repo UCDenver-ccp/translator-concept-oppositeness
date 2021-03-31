@@ -1,5 +1,16 @@
 #!/usr/bin/perl
 
+# input: a file containing the term01 id01 term02 id02 format
+# that my antonym-finding code outputs
+
+# output: just the pair of IDs, with the IDs in a pair sorted and the entire set of pairs sorted
+
+# usage:
+# cat inputFileName.tsv | ./pullIDPairs.pl
+
+# test data: testData/testPullIDPairs.input.tsv
+#            testData/testPullIDPairs.gold.output.tsv
+
 use strict 'vars';
 
 my $DEBUG = 0;

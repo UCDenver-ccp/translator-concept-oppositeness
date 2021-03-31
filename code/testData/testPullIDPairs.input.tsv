@@ -1,0 +1,10 @@
+abnormal	http://purl.obolibrary.org/obo/PATO_0000460	normal	http://purl.obolibrary.org/obo/PATO_0000461
+absent	http://purl.obolibrary.org/obo/PATO_0000462	present	http://purl.obolibrary.org/obo/PATO_0000467
+active	http://purl.obolibrary.org/obo/PATO_0002354	inactive	http://purl.obolibrary.org/obo/PATO_0002355
+acute	http://purl.obolibrary.org/obo/PATO_0000389	chronic	http://purl.obolibrary.org/obo/PATO_0001863
+adhesive	http://purl.obolibrary.org/obo/PATO_0002331	non-adhesive	http://purl.obolibrary.org/obo/PATO_0002332
+aerobic	http://purl.obolibrary.org/obo/PATO_0001455	anaerobic	http://purl.obolibrary.org/obo/PATO_0001456
+aerobic (for occurrence)	http://purl.obolibrary.org/obo/PATO_0001459	anaerobic (for occurrence)	http://purl.obolibrary.org/obo/PATO_0001460
+aligned with	http://purl.obolibrary.org/obo/PATO_0001653	misaligned with	http://purl.obolibrary.org/obo/PATO_0001654
+anterodistal orientation	http://purl.obolibrary.org/obo/PATO_0002526	anterodorsal orientation	http://purl.obolibrary.org/obo/PATO_0002491
+aromatic	http://purl.obolibrary.org/obo/PATO_0002191	non-aromatic	http://purl.obolibrary.org/obo/PATO_0002192
