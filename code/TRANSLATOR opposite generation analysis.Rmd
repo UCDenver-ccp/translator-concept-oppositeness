@@ -12,7 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-## The data
+## Comparison with currently-used opposition relation
+
+The reference data: Bill can add details. He pulled out pairs of concepts that are currently annotated as negatives in ... maybe just PATO, maybe all of the ontologies that Mike said to look at.  There are *215* pairs in total, of which *213* are from PATO.
+
+I ran that data through a script called pullIDPairs.pl, which pulls out just the IDs of the pairs, discarding the terms.  It also does some sorting across the entire set of pairs, which is necessary for comparing them to other sources of opposites (in this instance, my script).
+
+My data: I ran my script findAntonyms.pl on PATO version X.X.  Then I used the pullIDPairs.pl script (see above) to pull out just the IDs and do the necessary sorting.
+
+*NB*: I might need to rerun my script on PATO--I think that the version of the script that I used produces duplicates opp(x, y) and opp(y, x), which is fixed in later versions. I think/hope :-)
+
+Finally, I used the UNIX utility _comm -12 reference.file my.file_ to find the overlaps, if there be any. 
+## Validating generated opposites against a corpus
 
 Data: I took terms from PATO and added oppositional prefixes.  Some occur natively in PATO already, some don't.  Then I did a quoted search of PubMed Central for all of them---non-negated, "native" negated, and generated.
 
@@ -33,6 +44,8 @@ ggplot(data = subset(hits$prefix != "∅", mappin1g = aes(x = prefix, y = hits))
 ```
 
 ## Comparison with Chris's paper as of 2021-03-31
+
+*NB: I think I need to redo these--not sure his output is correctly sorted for the overlap-finding utility that I used. This means that the finding of no overlaps might be wrong.*
 
 1. Wrote a script that converts Chris's id-id-logical-textual format to id-id. Required more mucking about than one might have expected, but: whatever.
 2. For Chris's textual-evidence-only, logical-evidence-only, and both-kinds-of-evidence pairs, I used the UNIX command _comm_ (thanks, Bill!) to find the size of the union of what he found with what I found.
