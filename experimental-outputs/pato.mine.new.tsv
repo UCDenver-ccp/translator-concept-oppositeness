@@ -1,0 +1,406 @@
+absent	PATO:0000462	present	PATO:0000467
+active	PATO:0002354	inactive	PATO:0002355
+acute	PATO:0000389	chronic	PATO:0001863
+adhesive	PATO:0002331	non-adhesive	PATO:0002332
+aerobic (for occurrence)	PATO:0001459	anaerobic (for occurrence)	PATO:0001460
+aerobic	PATO:0001455	anaerobic	PATO:0001456
+aligned with	PATO:0001653	misaligned with	PATO:0001654
+aplastic	PATO:0001483	anaplastic	PATO:0002092
+aromatic	PATO:0002191	non-aromatic	PATO:0002192
+axial to	PATO:0002036	abaxial to	PATO:0002046
+back	PATO:0001901	front	PATO:0001900
+balanced	PATO:0000757	unbalanced	PATO:0000758
+branched	PATO:0000402	unbranched	PATO:0000414
+chronic	PATO:0001863	acute	PATO:0000389
+closed	PATO:0000608	open	PATO:0000610
+coiled	PATO:0000404	uncoiled	PATO:0000415
+colored	PATO:0000336	discolored	PATO:0000331
+compatible	PATO:0000344	incompatible	PATO:0000345
+complete structure	PATO:0005012	incomplete structure	PATO:0005013
+complex	PATO:0001504	simple	PATO:0001503
+condensed	PATO:0001485	decondensed	PATO:0002452
+conspicuous	PATO:0000463	inconspicuous	PATO:0000464
+continuous	PATO:0000689	discontinuous	PATO:0000690
+contractile	PATO:0001690	non-contractile	PATO:0001691
+coordinated	PATO:0000769	uncoordinated	PATO:0000770
+crowded	PATO:0000619	uncrowded	PATO:0000633
+curved dorsal	PATO:0001468	curved ventral	PATO:0001469
+curved ventral	PATO:0001469	curved dorsal	PATO:0001468
+cyclic cyclicity	PATO:0002184	acyclic cyclicity	PATO:0002185
+damaged	PATO:0001167	undamaged	PATO:0001168
+dark blue	PATO:0001244	light blue	PATO:0001243
+dark brown	PATO:0001245	light brown	PATO:0001246
+dark cyan	PATO:0001248	light cyan	PATO:0001247
+dark green	PATO:0001249	light green	PATO:0001250
+dark grey	PATO:0001251	light grey	PATO:0001252
+dark magenta	PATO:0001254	light magenta	PATO:0001253
+dark orange	PATO:0001256	light orange	PATO:0001255
+dark phase	PATO:0000501	light phase	PATO:0000503
+dark purple	PATO:0001259	light purple	PATO:0001260
+dark red brown	PATO:0001288	light red brown	PATO:0001289
+dark red	PATO:0001261	light red	PATO:0001262
+dark violet	PATO:0001705	light violet	PATO:0001704
+dark yellow brown	PATO:0002412	light yellow brown	PATO:0002413
+dark yellow	PATO:0001263	light yellow	PATO:0001264
+decreased accumulation	PATO:0002271	increased accumulation	PATO:0002270
+decreased acidity	PATO:0001843	increased acidity	PATO:0001844
+decreased adhesivity	PATO:0002334	increased adhesivity	PATO:0002333
+decreased affinity	PATO:0002072	increased affinity	PATO:0002071
+decreased age	PATO:0001765	increased age	PATO:0001764
+decreased amount	PATO:0001997	increased amount	PATO:0000470
+decreased angle to	PATO:0002328	increased angle to	PATO:0002327
+decreased anterior-posterior diameter	PATO:0002042	increased anterior-posterior diameter	PATO:0002043
+decreased area	PATO:0002058	increased area	PATO:0002057
+decreased avidity	PATO:0002075	increased avidity	PATO:0002074
+decreased behavioural activity	PATO:0000761	increased behavioural activity	PATO:0000760
+decreased branchiness	PATO:0002286	increased branchiness	PATO:0002285
+decreased cellular motility	PATO:0002297	increased cellular motility	PATO:0002298
+decreased circumference	PATO:0001899	increased circumference	PATO:0001898
+decreased coiling	PATO:0001796	increased coiling	PATO:0001795
+decreased combustibility	PATO:0015023	increased combustibility	PATO:0015022
+decreased concentration	PATO:0001163	increased concentration	PATO:0001162
+decreased contractility	PATO:0001581	increased contractility	PATO:0001580
+decreased coordination	PATO:0001860	increased coordination	PATO:0001859
+decreased curvature	PATO:0001593	increased curvature	PATO:0001592
+decreased degree of illumination	PATO:0015015	increased degree of illumination	PATO:0015014
+decreased depth	PATO:0001472	increased depth	PATO:0001596
+decreased diameter	PATO:0001715	increased diameter	PATO:0001714
+decreased distance	PATO:0000375	increased distance	PATO:0000374
+decreased distribution	PATO:0001672	increased distribution	PATO:0001671
+decreased duration of temperature	PATO:0001311	increased duration of temperature	PATO:0001312
+decreased duration	PATO:0000499	increased duration	PATO:0000498
+decreased efficacy	PATO:0015003	increased efficacy	PATO:0015004
+decreased efficiency	PATO:0001675	increased efficiency	PATO:0001676
+decreased elasticity	PATO:0002288	increased elasticity	PATO:0002287
+decreased elevation	PATO:0001689	increased elevation	PATO:0001688
+decreased fatigability	PATO:0001817	increased fatigability	PATO:0001816
+decreased fecundity	PATO:0001696	increased fecundity	PATO:0001695
+decreased female fertility	PATO:0001830	increased female fertility	PATO:0001831
+decreased female receptivity	PATO:0001724	increased female receptivity	PATO:0001723
+decreased fertility	PATO:0001834	increased fertility	PATO:0001835
+decreased flexibility	PATO:0001777	increased flexibility	PATO:0001776
+decreased fluid flow	PATO:0001838	increased fluid flow	PATO:0001839
+decreased fluorescence	PATO:0001927	increased fluorescence	PATO:0001926
+decreased force	PATO:0002246	increased force	PATO:0002245
+decreased fragility	PATO:0002056	increased fragility	PATO:0002055
+decreased frequency	PATO:0000381	increased frequency	PATO:0000380
+decreased functionality	PATO:0001624	increased functionality	PATO:0001625
+decreased height	PATO:0000569	increased height	PATO:0000570
+decreased humidity	PATO:0015011	increased humidity	PATO:0015010
+decreased intensity	PATO:0001783	increased intensity	PATO:0001782
+decreased length	PATO:0000574	increased length	PATO:0000573
+decreased life span	PATO:0001604	increased life span	PATO:0001603
+decreased linear velocity	PATO:0040033	increased linear velocity	PATO:0040032
+decreased magnetism	PATO:0001684	increased magnetism	PATO:0001683
+decreased magnitude	PATO:0002018	increased magnitude	PATO:0002017
+decreased male fertility	PATO:0001833	increased male fertility	PATO:0001832
+decreased male receptivity	PATO:0001726	increased male receptivity	PATO:0001725
+decreased mass density	PATO:0001790	increased mass density	PATO:0001788
+decreased mass	PATO:0001562	increased mass	PATO:0001563
+decreased mobility	PATO:0002283	increased mobility	PATO:0002282
+decreased object quality	PATO:0002303	increased object quality	PATO:0002305
+decreased occurrence	PATO:0002052	increased occurrence	PATO:0002051
+decreased odor	PATO:0001892	increased odor	PATO:0001893
+decreased osmolality	PATO:0002028	increased osmolality	PATO:0002029
+decreased osmolarity	PATO:0001656	increased osmolarity	PATO:0001657
+decreased perimeter	PATO:0001713	increased perimeter	PATO:0001712
+decreased permeability	PATO:0001578	increased permeability	PATO:0001577
+decreased phosphorylation	PATO:0002222	increased phosphorylation	PATO:0002221
+decreased photosensitivity	PATO:0001697	increased photosensitivity	PATO:0001698
+decreased pigmentation	PATO:0002251	increased pigmentation	PATO:0002250
+decreased porosity	PATO:0015025	increased porosity	PATO:0015024
+decreased position	PATO:0001476	increased position	PATO:0001475
+decreased pressure	PATO:0001575	increased pressure	PATO:0001576
+decreased process quality	PATO:0002302	increased process quality	PATO:0002304
+decreased propagation velocity	PATO:0010004	increased propagation velocity	PATO:0010003
+decreased proportionality to	PATO:0040042	increased proportionality to	PATO:0040043
+decreased quality	PATO:0002301	increased quality	PATO:0002300
+decreased radioactivity	PATO:0001743	increased radioactivity	PATO:0001742
+decreased radiopacity	PATO:0002145	increased radiopacity	PATO:0002144
+decreased rate	PATO:0000911	increased rate	PATO:0000912
+decreased resistance to	PATO:0001651	increased resistance to	PATO:0001650
+decreased sensitivity of a process to oxygen	PATO:0001554	increased sensitivity of a process to oxygen	PATO:0001553
+decreased sensitivity of a process	PATO:0001552	increased sensitivity of a process	PATO:0001551
+decreased sensitivity to irradiation	PATO:0001807	increased sensitivity to irradiation	PATO:0001808
+decreased sensitivity toward	PATO:0001550	increased sensitivity toward	PATO:0001549
+decreased size	PATO:0000587	increased size	PATO:0000586
+decreased solubility	PATO:0001664	increased solubility	PATO:0001663
+decreased spatial extent of a process	PATO:0055001	increased spatial extent of a process	PATO:0055002
+decreased speed	PATO:0000304	increased speed	PATO:0000303
+decreased stability	PATO:0015028	increased stability	PATO:0015027
+decreased strength	PATO:0001779	increased strength	PATO:0001778
+decreased susceptibility toward	PATO:0001670	increased susceptibility toward	PATO:0001669
+decreased temperature	PATO:0001306	increased temperature	PATO:0001305
+decreased tendency	PATO:0002362	increased tendency	PATO:0002361
+decreased thickness	PATO:0000592	increased thickness	PATO:0000591
+decreased threshold	PATO:0000708	increased threshold	PATO:0000706
+decreased tolerance to	PATO:0002394	increased tolerance to	PATO:0002393
+decreased tonicity	PATO:0001619	increased tonicity	PATO:0001618
+decreased turgor	PATO:0001621	increased turgor	PATO:0001622
+decreased variability of color	PATO:0001613	increased variability of color	PATO:0001612
+decreased variability of rate	PATO:0001588	increased variability of rate	PATO:0001587
+decreased variability of size	PATO:0001957	increased variability of size	PATO:0001958
+decreased variability of temperature	PATO:0001307	increased variability of temperature	PATO:0001308
+decreased variability	PATO:0001583	increased variability	PATO:0001584
+decreased velocity	PATO:0002472	increased velocity	PATO:0002471
+decreased viscosity	PATO:0001694	increased viscosity	PATO:0001693
+decreased volume	PATO:0000596	increased volume	PATO:0000595
+decreased waxiness	PATO:0002383	increased waxiness	PATO:0002382
+decreased weight	PATO:0000583	increased weight	PATO:0000582
+decreased wetness	PATO:0001826	increased wetness	PATO:0001825
+decreased width and length	PATO:0040030	increased width and length	PATO:0040031
+decreased width	PATO:0000599	increased width	PATO:0000600
+degenerate	PATO:0000639	non-degenerate	PATO:0002038
+differentiated	PATO:0002099	undifferentiated	PATO:0002100
+discriminate	PATO:0001319	indiscriminate	PATO:0001318
+distributed	PATO:0001566	undistributed	PATO:0001567
+dorsal orientation	PATO:0002495	ventral orientation	PATO:0002501
+dorsal to	PATO:0001233	ventral to	PATO:0001196
+down	PATO:0000365	up	PATO:0000370
+dry	PATO:0001824	wet	PATO:0001823
+edible	PATO:0002139	inedible	PATO:0002140
+efficient	PATO:0001678	inefficient	PATO:0001677
+elastic	PATO:0001171	inelastic	PATO:0001172
+elongated	PATO:0001154	shortened	PATO:0002364
+euploid	PATO:0001393	aneuploid	PATO:0001385
+fasciculated	PATO:0001861	defasciculated	PATO:0001959
+female fertile	PATO:0000888	female sterile	PATO:0000892
+female semi-fertile	PATO:0001760	female semi-sterile	PATO:0001763
+female semi-sterile	PATO:0001763	female semi-fertile	PATO:0001760
+female sterile	PATO:0000892	female fertile	PATO:0000888
+fertile	PATO:0000955	sterile	PATO:0000956
+flexible	PATO:0001544	inflexible	PATO:0001545
+fragile	PATO:0001362	non-fragile	PATO:0001716
+front	PATO:0001900	back	PATO:0001901
+functional	PATO:0001510	non-functional	PATO:0001511
+glutinous	PATO:0001540	non-glutinous	PATO:0001541
+hard	PATO:0000386	soft	PATO:0000387
+high brightness	PATO:0000665	low brightness	PATO:0000327
+high saturation	PATO:0001229	low saturation	PATO:0000328
+ictal	PATO:0001913	non-ictal	PATO:0001914
+increased accumulation	PATO:0002270	decreased accumulation	PATO:0002271
+increased acidity	PATO:0001844	decreased acidity	PATO:0001843
+increased adhesivity	PATO:0002333	decreased adhesivity	PATO:0002334
+increased affinity	PATO:0002071	decreased affinity	PATO:0002072
+increased age	PATO:0001764	decreased age	PATO:0001765
+increased amount	PATO:0000470	decreased amount	PATO:0001997
+increased angle to	PATO:0002327	decreased angle to	PATO:0002328
+increased anterior-posterior diameter	PATO:0002043	decreased anterior-posterior diameter	PATO:0002042
+increased area	PATO:0002057	decreased area	PATO:0002058
+increased avidity	PATO:0002074	decreased avidity	PATO:0002075
+increased behavioural activity	PATO:0000760	decreased behavioural activity	PATO:0000761
+increased branchiness	PATO:0002285	decreased branchiness	PATO:0002286
+increased cellular motility	PATO:0002298	decreased cellular motility	PATO:0002297
+increased circumference	PATO:0001898	decreased circumference	PATO:0001899
+increased coiling	PATO:0001795	decreased coiling	PATO:0001796
+increased combustibility	PATO:0015022	decreased combustibility	PATO:0015023
+increased concentration	PATO:0001162	decreased concentration	PATO:0001163
+increased contractility	PATO:0001580	decreased contractility	PATO:0001581
+increased coordination	PATO:0001859	decreased coordination	PATO:0001860
+increased curvature	PATO:0001592	decreased curvature	PATO:0001593
+increased degree of illumination	PATO:0015014	decreased degree of illumination	PATO:0015015
+increased depth	PATO:0001596	decreased depth	PATO:0001472
+increased diameter	PATO:0001714	decreased diameter	PATO:0001715
+increased distance	PATO:0000374	decreased distance	PATO:0000375
+increased distribution	PATO:0001671	decreased distribution	PATO:0001672
+increased duration of temperature	PATO:0001312	decreased duration of temperature	PATO:0001311
+increased duration	PATO:0000498	decreased duration	PATO:0000499
+increased efficacy	PATO:0015004	decreased efficacy	PATO:0015003
+increased efficiency	PATO:0001676	decreased efficiency	PATO:0001675
+increased elasticity	PATO:0002287	decreased elasticity	PATO:0002288
+increased elevation	PATO:0001688	decreased elevation	PATO:0001689
+increased fatigability	PATO:0001816	decreased fatigability	PATO:0001817
+increased fecundity	PATO:0001695	decreased fecundity	PATO:0001696
+increased female fertility	PATO:0001831	decreased female fertility	PATO:0001830
+increased female receptivity	PATO:0001723	decreased female receptivity	PATO:0001724
+increased fertility	PATO:0001835	decreased fertility	PATO:0001834
+increased flexibility	PATO:0001776	decreased flexibility	PATO:0001777
+increased fluid flow	PATO:0001839	decreased fluid flow	PATO:0001838
+increased fluorescence	PATO:0001926	decreased fluorescence	PATO:0001927
+increased force	PATO:0002245	decreased force	PATO:0002246
+increased fragility	PATO:0002055	decreased fragility	PATO:0002056
+increased frequency	PATO:0000380	decreased frequency	PATO:0000381
+increased functionality	PATO:0001625	decreased functionality	PATO:0001624
+increased height	PATO:0000570	decreased height	PATO:0000569
+increased humidity	PATO:0015010	decreased humidity	PATO:0015011
+increased intensity	PATO:0001782	decreased intensity	PATO:0001783
+increased length	PATO:0000573	decreased length	PATO:0000574
+increased life span	PATO:0001603	decreased life span	PATO:0001604
+increased linear velocity	PATO:0040032	decreased linear velocity	PATO:0040033
+increased magnetism	PATO:0001683	decreased magnetism	PATO:0001684
+increased magnitude	PATO:0002017	decreased magnitude	PATO:0002018
+increased male fertility	PATO:0001832	decreased male fertility	PATO:0001833
+increased male receptivity	PATO:0001725	decreased male receptivity	PATO:0001726
+increased mass density	PATO:0001788	decreased mass density	PATO:0001790
+increased mass	PATO:0001563	decreased mass	PATO:0001562
+increased mobility	PATO:0002282	decreased mobility	PATO:0002283
+increased object quality	PATO:0002305	decreased object quality	PATO:0002303
+increased occurrence	PATO:0002051	decreased occurrence	PATO:0002052
+increased odor	PATO:0001893	decreased odor	PATO:0001892
+increased osmolality	PATO:0002029	decreased osmolality	PATO:0002028
+increased osmolarity	PATO:0001657	decreased osmolarity	PATO:0001656
+increased perimeter	PATO:0001712	decreased perimeter	PATO:0001713
+increased permeability	PATO:0001577	decreased permeability	PATO:0001578
+increased phosphorylation	PATO:0002221	decreased phosphorylation	PATO:0002222
+increased photosensitivity	PATO:0001698	decreased photosensitivity	PATO:0001697
+increased pigmentation	PATO:0002250	decreased pigmentation	PATO:0002251
+increased porosity	PATO:0015024	decreased porosity	PATO:0015025
+increased position	PATO:0001475	decreased position	PATO:0001476
+increased pressure	PATO:0001576	decreased pressure	PATO:0001575
+increased process quality	PATO:0002304	decreased process quality	PATO:0002302
+increased propagation velocity	PATO:0010003	decreased propagation velocity	PATO:0010004
+increased proportionality to	PATO:0040043	decreased proportionality to	PATO:0040042
+increased quality	PATO:0002300	decreased quality	PATO:0002301
+increased radioactivity	PATO:0001742	decreased radioactivity	PATO:0001743
+increased radiopacity	PATO:0002144	decreased radiopacity	PATO:0002145
+increased rate	PATO:0000912	decreased rate	PATO:0000911
+increased resistance to	PATO:0001650	decreased resistance to	PATO:0001651
+increased sensitivity of a process to oxygen	PATO:0001553	decreased sensitivity of a process to oxygen	PATO:0001554
+increased sensitivity of a process	PATO:0001551	decreased sensitivity of a process	PATO:0001552
+increased sensitivity to irradiation	PATO:0001808	decreased sensitivity to irradiation	PATO:0001807
+increased sensitivity toward	PATO:0001549	decreased sensitivity toward	PATO:0001550
+increased size	PATO:0000586	decreased size	PATO:0000587
+increased solubility	PATO:0001663	decreased solubility	PATO:0001664
+increased spatial extent of a process	PATO:0055002	decreased spatial extent of a process	PATO:0055001
+increased speed	PATO:0000303	decreased speed	PATO:0000304
+increased stability	PATO:0015027	decreased stability	PATO:0015028
+increased strength	PATO:0001778	decreased strength	PATO:0001779
+increased susceptibility toward	PATO:0001669	decreased susceptibility toward	PATO:0001670
+increased temperature	PATO:0001305	decreased temperature	PATO:0001306
+increased tendency	PATO:0002361	decreased tendency	PATO:0002362
+increased thickness	PATO:0000591	decreased thickness	PATO:0000592
+increased threshold	PATO:0000706	decreased threshold	PATO:0000708
+increased tolerance to	PATO:0002393	decreased tolerance to	PATO:0002394
+increased tonicity	PATO:0001618	decreased tonicity	PATO:0001619
+increased turgor	PATO:0001622	decreased turgor	PATO:0001621
+increased variability of color	PATO:0001612	decreased variability of color	PATO:0001613
+increased variability of rate	PATO:0001587	decreased variability of rate	PATO:0001588
+increased variability of size	PATO:0001958	decreased variability of size	PATO:0001957
+increased variability of temperature	PATO:0001308	decreased variability of temperature	PATO:0001307
+increased variability	PATO:0001584	decreased variability	PATO:0001583
+increased velocity	PATO:0002471	decreased velocity	PATO:0002472
+increased viscosity	PATO:0001693	decreased viscosity	PATO:0001694
+increased volume	PATO:0000595	decreased volume	PATO:0000596
+increased waxiness	PATO:0002382	decreased waxiness	PATO:0002383
+increased weight	PATO:0000582	decreased weight	PATO:0000583
+increased wetness	PATO:0001825	decreased wetness	PATO:0001826
+increased width and length	PATO:0040031	decreased width and length	PATO:0040030
+increased width	PATO:0000600	decreased width	PATO:0000599
+inflated	PATO:0002376	uninflated	PATO:0002377
+light blue	PATO:0001243	dark blue	PATO:0001244
+light brown	PATO:0001246	dark brown	PATO:0001245
+light cyan	PATO:0001247	dark cyan	PATO:0001248
+light green	PATO:0001250	dark green	PATO:0001249
+light grey	PATO:0001252	dark grey	PATO:0001251
+light magenta	PATO:0001253	dark magenta	PATO:0001254
+light orange	PATO:0001255	dark orange	PATO:0001256
+light phase	PATO:0000503	dark phase	PATO:0000501
+light purple	PATO:0001260	dark purple	PATO:0001259
+light red brown	PATO:0001289	dark red brown	PATO:0001288
+light red	PATO:0001262	dark red	PATO:0001261
+light violet	PATO:0001704	dark violet	PATO:0001705
+light yellow brown	PATO:0002413	dark yellow brown	PATO:0002412
+light yellow	PATO:0001264	dark yellow	PATO:0001263
+lobate	PATO:0001367	alobate	PATO:0002506
+low brightness	PATO:0000327	high brightness	PATO:0000665
+low saturation	PATO:0000328	high saturation	PATO:0001229
+lumenized	PATO:0001897	unlumenized	PATO:0001896
+magnetic	PATO:0001685	non-magnetic	PATO:0001686
+male fertile	PATO:0000891	male sterile	PATO:0000890
+male semi-fertile	PATO:0001761	male semi-sterile	PATO:0001762
+male semi-sterile	PATO:0001762	male semi-fertile	PATO:0001761
+male sterile	PATO:0000890	male fertile	PATO:0000891
+mature	PATO:0001701	immature	PATO:0001501
+mobile relative to	PATO:0040010	immobile relative to	PATO:0040011
+mobile	PATO:0000299	immobile	PATO:0000300
+necessary (continuant)	PATO:0001635	unnecessary (continuant)	PATO:0001636
+necessary (occurrent)	PATO:0001638	unnecessary (occurrent)	PATO:0001639
+negative charge	PATO:0002196	positive charge	PATO:0002195
+normal	PATO:0000461	abnormal	PATO:0000460
+obsolete backcross fertile	PATO:0000900	obsolete backcross sterile	PATO:0000901
+obsolete backcross sterile	PATO:0000901	obsolete backcross fertile	PATO:0000900
+obsolete decreased action potential	PATO:0001660	obsolete increased action potential	PATO:0001661
+obsolete decreased consumption	PATO:0000768	obsolete increased consumption	PATO:0000767
+obsolete decreased percentage	PATO:0000447	obsolete increased percentage	PATO:0000449
+obsolete decreased relaxation	PATO:0001812	obsolete increased relaxation	PATO:0001811
+obsolete f1 fertile	PATO:0000905	obsolete f1 sterile	PATO:0000906
+obsolete f1 sterile	PATO:0000906	obsolete f1 fertile	PATO:0000905
+obsolete f2 fertile	PATO:0000907	obsolete f2 sterile	PATO:0000908
+obsolete f2 sterile	PATO:0000908	obsolete f2 fertile	PATO:0000907
+obsolete high enzyme function value	PATO:0000741	obsolete low enzyme function value	PATO:0000742
+obsolete high percentage	PATO:0000448	obsolete low percentage	PATO:0000450
+obsolete high yield	PATO:0000723	obsolete low yield	PATO:0000724
+obsolete high	PATO:0000469	obsolete low	PATO:0000471
+obsolete increased action potential	PATO:0001661	obsolete decreased action potential	PATO:0001660
+obsolete increased consumption	PATO:0000767	obsolete decreased consumption	PATO:0000768
+obsolete increased percentage	PATO:0000449	obsolete decreased percentage	PATO:0000447
+obsolete increased relaxation	PATO:0001811	obsolete decreased relaxation	PATO:0001812
+obsolete intercross fertile	PATO:0000909	obsolete intercross sterile	PATO:0000910
+obsolete intercross sterile	PATO:0000910	obsolete intercross fertile	PATO:0000909
+obsolete low enzyme function value	PATO:0000742	obsolete high enzyme function value	PATO:0000741
+obsolete low percentage	PATO:0000450	obsolete high percentage	PATO:0000448
+obsolete low yield	PATO:0000724	obsolete high yield	PATO:0000723
+obsolete low	PATO:0000471	obsolete high	PATO:0000469
+obsolete negative regulation	PATO:0000481	obsolete positive regulation	PATO:0000480
+obsolete positive regulation	PATO:0000480	obsolete negative regulation	PATO:0000481
+old	PATO:0000308	young	PATO:0000309
+opaque	PATO:0000963	transparent	PATO:0000964
+open	PATO:0000610	closed	PATO:0000608
+organized	PATO:0000938	disorganized	PATO:0000937
+oriented	PATO:0000614	disoriented	PATO:0000613
+ornamented	PATO:0002441	unornamented	PATO:0002442
+perforate	PATO:0002112	imperforate	PATO:0001821
+permeable	PATO:0000982	impermeable	PATO:0000983
+phosphorylated	PATO:0002220	dephosphorylated	PATO:0002263
+pigmented	PATO:0002248	unpigmented	PATO:0002249
+polar polarity	PATO:0002187	nonpolar polarity	PATO:0002188
+porous	PATO:0000984	non-porous	PATO:0000985
+position	PATO:0000140	disposition	PATO:0001727
+positive charge	PATO:0002195	negative charge	PATO:0002196
+potable	PATO:0025002	non-potable	PATO:0025001
+present	PATO:0000467	absent	PATO:0000462
+progressive	PATO:0001818	non-progressive	PATO:0002026
+regular duration	PATO:0001416	irregular duration	PATO:0001417
+regular sleep pattern	PATO:0001699	irregular sleep pattern	PATO:0001700
+regular spatial pattern	PATO:0000440	irregular spatial pattern	PATO:0000330
+responsive to	PATO:0000487	unresponsive to	PATO:0000488
+rhythmic	PATO:0000505	arrhythmic	PATO:0000504
+rough	PATO:0000700	smooth	PATO:0000701
+saturated blue	PATO:0001265	desaturated blue	PATO:0001266
+saturated brown	PATO:0001267	desaturated brown	PATO:0001268
+saturated cyan	PATO:0001269	desaturated cyan	PATO:0001270
+saturated green	PATO:0001271	desaturated green	PATO:0001272
+saturated magenta	PATO:0001275	desaturated magenta	PATO:0001276
+saturated orange	PATO:0001277	desaturated orange	PATO:0001278
+saturated purple	PATO:0001281	desaturated purple	PATO:0001282
+saturated red	PATO:0001283	desaturated red	PATO:0001284
+saturated violet	PATO:0001702	desaturated violet	PATO:0001703
+saturated yellow	PATO:0001285	desaturated yellow	PATO:0001286
+sensitive toward	PATO:0000516	insensitive toward	PATO:0000513
+serrated	PATO:0001206	unserrated	PATO:0001975
+shortened	PATO:0002364	elongated	PATO:0001154
+simple	PATO:0001503	complex	PATO:0001504
+smooth	PATO:0000701	rough	PATO:0000700
+soft	PATO:0000387	hard	PATO:0000386
+soluble in	PATO:0001537	insoluble in	PATO:0001538
+splayed dorsal	PATO:0002151	splayed ventral	PATO:0002154
+splayed ventral	PATO:0002154	splayed dorsal	PATO:0002151
+sterile	PATO:0000956	fertile	PATO:0000955
+stratified	PATO:0002068	unstratified	PATO:0002069
+structured	PATO:0001411	unstructured	PATO:0001412
+sufficient	PATO:0001627	insufficient	PATO:0001628
+susceptible toward	PATO:0001152	insusceptible toward	PATO:0001153
+symmetrical	PATO:0000632	asymmetrical	PATO:0000616
+synchronous	PATO:0000695	asynchronous	PATO:0000688
+tonicity	PATO:0001439	atonicity	PATO:0001813
+tonicity	PATO:0001439	dystonicity	PATO:0001814
+transparent	PATO:0000964	opaque	PATO:0000963
+up	PATO:0000370	down	PATO:0000365
+variant color	PATO:0001615	invariant color	PATO:0001614
+variant shape	PATO:0001930	invariant shape	PATO:0001931
+variant temperature	PATO:0001314	invariant temperature	PATO:0001313
+variant	PATO:0001227	invariant	PATO:0000438
+ventral orientation	PATO:0002501	dorsal orientation	PATO:0002495
+ventral to	PATO:0001196	dorsal to	PATO:0001233
+wet	PATO:0001823	dry	PATO:0001824
+young	PATO:0000309	old	PATO:0000308

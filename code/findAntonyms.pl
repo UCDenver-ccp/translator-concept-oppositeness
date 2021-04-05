@@ -25,6 +25,35 @@
 # - word is in WordNet
 # - word is not in WordNet
 
+
+########### pro versus anti
+########### phylic versus phobic
+
+# GOAL: opposites that are formed not by addition of an affix,
+# but by replacement of one affix with another.  Examples: 
+# hyperlipidemia <=> hypolipidemia
+# hydrophobic <=> hydrophylic
+sub replacements() {
+  my $input = $_;
+  my $output = $input;
+
+  my %paired_affixes = ("pro" => "anti",
+                        "anti" => "pro",
+                        "phylic" => "phobic",
+                        "phobic" => "philic",
+                        "hyper" => "hypo",
+                        "hypo" => "hyper",
+                        "pre" => "post",
+                        "post" => "pre");
+
+  my @affixes = keys(%paired_affixes);
+  foreach my $affix (@affixes) {
+    my $replacement = $paired_affixes{$affix};
+    if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
+      # store it #### PICK IT UP HERE
+    }
+  }
+} # close function definition replacements()
 ##########################################################
 #################### SET THINGS UP #######################
 ##########################################################
@@ -100,7 +129,7 @@ while (my $line = <IN>) {
 } # END READING IN THE ONTOLOGY
 
 ########### define the things that indicate antonymy/oppositeness #############
-my @negative_affixes = ("de", "non", "non-", "no", "anti", "un", "in", "dys", "dis", "a", "an", "in", "im", "ir", "il", );
+my @negative_affixes = ("ab", "mis", "ar", "de", "non", "non-", "no", "anti", "un", "in", "dys", "dis", "a", "an", "in", "im", "ir", "il", );
 
 
 my %opposites = ("fast" => "slow",
@@ -109,20 +138,86 @@ my %opposites = ("fast" => "slow",
                  "light" => "heavy",
                  "high" => "low",
                  "low" => "high",
+                 "down" => "up",
+                 "up" => "down",
+                 "hot" => "cold",
+                 "cold" => "hot",
+                 "old" => "young",
+                 "young" => "old",
+                 "early" => "late",
+                 "late" => "early",
+                 "dark" => "light",
+                 "light" => "dark",
+                 "night" => "day",
+                 "day" => "night",
+                 "nighttime" => "daytime",
+                 "daytime" => "nighttime", # with hyphens??
+                 "opaque" => "transparent",
+                 "transparent" => "opaque",
+                 "higher" => "lower",
+                 "lower" => "higher",
+                 "raise" => "lower",
+                 "lower" => "raise",
+                 "improved" => "worsened",
+                 "worsened" => "improved",
+                 "complex" => "simple",
+                 "simple" => "complex",
+                 "partial" => "complete",
+                 "complete" => "partial",
+                 "forward" => "backward",
+                 "backward" => "forward",
+                 "forwards" => "backwards",
+                 "backwards" => "forwards",
+                 "dry" => "wet",
+                 "wet" => "dry",
+                 "hard" => "soft",
+                 "soft" => "hard",
+                 "large" => "small",
+                 "small" => "large",
+                 "big" => "little",
+                 "little" => "big",
                  "positive" => "negative",
                  "negative" => "positive",
                  "positively" => "negatively",
                  "negatively" => "positively",
+                 "odd" => "even",
+                 "even" => "odd",
                  "early" => "late",
                  "late" => "early",
                  "dorsal" => "ventral",
-                 "ventral" => "dorsal", 
+                 "ventral" => "dorsal",
+                 "somatic" => "germline",
+                 "somatic" => "germ-line",
+                 "germline" => "somatic",
+                 "germ-line" => "somatic", 
                  "increase" => "decrease",
                  "decrease" => "increase",
+                 "increased" => "decreased",
+                 "decreased" => "increased",
+                 "stimulation" => "repression",
+                 "repression" => "stimulation",
+                 "stimulating" => "repressing",
+                 "repressing" => "stimulating",
+                 "stimulated" => "repressed",
+                 "repressed" => "stimulated",
                  "mutant" => "wild type", # CAUTION: two-token phrase...
                  "wild type" => "mutant",
                  "mutant" => "wild-type",
                  "wild-type" => "mutant",
+                 "acute" => "chronic",
+                 "chronic" => "acute",
+                 "back" => "front",
+                 "front" => "back",
+                 "open" => "closed",
+                 "closed" => "open",
+                 "fertile" => "sterile",
+                 "sterile" => "fertile",
+                 "elongated" => "shortened",
+                 "shortened" => "elongated",
+                 "rough" => "smooth",
+                 "smooth" => "rough",
+                 "absent" => "present",
+                 "present" => "absent",
                  "primary" => "secondary",
                  "secondary" => "primary",
                  "secondary" => "tertiary", # from here on, it gets a bit fuzzy
