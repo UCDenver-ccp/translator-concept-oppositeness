@@ -4,6 +4,7 @@
 # that my antonym-finding code outputs
 
 # output: just the pair of IDs, with the IDs in a pair sorted and the entire set of pairs sorted
+# id01	id02
 
 # usage:
 # cat inputFileName.tsv | ./pullIDPairs.pl
@@ -32,6 +33,10 @@ while (my $line = <>) {
   $id01 = removeURL($id01);
   $id02 = removeURL($id02);
 
+  # more preprocessing that's necessary for some sources of antonym pairs
+  $id01 = normalizeSeparator($id01);
+  $id02 = normalizeSeparator($id02);
+
   my @for_sorting = ($id01, $id02);
   my @sorted = sort(@for_sorting);
   my $sorted_pair = $sorted[0] . "\t" . $sorted[1];
@@ -59,3 +64,18 @@ sub removeURL() {
  $DEBUG && print "Returning from removeURL(): <$output>\n";
  return $output;
 } # close function definition removeURL()
+
+# some sources of opposites have idiosyncratic separators within 
+# their IDs, and you need to normalize those if you want to be able
+# to compare them to anything else. E.g., PATO_01234 needs to become
+# PATO:01234.
+sub normalizeSeparator() {
+  my $input = $_[0];
+  $DEBUG && print "Input to normalizeSeparator(): <$input>\n";
+
+  my $output = $input; # I still don't hate temp variables
+  #$output =~ s/^(\w+)\W(\d+)$/$1:$2/; # greediness needs to work as I hope here
+  $output =~ s/\_/\:/;
+  $DEBUG && print "Returning from removeSeparator(): <$output>\n";
+  return($output);
+} # close function definition normalizeSeparator()
