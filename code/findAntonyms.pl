@@ -26,9 +26,6 @@
 # - word is not in WordNet
 
 
-########### pro versus anti
-########### phylic versus phobic
-
 # GOAL: opposites that are formed not by addition of an affix,
 # but by replacement of one affix with another.  Examples: 
 # hyperlipidemia <=> hypolipidemia
@@ -36,6 +33,8 @@
 sub replacements() {
   my $input = $_;
   my $output = $input;
+
+# enlarged versus small
 
   my %paired_affixes = ("pro" => "anti",
                         "anti" => "pro",
@@ -49,6 +48,7 @@ sub replacements() {
   my @affixes = keys(%paired_affixes);
   foreach my $affix (@affixes) {
     my $replacement = $paired_affixes{$affix};
+    # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
     if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
       # store it #### PICK IT UP HERE
     }
@@ -67,7 +67,7 @@ my $DEBUG = 0;
 #my $DEBUG = 1;
 
 # set this to 1 if you only want the IDs--otherwise, to 0
-my $IDS_ONLY = 0;
+my $IDS_ONLY = 1;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;
@@ -408,6 +408,7 @@ sub outputQC() {
 # in the long run...
 sub storePair() {
   my @pair = @_;
+  @pair = sort(@pair); #
   my $this_pair = $pair[0] . "---" . $pair[1];
   $uniquePairs{$this_pair}++;
 }
