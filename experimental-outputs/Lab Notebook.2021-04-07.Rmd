@@ -204,7 +204,6 @@ Next step: find overlap with Mike's resources/ontologies/predicates.txt.
 
 ## For next week...
 
-0. Test cases in human-readable form
 1. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
 2. Suffixes (e.g. hydrophilic vs. hydrophobic)
 3. Word-internal, possibly (might produce a lot of false positives later when we do generation)
