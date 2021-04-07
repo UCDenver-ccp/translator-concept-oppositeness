@@ -107,7 +107,7 @@ while (my $line = <IN>) {
 
         # note that regarding PR, it might not be worth looking. I tried grepping for names that include "mutant" or "mutated", and only found 11...
         # Note: I was thinking about passing this in on the command line as a parameter. However: because of the way that the OBO ontologies are constructed, you can end up with IDs from multiple ontologies in the same .obo file. So: stick with the long list...
-        if ($line =~ /^id:\s+((MP|SNOMED|PR|GO|CL|UBERON|NCBITaxon|PATO|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP):\d+)$/o) { 
+        if ($line =~ /^id:\s+((BFO|RO|MP|SNOMED|PR|GO|CL|UBERON|NCBITaxon|PATO|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP):\d+)$/o) { 
           $id = $1; 
           $DEBUG && print "ID: <$id>\n";
         } # close if-ID

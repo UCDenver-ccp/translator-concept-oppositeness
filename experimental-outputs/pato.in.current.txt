@@ -1,0 +1,27 @@
+anterodistal orientation	anterodorsal orientation
+auxotrophic	prototrophic
+behavioural active	behavioural inactive
+biconcave	biconvex
+concave	convex
+concave 3-D shape	convex 3-D shape
+distal orientation	dorsal orientation
+distal to	dorsal to
+east	west
+fused with	unfused from
+has extra parts of type	has fewer parts of type
+hydrophilic	hydrophobic
+hydrophilicity	hydrophobicity
+hyperelliptic	hypoelliptic
+hyperplastic	hypoplastic
+hyperresponsive to	hyporesponsive to
+hypertrophic	hypotrophic
+hypertrophic growth	hypotrophic growth
+increased virulence	reduced virulence
+large (value)	small (value)
+north	south
+paedomorphic growth	peramorphic growth
+photoinsensitive	photosensitive
+posterodistal orientation	posterodorsal orientation
+recurrent	sporadic
+relative large (value)	relative small (value)
+resistance to	susceptibility toward

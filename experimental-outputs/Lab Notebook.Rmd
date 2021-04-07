@@ -1,0 +1,112 @@
+---
+title: "Lab notebook"
+author: "KBC"
+date: "4/5/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 2021-04-05
+
+I extracted the terms from the current version of the RO, then got the absolute frequencies of their words:
+
+_/Users/kevincohen/Dropbox/Scripts-new/lexicalFrequency.pl experimental-outputs/ro.terms.txt
+_
+
+...which reveals imbalances in the use of words that are clear opposites, e.g.:
+
+* during	11 before	4 after	2
+* to	49 from	16 towards	1
+* directly	18
+* indirectly	8 indirect	2 direct	2
+
+...which suggests that I could be adding a bunch of opposite terms to the ontology.
+
+So, I ran the current version of my antonym-finding script:
+
+_code/findAntonyms.pl resources/ontologies/ro.2021-03-08.obo.txt |wc -l _
+
+...which finds 43 pairs of opposites.
+
+Next step: find overlap with Mike's resources/ontologies/predicates.txt.
+
+
+## PATO: opposites already annotated
+
+```{r}
+library("ggVennDiagram")
+library(tidyverse)
+
+# NB: need to add reduce/increase. Do HP, then RO.
+
+# only found by me
+# comm -23 experimental-outputs/pato.mine.terms.only.tsv resources/current-opposites.sorted.terms.only.tsv | wc -l
+#      59
+
+# only in current annotations
+#comm -13 experimental-outputs/pato.mine.terms.only.tsv resources/current-opposites.sorted.terms.only.tsv | wc -l
+#      27
+
+
+# in both
+#comm -12 experimental-outputs/pato.mine.terms.only.tsv resources/current-opposites.sorted.terms.only.tsv | wc -l
+#     188
+
+# https://www.datanovia.com/en/fr/blog/magnifique-diagramme-de-venn-ggplot-avec-r/
+
+# this separates out the three entirely--not what the ggVennDiagram() function is looking for
+# Here I'm just getting the terms themselves in printable fashion, separating them by who "finds" them
+pato.mine.only <- as.vector(read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/pato.in.mine.txt"))
+pato.mine.only <- stringr::str_split(pato.mine.only, pattern = "\t")
+#pato.mine.only
+current.only <- as.vector((read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/pato.in.current.txt")))
+current.only <- stringr::str_split(current.only, pattern = "\t")
+both.mine.and.current <- as.vector((read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/pato.in.both.txt")))
+both.mine.and.current <- stringr::str_split(both.mine.and.current, pattern = "\t")
+
+# here I have *everything* that I found and *everything* in current, so that we can quantify overlap & lack thereof
+pato.mine <- as.vector(read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/pato.mine.terms.only.tsv"))
+current <- as.vector(read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/resources/current-opposites.sorted.terms.only.tsv")) # includes two non-PATO terms
+
+x <- list(Mine = pato.mine, Current = current)
+ggVennDiagram(x)
+
+print("In both mine and 'current':")
+print(both.mine.and.current)
+print("In mine only:")
+print(pato.mine.only)
+print("In 'current' only:")
+print(current.only)
+
+```
+
+
+## Comparison to Chris et al.'s stuff
+
+```{r}
+chris <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/mungall_both_hp.tsv", header = FALSE, sep = "\t")
+colnames(chris) <- c("term01", "term02")
+chris <- as_tibble(chris)
+hp.mine <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/hp_opposites_ids_only.tsv", header = FALSE, sep = "\t")
+colnames(hp.mine) <- c("term01", "term02")
+hp.mine <- as_tibble(hp.mine)
+
+# PICK IT UP FROM HERE--I NEED TO RERUN MY STUFF ON HP, CLEARLY
+chris.as.vector <- as.vector(paste(chris$term01, chris$term02))
+hp.mine.as.vector <- as.vector(paste(hp.mine$term01, hp.mine$term02))
+x <- list(Mine = hp.mine.as.vector, Chris = chris.as.vector)
+ggVennDiagram(x)
+
+print("Mine:")
+print(hp.mine)
+print("Chris's:")
+print(chris)
+```
+
+
+

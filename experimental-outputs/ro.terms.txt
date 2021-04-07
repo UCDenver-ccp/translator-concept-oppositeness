@@ -1,0 +1,684 @@
+name: continuant
+name: occurrent
+name: independent continuant
+name: obsolete dependent continuant
+name: spatial region
+name: process
+name: disposition
+name: realizable entity
+name: quality
+name: specifically dependent continuant
+name: role
+name: generically dependent continuant
+name: function
+name: material entity
+name: immaterial entity
+name: anatomical entity
+name: connected anatomical structure
+name: material anatomical entity
+name: immaterial anatomical entity
+name: connected anatomical system
+name: multi-cell-part structure
+name: neuron projection bundle
+name: organism or virus or viroid
+name: multicellular anatomical structure
+name: biological entity
+name: cell
+name: neuron
+name: biome
+name: environmental system
+name: molecular_function
+name: catalytic activity
+name: ubiquitin-protein ligase activity
+name: nucleus
+name: behavior
+name: feeding behavior
+name: biological_process
+name: membrane
+name: kinase activity
+name: transferase activity
+name: transferase activity, transferring phosphorus-containing groups
+name: ligase activity
+name: ligase activity, forming carbon-nitrogen bonds
+name: acid-amino acid ligase activity
+name: small conjugating protein ligase activity
+name: axon
+name: dendrite
+name: presynaptic membrane
+name: cell projection
+name: neuron projection
+name: symbiosis, encompassing mutualism through parasitism
+name: interspecies interaction between organisms
+name: synapse part
+name: cell part
+name: synapse
+name: postsynaptic membrane
+name: response to stimulus
+name: interaction with symbiont
+name: multi-organism process
+name: multi-organism behavior
+name: acquisition of nutrients from other organism during symbiotic interaction
+name: acquisition of nutrients from symbiont
+name: parasitism
+name: mutualism
+name: commensalism
+name: disease
+name: Obsolete Class
+name: quality
+name: morphology
+name: shape
+name: structure
+name: branched
+name: linear
+name: physical object quality
+name: branchiness
+name: laminar
+name: exposure event or process
+name: sequentially ordered entity
+name: sequence atomic unit
+name: sequence bearer
+name: system
+name: phenotype
+name: part of
+name: has part
+name: realized in
+name: realizes
+name: obsolete preceded by
+name: preceded by
+name: precedes
+name: occurs in
+name: contains process
+name: inheres in
+name: bearer of
+name: participates in
+name: has participant
+name: is concretized as
+name: concretizes
+name: function of
+name: quality of
+name: role of
+name: has function
+name: has quality
+name: has role
+name: has disposition
+name: disposition of
+name: obsolete in neural circuit with
+name: obsolete upstream in neural circuit with
+name: obsolete downstream in neural circuit with
+name: derives from
+name: derives into
+name: location of
+name: contained in
+name: contains
+name: is allergic trigger for
+name: is autoimmune trigger for
+name: has allergic trigger
+name: has autoimmune trigger
+name: located in
+name: 2D boundary of
+name: aligned with
+name: has 2D boundary
+name: electrically_synapsed_to
+name: tracheates
+name: innervated_by
+name: has synaptic terminal of
+name: bounding layer of
+name: coincident with
+name: cell expresses
+name: regulates in other organism
+name: regulates transport of
+name: occurent part of
+name: has regulatory component activity
+name: has negative regulatory component activity
+name: has positive regulatory component activity
+name: has necessary component activity
+name: has component activity
+name: has component process
+name: has ligand
+name: transports
+name: occurs across
+name: directly regulated by
+name: directly negatively regulated by
+name: directly positively regulated by
+name: has effector activity
+name: in register with
+name: before or simultaneous with
+name: simultaneous with
+name: before
+name: during which ends
+name: encompasses
+name: ends after
+name: immediately preceded by
+name: during which starts
+name: starts before
+name: immediately precedes
+name: starts during
+name: happens during
+name: ends during
+name: has soma location
+name: fasciculates with
+name: axon synapses in
+name: synapsed by
+name: has plasma membrane part
+name: synapsed_via_type_Ib_bouton_to
+name: synapsed_via_type_Is_bouton_to
+name: synapsed_via_type_II_bouton_to
+name: synapsed_by_via_type_II_bouton
+name: synapsed_by_via_type_Ib_bouton
+name: has postsynaptic terminal in
+name: releases neurotransmitter
+name: synapsed_by_via_type_Is_bouton
+name: has presynaptic terminal in
+name: synapsed_via_type_III_bouton_to
+name: synapsed_by_via_type_III_bouton
+name: synapsed to
+name: dendrite synapsed in
+name: has synaptic terminal in
+name: overlaps
+name: has fasciculating neuron projection
+name: innervates
+name: continuous with
+name: partially overlaps
+name: derived by descent from
+name: has derived by descendant
+name: shares ancestor with
+name: serially homologous to
+name: only in taxon
+name: in taxon
+name: spatially disjoint from
+name: connected to
+name: connects
+name: attached to part of
+name: supplies
+name: drains
+name: has component
+name: has phenotype
+name: phenotype of
+name: develops from
+name: develops into
+name: gene product of
+name: has gene product
+name: expressed in
+name: directly develops from
+name: parasitoid of
+name: has parasitoid
+name: directly develops into
+name: regulates
+name: negatively regulates
+name: positively regulates
+name: has prototype
+name: capable of
+name: capable of part of
+name: obsolete actively participates in
+name: obsolete has active participant
+name: surrounded by
+name: adjacent to
+name: surrounds
+name: temporally related to
+name: starts
+name: starts with
+name: develops from part of
+name: develops in
+name: obligate parasite of
+name: facultative parasite of
+name: ends
+name: ends with
+name: has start location
+name: has end location
+name: has input
+name: has output
+name: stem parasite of
+name: root parasite of
+name: hemiparasite of
+name: has exposure receptor
+name: has exposure stressor
+name: has exposure route
+name: has exposure transport path
+name: related via exposure to
+name: over-expressed in
+name: under-expressed in
+name: has active ingredient
+name: active ingredient in
+name: connecting branch of
+name: has connecting branch
+name: has developmental contribution from
+name: developmentally contributes to
+name: developmentally induced by
+name: developmentally induces
+name: developmentally preceded by
+name: has biological role
+name: has application role
+name: has chemical role
+name: acts upstream of
+name: acts upstream of or within
+name: developmentally replaces
+name: developmentally succeeded by
+name: part of developmental precursor of
+name: ubiquitously expressed in
+name: expresses
+name: ubiquitously expresses
+name: results in developmental regression of
+name: is treated by substance
+name: has habitat
+name: causally upstream of, positive effect
+name: causally upstream of, negative effect
+name: has exposure stimulus
+name: evolutionary variant of
+name: transports or maintains localization of
+name: inheres in part of
+name: evolutionarily related to
+name: ecologically related to
+name: confers advantage in
+name: mereotopologically related to
+name: developmentally related to
+name: colocalizes with
+name: contributes to
+name: enables
+name: functionally related to
+name: part of structure that is capable of
+name: genomically related to
+name: involved in
+name: regulates levels of
+name: enabled by
+name: regulated by
+name: negatively regulated by
+name: positively regulated by
+name: related via localization to
+name: has target start location
+name: has target end location
+name: imports
+name: results in transport along
+name: results in transport across
+name: results in growth of
+name: results in transport to from or in
+name: exports
+name: results in commitment to
+name: results in determination of
+name: member of
+name: has member
+name: input of
+name: output of
+name: formed as result of
+name: results in structural organization of
+name: results in specification of
+name: results in developmental induction of
+name: has dendrite location
+name: attached to
+name: has muscle origin
+name: has muscle insertion
+name: derived from ancestral fusion of
+name: in branching relationship with
+name: tributary of
+name: distributary of
+name: anabranch of
+name: spatially coextensive with
+name: branching part of
+name: main stem of
+name: proper distributary of
+name: proper tributary of
+name: has developmental potential involving
+name: has potential to developmentally contribute to
+name: has potential to developmentally induce
+name: has potential to develop into
+name: has potential to directly develop into
+name: has direct input
+name: obsolete has indirect input
+name: obsolete has direct output
+name: obsolete has indirect output
+name: causally downstream of
+name: immediately causally downstream of
+name: directly activates
+name: indirectly activates
+name: directly inhibits
+name: indirectly inhibits
+name: causally related to
+name: causally upstream of
+name: immediately causally upstream of
+name: directly provides input for
+name: transitively provides input for
+name: causally upstream of or within
+name: differs in
+name: differs in attribute of
+name: differs in attribute
+name: causally downstream of or within
+name: involved in regulation of
+name: involved in positive regulation of
+name: involved in negative regulation of
+name: involved in or involved in regulation of
+name: is active in
+name: contributes to morphology of
+name: interacts with
+name: genetically interacts with
+name: molecularly interacts with
+name: biotically interacts with
+name: trophically interacts with
+name: preys on
+name: symbiotically interacts with
+name: commensually interacts with
+name: mutualistically interacts with
+name: interacts with via parasite-host interaction
+name: parasite of
+name: parasitized by
+name: participates in a abiotic-biotic interaction with
+name: phosphorylates
+name: directly regulates activity of
+name: directly negatively regulates activity of
+name: directly positively regulates activity of
+name: transmitted by
+name: has symptom
+name: host of
+name: has host
+name: pollinates
+name: pollinated by
+name: acquires nutrients from
+name: preyed upon by
+name: is vector for
+name: has vector
+name: partner in
+name: subject participant in
+name: target participant in
+name: helper property (not for use in curation)
+name: is symbiosis
+name: is commensalism
+name: is mutualism
+name: is parasitism
+name: provides nutrients for
+name: eats
+name: is eaten by
+name: is evidence for
+name: composed primarily of
+name: child nucleus of
+name: child nucleus of in hermaphrodite
+name: child nucleus of in male
+name: has part that occurs in
+name: ubiquitinates
+name: is kinase activity
+name: is ubiquitination
+name: receives input from
+name: sends output to
+name: relation between physical entity and a process or stage
+name: existence starts during
+name: existence starts with
+name: existence overlaps
+name: existence starts and ends during
+name: existence ends during
+name: existence ends with
+name: transformation of
+name: immediate transformation of
+name: existence starts during or after
+name: existence ends during or before
+name: causal agent in process
+name: causal relation between processes
+name: depends on
+name: towards
+name: has intermediate
+name: causal relation between entities
+name: determined by
+name: determines
+name: determined by part of
+name: transcribed from
+name: transcribed to
+name: ribosomal translation of
+name: ribosomally translates to
+name: sequentially related to
+name: sequentially adjacent to
+name: has start sequence
+name: is start sequence of
+name: has end sequence
+name: is end sequence of
+name: is consecutive sequence of
+name: is sequentially aligned with
+name: bounds sequence of
+name: is bound by sequence of
+name: has subsequence
+name: is subsequence of
+name: overlaps sequence of
+name: does not overlap sequence of
+name: is upstream of sequence of
+name: is downstream of sequence of
+name: is immediately downstream of sequence of
+name: is immediately upstream of sequence of
+name: has skeleton
+name: results in ending of
+name: hyperparasite of
+name: hyperparasitized by
+name: allelopath of
+name: pathogen of
+name: has pathogen
+name: has evidence
+name: causally influenced by
+name: interaction relation helper property
+name: molecular interaction relation helper property
+name: results in movement of
+name: causally influences
+name: biomechanically related to
+name: has muscle antagonist
+name: has branching part
+name: conduit for
+name: lumen of
+name: luminal space of
+name: has modifier
+name: participates in a biotic-biotic interaction with
+name: skeleton of
+name: directly regulates
+name: existence starts at end of
+name: has part structure that is capable of
+name: results in closure of
+name: results in breakdown of
+name: results in synthesis of
+name: results in assembly of
+name: results in catabolism of
+name: results in disassembly of
+name: results in remodeling of
+name: results in organization of
+name: existence ends at start of
+name: causal relation between material entity and a process
+name: capable of regulating
+name: capable of negatively regulating
+name: capable of positively regulating
+name: capable of inhibiting or preventing pathological process
+name: capable of upregulating or causing pathological process
+name: is substance that treats
+name: is marker for
+name: process has causal agent
+name: obsolete related via dependence to
+name: correlated with
+name: is evidence with support from
+name: has model
+name: related via evidence or inference to
+name: visits
+name: visited by
+name: visits flowers of
+name: has flowers visited by
+name: lays eggs in
+name: has eggs laid in by
+name: kills
+name: is killed by
+name: directly positively regulates
+name: directly negatively regulates
+name: ectoparasite of
+name: has ectoparasite
+name: endoparasite of
+name: has endoparasite
+name: mesoparasite of
+name: has mesoparasite
+name: intercellular endoparasite of
+name: has intercellular endoparasite
+name: intracellular endoparasite of
+name: has intracellular endoparasite
+name: co-roosts with
+name: produces
+name: produced by
+name: represses expression of
+name: increases expression of
+name: has role in modeling
+name: causes or contributes to condition
+name: causes condition
+name: contributes to condition
+name: contributes to severity of condition
+name: contributes to frequency of condition
+name: ameliorates condition
+name: correlated with condition
+name: exacerbates condition
+name: condition ameliorated by
+name: condition exacerbated by
+name: condition has genetic basis in
+name: has material basis in gain of function germline mutation in
+name: has material basis in loss of function germline mutation in
+name: has material basis in germline mutation in
+name: has material basis in somatic mutation in
+name: has major susceptibility factor
+name: has partial material basis in germline mutation in
+name: has primary input or output
+name: has primary output
+name: has primary input
+name: is genetic basis for condition
+name: is causal gain of function germline mutation of in
+name: is causal loss of function germline mutation of in
+name: is causal germline mutation in
+name: is causal somatic mutation in
+name: is causal susceptibility factor for
+name: is causal germline mutation partially giving rise to
+name: realizable has basis in
+name: is basis for realizable
+name: disease has basis in
+name: disease has basis in dysfunction of
+name: disease has basis in disruption of
+name: disease has basis in feature
+name: causal relationship with disease as subject
+name: disease causes disruption of
+name: disease causes dysfunction of
+name: disease has location
+name: disease has inflammation site
+name: realized in response to stimulus
+name: disease has feature
+name: disease arises from structure
+name: enables subfunction
+name: acts upstream of or within, positive effect
+name: acts upstream of or within, negative effect
+name: acts upstream of, positive effect
+name: acts upstream of, negative effect
+name: causally upstream of or within, negative effect
+name: causally upstream of or within, positive effect
+name: epiphyte of
+name: has epiphyte
+name: kleptoparasite of
+name: kleptoparasitized by
+name: creates habitat for
+name: ecologically co-occurs with
+name: lays eggs on
+name: has eggs laid on by
+name: has substance added
+name: has substance removed
+name: immersed in
+name: has consumer
+name: has primary substance added
+name: realized in response to
+name: generically depends on
+name: is carrier of
+name: regulates activity of
+name: regulates quantity of
+name: indirectly regulates activity of
+name: decreases by repression quantity of
+name: increases by expression quantity of
+name: directly positively regulates quantity of
+name: directly negatively regulates quantity of
+name: indirectly positively regulates activity of
+name: destabilizes quantity of
+name: stabilizes quantity of
+name: indirectly negatively regulates activity of
+name: directly regulates quantity of
+name: indirectly regulates quantity of
+name: indirectly negatively regulates quantity of
+name: indirectly positively regulates quantity of
+name: has small molecule regulator
+name: has small molecule activator
+name: has small molecule inhibitor
+name: acts on population of
+name: is small molecule regulator
+name: is small molecule activator
+name: is small molecule inhibitor
+name: results in adhesion of
+name: results in fusion of
+name: has synaptic IO in
+name: receives synaptic input in
+name: sends synaptic output to
+name: has synaptic IO throughout
+name: receives synaptic input throughout
+name: sends synaptic output throughout
+name: has sensory dendrite in
+name: disease has infectious agent
+name: disease relationship
+name: has anatomical participant
+name: in similarity relationship with
+name: in homology relationship with
+name: in homoplasy relationship with
+name: in homocracy relationship with
+name: in convergence relationship with
+name: in parallelism relationship with
+name: in structural homology relationship with
+name: in historical homology relationship with
+name: in biological homology relationship with
+name: in reversal relationship with
+name: in syntenic homology relationship with
+name: in paralogy relationship with
+name: in syntenic paralogy relationship with
+name: in syntenic orthology relationship with
+name: in partial homology relationship with
+name: in protein structural homology relationship with
+name: in non functional homology relationship with
+name: in orthology relationship with
+name: in xenology relationship with
+name: in 1 to 1 homology relationship with
+name: in 1 to 1 orthology relationship with
+name: in ohnology relationship with
+name: in in-paralogy relationship with
+name: in out-paralogy relationship with
+name: in pro-orthology relationship with
+name: in semi-orthology relationship with
+name: in serial homology relationship with
+name: in heterochronous homology relationship with
+name: in paedomorphorsis relationship with
+name: in peramorphosis relationship with
+name: in progenesis relationship with
+name: in neoteny relationship with
+name: in mimicry relationship with
+name: in 1 to many orthology relationship with
+name: in many to many homology relationship with
+name: in 1 to many homology relationship with
+name: in apomorphy relationship with
+name: in plesiomorphy relationship with
+name: in deep homology relationship with
+name: in hemiplasy relationship with
+name: in gametology relationship with
+name: in chromosomal homology relationship with
+name: in many to many orthology relationship with
+name: in within-species paralogy relationship with
+name: in between-species paralogy relationship with
+name: in postdisplacement relationship with
+name: in hypermorphosis relationship with
+name: in synology relationship with
+name: in isoorthology relationship with
+name: in tandem paralogy relationship with
+name: in latent homology relationship with
+name: in syngeny relationship with
+name: in apparent orthology relationship with
+name: in pseudoparalogy relationship with
+name: in equivalogy relationship with
+name: in interology relationship with
+name: in functional equivalence relationship with
+name: in iterative homology relationship with
+name: in paraxenology relationship with
+name: in plerology relationship with
+name: in homotopy relationship with
+name: in homeosis relationship with
+name: in homoeology relationship with
+name: in paramorphism relationship with
+name: in regulogy relationship with
+name: results in acquisition of features of
+name: results in development of
+name: results in developmental progression of
+name: results in disappearance of
+name: results in formation of
+name: results in maturation of
+name: results in morphogenesis of

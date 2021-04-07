@@ -1,0 +1,59 @@
+abaxial to	axial to
+acyclic cyclicity	cyclic cyclicity
+alobate	lobate
+anaplastic	aplastic
+aneuploid	euploid
+asymmetrical	symmetrical
+atonicity	tonicity
+complex	simple
+curved dorsal	curved ventral
+dark blue	light blue
+dark brown	light brown
+dark cyan	light cyan
+dark green	light green
+dark grey	light grey
+dark magenta	light magenta
+dark orange	light orange
+dark phase	light phase
+dark purple	light purple
+dark red	light red
+dark red brown	light red brown
+dark violet	light violet
+dark yellow	light yellow
+dark yellow brown	light yellow brown
+decreased linear velocity	increased linear velocity
+decreased propagation velocity	increased propagation velocity
+decreased proportionality to	increased proportionality to
+decreased spatial extent of a process	increased spatial extent of a process
+desaturated blue	saturated blue
+desaturated brown	saturated brown
+desaturated cyan	saturated cyan
+desaturated green	saturated green
+desaturated magenta	saturated magenta
+desaturated orange	saturated orange
+desaturated purple	saturated purple
+desaturated red	saturated red
+desaturated violet	saturated violet
+desaturated yellow	saturated yellow
+disposition	position
+dorsal orientation	ventral orientation
+dorsal to	ventral to
+dystonicity	tonicity
+glutinous	non-glutinous
+ictal	non-ictal
+immobile relative to	mobile relative to
+nonpolar polarity	polar polarity
+obsolete backcross fertile	obsolete backcross sterile
+obsolete decreased action potential	obsolete increased action potential
+obsolete decreased consumption	obsolete increased consumption
+obsolete decreased percentage	obsolete increased percentage
+obsolete decreased relaxation	obsolete increased relaxation
+obsolete f1 fertile	obsolete f1 sterile
+obsolete f2 fertile	obsolete f2 sterile
+obsolete high	obsolete low
+obsolete high enzyme function value	obsolete low enzyme function value
+obsolete high percentage	obsolete low percentage
+obsolete high yield	obsolete low yield
+obsolete intercross fertile	obsolete intercross sterile
+obsolete negative regulation	obsolete positive regulation
+splayed dorsal	splayed ventral

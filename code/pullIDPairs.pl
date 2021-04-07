@@ -6,6 +6,12 @@
 # output: just the pair of IDs, with the IDs in a pair sorted and the entire set of pairs sorted
 # id01	id02
 
+# MAJOR UPDATE TO TEST DATA AND DOCUMENTATION NEEDED:
+# I'm modifying this to output pairs of IDs *OR* pairs of terms. I started
+# just doing IDs because that was the kind of data that we had from Chris et al.,
+# but it turns out that with other data you might want to pull out the terms,
+# so I'm making that an option.
+
 # usage:
 # cat inputFileName.tsv | ./pullIDPairs.pl
 
@@ -15,6 +21,10 @@
 use strict 'vars';
 
 my $DEBUG = 0;
+
+# set this to ID and you get pairs of IDs. Set it to TERM and you get pairs of terms.
+#my $OUTPUT_TYPE = "ID"; 
+my $OUTPUT_TYPE = "TERM";
 
 # you need to be able to sort the entire set of pairs
 # for reproducibility and testing purposes--do that with
@@ -37,7 +47,14 @@ while (my $line = <>) {
   $id01 = normalizeSeparator($id01);
   $id02 = normalizeSeparator($id02);
 
-  my @for_sorting = ($id01, $id02);
+  my @for_sorting = ();
+
+  if ($OUTPUT_TYPE eq "ID") {
+    @for_sorting = ($id01, $id02);
+  } elsif ($OUTPUT_TYPE == "TERM") {
+    @for_sorting = ($term01, $term02);
+  }
+
   my @sorted = sort(@for_sorting);
   my $sorted_pair = $sorted[0] . "\t" . $sorted[1];
   $DEBUG && print "$sorted_pair\n";

@@ -1,0 +1,188 @@
+abnormal	normal
+absent	present
+active	inactive
+acute	chronic
+adhesive	non-adhesive
+aerobic	anaerobic
+aerobic (for occurrence)	anaerobic (for occurrence)
+aligned with	misaligned with
+aromatic	non-aromatic
+arrhythmic	rhythmic
+asynchronous	synchronous
+back	front
+balanced	unbalanced
+branched	unbranched
+closed	open
+coiled	uncoiled
+colored	discolored
+compatible	incompatible
+complete structure	incomplete structure
+condensed	decondensed
+conspicuous	inconspicuous
+continuous	discontinuous
+contractile	non-contractile
+coordinated	uncoordinated
+crowded	uncrowded
+damaged	undamaged
+decreased accumulation	increased accumulation
+decreased acidity	increased acidity
+decreased adhesivity	increased adhesivity
+decreased affinity	increased affinity
+decreased age	increased age
+decreased amount	increased amount
+decreased angle to	increased angle to
+decreased anterior-posterior diameter	increased anterior-posterior diameter
+decreased area	increased area
+decreased avidity	increased avidity
+decreased behavioural activity	increased behavioural activity
+decreased branchiness	increased branchiness
+decreased cellular motility	increased cellular motility
+decreased circumference	increased circumference
+decreased coiling	increased coiling
+decreased combustibility	increased combustibility
+decreased concentration	increased concentration
+decreased contractility	increased contractility
+decreased coordination	increased coordination
+decreased curvature	increased curvature
+decreased degree of illumination	increased degree of illumination
+decreased depth	increased depth
+decreased diameter	increased diameter
+decreased distance	increased distance
+decreased distribution	increased distribution
+decreased duration	increased duration
+decreased duration of temperature	increased duration of temperature
+decreased efficacy	increased efficacy
+decreased efficiency	increased efficiency
+decreased elasticity	increased elasticity
+decreased elevation	increased elevation
+decreased fatigability	increased fatigability
+decreased fecundity	increased fecundity
+decreased female fertility	increased female fertility
+decreased female receptivity	increased female receptivity
+decreased fertility	increased fertility
+decreased flexibility	increased flexibility
+decreased fluid flow	increased fluid flow
+decreased fluorescence	increased fluorescence
+decreased force	increased force
+decreased fragility	increased fragility
+decreased frequency	increased frequency
+decreased functionality	increased functionality
+decreased height	increased height
+decreased humidity	increased humidity
+decreased intensity	increased intensity
+decreased length	increased length
+decreased life span	increased life span
+decreased magnetism	increased magnetism
+decreased magnitude	increased magnitude
+decreased male fertility	increased male fertility
+decreased male receptivity	increased male receptivity
+decreased mass	increased mass
+decreased mass density	increased mass density
+decreased mobility	increased mobility
+decreased object quality	increased object quality
+decreased occurrence	increased occurrence
+decreased odor	increased odor
+decreased osmolality	increased osmolality
+decreased osmolarity	increased osmolarity
+decreased perimeter	increased perimeter
+decreased permeability	increased permeability
+decreased phosphorylation	increased phosphorylation
+decreased photosensitivity	increased photosensitivity
+decreased pigmentation	increased pigmentation
+decreased porosity	increased porosity
+decreased position	increased position
+decreased pressure	increased pressure
+decreased process quality	increased process quality
+decreased quality	increased quality
+decreased radioactivity	increased radioactivity
+decreased radiopacity	increased radiopacity
+decreased rate	increased rate
+decreased resistance to	increased resistance to
+decreased sensitivity of a process	increased sensitivity of a process
+decreased sensitivity of a process to oxygen	increased sensitivity of a process to oxygen
+decreased sensitivity to irradiation	increased sensitivity to irradiation
+decreased sensitivity toward	increased sensitivity toward
+decreased size	increased size
+decreased solubility	increased solubility
+decreased speed	increased speed
+decreased stability	increased stability
+decreased strength	increased strength
+decreased susceptibility toward	increased susceptibility toward
+decreased temperature	increased temperature
+decreased tendency	increased tendency
+decreased thickness	increased thickness
+decreased threshold	increased threshold
+decreased tolerance to	increased tolerance to
+decreased tonicity	increased tonicity
+decreased turgor	increased turgor
+decreased variability	increased variability
+decreased variability of color	increased variability of color
+decreased variability of rate	increased variability of rate
+decreased variability of size	increased variability of size
+decreased variability of temperature	increased variability of temperature
+decreased velocity	increased velocity
+decreased viscosity	increased viscosity
+decreased volume	increased volume
+decreased waxiness	increased waxiness
+decreased weight	increased weight
+decreased wetness	increased wetness
+decreased width	increased width
+decreased width and length	increased width and length
+defasciculated	fasciculated
+degenerate	non-degenerate
+dephosphorylated	phosphorylated
+differentiated	undifferentiated
+discriminate	indiscriminate
+disorganized	organized
+disoriented	oriented
+distributed	undistributed
+down	up
+dry	wet
+edible	inedible
+efficient	inefficient
+elastic	inelastic
+elongated	shortened
+female fertile	female sterile
+female semi-fertile	female semi-sterile
+fertile	sterile
+flexible	inflexible
+fragile	non-fragile
+functional	non-functional
+hard	soft
+high brightness	low brightness
+high saturation	low saturation
+immature	mature
+immobile	mobile
+imperforate	perforate
+impermeable	permeable
+inflated	uninflated
+insensitive toward	sensitive toward
+insoluble in	soluble in
+insufficient	sufficient
+insusceptible toward	susceptible toward
+invariant	variant
+invariant color	variant color
+invariant shape	variant shape
+invariant temperature	variant temperature
+irregular duration	regular duration
+irregular sleep pattern	regular sleep pattern
+irregular spatial pattern	regular spatial pattern
+lumenized	unlumenized
+magnetic	non-magnetic
+male fertile	male sterile
+male semi-fertile	male semi-sterile
+necessary (continuant)	unnecessary (continuant)
+necessary (occurrent)	unnecessary (occurrent)
+negative charge	positive charge
+non-porous	porous
+non-potable	potable
+non-progressive	progressive
+old	young
+opaque	transparent
+ornamented	unornamented
+pigmented	unpigmented
+responsive to	unresponsive to
+rough	smooth
+serrated	unserrated
+stratified	unstratified
+structured	unstructured
