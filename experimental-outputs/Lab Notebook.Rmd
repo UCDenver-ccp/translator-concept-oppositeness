@@ -14,31 +14,10 @@ DEBUG <- FALSE
 
 ## 2021-04-05 report
 
-I extracted the terms from the current version of the RO, then got the absolute frequencies of their words:
-
-_/Users/kevincohen/Dropbox/Scripts-new/lexicalFrequency.pl experimental-outputs/ro.terms.txt
-_
-
-...which reveals imbalances in the use of words that are clear opposites, e.g.:
-
-* during	11 before	4 after	2
-* to	49 from	16 towards	1 _how about away?_
-* directly	18 indirectly	8
-* indirect	2 direct	2
-
-...which suggests that I could be adding a bunch of opposite terms to the ontology.
-
-So, I ran the current version of my antonym-finding script:
-
-_code/findAntonyms.pl resources/ontologies/ro.2021-03-08.obo.txt |wc -l _
-
-...which finds 43 pairs of opposites.
-
-Next step: find overlap with Mike's resources/ontologies/predicates.txt.
 
 ## Utility functions
 
-```{r}
+```{r, echo = FALSE}
 # arguments:
 # an ontology object
 # a list of IDs to look up and print the corresponding terms
@@ -56,7 +35,7 @@ print_opposites <- function(this.ontology, opposite.ids) {
 ```
 
 
-## PATO: opposites already annotated 
+## Opposites already manually paired 
 
 Bill can explain where these came from better than I can.
 
@@ -98,21 +77,27 @@ current <- as.vector(read_lines("/Users/kevincohen/Dropbox/N-Z/translator-concep
 x <- list(Mine = pato.mine, Current = current)
 ggVennDiagram(x)
 
-# print("In both mine and 'current':")
-# print(both.mine.and.current, row.names = FALSE)
-# print("In mine only:")
-# print(pato.mine.only)
-# print("In 'current' only:")
-# print(current.only)
+print("IN BOTH MINE AND THE CURRENT PAIRS:")
+#print(both.mine.and.current, row.names = FALSE)
+for (i in 1:length(both.mine.and.current)) { print(both.mine.and.current[[i]])}
+print("")
 
-#as.tibble(pato.mine.only)
+print("IN MINE ONLY:") 
+for (i in 1:length(pato.mine.only)) { print(pato.mine.only[[i]])}
+print("")
+
+print("IN THE CURRENT PAIRS ONLY:")
+for (i in 1:length(current.only)) { print(current.only[[i]])}
+
+
+
 
 ```
 
 
 ## Comparison to Chris et al.'s stuff
 
-```{r}
+```{r, echo = FALSE}
 chris <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/mungall_both_hp.tsv", header = FALSE, sep = "\t")
 colnames(chris) <- c("term01", "term02")
 chris <- as_tibble(chris)
@@ -133,25 +118,28 @@ print(chris)
 ```
 OK, we know the intersection/complements, so let's see what Chris's opposites look like, exactly.
 
-```{r}
+```{r, echo = FALSE}
 library(ontologyIndex)
 # His data is IDs only, and we need the terms, so we need to have a searchable version of HPO.
 hpo.ontology <- get_ontology("/Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo")
-for (i in 1:nrow(chris)) {
-  #print(chris[i,])
-  opposites <- chris[i,]
-  id01 <- as.character(opposites[1])
-  id02 <- as.character(opposites[2])
-  term01 <- get_term_property(hpo.ontology, property = "name", term = id01)
-  term02 <- get_term_property(hpo.ontology, property = "name", term = id02)
-  print(paste(term01, term02, sep = "     "))
-  # term01 <- chris[i,]
-  # term02 <- chris[i,]
-}
+
+# REDUNDANT, I THINK??
+# for (i in 1:nrow(chris)) {
+#   #print(chris[i,])
+#   opposites <- chris[i,]
+#   id01 <- as.character(opposites[1])
+#   id02 <- as.character(opposites[2])
+#   term01 <- get_term_property(hpo.ontology, property = "name", term = id01)
+#   term02 <- get_term_property(hpo.ontology, property = "name", term = id02)
+#   print(paste(term01, term02, sep = "     "))
+#   # term01 <- chris[i,]
+#   # term02 <- chris[i,]
+# }
 
 intersection.ids <- intersect(hp.mine, chris)
 if (DEBUG) { print(intersection.ids) }
 
+print("FOUND BY BOTH ME AND CHRIS:")
 for (i in 1:nrow(intersection.ids)) {
   opposites <- intersection.ids[i,]
   id01 <- as.character(opposites[1])
@@ -165,6 +153,8 @@ mine.only.ids <- setdiff(hp.mine, chris)
 chris.only.ids <- setdiff(chris, hp.mine)
 
 # TODO: could make term-only tibbles here
+print("FOUND BY ME, NOT BY CHRIS:")
+print("")
 for (i in 1:nrow(mine.only.ids)) {
   opposites <- mine.only.ids[i,]
   id01 <- as.character(opposites[1])
@@ -174,6 +164,8 @@ for (i in 1:nrow(mine.only.ids)) {
   print(paste(term01, term02, sep = "     "))
 }
 
+print("FOUND BY CHRIS, NOT BY ME:")
+print("")
 for (i in 1:nrow(chris.only.ids)) {
   opposites <- chris.only.ids[i,]
   id01 <- as.character(opposites[1])
@@ -186,4 +178,38 @@ for (i in 1:nrow(chris.only.ids)) {
 
 ```
 
+## RO exploration 
+
+I extracted the terms from the current version of the RO, then got the absolute frequencies of their words:
+
+_/Users/kevincohen/Dropbox/Scripts-new/lexicalFrequency.pl experimental-outputs/ro.terms.txt
+_
+
+...which reveals imbalances in the use of words that are clear opposites, e.g.:
+
+* during	11 before	4 after	2
+* to	49 from	16 towards	1 _how about away?_
+* directly	18 indirectly	8
+* indirect	2 direct	2
+
+...which suggests that I could be adding a bunch of opposite terms to the ontology.
+
+So, I ran the current version of my antonym-finding script:
+
+_code/findAntonyms.pl resources/ontologies/ro.2021-03-08.obo.txt |wc -l _
+
+...which finds 43 pairs of opposites.
+
+Next step: find overlap with Mike's resources/ontologies/predicates.txt.
+
+## For next week...
+
+1. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
+2. Suffixes (e.g. hydrophilic vs. hydrophobic)
+3. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+
+## For reproducibility
+```{r, echo = FALSE}
+sessionInfo()
+```
 
