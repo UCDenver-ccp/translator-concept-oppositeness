@@ -202,12 +202,13 @@ _code/findAntonyms.pl resources/ontologies/ro.2021-03-08.obo.txt |wc -l _
 
 Next step: find overlap with Mike's resources/ontologies/predicates.txt.
 
-## For next week...
+## For next weeks...
 
-0. Test cases in human-readable form
-1. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
-2. Suffixes (e.g. hydrophilic vs. hydrophobic)
-3. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+0. With Bill, reorganize repository and merge with TRANSLATOR's
+1. Test cases in human-readable form
+2. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
+3. Suffixes (e.g. hydrophilic vs. hydrophobic)
+4. Word-internal, possibly (might produce a lot of false positives later when we do generation)
 
 ## For reproducibility
 ```{r, echo = FALSE}

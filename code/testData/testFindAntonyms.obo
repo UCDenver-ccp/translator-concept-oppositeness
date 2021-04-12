@@ -37,6 +37,8 @@ id: MP:0014150
 name: lacrimal gland hypoplasia
 id: MP:0014151
 name: lacrimal gland
+id: MP:0101
+name: normal lacrimal gland development
 id: MP:0101010101010101
 name: gland hypertrophy
 id: MP:0101010101010101
@@ -81,6 +83,10 @@ id: MP:01010101
 name: abnormally fast depolarization
 id: MP:010101
 name: abnormally slow depolarization
+id: MP:0101010101
+name: abnormally fast repolarization
+id: MP:0101010101
+name: abnormally slow repolarization
 id: MP:0101010101
 name: abnormally fast kidney cell depolarization
 id: MP:010101
