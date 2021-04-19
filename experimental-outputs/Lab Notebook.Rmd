@@ -9,6 +9,9 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggVennDiagram)
+
 DEBUG <- FALSE
 ```
 
@@ -39,9 +42,7 @@ print_opposites <- function(this.ontology, opposite.ids) {
 
 Bill can explain where these came from better than I can.
 
-```{r, echo = FALSE}
-library("ggVennDiagram")
-library(tidyverse)
+```{r, echo = FALSE, eval = FALSE}
 
 # NB: need to add reduce/increase. Do HP, then RO.
 
@@ -209,6 +210,70 @@ Next step: find overlap with Mike's resources/ontologies/predicates.txt.
 2. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
 3. Suffixes (e.g. hydrophilic vs. hydrophobic)
 4. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+
+## 2021-04-15 report
+
+### Analysis of PATO opposites WRT the excluded middle
+
+Motivation: this picks out a specific type of opposition: what Pustejovsky calls _polar_, meaning that there's a scale and the things at the two poles of the scale are opposites of each other.
+
+### How I assigned the excluded.middle value
+
+0. If the middle is reasonably clearly excluded, I assigned the value _yes_. Examples: _acute/chronic, aerobic/anaerobic_. If that is not the case, then I put the "middle" value in the excluded.middle field. Example: for _phosphorylated/dephosphorylated_, I put the value _unphosphorylated_ in the excluded.middle column.
+
+1. Almost every pair that fits the pattern _increased/decreased x_ has a mid-point or neutral point _normal x_.
+2. Most pairs of the form _x/unx_ (e.g. _responsive/unresponive_) exclude the middle. Exception: _damaged/undamaged/repaired_.
+3. Most pairs of the form _x/dex_ (e.g. _phosphorylated/dephosphorylated_) have a neutral point _unx_ (e.g. _unphosphorylated_). 
+4. Most pairs of the form _hypox/hyperx_ where both members of the pair are single words have a single-word neutral point _normox_. For example, for the pair _hypotrophic/hypertrophic_, there is a neutral point _normotrophic_. If I had any question about the legitimacy of these, I checked Google Scholar to ensure that the _normox_ word is used.
+5. If I did not find such a word via Google Scholar, then I searched for the phrase _neither term01 nor term02_. If I found it, then I put the phrase in the field. (TODO: now that I think about it, if I didn't find the phrase, I didn't try again with the order _term02 term01_. Need to do that.)
+
+```{r}
+# "current" is the ones that Bill found currently in use
+in.both <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/typed.opposites.pato.in.both.txt", header = TRUE, sep = "\t")
+in.mine.only  <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/typed.opposites.pato.in.mine.txt", header = TRUE, sep = "\t")
+in.current.only <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/typed.opposites.pato.in.current.txt", header = TRUE, sep = "\t")
+
+in.both$excluded.middle <- as.character(in.both$excluded.middle)
+in.mine.only$excluded.middle <- as.character(in.mine.only$excluded.middle)
+in.current.only$excluded.middle <- as.character(in.current.only$excluded.middle)
+# in.both <- as_tibble(in.both)
+# in.both <- mutate(in.both, found.by = "BOTH")
+# in.mine.only <- as_tibble(in.mine.only)
+# in.mine.only <- mutate(in.mine.only, found.by = "ME")
+# in.current.only <- as_tibble(in.current.only)
+# in.current.only <- mutate(in.current.only, found.by = "CURRENT")
+ 
+# in.combined <- as_tibble(in.both, in.mine.only, in.current.only)
+
+#ggplot(data = in.combined, mapping = aes(x = found.by, )) +
+#  geom_bar(stat ="identity")
+
+in.counts <- c(nrow(in.both), nrow(in.mine.only), nrow(in.current.only))
+#in.counts <- as_tibble(in.counts, counts = in.counts)
+barplot(in.counts, names.arg = c("BOTH", "ME ONLY", "CURRENT ONLY"))
+
+# I CAN'T GET THIS TO WORK...
+#excluded.middle.counts <- c()
+##count.both <- nrow(select(in.both, in.both$excluded.middle == "yes"))
+##select(in.both, in.both$excluded.middle == "yes")
+##count.both <- nrow(in.both$term01[in.both$term01 == "yes"])
+##count.both <- in.both[which(in.both$excluded.middle == 'yes')]
+
+#count.mine <- nrow(in.mine.only$term01[in.mine.only$term01 == "yes"])
+#count.current <- nrow(in.current.only$term01[in.current.only$term01 == "yes"])
+#excluded.middle.counts <- c(count.both, count.mine, count.current)
+
+#barplot(excluded.middle.counts, names.arg = c("BOTH", "ME ONLY", "CURRENT ONLY"))
+```
+
+### For next weeks...
+
+1. Test cases in human-readable form
+2. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
+3. Suffixes (e.g. hydrophilic vs. hydrophobic)
+4. Consistent naming scheme for experimental-results directory
+5. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+
 
 ## For reproducibility
 ```{r, echo = FALSE}

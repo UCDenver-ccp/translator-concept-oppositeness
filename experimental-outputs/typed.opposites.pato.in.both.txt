@@ -1,0 +1,189 @@
+aerobic	anaerobic	yes		
+aerobic (for occurrence)	anaerobic (for occurrence)	yes		
+acute	chronic	yes		
+condensed	decondensed	uncondensed		
+colored	discolored	uncolored		
+continuous	discontinuous	yes		
+defasciculated	fasciculated	unfasciculated		
+female semi-fertile	female semi-sterile	equivalent??		
+female fertile	female sterile	female semi-sterile		
+back	front	central		
+active	inactive	yes		
+compatible	incompatible	yes		
+complete structure	incomplete structure	yes		
+conspicuous	inconspicuous	yes		
+decreased accumulation	increased accumulation	normal accumulation		
+decreased acidity	increased acidity	normal acidity		
+decreased adhesivity	increased adhesivity	normal adhesivity		
+decreased affinity	increased affinity	normal		
+decreased age	increased age	normal age		
+decreased amount	increased amount	normal amount		
+decreased angle to	increased angle to	normal angle to		
+decreased anterior-posterior diameter	increased anterior-posterior diameter	normal anterior-posterior diameter		
+decreased area	increased area	normal area		
+decreased avidity	increased avidity	normal avidity		
+decreased behavioural activity	increased behavioural activity	normal behavioural activity		
+decreased branchiness	increased branchiness	normal branchiness		
+decreased cellular motility	increased cellular motility	normal cellular motility		
+decreased circumference	increased circumference	normal circumference		
+decreased coiling	increased coiling	normal coiling		
+decreased combustibility	increased combustibility	normal combustibility		
+decreased concentration	increased concentration	normal concentration		
+decreased contractility	increased contractility	normal contractility		
+decreased coordination	increased coordination	normal coordination		
+decreased curvature	increased curvature	normal curvature		
+decreased degree of illumination	increased degree of illumination	normal degree of illumination		
+decreased depth	increased depth	normal depth		
+decreased diameter	increased diameter	normal diameter		
+decreased distance	increased distance	normal distance		
+decreased distribution	increased distribution	normal distribution		
+decreased duration	increased duration	normal duration		
+decreased duration of temperature	increased duration of temperature	normal duration of temperature		
+decreased efficacy	increased efficacy	normal efficacy		
+decreased efficiency	increased efficiency	normal efficiency		
+decreased elasticity	increased elasticity	normal elasticity		
+decreased elevation	increased elevation	normal elevation		
+decreased fatigability	increased fatigability	normal fatigability		
+decreased fecundity	increased fecundity	normal fecundity		
+decreased female fertility	increased female fertility	normal fertility		
+decreased female receptivity	increased female receptivity	normal female receptivity		
+decreased fertility	increased fertility	normal fertility		
+decreased flexibility	increased flexibility	normal flexibility		
+decreased fluid flow	increased fluid flow	normal fluid flow		
+decreased fluorescence	increased fluorescence	normal fluorescence		
+decreased force	increased force	normal force		
+decreased fragility	increased fragility	normal fragility		
+decreased frequency	increased frequency	normal frequency		
+decreased functionality	increased functionality	normal functionality		
+decreased height	increased height	normal height		
+decreased humidity	increased humidity	normal humidity		
+decreased intensity	increased intensity	normal intensity		
+decreased length	increased length	normal length		
+decreased life span	increased life span	normal life span		
+decreased magnetism	increased magnetism	normal magnetism		
+decreased magnitude	increased magnitude	normal magnitude		
+decreased male fertility	increased male fertility	normal male fertility		
+decreased male receptivity	increased male receptivity	normal male receptivity		
+decreased mass	increased mass	normal mass		
+decreased mass density	increased mass density	normal mass density		
+decreased mobility	increased mobility	normal mobility		
+decreased object quality	increased object quality	normal object quality		
+decreased occurrence	increased occurrence	normal occurrence		
+decreased odor	increased odor	normal odor		
+decreased osmolality	increased osmolality	?		
+decreased osmolarity	increased osmolarity	?		
+decreased perimeter	increased perimeter	normal perimeter		
+decreased permeability	increased permeability	normal permeability		
+decreased phosphorylation	increased phosphorylation	?		
+decreased photosensitivity	increased photosensitivity	normal photosensitivity		
+decreased pigmentation	increased pigmentation	normal pigmentation		
+decreased porosity	increased porosity	normal porosity		
+decreased position	increased position	?		
+decreased pressure	increased pressure	normal pressure		
+decreased process quality	increased process quality	normal process quality		
+decreased quality	increased quality	normal quality		
+decreased radioactivity	increased radioactivity	normal radioactivity		
+decreased radiopacity	increased radiopacity	normal radiopacity		
+decreased rate	increased rate	normal rate		
+decreased resistance to	increased resistance to	normal resistance to		
+decreased sensitivity of a process	increased sensitivity of a process	normal sensitivity of a process		
+decreased sensitivity of a process to oxygen	increased sensitivity of a process to oxygen	normal sensitivity of a process to oxygen		
+decreased sensitivity to irradiation	increased sensitivity to irradiation	normal sensitivity to radiation		
+decreased sensitivity toward	increased sensitivity toward	normal sensitivity toward		
+decreased size	increased size	normal size		
+decreased solubility	increased solubility	normal solubility		
+decreased speed	increased speed	normal speed		
+decreased stability	increased stability	normal stability		
+decreased strength	increased strength	normal strength		
+decreased susceptibility toward	increased susceptibility toward	normal susceptibility toward		
+decreased temperature	increased temperature	normal temperature		
+decreased tendency	increased tendency	normal tendency		
+decreased thickness	increased thickness	normal thickness		
+decreased threshold	increased threshold	normal threshold		
+decreased tolerance to	increased tolerance to	normal tolerance to		
+decreased tonicity	increased tonicity	normal tonicity		
+decreased turgor	increased turgor	normal turgor		
+decreased variability	increased variability	normal variability		
+decreased variability of color	increased variability of color	normal variability of color		
+decreased variability of rate	increased variability of rate	normal variability of rate		
+decreased variability of size	increased variability of size	normal variability of size		
+decreased variability of temperature	increased variability of temperature	normal variability of temperature		
+decreased velocity	increased velocity	normal velocity		
+decreased viscosity	increased viscosity	normal viscosity		
+decreased volume	increased volume	normal volume		
+decreased waxiness	increased waxiness	normal waxiness		
+decreased weight	increased weight	normal weight		
+decreased wetness	increased wetness	normal wetness		
+decreased width	increased width	normal width		
+decreased width and length	increased width and length	normal width and length		
+discriminate	indiscriminate	yes		
+edible	inedible	yes		
+efficient	inefficient	yes		
+elastic	inelastic	yes		
+flexible	inflexible	yes		
+high brightness	low brightness	normal brightness		
+high saturation	low saturation	normal saturation		
+male semi-fertile	male semi-sterile	yes		
+male fertile	male sterile	male semi-fertile		
+immature	mature	yes		
+aligned with	misaligned with	yes		
+immobile	mobile	yes		
+adhesive	non-adhesive	yes		
+aromatic	non-aromatic	yes		
+contractile	non-contractile	yes		
+degenerate	non-degenerate	yes		
+fragile	non-fragile	yes		
+functional	non-functional	yes		
+magnetic	non-magnetic	yes		
+abnormal	normal	yes		
+closed	open	yes		
+disorganized	organized	yes		
+disoriented	oriented	yes		
+imperforate	perforate	yes		
+impermeable	permeable	yes		
+dephosphorylated	phosphorylated	unphosphorylated		
+non-porous	porous	yes		
+negative charge	positive charge	yes		
+non-potable	potable	yes		
+absent	present	yes		
+non-progressive	progressive	yes		
+irregular duration	regular duration	yes		
+irregular sleep pattern	regular sleep pattern	yes		
+irregular spatial pattern	regular spatial pattern	yes		
+arrhythmic	rhythmic	yes		
+insensitive toward	sensitive toward	yes		
+elongated	shortened	of normal length		
+rough	smooth	yes		
+hard	soft	yes		
+insoluble in	soluble in	yes		
+fertile	sterile	"semi-fertile, semi-sterile"		
+insufficient	sufficient	yes		
+insusceptible toward	susceptible toward	yes		
+asynchronous	synchronous	yes		
+term01	term02	excluded.middle		
+opaque	transparent	translucent		
+balanced	unbalanced	yes		
+branched	unbranched	yes		
+coiled	uncoiled	yes		
+coordinated	uncoordinated	yes		
+crowded	uncrowded	yes		
+damaged	undamaged	repaired		
+differentiated	undifferentiated	yes		
+distributed	undistributed	yes		
+inflated	uninflated	yes		
+lumenized	unlumenized	yes		
+necessary (continuant)	unnecessary (continuant)	yes		
+necessary (occurrent)	unnecessary (occurrent)	yes		
+ornamented	unornamented	yes		
+pigmented	unpigmented	yes		
+responsive to	unresponsive to	yes		
+serrated	unserrated	yes		
+stratified	unstratified	yes		
+structured	unstructured	yes		
+down	up	yes		un- meaning not
+invariant	variant	yes		un- meaning reversed
+invariant color	variant color	yes		Éyou could maybe differentiate these with patterns and a Google search??
+invariant shape	variant shape	yes		
+invariant temperature	variant temperature	yes		
+dry	wet	yes		
+old	young	"middle-aged, adult, maturge"		

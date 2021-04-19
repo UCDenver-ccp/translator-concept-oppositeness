@@ -1,12 +1,19 @@
 #!/usr/bin/perl
 
-# ASSUMPTION: for now, we only handle terms of one word in length
-# Now adding multi-word terms
+# Goal: given an ontology, find the concepts in it which are opposites of each other.
+# Definition of "opposites of each other:" see my paper draft.
 
-# QUESTION: what file type does this need as input??
-# let's assume a .obo file, although that doesn't seem to be what I originally wrote this for...
+# Usage:
+# findAntonyms.pl infile_name
 
-# TODO: need test data files
+# ASSUMPTION: Input file is in .obo format.
+
+# ASSUMPTION: word-medial contrasts are not handled yet.
+# example: photosensitive/photoinsensitive 
+
+# TEST INPUT FILE: code/testFindAntonyms.obo
+# TEST GOLD STANDARD OUTPUT FILE: code/testData/testFindAntonyms.tsv
+
 # TEST CASES:
 # - ambiguous prefix, is negative, opposite exists (cancerous, noncancerous) (anion, ion, cation) (this is actually multiple opposites, I think)
 # - ambiguous affix, is negative, no opposite exists
@@ -67,7 +74,7 @@ my $DEBUG = 0;
 #my $DEBUG = 1;
 
 # set this to 1 if you only want the IDs--otherwise, to 0
-my $IDS_ONLY = 1;
+my $IDS_ONLY = 0;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;

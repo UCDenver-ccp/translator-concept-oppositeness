@@ -1,0 +1,28 @@
+term01	term02	excluded.middle	
+anterodistal orientation	anterodorsal orientation	ERROR	ERROR
+auxotrophic	prototrophic	yes	
+behavioural active	behavioural inactive	yes	
+biconcave	biconvex	?	
+concave	convex	flat	
+concave 3-D shape	convex 3-D shape	yes	
+distal orientation	dorsal orientation	ERROR	
+distal to	dorsal to	ERROR	relational
+east	west	central	directional
+fused with	unfused from	never fused with	relational
+has extra parts of type	has fewer parts of type	has normal number of parts of type	
+hydrophilic	hydrophobic	"""neither hydrophilic nor hydrophobic?"	
+hydrophilicity	hydrophobicity	?	
+hyperelliptic	hypoelliptic	?	
+hyperplastic	hypoplastic	normoplastic	
+hyperresponsive to	hyporesponsive to	normoresponsive to	relational
+hypertrophic	hypotrophic	normotrophic	
+hypertrophic growth	hypotrophic growth	normal growth	
+increased virulence	reduced virulence	normal virulence	
+large (value)	small (value)	"""neither large nor small"""	
+north	south	central	directional
+paedomorphic growth	peramorphic growth		
+photoinsensitive	photosensitive	yes	
+posterodistal orientation	posterodorsal orientation		
+recurrent	sporadic	ERROR?	
+relative large (value)	relative small (value)	?	
+resistance to	susceptibility toward	yes	relational

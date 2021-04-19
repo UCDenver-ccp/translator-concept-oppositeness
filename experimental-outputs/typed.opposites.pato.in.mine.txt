@@ -1,0 +1,60 @@
+term01	term02	excluded.middle
+abaxial to	axial to	
+acyclic cyclicity	cyclic cyclicity	
+alobate	lobate	
+anaplastic	aplastic	
+aneuploid	euploid	
+asymmetrical	symmetrical	
+atonicity	tonicity	
+complex	simple	yes
+curved dorsal	curved ventral	
+dark blue	light blue	blue
+dark brown	light brown	brow
+dark cyan	light cyan	cyan
+dark green	light green	green
+dark grey	light grey	grey
+dark magenta	light magenta	magenta
+dark orange	light orange	orange
+dark phase	light phase	yes
+dark purple	light purple	purple
+dark red	light red	red
+dark red brown	light red brown	red brown
+dark violet	light violet	violet
+dark yellow	light yellow	yellow
+dark yellow brown	light yellow brown	yellow brown
+decreased linear velocity	increased linear velocity	normal linear velocity
+decreased propagation velocity	increased propagation velocity	normal propagation velocity
+decreased proportionality to	increased proportionality to	?
+decreased spatial extent of a process	increased spatial extent of a process	normal spatial extent of a process
+desaturated blue	saturated blue	unsaturated blue
+desaturated brown	saturated brown	unsaturated brown
+desaturated cyan	saturated cyan	unsaturated cyan
+desaturated green	saturated green	unsaturated green
+desaturated magenta	saturated magenta	unsaturated magenta
+desaturated orange	saturated orange	unsaturated orange
+desaturated purple	saturated purple	unsaturated purple
+desaturated red	saturated red	unsaturated red
+desaturated violet	saturated violet	unsaturated violet
+desaturated yellow	saturated yellow	unsaturated yellow
+disposition	position	ERROR
+dorsal orientation	ventral orientation	lateral orientation
+dorsal to	ventral to	lateral to
+dystonicity	tonicity	yes
+glutinous	non-glutinous	yes
+ictal	non-ictal	CHECK
+immobile relative to	mobile relative to	yes
+nonpolar polarity	polar polarity	?
+obsolete backcross fertile	obsolete backcross sterile	N/A
+obsolete decreased action potential	obsolete increased action potential	N/A
+obsolete decreased consumption	obsolete increased consumption	N/A
+obsolete decreased percentage	obsolete increased percentage	N/A
+obsolete decreased relaxation	obsolete increased relaxation	N/A
+obsolete f1 fertile	obsolete f1 sterile	N/A
+obsolete f2 fertile	obsolete f2 sterile	N/A
+obsolete high	obsolete low	N/A
+obsolete high enzyme function value	obsolete low enzyme function value	N/A
+obsolete high percentage	obsolete low percentage	N/A
+obsolete high yield	obsolete low yield	N/A
+obsolete intercross fertile	obsolete intercross sterile	N/A
+obsolete negative regulation	obsolete positive regulation	N/A
+splayed dorsal	splayed ventral	splayed lateral

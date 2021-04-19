@@ -1,0 +1,43 @@
+hypertrophy	MP:0101010101	hypotrophy	MP:01010101010101
+hyperkinetic	SNOMED:01010101	hypokinetic	SNOMED:010101010101
+warm	MP:010101	wet	MP:010101010101
+warm	MP:010101	hot	MP:0101010101
+hot	MP:0101010101	cold	MP:0101010101
+warm	MP:010101	cold	MP:0101010101
+abnormally fast depolarization	MP:010101	abnormally slow depolarization	MP:0101010101
+abnormally slow depolarization	MP:0101010101	abnormally fast depolarization	MP:010101
+early depolarization	MP:0101	late depolarization	MP:0101
+early depolarization	MP:0101	early repolarization	MP:0101
+early repolarization	MP:0101	early depolarization	MP:0101
+early dorsal spine development	MP:0101	early ventral spine development	MP:0101
+early ventral spine development	MP:0101	early dorsal spine development	MP:0101
+exercise-induced high blood pressure	MP:0101	exercise-induced low blood pressure	MP:0101
+exercise-induced low blood pressure	MP:0101	exercise-induced high blood pressure	MP:0101
+fast	SNOMED:010101010101	slow	SNOMED:01010101
+hypertrophic cardiomyopathy	MP:0101	non-hypertrophic cardiomyopathy	MP:0101
+hypertrophic cardiomyopathy	MP:0101	nonhypertrophic cardiomyopathy	MP:0101
+atrophic cardiopathy	MP:0101	nonatrophic cardiomyopathy	MP:0101
+atrophic cardiopathy	MP:0101	nonhypertrophic cardiomyopathy	MP:0101
+hypertrophic cardiomyopathy	MP:0101	non-atrophic cardiomyopathy	MP:0101
+			
+			
+			
+late depolarization	MP:0101	early depolarization	MP:0101
+slow	MP:01010101	fast	MP:010101010101
+normal myocardial thickness	MP:0101	abnormal myocardial thickness	id: MP:0101
+drug-induced abnormal myocardial thickness	MP:0101	exercise-induced abnormal myocardial thickness	id: MP:0101
+abnormality	MP:0101	drug-induced abnormality	id: MP:0101
+exercise-induced abnormality	MP:0101	hypertension	id: MP:0101
+high blood pressure	MP:0101	sinus node cell depolarization	id: MP:0101
+sinus node cell repolarization	MP:0101	left bundle branch hyperconductivity	id: MP:0101
+left bundle branch hypoconductivity	MP:0101	right bundle branch hyperconductivity	id: MP:0101
+right bundle branch hypoconductivity	MP:0101	left bundle branch hyperconductivity	id: MP:0101
+lacrimal gland hypertrophy	MP:0013454	lacrimal gland hypotrophy	id: MP:0101010101
+lacrimal gland hypotrophy	MP:0101010101	lacrimal gland hyperplasia	id: MP:0014150
+lacrimal gland hypoplasia	MP:0014151	lacrimal gland	id: MP:0101
+normal lacrimal gland development	MP:0101010101010101	gland hypertrophy	id: MP:0101010101010101
+stomach epithelial hyperplasia	MP:0005493	lacrimal gland dysplasia	id: MP:0001346
+lacrimal gland dysplasia	MP:0001346	stomach mucosa hyperplasia	id: MP:0010799
+abnormal stomach non-glandular epithelium morphology	MP:0000472	abnormal stomach glandular epithelium morphology	id: MP:0000473
+increased stomach glandular epithelium tumor incidence	MP:0012406	increased duodenum glandular epithelium tumor incidence	id: MP:0012408
+abnormal white adipose tissue physiology	MP:0005670	abnormal brown adipose tissue physiology	id: MP:0011698
