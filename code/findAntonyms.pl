@@ -281,7 +281,7 @@ foreach my $pair (@unique_pairs) {
 # but by replacement of one affix with another.  Examples: 
 # hyperlipidemia <=> hypolipidemia
 # hydrophobic <=> hydrophylic
-sub replacements { # question: why doesn't this work with parentheses, while every other function seems to??
+sub replacements() {
   my $input = $_[0];
   my $output = $input;
 
