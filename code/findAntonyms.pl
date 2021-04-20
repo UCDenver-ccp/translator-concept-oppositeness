@@ -33,42 +33,6 @@
 # - word is not in WordNet
 
 
-# GOAL: opposites that are formed not by addition of an affix,
-# but by replacement of one affix with another.  Examples: 
-# hyperlipidemia <=> hypolipidemia
-# hydrophobic <=> hydrophylic
-sub replacements { # question: why doesn't this work with parentheses, while every other function seems to??
-  my $input = $_[0];
-  my $output = $input;
-
-  1 && print "Input to replacements(): <$input>\n";
-
-# enlarged versus small
-
-  my %paired_affixes = ("pro" => "anti",
-                        "anti" => "pro",
-                        "phylic" => "phobic",
-                        "phobic" => "philic",
-                        "hyper" => "hypo",
-                        "hypo" => "hyper",
-                        "pre" => "post",
-                        "post" => "pre",
-
-                        "emia" => "openia"); # will miss -penia with any other vowel in front of it, but not sure that happens
-
-
-  my @affixes = keys(%paired_affixes);
-  foreach my $affix (@affixes) {
-    my $replacement = $paired_affixes{$affix};
-    # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
-    if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
-      1 && print "HIT in replacements(): <$input> <$output>\n";
-      # store it #### PICK IT UP HERE
-      storeTerm($input, $output) 
-    }
-  }
-  return 1; # just to signal success
-} # close function definition replacements()
 ##########################################################
 #################### SET THINGS UP #######################
 ##########################################################
@@ -312,6 +276,46 @@ foreach my $pair (@unique_pairs) {
   
 }
 
+# FUNCTION DEFINITION: replacements()
+# GOAL: opposites that are formed not by addition of an affix,
+# but by replacement of one affix with another.  Examples: 
+# hyperlipidemia <=> hypolipidemia
+# hydrophobic <=> hydrophylic
+sub replacements { # question: why doesn't this work with parentheses, while every other function seems to??
+  my $input = $_[0];
+  my $output = $input;
+
+  $DEBUG && print "Input to replacements(): <$input>\n";
+
+# enlarged versus small
+
+  my %paired_affixes = ("pro" => "anti",
+                        "anti" => "pro",
+                        "phylic" => "phobic",
+                        "phobic" => "philic",
+                        "hyper" => "hypo",
+                        "hypo" => "hyper",
+                        "pre" => "post",
+                        "post" => "pre",
+
+                        "emia" => "openia"); # will miss -penia with any other vowel in front of it, but not sure that happens
+
+
+  my @affixes = keys(%paired_affixes);
+  foreach my $affix (@affixes) {
+    my $replacement = $paired_affixes{$affix};
+    # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
+    if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
+      1 && print "HIT in replacements(): <$input> <$output>\n";
+      # OK, we found an affix to replace. But, is the resulting term in the ontology?
+      if ($gene_ontology_terms{$output}) {
+        1 && print "$output is in the ontology!\n";
+        storePair($input, $output);
+      } # close if-term-is-in-ontology  
+    } # if you-did-a-replacement
+  }
+  return 1; # just to signal success
+} # close function definition replacements()
 ### FUNCTION DEFINITION: twoWordTerms()
 ### XXX TODO: WRITE A RECURSIVE FX INSTEAD, DUMMY
 sub twoWordTerms() {
