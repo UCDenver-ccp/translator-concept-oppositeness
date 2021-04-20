@@ -270,10 +270,11 @@ barplot(in.counts, names.arg = c("BOTH", "ME ONLY", "CURRENT ONLY"))
 
 1. Test cases in human-readable form
 2. Handle substitutions (e.g. hypercalcemia vs. hypocalcemia)
-3. Suffixes (e.g. hydrophilic vs. hydrophobic)
-4. Consistent naming scheme for experimental-results directory
-5. Word-internal, possibly (might produce a lot of false positives later when we do generation)
-6. 
+3. Failing test case: _protein folding_ versus _protein unfolding_
+4. Suffixes (e.g. hydrophilic vs. hydrophobic)
+5. Consistent naming scheme for experimental-results directory
+6. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+7. _See email exchange with Bill_
 
 
 ## For reproducibility

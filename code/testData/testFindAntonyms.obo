@@ -1,3 +1,11 @@
+name: protein folding
+id: GO:0006457
+name: protein unfolding
+id: GO:0043335
+name: hypercalcemia
+id: MP_0000194
+name: hypocalcemia
+id: MP_0000195
 name: leukopenia
 id: SCTID:84828003 
 name: leukemia
@@ -31,7 +39,9 @@ id: MP:0101
 name: exercise-induced abnormality
 id: MP:0101
 name: hypertension
-id: MP:0101
+id: MP_0000231
+name: hypotension
+id: MP_0001596
 name: high blood pressure
 id: MP:0101
 name: sinus node cell depolarization
@@ -47,7 +57,9 @@ id: MP:0101
 name: right bundle branch hypoconductivity
 id: MP:0101
 name: lacrimal gland hypertrophy
-id: MP:0013454
+id: MP_0013454
+name: lacrimal gland atrophy
+id: MP_0013455
 name: lacrimal gland hypotrophy
 id: MP:0101010101
 name: lacrimal gland hyperplasia
@@ -79,13 +91,15 @@ id: MP:0005670
 name: abnormal brown adipose tissue physiology
 id: MP:0011698
 name: hypertrophy
-id: MP:0101010101
+id: MPATH:159
 name: hypotrophy
-id: MP:01010101010101
+id: GSSO:004832
+name: atrophy
+id: MPATH:127
 name: hyperkinetic
-id: SNOMED:01010101
+id: SCTID:373130004
 name: hypokinetic
-id: SNOMED:010101010101
+id: SCTID:255385008
 name: warm
 id: MP:010101
 name: wet
@@ -198,10 +212,6 @@ name: movement of anions against a gradient
 id: MP:0101
 name: movement of cations against a gradient
 id: MP:0101
-name: protein folding
-id: MP:0101
-name: protein unfolding
-id: MP:0101
 name: heliotrophy
 id: MP:0101
 name: pleiotropy
@@ -214,40 +224,73 @@ name: meiotic
 id: MP:0101
 name: mitotic
 id: MP:0101
-ameliorates	exacerbates
-amelioration	exacerbation
-decrease	increase
-decreases	increases
-increased	reduced
-decreased	increased
-synthesis	degradation
-degrade	synthesize
-deletion	insertion
-cutting	pasting
-input to	output of
-input to	output from
-negative regulation	positive regulation
-negatively	positively
-active	inactive
-activated	inactivated
-activating	inactivating
-follow	precede
-follows	precedes
-following	preceding
+name: ameliorates
+id: RO:0003307
+name: exacerbates
+id: RO:0003309
+name: amelioration
+name: exacerbation
+name: decrease
+name: increase
+name: decreases
+name: increases
+name: increased
+name: reduced
+name: decreased
+name: increased
+name: synthesis
+name: degradation
+name: degrade
+name: synthesize
+name: deletion
+name: insertion
+name: cutting
+name: pasting
+name: input to
+name: output of
+name: input to
+name: output from
+name: negative regulation
+name: positive regulation
+name: negatively
+name: positively
+name: active
+name: inactive
+name: activated
+name: inactivated
+name: activating
+name: inactivating
+name: follow
+name: precede
+name: follows
+name: precedes
+name: following
+name: preceding
 
-broad_match, narrrow_match
+name: broad_match
+name: narrow_match
 
 
-decreases_abundance_of, increases_abundance_of
-decreases_activity_of,t increases_activity_of
-decreases_expression_of, increases_expression_of
-decreases_folding_of, increases_folding_of
-decreases_localization_of, increases_localization_of
-decreases_metabolic_processing_of, increases_metabolic_processing_of
-decreases_molecular_interaction, increases_molecular_interaction
-decreases_molecular_modification_of, increases_molecular_modification_of
-decreases_mutation_rate_of, increases_mutation_rate_of
-decreases_response_to, increases_response_to
+name: decreases_abundance_of
+name: increases_abundance_of
+name: decreases_activity_of
+name: increases_activity_of
+name: decreases_expression_of
+name: increases_expression_of
+name: decreases_folding_of
+name: increases_folding_of
+name: decreases_localization_of
+name: increases_localization_of
+name: decreases_metabolic_processing_of
+name: increases_metabolic_processing_of
+name: decreases_molecular_interaction
+name: increases_molecular_interaction
+name: decreases_molecular_modification_of
+name: increases_molecular_modification_of
+name: decreases_mutation_rate_of
+name: increases_mutation_rate_of
+name: decreases_response_to
+name: increases_response_to
 decreases_secretion_of, increases_secretion_of
 decreases_splicing_of, increases_splicing_of
 decreases_synthesis_of, increases_synthesis_of
@@ -270,8 +313,13 @@ negatively_regulated_by, positively_regulated_by
 negatively_regulates, positively_regulates
 preceded_by, precedes
 predisposes, prevents
-process_negatively_regulated_by_process, entity_positively_regulated_by_process
-process_negatively_regulates_process, process_positively_regulates_process
-subclass_of, superclass_of
-transcribed_from, transcribed_to
-translates_to, translation_of
+process_negatively_regulated_by_process
+entity_positively_regulated_by_process
+process_negatively_regulates_process
+process_positively_regulates_process
+name: subclass_of
+name: superclass_of
+name: transcribed_from
+name: transcribed_to
+name: translates_to
+name: translation_of
