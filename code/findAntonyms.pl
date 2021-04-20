@@ -37,9 +37,11 @@
 # but by replacement of one affix with another.  Examples: 
 # hyperlipidemia <=> hypolipidemia
 # hydrophobic <=> hydrophylic
-sub replacements() {
-  my $input = $_;
+sub replacements { # question: why doesn't this work with parentheses, while every other function seems to??
+  my $input = $_[0];
   my $output = $input;
+
+  1 && print "Input to replacements(): <$input>\n";
 
 # enlarged versus small
 
@@ -50,16 +52,22 @@ sub replacements() {
                         "hyper" => "hypo",
                         "hypo" => "hyper",
                         "pre" => "post",
-                        "post" => "pre");
+                        "post" => "pre",
+
+                        "emia" => "openia"); # will miss -penia with any other vowel in front of it, but not sure that happens
+
 
   my @affixes = keys(%paired_affixes);
   foreach my $affix (@affixes) {
     my $replacement = $paired_affixes{$affix};
     # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
     if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
+      1 && print "HIT in replacements(): <$input> <$output>\n";
       # store it #### PICK IT UP HERE
+      storeTerm($input, $output) 
     }
   }
+  return 1; # just to signal success
 } # close function definition replacements()
 ##########################################################
 #################### SET THINGS UP #######################
@@ -268,6 +276,9 @@ foreach my $term (keys(%gene_ontology_terms)) {
     $DEBUG && print "Found one: $term, $candidate_antonym\n";
     storePair($term, $candidate_antonym);
   }
+
+  replacements($term); # stuff like hyperlipidemia/hypolipidemia
+
   # XXXXXXX WHAT THE FUCK IS THIS DOING???
   if ((my $candidate_antonym = lexicalizedOpposites($term)) != 0) {
     #print "name:\t$term\n";
