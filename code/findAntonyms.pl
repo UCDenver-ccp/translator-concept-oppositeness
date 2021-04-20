@@ -276,6 +276,10 @@ foreach my $pair (@unique_pairs) {
   
 }
 
+##############################################
+############ FUNCTION DEFINITIONS ############
+##############################################
+
 # FUNCTION DEFINITION: replacements()
 # GOAL: opposites that are formed not by addition of an affix,
 # but by replacement of one affix with another.  Examples: 
@@ -306,10 +310,22 @@ sub replacements() {
     my $replacement = $paired_affixes{$affix};
     # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
     if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
-      1 && print "HIT in replacements(): <$input> <$output>\n";
-      # OK, we found an affix to replace. But, is the resulting term in the ontology?
+      $DEBUG && print "HIT in replacements(): <$input> <$output>\n";
+      # OK, we found an affix to replace. 
+      # But, did we end up with an output that's identical to the input?
+      # Because of the way that the pairings work, it's entirely possible
+      # to have that happen. Simplest solution is to just filter those out,
+      # at least for now.
+      if ($input eq $output) {
+        $DEBUG && "Skipping <$input> <$output>...\n";
+        next;
+      }
+
+      # OK, if we got here, then we did *not* end up with
+      # the same term twice.
+      # But, is the potential opposite term in the ontology?
       if ($gene_ontology_terms{$output}) {
-        1 && print "$output is in the ontology!\n";
+        $DEBUG && print "$output is in the ontology!\n";
         storePair($input, $output);
       } # close if-term-is-in-ontology  
     } # if you-did-a-replacement
