@@ -12,6 +12,10 @@ name: leukemia
 id: SCTID:93143009 
 name: leucosis
 id: MP:0101010101 
+name: hypertension
+id: MP_0000231
+name: hypotension
+id: MP_0001596
 name: hypoglycemia
 id: SCTID:302866003 
 name: hyperglycemia
@@ -24,6 +28,10 @@ name: ketotic hypoglycemia
 id: SCTID: 20825002 
 name: fasting hypoglycemia
 id: SCTID:6974005
+name: oil gland decreased thickness
+id: FLOPO_0012118
+name: oil gland increased thickness
+id: FLOPO_0003103
 name: normal myocardial thickness
 id: MP:0101
 name: abnormal myocardial thickness
@@ -38,10 +46,6 @@ name: drug-induced abnormality
 id: MP:0101
 name: exercise-induced abnormality
 id: MP:0101
-name: hypertension
-id: MP_0000231
-name: hypotension
-id: MP_0001596
 name: high blood pressure
 id: MP:0101
 name: sinus node cell depolarization

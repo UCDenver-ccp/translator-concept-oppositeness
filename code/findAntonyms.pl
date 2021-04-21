@@ -309,7 +309,7 @@ sub replacements() {
   foreach my $affix (@affixes) {
     my $replacement = $paired_affixes{$affix};
     # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
-    if ($output =~ s/^$affix/$replacement/ || $output =~ s/$affix$/$replacement/) {
+    if (($output =~ s/^$affix/$replacement/) || ($output =~ s/$affix$/$replacement/)) {
       $DEBUG && print "HIT in replacements(): <$input> <$output>\n";
       # OK, we found an affix to replace. 
       # But, did we end up with an output that's identical to the input?
