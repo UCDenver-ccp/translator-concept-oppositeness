@@ -277,6 +277,21 @@ barplot(in.counts, names.arg = c("BOTH", "ME ONLY", "CURRENT ONLY"))
 6. Word-internal, possibly (might produce a lot of false positives later when we do generation)
 7. _See email exchange with Bill_
 
+## 2021-04-21 report
+
+Now handling:
+
+1. Now handling morphological substitutions, as opposed to additions. That means that where we used to get only pairs like abnormal, where the contrast is between presence of ab and absence of ab, we now also get hypercalcemia/hypocalcemia, where the contrast is not presence/absence, but rather between two things that are... Shit, I'm tired of trying to squeeze this into non-technical language.  We used to only get prefix + free morpheme; now we are getting prefix + bound morpheme.  Honi soit qui mal y pense.
+
+2. Now handling suffixes. So, we now get pairs like hydrophilic/hydrophobic (thanks to Leslie Rapp for that one). Embarrassingly, I am not getting leukemia/leukopenia--bug being hunted.
+
+1. Test cases in human-readable form
+2. Failing test case: _protein folding_ versus _protein unfolding_
+3. Failing test case: _name: oil gland decreased thickness_ versus _oil gland increased thickness_
+4. Consistent naming scheme for experimental-results directory
+5. _See email exchange with Bill_
+6. Word-internal, possibly (might produce a lot of false positives later when we do generation)
+
 
 ## For reproducibility
 ```{r, echo = FALSE}

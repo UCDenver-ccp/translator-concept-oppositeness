@@ -46,7 +46,7 @@ my $DEBUG = 0;
 #my $DEBUG = 1;
 
 # set this to 1 if you only want the IDs--otherwise, to 0
-my $IDS_ONLY = 0;
+my $IDS_ONLY = 1;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;
@@ -86,7 +86,7 @@ while (my $line = <IN>) {
 
         # note that regarding PR, it might not be worth looking. I tried grepping for names that include "mutant" or "mutated", and only found 11...
         # Note: I was thinking about passing this in on the command line as a parameter. However: because of the way that the OBO ontologies are constructed, you can end up with IDs from multiple ontologies in the same .obo file. So: stick with the long list...
-        if ($line =~ /^id:\s+((BFO|RO|MP|SNOMED|PR|GO|CL|UBERON|NCBITaxon|PATO|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP)[:_]\d+)$/o) { 
+        if ($line =~ /^id:\s+((CHEBI|SO|BFO|RO|MP|SNOMED|PR|GO|CL|UBERON|NCBITaxon|PATO|IntAct:EBI-|MI|MOD|NCBIGene|OGMS|OMIM|PR|ReTO|SIO|UniProt|HP|SCTID)[:_]\d+)$/o) { 
           $id = $1; 
           $DEBUG && print "ID: <$id>\n";
         } # close if-ID
@@ -291,6 +291,11 @@ sub replacements() {
 
   $DEBUG && print "Input to replacements(): <$input>\n";
 
+
+  # hunting down a ridiculously embarrassing bug
+  if (($input eq "leukemia") || ($input eq "leukopenia")) {
+    print "Embarrassing input: <$input>\n";
+  }
 # enlarged versus small
 
   my %paired_affixes = ("pro" => "anti",
@@ -311,7 +316,7 @@ sub replacements() {
     # XXX TODO make this case-insensitive 'cause terms might start with an UC letter
     if (($output =~ s/^$affix/$replacement/) || ($output =~ s/$affix$/$replacement/)) {
       $DEBUG && print "HIT in replacements(): <$input> <$output>\n";
-      # OK, we found an affix to replace. 
+      # OK, apparently we found an affix to replace. 
       # But, did we end up with an output that's identical to the input?
       # Because of the way that the pairings work, it's entirely possible
       # to have that happen. Simplest solution is to just filter those out,
