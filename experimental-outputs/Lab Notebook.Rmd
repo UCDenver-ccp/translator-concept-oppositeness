@@ -292,6 +292,11 @@ Now handling:
 5. _See email exchange with Bill_
 6. Word-internal, possibly (might produce a lot of false positives later when we do generation)
 
+## 2021-05-05 report
+
+1. Took a week of vacation
+2. Took a sick day
+3. Generated the outputs for all of the CRAFT ontologies, plus HPO, MPO, and PATO
 
 ## For reproducibility
 ```{r, echo = FALSE}

@@ -1,383 +1,374 @@
-Embarrassing input: <leukemia>
 Embarrassing input: <leukopenia>
-HP:0030469	HP:0008275
-HP:0100737	HP:0100736
-HP:0025090	HP:0025129
-HP:0031199	HP:0031197
-HP:0011790	HP:0011791
-HP:0012388	HP:0004469
-HP:0100282	HP:0100281
-HP:0012451	HP:0012450
-HP:0032675	HP:0032676
-HP:0011880	HP:0005520
-HP:0006554	HP:0100626
-HP:0200119	HP:0200123
-HP:0002488	HP:0005558
-HP:0004820	HP:0012325
-HP:0000371	HP:0000389
-HP:0001735	HP:0006280
-HP:0012467	HP:0012466
-HP:0000255	HP:0011109
-HP:0004729	HP:0004743
-HP:0011009	HP:0011010
-HP:0040275	HP:0040274
-HP:0032320	HP:0032321
-HP:0012234	HP:0032310
-HP:0006988	HP:0006870
-HP:0007476	HP:0007529
-HP:0030176	HP:0007262
-HP:0010819	HP:0032792
-HP:0007270	HP:0011147
-HP:0011151	HP:0032863
-HP:0410005	HP:0000185
-HP:0025250	HP:0025251
-HP:0001334	HP:0010953
-HP:0001674	HP:0011577
-HP:0010860	HP:0010861
-HP:0030640	HP:0030641
-HP:0011630	HP:0011635
-HP:0010098	HP:0010099
-HP:0010001	HP:0010004
-HP:0009950	HP:0009951
-HP:0010424	HP:0010425
-HP:0009965	HP:0009968
-HP:0100407	HP:0100416
-HP:0009978	HP:0009981
-HP:0100408	HP:0100417
-HP:0009991	HP:0009994
-HP:0100409	HP:0100418
-HP:0010096	HP:0010097
-HP:0010002	HP:0010005
-HP:0009952	HP:0009953
-HP:0010426	HP:0010427
-HP:0009966	HP:0009969
-HP:0100410	HP:0100419
-HP:0009979	HP:0009982
-HP:0100411	HP:0100420
-HP:0009992	HP:0009995
-HP:0100412	HP:0100421
-HP:0009957	HP:0009956
-HP:0009960	HP:0009961
-HP:0009973	HP:0009974
-HP:0009986	HP:0009987
-HP:0010000	HP:0010003
-HP:0009954	HP:0009955
-HP:0010422	HP:0010423
-HP:0009967	HP:0009970
-HP:0100413	HP:0100422
-HP:0009980	HP:0009983
-HP:0100414	HP:0100423
-HP:0009993	HP:0009996
-HP:0100415	HP:0100424
-HP:0010094	HP:0010095
-HP:0009943	HP:0009944
-HP:0011633	HP:0011634
-HP:0011631	HP:0011632
-HP:0011172	HP:0011171
-HP:0032963	HP:0012581
-HP:0002908	HP:0008282
-HP:0031777	HP:0031778
-HP:0031776	HP:0031726
-HP:0008972	HP:0040015
-HP:0030685	HP:0030686
-HP:0040063	HP:0009126
-HP:0031103	HP:0031102
-HP:0008179	HP:0031155
-HP:0031808	HP:0031807
-HP:0410145	HP:0410146
-HP:0020171	HP:0020170
-HP:0041079	HP:0025521
-HP:0045082	HP:0031418
-HP:0004325	HP:0004324
-HP:0020199	HP:0020200
-HP:0020184	HP:0020183
-HP:0002920	HP:0003154
-HP:0030349	HP:0030348
-HP:0004313	HP:0010702
-HP:0025347	HP:0025346
-HP:0031426	HP:0031425
-HP:0010837	HP:0033145
-HP:0031242	HP:0012238
-HP:0011967	HP:0032254
-HP:0032363	HP:0032362
-HP:0008163	HP:0003118
-HP:0040299	HP:0030781
-HP:0032210	HP:0011788
-HP:0033078	HP:0033077
-HP:0032312	HP:0032311
-HP:0030339	HP:0000837
-HP:0410343	HP:0410342
-HP:0002720	HP:0003261
-HP:0004315	HP:0003237
-HP:0032136	HP:0032298
-HP:0008348	HP:0032299
-HP:0032137	HP:0032297
-HP:0032138	HP:0032300
-HP:0031429	HP:0031428
-HP:0008233	HP:0031216
-HP:0004369	HP:0004368
-HP:0003351	HP:0000848
-HP:0033192	HP:0033191
-HP:0031507	HP:0031506
-HP:0410353	HP:0410352
-HP:0410361	HP:0410360
-HP:0100689	HP:0011487
-HP:0500234	HP:0500233
-HP:0025458	HP:0500239
-HP:0500204	HP:0500203
-HP:0500201	HP:0500200
-HP:0500198	HP:0500197
-HP:0500237	HP:0500236
-HP:0500194	HP:0500193
-HP:0500190	HP:0500191
-HP:0500207	HP:0500208
-HP:0500224	HP:0500223
-HP:0025457	HP:0002922
-HP:0500228	HP:0500227
-HP:0500213	HP:0500212
-HP:0500221	HP:0500220
-HP:0500188	HP:0500187
-HP:0030978	HP:0025459
-HP:0032997	HP:0032998
-HP:0045051	HP:0045050
-HP:0030018	HP:0030019
-HP:0031070	HP:0031068
-HP:0001558	HP:0010519
-HP:0031107	HP:0012107
-HP:0012353	HP:0012354
-HP:0012360	HP:0012361
-HP:0012213	HP:0012214
-HP:0030689	HP:0030688
-HP:0410179	HP:0410178
-HP:0410182	HP:0410181
-HP:0410190	HP:0410191
-HP:0410188	HP:0410189
-HP:0410187	HP:0410186
-HP:0003233	HP:0012184
-HP:0032421	HP:0032420
-HP:0032423	HP:0032424
-HP:0032429	HP:0032428
-HP:0032431	HP:0032430
-HP:0032433	HP:0032432
-HP:0040195	HP:0040194
-HP:0031861	HP:0031862
-HP:0008165	HP:0500264
-HP:0020062	HP:0020063
-HP:0031143	HP:0031141
-HP:0410358	HP:0410357
-HP:0041078	HP:0041077
-HP:0031230	HP:0031229
-HP:0012648	HP:0012649
-HP:0030897	HP:0410204
-HP:0012641	HP:0002516
-HP:0003563	HP:0003141
-HP:0500162	HP:0500161
-HP:0410054	HP:0410053
-HP:0040179	HP:0040178
-HP:0046504	HP:0046503
-HP:0002731	HP:0030887
-HP:0040306	HP:0040305
-HP:0032305	HP:0032306
-HP:0012356	HP:0012357
-HP:0025547	HP:0025548
-HP:0025066	HP:0005518
-HP:0005537	HP:0011877
-HP:0040013	HP:0040014
-HP:0410364	HP:0410363
-HP:0012270	HP:0009051
-HP:0003387	HP:0007249
-HP:0032460	HP:0003240
-HP:0012685	HP:0012686
-HP:0032482	HP:0031208
-HP:0020113	HP:0020112
-HP:0032218	HP:0032219
-HP:0410386	HP:0410391
-HP:0410385	HP:0410392
-HP:0500266	HP:0500265
-HP:0410388	HP:0410393
-HP:0410389	HP:0410396
-HP:0030388	HP:0030387
-HP:0410390	HP:0410395
-HP:0500271	HP:0500270
-HP:0030378	HP:0030377
-HP:0500274	HP:0500273
-HP:0030384	HP:0030385
-HP:0030374	HP:0030375
-HP:0032183	HP:0032184
-HP:0030372	HP:0030371
-HP:0410378	HP:0410375
-HP:0410377	HP:0410376
-HP:0031397	HP:0031398
-HP:0032129	HP:0032128
-HP:0030380	HP:0030381
-HP:0032126	HP:0032125
-HP:0025077	HP:0025075
-HP:0020060	HP:0020059
-HP:0012340	HP:0012339
-HP:0033014	HP:0033015
-HP:0012858	HP:0012857
-HP:0008214	HP:0025134
-HP:0025137	HP:0025136
-HP:0025140	HP:0025139
-HP:0012343	HP:0003281
-HP:0030353	HP:0030269
-HP:0040303	HP:0003452
-HP:0003292	HP:0031793
-HP:0040171	HP:0030088
-HP:0031831	HP:0011424
-HP:0410355	HP:0410354
-HP:0012350	HP:0012351
-HP:0040260	HP:0040261
-HP:0040254	HP:0040253
-HP:0004331	HP:0004330
-HP:0031837	HP:0031836
-HP:0012560	HP:0012559
-HP:0031098	HP:0002925
-HP:0031906	HP:0031905
-HP:0033211	HP:0025196
-HP:0410195	HP:0410194
-HP:0410198	HP:0410197
-HP:0410314	HP:0410315
-HP:0410318	HP:0410317
-HP:0045035	HP:0010839
-HP:0012364	HP:0003081
-HP:0003359	HP:0012613
-HP:0011935	HP:0012611
-HP:0012403	HP:0012402
-HP:0032473	HP:0031890
-HP:0031243	HP:0003362
-HP:0031820	HP:0031819
-HP:0003498	HP:0003508
-HP:0001519	HP:0011407
-HP:0100621	HP:0100620
-HP:0031873	HP:0031874
-HP:0031997	HP:0031998
-HP:0031039	HP:0031040
-HP:0030806	HP:0008383
-HP:0040082	HP:0031588
-HP:0031049	HP:0031048
-HP:0009890	HP:0000294
-HP:0012807	HP:0010763
-HP:0011432	HP:0010570
-HP:0011433	HP:0011434
-HP:0012891	HP:0002162
-HP:0030852	HP:0030851
-HP:0031414	HP:0012053
-HP:0031415	HP:0012052
-HP:0001757	HP:0008573
-HP:0001722	HP:0009805
-HP:0012189	HP:0012539
-HP:0030143	HP:0030144
-HP:0003348	HP:0500154
-HP:0012117	HP:0003073
-HP:0001987	HP:0100493
-HP:0410288	HP:0410289
-HP:0500153	HP:0005961
-HP:0500156	HP:0500157
-HP:0030631	HP:0030632
-HP:0025158	HP:0025159
-HP:0002150	HP:0003127
-HP:0410214	HP:0410215
-HP:0012416	HP:0012417
-HP:0011423	HP:0003113
-HP:0002914	HP:0012601
-HP:0003124	HP:0003146
-HP:0012406	HP:0012405
-HP:0025587	HP:0025588
-HP:0011899	HP:0011900
-HP:0003217	HP:0500147
-HP:0002154	HP:0012277
-HP:0031885	HP:0011972
-HP:0000815	HP:0000044
-HP:0000975	HP:0000966
-HP:0010906	HP:0500145
-HP:0030890	HP:0007103
-HP:0002153	HP:0002900
-HP:0010911	HP:0500143
-HP:0003077	HP:0045014
-HP:0010980	HP:0010981
-HP:0002161	HP:0500142
-HP:0002918	HP:0002917
-HP:0012608	HP:0012609
-HP:0032097	HP:0032098
-HP:0001034	HP:0009719
-HP:0032013	HP:0007975
-HP:0007338	HP:0000571
-HP:0012605	HP:0012604
-HP:0012026	HP:0500163
-HP:0000843	HP:0000829
-HP:0100770	HP:0100771
-HP:0004923	HP:0500141
-HP:0025585	HP:0031725
-HP:0002905	HP:0002148
-HP:0003109	HP:0012365
-HP:0011512	HP:0007894
-HP:0000953	HP:0001010
-HP:0030258	HP:0030259
-HP:0007572	HP:0007535
-HP:0010514	HP:0040075
-HP:0430028	HP:0000327
-HP:0430029	HP:0010650
-HP:0012882	HP:0000059
-HP:0008358	HP:0500139
-HP:0002152	HP:0003075
-HP:0001347	HP:0001265
-HP:0410312	HP:0410311
-HP:0004821	HP:0011447
-HP:0500138	HP:0012279
-HP:0000316	HP:0000601
-HP:0000822	HP:0002615
-HP:0003354	HP:0500136
-HP:0000836	HP:0000821
-HP:0002155	HP:0012153
-HP:0025586	HP:0025584
-HP:0500134	HP:0500135
-HP:0003231	HP:0500133
-HP:0010910	HP:0500132
-HP:0002883	HP:0002791
-HP:0011105	HP:0011106
-HP:0012734	HP:0001958
-HP:0007048	HP:0012697
-HP:0030360	HP:0030357
-HP:0009748	HP:0000385
-HP:0100729	HP:0000274
-HP:0001520	HP:0001518
-HP:0002700	HP:0002677
-HP:0002003	HP:0000350
-HP:0003898	HP:0003900
-HP:0030255	HP:0030256
-HP:0006267	HP:0006266
-HP:0004005	HP:0004010
-HP:0002690	HP:0010538
-HP:0005310	HP:0011944
-HP:0001909	HP:0001882
-HP:0004966	HP:0012458
-HP:0002865	HP:0040198
-HP:0032293	HP:0032292
-HP:0100834	HP:0100833
-HP:0011961	HP:0011962
-HP:0011684	HP:0011683
-HP:0011745	HP:0011746
-HP:0030358	HP:0030357
-HP:0005725	HP:0005866
-HP:0031246	HP:0031245
-HP:0002470	HP:0002073
-HP:0007030	HP:0002448
-HP:0200068	HP:0000529
-HP:0003680	HP:0003676
-HP:0025622	HP:0025621
-HP:0004464	HP:0004467
-HP:0004451	HP:0000384
-HP:0001830	HP:0001841
-HP:0001162	HP:0001177
-HP:0100259	HP:0100258
-HP:0011647	HP:0005151
-HP:0008596	HP:0000399
-HP:0000786	HP:0000869
-HP:0030363	HP:0030364
-HP:0011736	HP:0011741
-HP:0001579	HP:0011744
-HP:0008200	HP:0000867
-HP:0000867	HP:0011770
-HP:0000176	HP:0011819
-HP:0030474	HP:0030465
+Embarrassing input: <leukemia>
+abnormal dark-adapted electroretinogram	HP:0030469	abnormal light-adapted electroretinogram	HP:0008275
+abnormal hard palate morphology	HP:0100737	abnormal soft palate morphology	HP:0100736
+abnormal large intestinal mucosa morphology	HP:0025090	abnormal small intestinal mucosa morphology	HP:0025129
+acellular urinary casts	HP:0031199	cellular urinary casts	HP:0031197
+activating thyroid-stimulating hormone receptor defect	HP:0011790	inactivating thyroid-stimulating hormone receptor defect	HP:0011791
+acute bronchitis	HP:0012388	chronic bronchitis	HP:0004469
+acute colitis	HP:0100282	chronic colitis	HP:0100281
+acute constipation	HP:0012451	chronic constipation	HP:0012450
+acute cutaneous wound	HP:0032675	chronic cutaneous wound	HP:0032676
+acute disseminated intravascular coagulation	HP:0011880	chronic disseminated intravascular coagulation	HP:0005520
+acute hepatic failure	HP:0006554	chronic hepatic failure	HP:0100626
+acute hepatitis	HP:0200119	chronic hepatitis	HP:0200123
+acute leukemia	HP:0002488	chronic leukemia	HP:0005558
+acute myelomonocytic leukemia	HP:0004820	chronic myelomonocytic leukemia	HP:0012325
+acute otitis media	HP:0000371	chronic otitis media	HP:0000389
+acute pancreatitis	HP:0001735	chronic pancreatitis	HP:0006280
+acute respiratory acidosis	HP:0012467	chronic respiratory acidosis	HP:0012466
+acute sinusitis	HP:0000255	chronic sinusitis	HP:0011109
+acute tubulointerstitial nephritis	HP:0004729	chronic tubulointerstitial nephritis	HP:0004743
+acute	HP:0011009	chronic	HP:0011010
+adenocarcinoma of the large intestine	HP:0040275	adenocarcinoma of the small intestine	HP:0040274
+affected	HP:0032320	unaffected	HP:0032321
+agranulocytosis	HP:0012234	granulocytosis	HP:0032310
+alobar holoprosencephaly	HP:0006988	lobar holoprosencephaly	HP:0006870
+anhidrotic ectodermal dysplasia	HP:0007476	hidrotic ectodermal dysplasia	HP:0007529
+asymmetric peripheral demyelination	HP:0030176	symmetric peripheral demyelination	HP:0007262
+atonic seizure	HP:0010819	tonic seizure	HP:0032792
+atypical absence seizure	HP:0007270	typical absence seizure	HP:0011147
+atypical absence status epilepticus	HP:0011151	typical absence status epilepticus	HP:0032863
+cleft hard palate	HP:0410005	cleft soft palate	HP:0000185
+closed comedo	HP:0025250	open comedo	HP:0025251
+communicating hydrocephalus	HP:0001334	noncommunicating hydrocephalus	HP:0010953
+complete atrioventricular canal defect	HP:0001674	partial atrioventricular canal defect	HP:0011577
+complete breech presentation	HP:0010860	incomplete breech presentation	HP:0010861
+complete congenital stationary night blindness	HP:0030640	incomplete congenital stationary night blindness	HP:0030641
+complete diaphragmatic absence of pericardium	HP:0011630	partial diaphragmatic absence of pericardium	HP:0011635
+complete duplication of the 1st metatarsal	HP:0010098	partial duplication of the 1st metatarsal	HP:0010099
+complete duplication of the distal phalanges of the hand	HP:0010001	partial duplication of the distal phalanges of the hand	HP:0010004
+complete duplication of the distal phalanx of the 2nd finger	HP:0009950	partial duplication of the distal phalanx of the 2nd finger	HP:0009951
+complete duplication of the distal phalanx of the 2nd toe	HP:0010424	partial duplication of the distal phalanx of the 2nd toe	HP:0010425
+complete duplication of the distal phalanx of the 3rd finger	HP:0009965	partial duplication of the distal phalanx of the 3rd finger	HP:0009968
+complete duplication of the distal phalanx of the 3rd toe	HP:0100407	partial duplication of the distal phalanx of the 3rd toe	HP:0100416
+complete duplication of the distal phalanx of the 4th finger	HP:0009978	partial duplication of the distal phalanx of the 4th finger	HP:0009981
+complete duplication of the distal phalanx of the 4th toe	HP:0100408	partial duplication of the distal phalanx of the 4th toe	HP:0100417
+complete duplication of the distal phalanx of the 5th finger	HP:0009991	partial duplication of the distal phalanx of the 5th finger	HP:0009994
+complete duplication of the distal phalanx of the 5th toe	HP:0100409	partial duplication of the distal phalanx of the 5th toe	HP:0100418
+complete duplication of the distal phalanx of the hallux	HP:0010096	partial duplication of the distal phalanx of the hallux	HP:0010097
+complete duplication of the middle phalanges of the hand	HP:0010002	partial duplication of the middle phalanges of the hand	HP:0010005
+complete duplication of the middle phalanx of the 2nd finger	HP:0009952	partial duplication of the middle phalanx of the 2nd finger	HP:0009953
+complete duplication of the middle phalanx of the 2nd toe	HP:0010426	partial duplication of the middle phalanx of the 2nd toe	HP:0010427
+complete duplication of the middle phalanx of the 3rd finger	HP:0009966	partial duplication of the middle phalanx of the 3rd finger	HP:0009969
+complete duplication of the middle phalanx of the 3rd toe	HP:0100410	partial duplication of the middle phalanx of the 3rd toe	HP:0100419
+complete duplication of the middle phalanx of the 4th finger	HP:0009979	partial duplication of the middle phalanx of the 4th finger	HP:0009982
+complete duplication of the middle phalanx of the 4th toe	HP:0100411	partial duplication of the middle phalanx of the 4th toe	HP:0100420
+complete duplication of the middle phalanx of the 5th finger	HP:0009992	partial duplication of the middle phalanx of the 5th finger	HP:0009995
+complete duplication of the middle phalanx of the 5th toe	HP:0100412	partial duplication of the middle phalanx of the 5th toe	HP:0100421
+complete duplication of the phalanges of the 2nd finger	HP:0009957	partial duplication of the phalanges of the 2nd finger	HP:0009956
+complete duplication of the phalanges of the 3rd finger	HP:0009960	partial duplication of the phalanges of the 3rd finger	HP:0009961
+complete duplication of the phalanges of the 4th finger	HP:0009973	partial duplication of the phalanges of the 4th finger	HP:0009974
+complete duplication of the phalanges of the 5th finger	HP:0009986	partial duplication of the phalanges of the 5th finger	HP:0009987
+complete duplication of the proximal phalanges of the hand	HP:0010000	partial duplication of the proximal phalanges of the hand	HP:0010003
+complete duplication of the proximal phalanx of the 2nd finger	HP:0009954	partial duplication of the proximal phalanx of the 2nd finger	HP:0009955
+complete duplication of the proximal phalanx of the 2nd toe	HP:0010422	partial duplication of the proximal phalanx of the 2nd toe	HP:0010423
+complete duplication of the proximal phalanx of the 3rd finger	HP:0009967	partial duplication of the proximal phalanx of the 3rd finger	HP:0009970
+complete duplication of the proximal phalanx of the 3rd toe	HP:0100413	partial duplication of the proximal phalanx of the 3rd toe	HP:0100422
+complete duplication of the proximal phalanx of the 4th finger	HP:0009980	partial duplication of the proximal phalanx of the 4th finger	HP:0009983
+complete duplication of the proximal phalanx of the 4th toe	HP:0100414	partial duplication of the proximal phalanx of the 4th toe	HP:0100423
+complete duplication of the proximal phalanx of the 5th finger	HP:0009993	partial duplication of the proximal phalanx of the 5th finger	HP:0009996
+complete duplication of the proximal phalanx of the 5th toe	HP:0100415	partial duplication of the proximal phalanx of the 5th toe	HP:0100424
+complete duplication of the proximal phalanx of the hallux	HP:0010094	partial duplication of the proximal phalanx of the hallux	HP:0010095
+complete duplication of thumb phalanx	HP:0009943	partial duplication of thumb phalanx	HP:0009944
+complete left sided absence of pericardium	HP:0011633	partial left sided absence of pericardium	HP:0011634
+complete right sided absence of pericardium	HP:0011631	partial right sided absence of pericardium	HP:0011632
+complex febrile seizure	HP:0011172	simple febrile seizure	HP:0011171
+complex renal cyst	HP:0032963	simple renal cyst	HP:0012581
+conjugated hyperbilirubinemia	HP:0002908	unconjugated hyperbilirubinemia	HP:0008282
+cyclophoria	HP:0031777	incyclophoria	HP:0031778
+cyclotropia	HP:0031776	incyclotropia	HP:0031726
+decreased activity of mitochondrial respiratory chain	HP:0008972	increased activity of mitochondrial respiratory chain	HP:0040015
+decreased adiponectin level	HP:0030685	increased adiponectin level	HP:0030686
+decreased adipose tissue	HP:0040063	increased adipose tissue	HP:0009126
+decreased antimullerian hormone level	HP:0031103	increased antimullerian hormone level	HP:0031102
+decreased arden ratio of electrooculogram	HP:0008179	increased arden ratio of electrooculogram	HP:0031155
+decreased basophil count	HP:0031808	increased basophil count	HP:0031807
+decreased biotinidase level	HP:0410145	increased biotinidase level	HP:0410146
+decreased blood drug concentration	HP:0020171	increased blood drug concentration	HP:0020170
+decreased body fat percentage	HP:0041079	increased body fat percentage	HP:0025521
+decreased body mass index	HP:0045082	increased body mass index	HP:0031418
+decreased body weight	HP:0004325	increased body weight	HP:0004324
+decreased circulating 18-hydroxycortisone level	HP:0020199	increased circulating 18-hydroxycortisone level	HP:0020200
+decreased circulating a-type natriuretic peptide level	HP:0020184	increased circulating a-type natriuretic peptide level	HP:0020183
+decreased circulating acth level	HP:0002920	increased circulating acth level	HP:0003154
+decreased circulating androgen level	HP:0030349	increased circulating androgen level	HP:0030348
+decreased circulating antibody level	HP:0004313	increased circulating antibody level	HP:0010702
+decreased circulating beta-2-microglobulin level	HP:0025347	increased circulating beta-2-microglobulin level	HP:0025346
+decreased circulating beta-c-terminal telopeptide level	HP:0031426	increased circulating beta-c-terminal telopeptide level	HP:0031425
+decreased circulating ceruloplasmin concentration	HP:0010837	increased circulating ceruloplasmin concentration	HP:0033145
+decreased circulating chylomicron concentration	HP:0031242	increased circulating chylomicron concentration	HP:0012238
+decreased circulating copper concentration	HP:0011967	increased circulating copper concentration	HP:0032254
+decreased circulating corticosterone level	HP:0032363	increased circulating corticosterone level	HP:0032362
+decreased circulating cortisol level	HP:0008163	increased circulating cortisol level	HP:0003118
+decreased circulating free fatty acid level	HP:0040299	increased circulating free fatty acid level	HP:0030781
+decreased circulating free t3	HP:0032210	increased circulating free t3	HP:0011788
+decreased circulating free t4 level	HP:0033078	increased circulating free t4 level	HP:0033077
+decreased circulating globulin level	HP:0032312	increased circulating globulin level	HP:0032311
+decreased circulating gonadotropin level	HP:0030339	increased circulating gonadotropin level	HP:0000837
+decreased circulating heparan sulfate level	HP:0410343	increased circulating heparan sulfate level	HP:0410342
+decreased circulating iga level	HP:0002720	increased circulating iga level	HP:0003261
+decreased circulating igg level	HP:0004315	increased circulating igg level	HP:0003237
+decreased circulating igg1 level	HP:0032136	increased circulating igg1 level	HP:0032298
+decreased circulating igg2 level	HP:0008348	increased circulating igg2 level	HP:0032299
+decreased circulating igg3 level	HP:0032137	increased circulating igg3 level	HP:0032297
+decreased circulating igg4 level	HP:0032138	increased circulating igg4 level	HP:0032300
+decreased circulating osteocalcin level	HP:0031429	increased circulating osteocalcin level	HP:0031428
+decreased circulating progesterone	HP:0008233	increased circulating progesterone	HP:0031216
+decreased circulating purine concentration	HP:0004369	increased circulating purine concentration	HP:0004368
+decreased circulating renin level	HP:0003351	increased circulating renin level	HP:0000848
+decreased circulating selenium concentration	HP:0033192	increased circulating selenium concentration	HP:0033191
+decreased circulating t4 level	HP:0031507	increased circulating t4 level	HP:0031506
+decreased complex n-glycan level	HP:0410353	increased complex n-glycan level	HP:0410352
+decreased core 1 o-glycan level	HP:0410361	increased core 1 o-glycan level	HP:0410360
+decreased corneal thickness	HP:0100689	increased corneal thickness	HP:0011487
+decreased csf alanine concentration	HP:0500234	increased csf alanine concentration	HP:0500233
+decreased csf albumin concentration	HP:0025458	increased csf albumin concentration	HP:0500239
+decreased csf arginine concentration	HP:0500204	increased csf arginine concentration	HP:0500203
+decreased csf glutamate concentration	HP:0500201	increased csf glutamate concentration	HP:0500200
+decreased csf glutamine concentration	HP:0500198	increased csf glutamine concentration	HP:0500197
+decreased csf histidine concentration	HP:0500237	increased csf histidine concentration	HP:0500236
+decreased csf isoleucine concentration	HP:0500194	increased csf isoleucine concentration	HP:0500193
+decreased csf leucine concentration	HP:0500190	increased csf leucine concentration	HP:0500191
+decreased csf lysine concentration	HP:0500207	increased csf lysine concentration	HP:0500208
+decreased csf phenylalanine concentration	HP:0500224	increased csf phenylalanine concentration	HP:0500223
+decreased csf protein	HP:0025457	increased csf protein	HP:0002922
+decreased csf serine concentration	HP:0500228	increased csf serine concentration	HP:0500227
+decreased csf threonine concentration	HP:0500213	increased csf threonine concentration	HP:0500212
+decreased csf tyrosine concentration	HP:0500221	increased csf tyrosine concentration	HP:0500220
+decreased csf valine concentration	HP:0500188	increased csf valine concentration	HP:0500187
+decreased csf/serum albumin ratio	HP:0030978	increased csf/serum albumin ratio	HP:0025459
+decreased cystatin c level	HP:0032997	increased cystatin c level	HP:0032998
+decreased dlco	HP:0045051	increased dlco	HP:0045050
+decreased female libido	HP:0030018	increased female libido	HP:0030019
+decreased femoral torsion	HP:0031070	increased femoral torsion	HP:0031068
+decreased fetal movement	HP:0001558	increased fetal movement	HP:0010519
+decreased fibular diameter	HP:0031107	increased fibular diameter	HP:0012107
+decreased fucosylation of n-linked protein glycosylation	HP:0012353	increased fucosylation of n-linked protein glycosylation	HP:0012354
+decreased fucosylation of o-linked protein glycosylation	HP:0012360	increased fucosylation of o-linked protein glycosylation	HP:0012361
+decreased glomerular filtration rate	HP:0012213	increased glomerular filtration rate	HP:0012214
+decreased glucagon level	HP:0030689	increased glucagon level	HP:0030688
+decreased glucose-6-phosphate dehydrogenase level in blood	HP:0410179	increased glucose-6-phosphate dehydrogenase level in blood	HP:0410178
+decreased glucose-6-phosphate dehydrogenase level in dried blood spot	HP:0410182	increased glucose-6-phosphate dehydrogenase level in dried blood spot	HP:0410181
+decreased glucose-6-phosphate dehydrogenase level in leukocytes	HP:0410190	increased glucose-6-phosphate dehydrogenase level in leukocytes	HP:0410191
+decreased glucose-6-phosphate dehydrogenase level in red blood cells	HP:0410188	increased glucose-6-phosphate dehydrogenase level in red blood cells	HP:0410189
+decreased glucose-6-phosphate dehydrogenase level in tissue	HP:0410187	increased glucose-6-phosphate dehydrogenase level in tissue	HP:0410186
+decreased hdl cholesterol concentration	HP:0003233	increased hdl cholesterol concentration	HP:0012184
+decreased hdl2a concentration	HP:0032421	increased hdl2a concentration	HP:0032420
+decreased hdl2b concentration	HP:0032423	increased hdl2b concentration	HP:0032424
+decreased hdl3a concentration	HP:0032429	increased hdl3a concentration	HP:0032428
+decreased hdl3b concentration	HP:0032431	increased hdl3b concentration	HP:0032430
+decreased hdl3c concentration	HP:0032433	increased hdl3c concentration	HP:0032432
+decreased head circumference	HP:0040195	increased head circumference	HP:0040194
+decreased heart rate variability	HP:0031861	increased heart rate variability	HP:0031862
+decreased helper t cell proportion	HP:0008165	increased helper t cell proportion	HP:0500264
+decreased hemoglobin concentration	HP:0020062	increased hemoglobin concentration	HP:0020063
+decreased hepatic echogenicity	HP:0031143	increased hepatic echogenicity	HP:0031141
+decreased high-mannose n-glycan level	HP:0410358	increased high-mannose n-glycan level	HP:0410357
+decreased immunoglobulin level in body fluid	HP:0041078	increased immunoglobulin level in body fluid	HP:0041077
+decreased incisura length	HP:0031230	increased incisura length	HP:0031229
+decreased inflammatory response	HP:0012648	increased inflammatory response	HP:0012649
+decreased intestinal transit time	HP:0030897	increased intestinal transit time	HP:0410204
+decreased intracranial pressure	HP:0012641	increased intracranial pressure	HP:0002516
+decreased ldl cholesterol concentration	HP:0003563	increased ldl cholesterol concentration	HP:0003141
+decreased level of carnosine in blood	HP:0500162	increased level of carnosine in blood	HP:0500161
+decreased level of gaba in serum	HP:0410054	increased level of gaba in serum	HP:0410053
+decreased level of platelet-activating factor	HP:0040179	increased level of platelet-activating factor	HP:0040178
+decreased libido	HP:0046504	increased libido	HP:0046503
+decreased lymphocyte apoptosis	HP:0002731	increased lymphocyte apoptosis	HP:0030887
+decreased male libido	HP:0040306	increased male libido	HP:0040305
+decreased mannose-binding protein level	HP:0032305	increased mannose-binding protein level	HP:0032306
+decreased mannosylation of n-linked protein glycosylation	HP:0012356	increased mannosylation of n-linked protein glycosylation	HP:0012357
+decreased mean corpuscular hemoglobin concentration	HP:0025547	increased mean corpuscular hemoglobin concentration	HP:0025548
+decreased mean corpuscular volume	HP:0025066	increased mean corpuscular volume	HP:0005518
+decreased mean platelet volume	HP:0005537	increased mean platelet volume	HP:0011877
+decreased mitochondrial number	HP:0040013	increased mitochondrial number	HP:0040014
+decreased monosialylated core 1 o-glycan level	HP:0410364	increased monosialylated core 1 o-glycan level	HP:0410363
+decreased muscle glycogen content	HP:0012270	increased muscle glycogen content	HP:0009051
+decreased phosphoribosylpyrophosphate synthetase level	HP:0032460	increased phosphoribosylpyrophosphate synthetase level	HP:0003240
+decreased pineal volume	HP:0012685	increased pineal volume	HP:0012686
+decreased pituitary glycoprotein hormone alpha subunit level	HP:0032482	increased pituitary glycoprotein hormone alpha subunit level	HP:0031208
+decreased proportion of cd4+cd25+ regulatory t cells	HP:0020113	increased proportion of cd4+cd25+ regulatory t cells	HP:0020112
+decreased proportion of class-switched memory b cells	HP:0030388	increased proportion of class-switched memory b cells	HP:0030387
+decreased proportion of gamma-delta t cells	HP:0500271	increased proportion of gamma-delta t cells	HP:0500270
+decreased proportion of immature b cells	HP:0030378	increased proportion of immature b cells	HP:0030377
+decreased proportion of immature gamma-delta t cells	HP:0500274	increased proportion of immature gamma-delta t cells	HP:0500273
+decreased proportion of marginal zone b cells	HP:0030384	increased proportion of marginal zone b cells	HP:0030385
+decreased proportion of memory b cells	HP:0030374	increased proportion of memory b cells	HP:0030375
+decreased proportion of memory t cells	HP:0032183	increased proportion of memory t cells	HP:0032184
+decreased proportion of naive b cells	HP:0030372	increased proportion of naive b cells	HP:0030371
+decreased proportion of naive cd4 t cells	HP:0410378	increased proportion of naive cd4 t cells	HP:0410375
+decreased proportion of naive cd8 t cells	HP:0410377	increased proportion of naive cd8 t cells	HP:0410376
+decreased proportion of naive t cells	HP:0031397	increased proportion of naive t cells	HP:0031398
+decreased proportion of plasmablasts	HP:0032129	increased proportion of plasmablasts	HP:0032128
+decreased proportion of transitional b cells	HP:0030380	increased proportion of transitional b cells	HP:0030381
+decreased proportion of unswitched memory b cells	HP:0032126	increased proportion of unswitched memory b cells	HP:0032125
+decreased qrs voltage	HP:0025077	increased qrs voltage	HP:0025075
+decreased red blood cell count	HP:0020060	increased red blood cell count	HP:0020059
+decreased resting energy expenditure	HP:0012340	increased resting energy expenditure	HP:0012339
+decreased salivary cortisol level	HP:0033014	increased salivary cortisol level	HP:0033015
+decreased scrotal rugation	HP:0012858	increased scrotal rugation	HP:0012857
+decreased serum estradiol	HP:0008214	increased serum estradiol	HP:0025134
+decreased serum estriol	HP:0025137	increased serum estriol	HP:0025136
+decreased serum estrone	HP:0025140	increased serum estrone	HP:0025139
+decreased serum ferritin	HP:0012343	increased serum ferritin	HP:0003281
+decreased serum insulin-like growth factor 1	HP:0030353	increased serum insulin-like growth factor 1	HP:0030269
+decreased serum iron	HP:0040303	increased serum iron	HP:0003452
+decreased serum leptin	HP:0003292	increased serum leptin	HP:0031793
+decreased serum testosterone level	HP:0040171	increased serum testosterone level	HP:0030088
+decreased serum zinc	HP:0031831	increased serum zinc	HP:0011424
+decreased sialylated n-glycan level	HP:0410355	increased sialylated n-glycan level	HP:0410354
+decreased sialylation of n-linked protein glycosylation	HP:0012350	increased sialylation of n-linked protein glycosylation	HP:0012351
+decreased size of nasopharyngeal adenoids	HP:0040260	increased size of nasopharyngeal adenoids	HP:0040261
+decreased size of the clitoris	HP:0040254	increased size of the clitoris	HP:0040253
+decreased skull ossification	HP:0004331	increased skull ossification	HP:0004330
+decreased superoxide dismutase level	HP:0031837	increased superoxide dismutase level	HP:0031836
+decreased t3/t4 ratio	HP:0012560	increased t3/t4 ratio	HP:0012559
+decreased thyroid-stimulating hormone level	HP:0031098	increased thyroid-stimulating hormone level	HP:0002925
+decreased total hemolytic complement activity	HP:0031906	increased total hemolytic complement activity	HP:0031905
+decreased total iron binding capacity	HP:0033211	increased total iron binding capacity	HP:0025196
+decreased uridine diphosphate glucose-4-epimerase level in plasma	HP:0410195	increased uridine diphosphate glucose-4-epimerase level in plasma	HP:0410194
+decreased uridine diphosphate glucose-4-epimerase level in red blood cells	HP:0410198	increased uridine diphosphate glucose-4-epimerase level in red blood cells	HP:0410197
+decreased urinary 1-methylhistidine	HP:0410314	increased urinary 1-methylhistidine	HP:0410315
+decreased urinary 3-methylhistidine	HP:0410318	increased urinary 3-methylhistidine	HP:0410317
+decreased urinary copper concentration	HP:0045035	increased urinary copper concentration	HP:0010839
+decreased urinary potassium	HP:0012364	increased urinary potassium	HP:0003081
+decreased urinary sulfate	HP:0003359	increased urinary sulfate	HP:0012613
+decreased urinary urate	HP:0011935	increased urinary urate	HP:0012611
+decreased urine alpha-ketoglutarate concentration	HP:0012403	increased urine alpha-ketoglutarate concentration	HP:0012402
+decreased urine urobilinogen	HP:0032473	increased urine urobilinogen	HP:0031890
+decreased vldl cholesterol concentration	HP:0031243	increased vldl cholesterol concentration	HP:0003362
+decreased waist to hip ratio	HP:0031820	increased waist to hip ratio	HP:0031819
+disproportionate short stature	HP:0003498	proportionate short stature	HP:0003508
+disproportionate tall stature	HP:0001519	proportionate tall stature	HP:0011407
+dysgerminoma	HP:0100621	germinoma	HP:0100620
+early chronotype	HP:0031873	late chronotype	HP:0031874
+early inspiratory crackles	HP:0031997	late inspiratory crackles	HP:0031998
+early spermatogenesis maturation arrest	HP:0031039	late spermatogenesis maturation arrest	HP:0031040
+fast-growing nails	HP:0030806	slow-growing nails	HP:0008383
+happy demeanor	HP:0040082	unhappy demeanor	HP:0031588
+heavy-chain paraproteinemia	HP:0031049	light-chain paraproteinemia	HP:0031048
+high anterior hairline	HP:0009890	low anterior hairline	HP:0000294
+high insertion of columella	HP:0012807	low insertion of columella	HP:0010763
+high maternal serum alpha-fetoprotein	HP:0011432	low maternal serum alpha-fetoprotein	HP:0010570
+high maternal serum chorionic gonadotropin	HP:0011433	low maternal serum chorionic gonadotropin	HP:0011434
+high posterior hairline	HP:0012891	low posterior hairline	HP:0002162
+high pulse pressure	HP:0030852	low pulse pressure	HP:0030851
+high serum calcifediol	HP:0031414	low serum calcifediol	HP:0012053
+high serum calcitriol	HP:0031415	low serum calcitriol	HP:0012052
+high-frequency sensorineural hearing impairment	HP:0001757	low-frequency sensorineural hearing impairment	HP:0008573
+high-output congestive heart failure	HP:0001722	low-output congestive heart failure	HP:0009805
+hodgkin lymphoma	HP:0012189	non-hodgkin lymphoma	HP:0012539
+hyperactive bowel sounds	HP:0030143	hypoactive bowel sounds	HP:0030144
+hyperalaninemia	HP:0003348	hypoalaninemia	HP:0500154
+hyperalbuminemia	HP:0012117	hypoalbuminemia	HP:0003073
+hyperammonemia	HP:0001987	hypoammonemia	HP:0100493
+hyperamylasemia	HP:0410288	hypoamylasemia	HP:0410289
+hyperargininemia	HP:0500153	hypoargininemia	HP:0005961
+hyperasparaginemia	HP:0500156	hypoasparaginemia	HP:0500157
+hyperautofluorescent macular lesion	HP:0030631	hypoautofluorescent macular lesion	HP:0030632
+hyperautofluorescent retinal lesion	HP:0025158	hypoautofluorescent retinal lesion	HP:0025159
+hypercalcemia	HP:0003072	hypocalcemia	HP:0002901
+hypercalciuria	HP:0002150	hypocalciuria	HP:0003127
+hypercapnia in cord blood	HP:0410214	hypocapnia in cord blood	HP:0410215
+hypercapnia	HP:0012416	hypocapnia	HP:0012417
+hyperchloremia	HP:0011423	hypochloremia	HP:0003113
+hyperchloriduria	HP:0002914	hypochloriduria	HP:0012601
+hypercholesterolemia	HP:0003124	hypocholesterolemia	HP:0003146
+hypercitraturia	HP:0012406	hypocitraturia	HP:0012405
+hyperdeviation	HP:0025587	hypodeviation	HP:0025588
+hyperfibrinogenemia	HP:0011899	hypofibrinogenemia	HP:0011900
+hyperglutamatemia	HP:0500149	hypoglutamatemia	HP:0500150
+hyperglycemia	HP:0003074	hypoglycemia	HP:0001943
+hyperglycinemia	HP:0002154	hypoglycinemia	HP:0012277
+hyperglycorrhachia	HP:0031885	hypoglycorrhachia	HP:0011972
+hypergonadotropic hypogonadism	HP:0000815	hypogonadotropic hypogonadism	HP:0000044
+hyperhidrosis	HP:0000975	hypohidrosis	HP:0000966
+hyperintensity of cerebral white matter on mri	HP:0030890	hypointensity of cerebral white matter on mri	HP:0007103
+hyperisoleucinemia	HP:0010913	hypoisoleucinemia	HP:0500144
+hyperkalemia	HP:0002153	hypokalemia	HP:0002900
+hyperleucinemia	HP:0010911	hypoleucinemia	HP:0500143
+hyperlipidemia	HP:0003077	hypolipidemia	HP:0045014
+hyperlipoproteinemia	HP:0010980	hypolipoproteinemia	HP:0010981
+hypermagnesiuria	HP:0012608	hypomagnesiuria	HP:0012609
+hypermanganesemia	HP:0032097	hypomanganesemia	HP:0032098
+hypermelanotic macule	HP:0001034	hypomelanotic macule	HP:0009719
+hypermethioninemia	HP:0003235	hypomethioninemia	HP:0003658
+hypermetric horizontal saccades	HP:0032013	hypometric horizontal saccades	HP:0007975
+hypermetric saccades	HP:0007338	hypometric saccades	HP:0000571
+hypernatriuria	HP:0012605	hyponatriuria	HP:0012604
+hyperparathyroidism	HP:0000843	hypoparathyroidism	HP:0000829
+hyperperistalsis	HP:0100770	hypoperistalsis	HP:0100771
+hyperphenylalaninemia	HP:0004923	hypophenylalaninemia	HP:0500141
+hyperphoria	HP:0025585	hypophoria	HP:0031725
+hyperphosphatemia	HP:0002905	hypophosphatemia	HP:0002148
+hyperphosphaturia	HP:0003109	hypophosphaturia	HP:0012365
+hyperpigmentation of the fundus	HP:0011512	hypopigmentation of the fundus	HP:0007894
+hyperpigmentation of the skin	HP:0000953	hypopigmentation of the skin	HP:0001010
+hyperpigmented genitalia	HP:0030258	hypopigmented genitalia	HP:0030259
+hyperpigmented streaks	HP:0007572	hypopigmented streaks	HP:0007535
+hyperpituitarism	HP:0010514	hypopituitarism	HP:0040075
+hyperplasia of the maxilla	HP:0430028	hypoplasia of the maxilla	HP:0000327
+hyperplasia of the premaxilla	HP:0430029	hypoplasia of the premaxilla	HP:0010650
+hyperplastic labia majora	HP:0012882	hypoplastic labia majora	HP:0000059
+hyperprolinemia	HP:0008358	hypoprolinemia	HP:0500139
+hyperproteinemia	HP:0002152	hypoproteinemia	HP:0003075
+hyperreflexia	HP:0001347	hyporeflexia	HP:0001265
+hypersegmentation of neutrophil nuclei in csf	HP:0410312	hyposegmentation of neutrophil nuclei in csf	HP:0410311
+hypersegmentation of neutrophil nuclei	HP:0004821	hyposegmentation of neutrophil nuclei	HP:0011447
+hypertaurinemia	HP:0500181	hypotaurinemia	HP:0500182
+hypertelorism	HP:0000316	hypotelorism	HP:0000601
+hypertension	HP:0000822	hypotension	HP:0002615
+hyperthreoninemia	HP:0003354	hypothreoninemia	HP:0500136
+hyperthyroidism	HP:0000836	hypothyroidism	HP:0000821
+hypertriglyceridemia	HP:0002155	hypotriglyceridemia	HP:0012153
+hypertropia	HP:0025586	hypotropia	HP:0025584
+hypertryptophanemia	HP:0500134	hypotryptophanemia	HP:0500135
+hypertyrosinemia	HP:0003231	hypotyrosinemia	HP:0500133
+hyperuricemia	HP:0002149	hypouricemia	HP:0003537
+hyperventilation	HP:0002883	hypoventilation	HP:0002791
+ketotic hypoglycemia	HP:0012734	nonketotic hypoglycemia	HP:0001958
+large basal ganglia	HP:0007048	small basal ganglia	HP:0012697
+large cell lung carcinoma	HP:0030360	small cell lung carcinoma	HP:0030357
+large earlobe	HP:0009748	small earlobe	HP:0000385
+large face	HP:0100729	small face	HP:0000274
+large for gestational age	HP:0001520	small for gestational age	HP:0001518
+large foramen magnum	HP:0002700	small foramen magnum	HP:0002677
+large forehead	HP:0002003	small forehead	HP:0000350
+large humeral epiphyses	HP:0003898	small humeral epiphyses	HP:0003900
+large intestinal polyposis	HP:0030255	small intestinal polyposis	HP:0030256
+large placenta	HP:0006267	small placenta	HP:0006266
+large radial epiphyses	HP:0004005	small radial epiphyses	HP:0004010
+large sella turcica	HP:0002690	small sella turcica	HP:0010538
+large vessel vasculitis	HP:0005310	small vessel vasculitis	HP:0011944
+leukemia	HP:0001909	leukopenia	HP:0001882
+medial calcification of large arteries	HP:0004966	medial calcification of small arteries	HP:0012458
+medullary thyroid carcinoma	HP:0002865	non-medullary thyroid carcinoma	HP:0040198
+monoclonal elevation of igg heavy chain	HP:0032293	monoclonal elevation of igg light chain	HP:0032292
+neoplasm of the large intestine	HP:0100834	neoplasm of the small intestine	HP:0100833
+non-obstructive azoospermia	HP:0011961	obstructive azoospermia	HP:0011962
+non-restrictive ventricular septal defect	HP:0011684	restrictive ventricular septal defect	HP:0011683
+non-secretory adrenocortical adenoma	HP:0011745	secretory adrenocortical adenoma	HP:0011746
+non-small cell lung carcinoma	HP:0030358	small cell lung carcinoma	HP:0030357
+nonopposable triphalangeal thumb	HP:0005725	opposable triphalangeal thumb	HP:0005866
+nonproductive cough	HP:0031246	productive cough	HP:0031245
+nonprogressive cerebellar ataxia	HP:0002470	progressive cerebellar ataxia	HP:0002073
+nonprogressive encephalopathy	HP:0007030	progressive encephalopathy	HP:0002448
+nonprogressive visual loss	HP:0200068	progressive visual loss	HP:0000529
+nonprogressive	HP:0003680	progressive	HP:0003676
+obsolete decreased proportion of cd4+ central memory cells	HP:0025622	obsolete increased proportion of cd4+ central memory cells	HP:0025621
+postauricular pit	HP:0004464	preauricular pit	HP:0004467
+postauricular skin tag	HP:0004451	preauricular skin tag	HP:0000384
+postaxial foot polydactyly	HP:0001830	preaxial foot polydactyly	HP:0001841
+postaxial hand polydactyly	HP:0001162	preaxial hand polydactyly	HP:0001177
+postaxial polydactyly	HP:0100259	preaxial polydactyly	HP:0100258
+postductal coarctation of the aorta	HP:0011647	preductal coarctation of the aorta	HP:0005151
+postlingual sensorineural hearing impairment	HP:0008596	prelingual sensorineural hearing impairment	HP:0000399
+primary amenorrhea	HP:0000786	secondary amenorrhea	HP:0000869
+primary caesarian section	HP:0030363	secondary caesarian section	HP:0030364
+primary hyperaldosteronism	HP:0011736	secondary hyperaldosteronism	HP:0011741
+primary hypercortisolism	HP:0001579	secondary hypercortisolism	HP:0011744
+primary hyperparathyroidism	HP:0008200	secondary hyperparathyroidism	HP:0000867
+secondary hyperparathyroidism	HP:0000867	tertiary hyperparathyroidism	HP:0011770
+submucous cleft hard palate	HP:0000176	submucous cleft soft palate	HP:0011819
+undetectable dark-adapted electroretinogram	HP:0030474	undetectable light-adapted electroretinogram	HP:0030465

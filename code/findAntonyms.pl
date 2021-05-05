@@ -46,7 +46,7 @@ my $DEBUG = 0;
 #my $DEBUG = 1;
 
 # set this to 1 if you only want the IDs--otherwise, to 0
-my $IDS_ONLY = 1;
+my $IDS_ONLY = 0;
 
 # set this to 1 if you're producing output for manual annotation. otherwise, set to 0
 my $ANNOTATION_TRAINING = 0;

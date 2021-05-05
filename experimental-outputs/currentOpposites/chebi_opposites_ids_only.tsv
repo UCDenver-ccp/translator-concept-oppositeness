@@ -1,107 +1,107 @@
-CHEBI:269574	CHEBI:32952
-CHEBI:35297	CHEBI:33170
-CHEBI:51269	CHEBI:51275
-CHEBI:65344	CHEBI:3744
-CHEBI:65346	CHEBI:3743
-CHEBI:33650	CHEBI:33649
-CHEBI:36608	CHEBI:36607
-CHEBI:35162	CHEBI:35163
-CHEBI:50454	CHEBI:50455
-CHEBI:36599	CHEBI:36600
-CHEBI:33645	CHEBI:33642
-CHEBI:37786	CHEBI:37798
-CHEBI:13759	CHEBI:18000
-CHEBI:36445	CHEBI:36452
-CHEBI:79327	CHEBI:79342
-CHEBI:67439	CHEBI:65411
-CHEBI:22563	CHEBI:24870
-CHEBI:2733	CHEBI:27539
-CHEBI:58445	CHEBI:35243
-CHEBI:18323	CHEBI:17822
-CHEBI:67170	CHEBI:72571
-CHEBI:47033	CHEBI:33842
-CHEBI:33656	CHEBI:33655
-CHEBI:77973	CHEBI:78007
-CHEBI:35221	CHEBI:25212
-CHEBI:50843	CHEBI:25354
-CHEBI:30214	CHEBI:36356
-CHEBI:73190	CHEBI:25435
-CHEBI:48357	CHEBI:48356
-CHEBI:81339	CHEBI:3369
-CHEBI:63108	CHEBI:31633
-CHEBI:63107	CHEBI:63111
-CHEBI:408174	CHEBI:5147
-CHEBI:77590	CHEBI:31859
-CHEBI:33062	CHEBI:33057
-CHEBI:51126	CHEBI:51125
-CHEBI:53803	CHEBI:53522
-CHEBI:61376	CHEBI:61412
-CHEBI:16684	CHEBI:15884
-CHEBI:57858	CHEBI:57554
-CHEBI:35799	CHEBI:7603
-CHEBI:46550	CHEBI:46801
-CHEBI:77929	CHEBI:17700
-CHEBI:31457	CHEBI:46202
-CHEBI:41808	CHEBI:46342
-CHEBI:23574	CHEBI:27190
-CHEBI:61430	CHEBI:77547
-CHEBI:28493	CHEBI:78176
-CHEBI:53043	CHEBI:53042
-CHEBI:36003	CHEBI:39448
-CHEBI:23580	CHEBI:32900
-CHEBI:85086	CHEBI:85084
-CHEBI:5656	CHEBI:7861
-CHEBI:36367	CHEBI:36366
-CHEBI:47775	CHEBI:47774
-CHEBI:39025	CHEBI:39026
-CHEBI:76916	CHEBI:35526
-CHEBI:24834	CHEBI:25696
-CHEBI:64776	CHEBI:64775
-CHEBI:33660	CHEBI:33659
-CHEBI:36915	CHEBI:25697
-CHEBI:64770	CHEBI:64769
-CHEBI:50425	CHEBI:35489
-CHEBI:33246	CHEBI:33247
-CHEBI:33596	CHEBI:24532
-CHEBI:33242	CHEBI:37175
-CHEBI:52625	CHEBI:33822
-CHEBI:36914	CHEBI:25699
-CHEBI:35574	CHEBI:35573
-CHEBI:24835	CHEBI:50860
-CHEBI:51084	CHEBI:51085
-CHEBI:24836	CHEBI:25701
-CHEBI:24837	CHEBI:25702
-CHEBI:24838	CHEBI:25703
-CHEBI:37789	CHEBI:37592
-CHEBI:36876	CHEBI:36877
-CHEBI:36879	CHEBI:36881
-CHEBI:36878	CHEBI:36880
-CHEBI:36871	CHEBI:36872
-CHEBI:24839	CHEBI:24868
-CHEBI:38702	CHEBI:38700
-CHEBI:24840	CHEBI:51337
-CHEBI:33521	CHEBI:25585
-CHEBI:48355	CHEBI:48354
-CHEBI:83812	CHEBI:83811
-CHEBI:83820	CHEBI:83813
-CHEBI:25588	CHEBI:26167
-CHEBI:15734	CHEBI:35681
-CHEBI:17062	CHEBI:50981
-CHEBI:58001	CHEBI:58855
-CHEBI:33256	CHEBI:33257
-CHEBI:32877	CHEBI:32863
-CHEBI:50994	CHEBI:50995
-CHEBI:35884	CHEBI:35885
-CHEBI:78724	CHEBI:78702
-CHEBI:78725	CHEBI:78711
-CHEBI:78727	CHEBI:78714
-CHEBI:78729	CHEBI:78716
-CHEBI:58953	CHEBI:2580
-CHEBI:26607	CHEBI:27208
-CHEBI:77332	CHEBI:77632
-CHEBI:35681	CHEBI:26878
-CHEBI:33257	CHEBI:39409
-CHEBI:32863	CHEBI:32876
-CHEBI:50995	CHEBI:50996
-CHEBI:51145	CHEBI:51146
-CHEBI:35885	CHEBI:35886
+abamine	CHEBI:269574	amine	CHEBI:32952
+acene	CHEBI:35297	nonacene	CHEBI:33170
+acenes	CHEBI:51269	nonacenes	CHEBI:51275
+aclidinium bromide	CHEBI:65344	clidinium bromide	CHEBI:3744
+aclidinium	CHEBI:65346	clidinium	CHEBI:3743
+acyclic acetylene	CHEBI:33650	cyclic acetylene	CHEBI:33649
+acyclic acid anhydride	CHEBI:36608	cyclic acid anhydride	CHEBI:36607
+acyclic carotene	CHEBI:35162	cyclic carotene	CHEBI:35163
+acyclic desferrioxamine	CHEBI:50454	cyclic desferrioxamine	CHEBI:50455
+acyclic heterone	CHEBI:36599	cyclic heterone	CHEBI:36600
+acyclic olefin	CHEBI:33645	cyclic olefin	CHEBI:33642
+acyclic phosphorus acid anhydride	CHEBI:37786	cyclic phosphorus acid anhydride	CHEBI:37798
+alkylamine	CHEBI:13759	aralkylamine	CHEBI:18000
+alkylglucosinolate	CHEBI:36445	aralkylglucosinolate	CHEBI:36452
+alkylglucosinolic acid	CHEBI:79327	aralkylglucosinolic acid	CHEBI:79342
+ananolignan b	CHEBI:67439	anolignan b	CHEBI:65411
+anion	CHEBI:22563	ion	CHEBI:24870
+anisatin	CHEBI:2733	isatin	CHEBI:27539
+anserine zwitterion	CHEBI:58445	serine zwitterion	CHEBI:35243
+anserine	CHEBI:18323	serine	CHEBI:17822
+anti-angiogenic agent	CHEBI:67170	pro-angiogenic agent	CHEBI:72571
+antiaromatic annulene	CHEBI:47033	aromatic annulene	CHEBI:33842
+antiaromatic compound	CHEBI:33656	aromatic compound	CHEBI:33655
+antifoaming agent	CHEBI:77973	foaming agent	CHEBI:78007
+antimetabolite	CHEBI:35221	metabolite	CHEBI:25212
+antimineralocorticoid	CHEBI:50843	mineralocorticoid	CHEBI:25354
+antimuon	CHEBI:30214	muon	CHEBI:36356
+antimutagen	CHEBI:73190	mutagen	CHEBI:25435
+aprotic solvent	CHEBI:48357	protic solvent	CHEBI:48356
+arcapillin	CHEBI:81339	capillin	CHEBI:3369
+arformoterol fumarate	CHEBI:63108	formoterol fumarate	CHEBI:31633
+arformoterol(1+)	CHEBI:63107	formoterol(1+)	CHEBI:63111
+arformoterol	CHEBI:408174	formoterol	CHEBI:5147
+armodafinil	CHEBI:77590	modafinil	CHEBI:31859
+as-indacene	CHEBI:33062	s-indacene	CHEBI:33057
+as-indacenes	CHEBI:51126	s-indacenes	CHEBI:51125
+atactic macromolecule	CHEBI:53803	tactic macromolecule	CHEBI:53522
+atactic polymer	CHEBI:61376	tactic polymer	CHEBI:61412
+atropine	CHEBI:16684	tropine	CHEBI:15884
+atropinium	CHEBI:57858	tropinium	CHEBI:57554
+bilin	CHEBI:35799	nobilin	CHEBI:7603
+decaethylene glycol	CHEBI:46550	undecaethylene glycol	CHEBI:46801
+decan-2-one	CHEBI:77929	undecan-2-one	CHEBI:17700
+decanal	CHEBI:31457	undecanal	CHEBI:46202
+decane	CHEBI:41808	undecane	CHEBI:46342
+decanoyl group	CHEBI:23574	undecanoyl group	CHEBI:27190
+decanoyl-coa(4-)	CHEBI:61430	undecanoyl-coa(4-)	CHEBI:77547
+decanoyl-coa	CHEBI:28493	undecanoyl-coa	CHEBI:78176
+decaprenyl diphosphate	CHEBI:53043	undecaprenyl diphosphate	CHEBI:53042
+decenoic acid	CHEBI:36003	undecenoic acid	CHEBI:39448
+decyl group	CHEBI:23580	undecyl group	CHEBI:32900
+demethylsqualene	CHEBI:85086	methylsqualene	CHEBI:85084
+deoxyhemoglobin	CHEBI:5656	oxyhemoglobin	CHEBI:7861
+down quark	CHEBI:36367	up quark	CHEBI:36366
+high-density lipoprotein cholesterol	CHEBI:47775	low-density lipoprotein cholesterol	CHEBI:47774
+high-density lipoprotein	CHEBI:39025	low-density lipoprotein	CHEBI:39026
+hyperglycemic agent	CHEBI:76916	hypoglycemic agent	CHEBI:35526
+inorganic anion	CHEBI:24834	organic anion	CHEBI:25696
+inorganic anionic group	CHEBI:64776	organic anionic group	CHEBI:64775
+inorganic aromatic compound	CHEBI:33660	organic aromatic compound	CHEBI:33659
+inorganic cation	CHEBI:36915	organic cation	CHEBI:25697
+inorganic cationic group	CHEBI:64770	organic cationic group	CHEBI:64769
+inorganic disulfide	CHEBI:50425	organic disulfide	CHEBI:35489
+inorganic group	CHEBI:33246	organic group	CHEBI:33247
+inorganic heterocyclic compound	CHEBI:33596	organic heterocyclic compound	CHEBI:24532
+inorganic hydride	CHEBI:33242	organic hydride	CHEBI:37175
+inorganic hydroxy compound	CHEBI:52625	organic hydroxy compound	CHEBI:33822
+inorganic ion	CHEBI:36914	organic ion	CHEBI:25699
+inorganic mancude parent	CHEBI:35574	organic mancude parent	CHEBI:35573
+inorganic molecular entity	CHEBI:24835	organic molecular entity	CHEBI:50860
+inorganic nitrate salt	CHEBI:51084	organic nitrate salt	CHEBI:51085
+inorganic oxide	CHEBI:24836	organic oxide	CHEBI:25701
+inorganic peroxide	CHEBI:24837	organic peroxide	CHEBI:25702
+inorganic phosphate	CHEBI:24838	organic phosphate	CHEBI:25703
+inorganic phosphonate	CHEBI:37789	organic phosphonate	CHEBI:37592
+inorganic radical anion	CHEBI:36876	organic radical anion	CHEBI:36877
+inorganic radical cation	CHEBI:36879	organic radical cation	CHEBI:36881
+inorganic radical ion	CHEBI:36878	organic radical ion	CHEBI:36880
+inorganic radical	CHEBI:36871	organic radical	CHEBI:36872
+inorganic salt	CHEBI:24839	organic salt	CHEBI:24868
+inorganic sodium salt	CHEBI:38702	organic sodium salt	CHEBI:38700
+inorganic sulfate salt	CHEBI:24840	organic sulfate salt	CHEBI:51337
+metal atom	CHEBI:33521	nonmetal atom	CHEBI:25585
+non-polar solvent	CHEBI:48355	polar solvent	CHEBI:48354
+non-proteinogenic amino acid derivative	CHEBI:83812	proteinogenic amino acid derivative	CHEBI:83811
+non-proteinogenic amino acid	CHEBI:83820	proteinogenic amino acid	CHEBI:83813
+nonpolar amino acid	CHEBI:25588	polar amino acid	CHEBI:26167
+primary alcohol	CHEBI:15734	secondary alcohol	CHEBI:35681
+primary aliphatic amine	CHEBI:17062	secondary aliphatic amine	CHEBI:50981
+primary aliphatic ammonium ion	CHEBI:58001	secondary aliphatic ammonium ion	CHEBI:58855
+primary amide	CHEBI:33256	secondary amide	CHEBI:33257
+primary amine	CHEBI:32877	secondary amine	CHEBI:32863
+primary amino compound	CHEBI:50994	secondary amino compound	CHEBI:50995
+primary phosphine	CHEBI:35884	secondary phosphine	CHEBI:35885
+s. flexneri serotype 1a o-polysaccharide (o factor 9-negative)	CHEBI:78724	s. flexneri serotype 1a o-polysaccharide (o factor 9-positive)	CHEBI:78702
+s. flexneri serotype 2a o-polysaccharide (o factor 9-negative)	CHEBI:78725	s. flexneri serotype 2a o-polysaccharide (o factor 9-positive)	CHEBI:78711
+s. flexneri serotype 5a o-polysaccharide (o factor 9-negative)	CHEBI:78727	s. flexneri serotype 5a o-polysaccharide (o factor 9-positive)	CHEBI:78714
+s. flexneri serotype y o-polysaccharide (o factor 9-negative)	CHEBI:78729	s. flexneri serotype y o-polysaccharide (o factor 9-positive)	CHEBI:78716
+saturated fatty acid anion	CHEBI:58953	unsaturated fatty acid anion	CHEBI:2580
+saturated fatty acid	CHEBI:26607	unsaturated fatty acid	CHEBI:27208
+saturated fatty acyl-coa(4-)	CHEBI:77332	unsaturated fatty acyl-coa(4-)	CHEBI:77632
+secondary alcohol	CHEBI:35681	tertiary alcohol	CHEBI:26878
+secondary amide	CHEBI:33257	tertiary amide	CHEBI:39409
+secondary amine	CHEBI:32863	tertiary amine	CHEBI:32876
+secondary amino compound	CHEBI:50995	tertiary amino compound	CHEBI:50996
+secondary amino group	CHEBI:51145	tertiary amino group	CHEBI:51146
+secondary phosphine	CHEBI:35885	tertiary phosphine	CHEBI:35886
