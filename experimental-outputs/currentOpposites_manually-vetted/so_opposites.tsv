@@ -1,0 +1,23 @@
+X	anticodon	SO:0001174	codon	SO:0000360
+	antiparallel beta strand	SO:0001112	parallel beta strand	SO:0001113
+	asymmetric rna internal loop	SO:0000021	symmetric rna internal loop	SO:0000025
+	coding exon	SO:0000195	noncoding exon	SO:0000198
+	coding region of exon	SO:0001215	noncoding region of exon	SO:0001214
+	copy number decrease	SO:0001912	copy number increase	SO:0001911
+	decreased polyadenylation variant	SO:0001803	increased polyadenylation variant	SO:0001802
+	decreased transcript level variant	SO:0001541	increased transcript level variant	SO:0001542
+	decreased transcript stability variant	SO:0001547	increased transcript stability variant	SO:0001548
+	decreased transcription rate variant	SO:0001552	increased transcription rate variant	SO:0001551
+	decreased translational product level	SO:0001555	increased translational product level	SO:0001556
+	germline variant	SO:0001778	somatic variant	SO:0001777
+	hyperploid	SO:0000055	hypoploid	SO:0000056
+	invalidated cdna clone	SO:0000809	validated cdna clone	SO:0000808
+	invalidated	SO:0000790	validated	SO:0000789
+	inverted insertional duplication	SO:1000153	uninverted insertional duplication	SO:1000152
+	inverted interchromosomal transposition	SO:1000156	uninverted interchromosomal transposition	SO:1000157
+	inverted intrachromosomal transposition	SO:1000158	uninverted intrachromosomal transposition	SO:1000159
+	large subunit rrna	SO:0000651	small subunit rrna	SO:0000650
+	negative sense ssrna viral sequence	SO:0001200	positive sense ssrna viral sequence	SO:0001201
+	negatively autoregulated gene	SO:0000891	positively autoregulated gene	SO:0000892
+	negatively autoregulated	SO:0000473	positively autoregulated	SO:0000475
+	rrna large subunit primary transcript	SO:0000325	rrna small subunit primary transcript	SO:0000255

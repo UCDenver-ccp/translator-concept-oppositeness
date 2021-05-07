@@ -1,0 +1,107 @@
+X	abamine	CHEBI:269574	amine	CHEBI:32952
+X	acene	CHEBI:35297	nonacene	CHEBI:33170
+X	acenes	CHEBI:51269	nonacenes	CHEBI:51275
+X	aclidinium bromide	CHEBI:65344	clidinium bromide	CHEBI:3744
+X	aclidinium	CHEBI:65346	clidinium	CHEBI:3743
+	acyclic acetylene	CHEBI:33650	cyclic acetylene	CHEBI:33649
+	acyclic acid anhydride	CHEBI:36608	cyclic acid anhydride	CHEBI:36607
+	acyclic carotene	CHEBI:35162	cyclic carotene	CHEBI:35163
+	acyclic desferrioxamine	CHEBI:50454	cyclic desferrioxamine	CHEBI:50455
+	acyclic heterone	CHEBI:36599	cyclic heterone	CHEBI:36600
+	acyclic olefin	CHEBI:33645	cyclic olefin	CHEBI:33642
+	acyclic phosphorus acid anhydride	CHEBI:37786	cyclic phosphorus acid anhydride	CHEBI:37798
+X	alkylamine	CHEBI:13759	aralkylamine	CHEBI:18000
+X	alkylglucosinolate	CHEBI:36445	aralkylglucosinolate	CHEBI:36452
+X	alkylglucosinolic acid	CHEBI:79327	aralkylglucosinolic acid	CHEBI:79342
+X	ananolignan b	CHEBI:67439	anolignan b	CHEBI:65411
+X	anion	CHEBI:22563	ion	CHEBI:24870
+X	anisatin	CHEBI:2733	isatin	CHEBI:27539
+X	anserine zwitterion	CHEBI:58445	serine zwitterion	CHEBI:35243
+X	anserine	CHEBI:18323	serine	CHEBI:17822
+	anti-angiogenic agent	CHEBI:67170	pro-angiogenic agent	CHEBI:72571
+	antiaromatic annulene	CHEBI:47033	aromatic annulene	CHEBI:33842
+	antiaromatic compound	CHEBI:33656	aromatic compound	CHEBI:33655
+	antifoaming agent	CHEBI:77973	foaming agent	CHEBI:78007
+X	antimetabolite	CHEBI:35221	metabolite	CHEBI:25212
+X	antimineralocorticoid	CHEBI:50843	mineralocorticoid	CHEBI:25354
+	antimuon	CHEBI:30214	muon	CHEBI:36356
+X	antimutagen	CHEBI:73190	mutagen	CHEBI:25435
+	aprotic solvent	CHEBI:48357	protic solvent	CHEBI:48356
+X	arcapillin	CHEBI:81339	capillin	CHEBI:3369
+X	arformoterol fumarate	CHEBI:63108	formoterol fumarate	CHEBI:31633
+X	arformoterol(1+)	CHEBI:63107	formoterol(1+)	CHEBI:63111
+X	arformoterol	CHEBI:408174	formoterol	CHEBI:5147
+X	armodafinil	CHEBI:77590	modafinil	CHEBI:31859
+X	as-indacene	CHEBI:33062	s-indacene	CHEBI:33057
+X	as-indacenes	CHEBI:51126	s-indacenes	CHEBI:51125
+	atactic macromolecule	CHEBI:53803	tactic macromolecule	CHEBI:53522
+	atactic polymer	CHEBI:61376	tactic polymer	CHEBI:61412
+X	atropine	CHEBI:16684	tropine	CHEBI:15884
+X	atropinium	CHEBI:57858	tropinium	CHEBI:57554
+X	bilin	CHEBI:35799	nobilin	CHEBI:7603
+X	decaethylene glycol	CHEBI:46550	undecaethylene glycol	CHEBI:46801
+X	decan-2-one	CHEBI:77929	undecan-2-one	CHEBI:17700
+X	decanal	CHEBI:31457	undecanal	CHEBI:46202
+X	decane	CHEBI:41808	undecane	CHEBI:46342
+X	decanoyl group	CHEBI:23574	undecanoyl group	CHEBI:27190
+X	decanoyl-coa(4-)	CHEBI:61430	undecanoyl-coa(4-)	CHEBI:77547
+X	decanoyl-coa	CHEBI:28493	undecanoyl-coa	CHEBI:78176
+X	decaprenyl diphosphate	CHEBI:53043	undecaprenyl diphosphate	CHEBI:53042
+X	decenoic acid	CHEBI:36003	undecenoic acid	CHEBI:39448
+X	decyl group	CHEBI:23580	undecyl group	CHEBI:32900
+X	demethylsqualene	CHEBI:85086	methylsqualene	CHEBI:85084
+X	deoxyhemoglobin	CHEBI:5656	oxyhemoglobin	CHEBI:7861
+X	down quark	CHEBI:36367	up quark	CHEBI:36366
+	high-density lipoprotein cholesterol	CHEBI:47775	low-density lipoprotein cholesterol	CHEBI:47774
+	high-density lipoprotein	CHEBI:39025	low-density lipoprotein	CHEBI:39026
+	hyperglycemic agent	CHEBI:76916	hypoglycemic agent	CHEBI:35526
+	inorganic anion	CHEBI:24834	organic anion	CHEBI:25696
+	inorganic anionic group	CHEBI:64776	organic anionic group	CHEBI:64775
+	inorganic aromatic compound	CHEBI:33660	organic aromatic compound	CHEBI:33659
+	inorganic cation	CHEBI:36915	organic cation	CHEBI:25697
+	inorganic cationic group	CHEBI:64770	organic cationic group	CHEBI:64769
+	inorganic disulfide	CHEBI:50425	organic disulfide	CHEBI:35489
+	inorganic group	CHEBI:33246	organic group	CHEBI:33247
+	inorganic heterocyclic compound	CHEBI:33596	organic heterocyclic compound	CHEBI:24532
+	inorganic hydride	CHEBI:33242	organic hydride	CHEBI:37175
+	inorganic hydroxy compound	CHEBI:52625	organic hydroxy compound	CHEBI:33822
+	inorganic ion	CHEBI:36914	organic ion	CHEBI:25699
+	inorganic mancude parent	CHEBI:35574	organic mancude parent	CHEBI:35573
+	inorganic molecular entity	CHEBI:24835	organic molecular entity	CHEBI:50860
+	inorganic nitrate salt	CHEBI:51084	organic nitrate salt	CHEBI:51085
+	inorganic oxide	CHEBI:24836	organic oxide	CHEBI:25701
+	inorganic peroxide	CHEBI:24837	organic peroxide	CHEBI:25702
+	inorganic phosphate	CHEBI:24838	organic phosphate	CHEBI:25703
+	inorganic phosphonate	CHEBI:37789	organic phosphonate	CHEBI:37592
+	inorganic radical anion	CHEBI:36876	organic radical anion	CHEBI:36877
+	inorganic radical cation	CHEBI:36879	organic radical cation	CHEBI:36881
+	inorganic radical ion	CHEBI:36878	organic radical ion	CHEBI:36880
+	inorganic radical	CHEBI:36871	organic radical	CHEBI:36872
+	inorganic salt	CHEBI:24839	organic salt	CHEBI:24868
+	inorganic sodium salt	CHEBI:38702	organic sodium salt	CHEBI:38700
+	inorganic sulfate salt	CHEBI:24840	organic sulfate salt	CHEBI:51337
+	metal atom	CHEBI:33521	nonmetal atom	CHEBI:25585
+	non-polar solvent	CHEBI:48355	polar solvent	CHEBI:48354
+	non-proteinogenic amino acid derivative	CHEBI:83812	proteinogenic amino acid derivative	CHEBI:83811
+	non-proteinogenic amino acid	CHEBI:83820	proteinogenic amino acid	CHEBI:83813
+	nonpolar amino acid	CHEBI:25588	polar amino acid	CHEBI:26167
+X	primary alcohol	CHEBI:15734	secondary alcohol	CHEBI:35681
+X	primary aliphatic amine	CHEBI:17062	secondary aliphatic amine	CHEBI:50981
+X	primary aliphatic ammonium ion	CHEBI:58001	secondary aliphatic ammonium ion	CHEBI:58855
+X	primary amide	CHEBI:33256	secondary amide	CHEBI:33257
+X	primary amine	CHEBI:32877	secondary amine	CHEBI:32863
+X	primary amino compound	CHEBI:50994	secondary amino compound	CHEBI:50995
+X	primary phosphine	CHEBI:35884	secondary phosphine	CHEBI:35885
+X	s. flexneri serotype 1a o-polysaccharide (o factor 9-negative)	CHEBI:78724	s. flexneri serotype 1a o-polysaccharide (o factor 9-positive)	CHEBI:78702
+X	s. flexneri serotype 2a o-polysaccharide (o factor 9-negative)	CHEBI:78725	s. flexneri serotype 2a o-polysaccharide (o factor 9-positive)	CHEBI:78711
+X	s. flexneri serotype 5a o-polysaccharide (o factor 9-negative)	CHEBI:78727	s. flexneri serotype 5a o-polysaccharide (o factor 9-positive)	CHEBI:78714
+X	s. flexneri serotype y o-polysaccharide (o factor 9-negative)	CHEBI:78729	s. flexneri serotype y o-polysaccharide (o factor 9-positive)	CHEBI:78716
+	saturated fatty acid anion	CHEBI:58953	unsaturated fatty acid anion	CHEBI:2580
+	saturated fatty acid	CHEBI:26607	unsaturated fatty acid	CHEBI:27208
+	saturated fatty acyl-coa(4-)	CHEBI:77332	unsaturated fatty acyl-coa(4-)	CHEBI:77632
+X	secondary alcohol	CHEBI:35681	tertiary alcohol	CHEBI:26878
+X	secondary amide	CHEBI:33257	tertiary amide	CHEBI:39409
+X	secondary amine	CHEBI:32863	tertiary amine	CHEBI:32876
+X	secondary amino compound	CHEBI:50995	tertiary amino compound	CHEBI:50996
+X	secondary amino group	CHEBI:51145	tertiary amino group	CHEBI:51146
+X	secondary phosphine	CHEBI:35885	tertiary phosphine	CHEBI:35886
