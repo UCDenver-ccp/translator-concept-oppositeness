@@ -1,0 +1,29 @@
+"3-isopropylmalate dehydratase large subunit, initiator methionine removed form"	PR:000024508	"3-isopropylmalate dehydratase small subunit, initiator methionine removed form"	PR:000024509
+3-isopropylmalate dehydratase large subunit	PR:000023084	3-isopropylmalate dehydratase small subunit	PR:000023085
+acetolactate synthase isozyme 1 large subunit	PR:000023003	acetolactate synthase isozyme 1 small subunit	PR:000023011
+acetolactate synthase isozyme 2 large subunit	PR:000023007	acetolactate synthase isozyme 2 small subunit	PR:000023010
+acetolactate synthase isozyme 3 large subunit	PR:000023009	acetolactate synthase isozyme 3 small subunit	PR:000023008
+carbamoyl-phosphate synthase large chain	PR:000022249	carbamoyl-phosphate synthase small chain	PR:000022248
+"cytochrome b-245 heavy chain, initiator methionine removed form"	PR:000019612	"cytochrome b-245 light chain, initiator methionine removed form"	PR:000019611
+cytochrome b-245 heavy chain	PR:000006088	cytochrome b-245 light chain	PR:000006086
+dna primase large subunit (human)	PR:000026425	dna primase small subunit (human)	PR:000026426
+dna primase large subunit	PR:000013217	dna primase small subunit	PR:000013216
+"dynein heavy chain 1, axonemal"	PR:000006556	"dynein light chain 1, axonemal"	PR:000006590
+ethanolamine ammonia-lyase heavy chain	PR:000022537	ethanolamine ammonia-lyase light chain	PR:000022538
+exodeoxyribonuclease 7 large subunit	PR:000024238	exodeoxyribonuclease 7 small subunit	PR:000024239
+"ferritin heavy chain, initiator methionine removed form"	PR:000019943	"ferritin light chain, initiator methionine removed form"	PR:000019944
+ferritin heavy chain	PR:000007691	ferritin light chain	PR:000007693
+glutamate synthase [nadph] large chain	PR:000022805	glutamate synthase [nadph] small chain	PR:000022806
+hydrogenase-1 large chain	PR:000022945	hydrogenase-1 small chain	PR:000022944
+hydrogenase-2 large chain	PR:000022950	hydrogenase-2 small chain	PR:000022954
+large-conductance mechanosensitive channel	PR:000023297	small-conductance mechanosensitive channel	PR:000023298
+"myosin-binding protein c, fast-type"	PR:000010805	"myosin-binding protein c, slow-type"	PR:000010804
+neurofilament heavy polypeptide	PR:000011119	neurofilament light polypeptide	PR:000011120
+post-translationally modified amino-acid residue	PR:000002969	pre-translationally modified amino-acid residue	PR:000002971
+ribosomal large subunit pseudouridine synthase a	PR:000023777	ribosomal small subunit pseudouridine synthase a	PR:000023892
+ribosomal rna large subunit methyltransferase a	PR:000023766	ribosomal rna small subunit methyltransferase a	PR:000023882
+ribosomal rna large subunit methyltransferase e	PR:000023768	ribosomal rna small subunit methyltransferase e	PR:000023886
+ribosomal rna large subunit methyltransferase f	PR:000023769	ribosomal rna small subunit methyltransferase f	PR:000023887
+ribosomal rna large subunit methyltransferase g	PR:000023770	ribosomal rna small subunit methyltransferase g	PR:000023888
+"troponin i, fast skeletal muscle"	PR:000016506	"troponin i, slow skeletal muscle"	PR:000016505
+"troponin t, fast skeletal muscle"	PR:000016511	"troponin t, slow skeletal muscle"	PR:000016509

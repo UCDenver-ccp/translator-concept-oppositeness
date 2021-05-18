@@ -13,9 +13,9 @@ id: SCTID:93143009
 name: leucosis
 id: MP:0101010101 
 name: hypertension
-id: MP_0000231
+id: MTHU002068
 name: hypotension
-id: MP_0001596
+id: MTHU001921
 name: hypoglycemia
 id: SCTID:302866003 
 name: hyperglycemia
@@ -223,11 +223,11 @@ id: MP:0101
 name: meiosis
 id: MP:0101
 name: mitosis
-id: MP:0101
+id: GO:0000278
 name: meiotic
 id: MP:0101
 name: mitotic
-id: MP:0101
+id: GO:0000278
 name: ameliorates
 id: RO:0003307
 name: exacerbates

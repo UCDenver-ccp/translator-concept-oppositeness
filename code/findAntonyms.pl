@@ -292,10 +292,11 @@ sub replacements() {
   $DEBUG && print "Input to replacements(): <$input>\n";
 
 
+  # TODO XXX: VERIFY THAT THIS IS FIXED
   # hunting down a ridiculously embarrassing bug
-  if (($input eq "leukemia") || ($input eq "leukopenia")) {
-    print "Embarrassing input: <$input>\n";
-  }
+  #if (($input eq "leukemia") || ($input eq "leukopenia")) {
+  #  print "Embarrassing input: <$input>\n";
+  #}
 # enlarged versus small
 
   my %paired_affixes = ("pro" => "anti",
