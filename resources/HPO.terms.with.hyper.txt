@@ -1,0 +1,453 @@
+name: Abnormal delayed hypersensitivity skin test
+name: Abnormally lax or hyperextensible skin
+name: Acute hyperammonemia
+name: Adipocyte hypertrophy
+name: Adrenal hyperplasia
+name: Airborn particle hypersensitivity
+name: Airway hyperresponsiveness
+name: Alternating hyperphoria
+name: Alternating hypertropia
+name: Anterior cervical hypertrichosis
+name: Apical hypertrabeculation of the left ventricle
+name: Apical hypertrophic cardiomyopathy
+name: Areas of hypopigmentation and hyperpigmentation that do not follow Blaschko lines
+name: Asymmetric septal hypertrophy
+name: Asymptomatic hyperammonemia
+name: Atrial septal hypertrophy
+name: Attention deficit hyperactivity disorder
+name: Atypical hyperphenylalaninemia
+name: Axillary and groin hyperpigmentation and hypopigmentation
+name: Benign prostatic hyperplasia
+name: Biceps hyperreflexia
+name: Biliary epithelial hyperplasia
+name: Biliary hyperplasia
+name: Biventricular hypertrophy
+name: Bone marrow hypercellularity
+name: Brachioradialis hyperreflexia
+name: Breast hypertrophy
+name: CNS hypermyelination
+name: Calf muscle hypertrophy
+name: Calf muscle pseudohypertrophy
+name: Calvarial hyperostosis
+name: Cardiomyocyte hypertrophy
+name: Cellular hypersensitivity to diepoxybutane
+name: Cellular hypersensitivity to mitomycin C
+name: Cervical spine hypermobility
+name: Chorioretinal hyperpigmentation
+name: Choroidal vascular hyperpermeability
+name: Circumlimbal hyperemia
+name: Circumungual hyperkeratosis
+name: Clitoral hypertrophy
+name: Cobblestone-like hyperkeratosis
+name: Concentric hypertrophic cardiomyopathy
+name: Confluent hyperintensity of cerebral white matter on MRI
+name: Congenital adrenal hyperplasia
+name: Congenital hypertrophy of left ventricle
+name: Congenital hypertrophy of retinal pigment epithelium
+name: Congenital, generalized hypertrichosis
+name: Conjugated hyperbilirubinemia
+name: Conjunctival hyperemia
+name: Cranial hyperostosis
+name: Craniofacial hyperostosis
+name: Deep cerebral white matter hyperdensities
+name: Deep episcleral hyperemia
+name: Depigmentation/hyperpigmentation of skin
+name: Dexamethasone-suppressible primary hyperaldosteronism
+name: Diffuse palmoplantar hyperkeratosis
+name: Diffuse pancreatic islet hyperplasia
+name: Discrete 2 to 5-mm hyper- and hypopigmented macules
+name: Distal upper limb muscle hypertrophy
+name: EEG with hyperventilation-induced epileptiform discharges
+name: EEG with hyperventilation-induced focal epileptiform discharges
+name: EEG with hyperventilation-induced generalized epileptiform discharges
+name: Elbow hypertrichosis
+name: Emotional hypersensitivity
+name: Endocapillary hypercellularity
+name: Epidermal hyperkeratosis
+name: Episodic hyperhidrosis
+name: Episodic hypersomnia
+name: Episodic hypertension
+name: Erythroid hyperplasia
+name: Euthyroid hyperthyroxinemia
+name: Extracapillary hypercellularity
+name: Extrahepatic portal hypertension
+name: Facial hyperostosis
+name: Facial hypertrichosis
+name: Facial muscle hypertrophy
+name: Facial palsy secondary to cranial hyperostosis
+name: Fasting hyperinsulinemia
+name: Finger hyperphalangy
+name: Finger joint hypermobility
+name: Focal T2 hyperintense basal ganglia lesion
+name: Focal T2 hyperintense brainstem lesion
+name: Focal T2 hyperintense thalamic lesion
+name: Focal autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Focal aware autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Focal aware hyperkinetic seizure
+name: Focal epithelial hyperplasia of oral mucosa
+name: Focal friction-related palmoplantar hyperkeratosis
+name: Focal hyperextensible skin
+name: Focal hyperintensity of cerebral white matter on MRI
+name: Focal hyperkinetic seizure
+name: Focal impaired awareness autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Focal impaired awareness hyperkinetic seizure
+name: Focal pancreatic islet hyperplasia
+name: Follicular hyperkeratosis
+name: Follicular hyperplasia
+name: Forehead hyperpigmentation
+name: Foveal hyperpigmentation
+name: Frontotemporal hypertrichosis
+name: Gastric hypertrophy
+name: Generalized bronze hyperpigmentation
+name: Generalized hyperkeratosis
+name: Generalized hyperpigmentation
+name: Generalized hyperreflexia
+name: Generalized hypertrichosis
+name: Generalized muscle hypertrophy
+name: Giant hypertrophic gastritis
+name: Gingival hyperkeratosis
+name: Glucocortocoid-insensitive primary hyperaldosteronism
+name: Granulocytic hyperplasia
+name: Grouped congenital hypertrophy of retinal pigment epithelium
+name: Hemifacial hypertrophy
+name: Hemihypertrophy
+name: Hemihypertrophy of lower limb
+name: Hemihypertrophy of upper limb
+name: High hypermetropia
+name: Hip joint hypermobility
+name: Hyperactive Achilles reflex
+name: Hyperactive bowel sounds
+name: Hyperactive deep tendon reflexes
+name: Hyperactive patellar reflex
+name: Hyperactive renin-angiotensin system
+name: Hyperactivity
+name: Hyperacusis
+name: Hyperalaninemia
+name: Hyperalbuminemia
+name: Hyperaldosteronism
+name: Hyperalgesia
+name: Hyperammonemia
+name: Hyperamylasemia
+name: Hyperapobetalipoproteinemia
+name: Hyperargininemia
+name: Hyperasparaginemia
+name: Hyperautofluorescent macular lesion
+name: Hyperautofluorescent retinal lesion
+name: Hyperbeta-alaninemia
+name: Hyperbilirubinemia
+name: Hypercalcemia
+name: Hypercalciuria
+name: Hypercapnia
+name: Hypercapnia in cord blood
+name: Hyperchloremia
+name: Hyperchloremic acidosis
+name: Hyperchloremic metabolic acidosis
+name: Hyperchloriduria
+name: Hypercholesterolemia
+name: Hyperchromasia of renal tubular epithelial cells
+name: Hyperchromic macrocytic anemia
+name: Hypercitraturia
+name: Hypercoagulability
+name: Hyperconvex fingernails
+name: Hyperconvex nail
+name: Hyperconvex thumb nails
+name: Hyperconvex toenail
+name: Hyperconvex vertebral body endplates
+name: Hypercystinemia
+name: Hyperdeviation
+name: Hyperechogenic kidneys
+name: Hyperechogenic pancreas
+name: Hyperemesis gravidarum
+name: Hypereosinophilia
+name: Hyperesthesia
+name: Hyperextensibility at elbow
+name: Hyperextensibility at wrists
+name: Hyperextensibility of the finger joints
+name: Hyperextensibility of the knee
+name: Hyperextensible hand joints
+name: Hyperextensible skin
+name: Hyperextensible skin of chest
+name: Hyperextensible skin of face
+name: Hyperextensible thumb
+name: Hyperfibrinogenemia
+name: Hyperfibrinolysis
+name: Hypergalactosemia
+name: Hypergastrinemia
+name: Hyperglutamatemia
+name: Hyperglutaminemia
+name: Hyperglutaminuria
+name: Hyperglycemia
+name: Hyperglycerolemia
+name: Hyperglycinemia
+name: Hyperglycinuria
+name: Hyperglycorrhachia
+name: Hypergonadotropic hypogonadism
+name: Hypergranulosis
+name: Hyperhidrosis
+name: Hyperhistidinemia
+name: Hyperhomocystinemia
+name: Hyperimidodipeptiduria
+name: Hyperinsulinemia
+name: Hyperinsulinemic hypoglycemia
+name: Hyperintensity of MRI T2 signal of the spinal cord
+name: Hyperintensity of cerebral white matter on MRI
+name: Hyperisoleucinemia
+name: Hyperkalemia
+name: Hyperkalemic metabolic acidosis
+name: Hyperkeratosis
+name: Hyperkeratosis lenticularis perstans
+name: Hyperkeratosis over edematous areas
+name: Hyperkeratosis with erythema
+name: Hyperkeratotic papule
+name: Hyperketonemia
+name: Hyperkinetic movements
+name: Hyperkinetic status epilepticus
+name: Hyperleucinemia
+name: Hyperlipidemia
+name: Hyperlipoproteinemia
+name: Hyperlordosis
+name: Hyperlysinemia
+name: Hyperlysinuria
+name: Hypermagnesemia
+name: Hypermagnesiuria
+name: Hypermanganesemia
+name: Hypermelanotic macule
+name: Hypermethioninemia
+name: Hypermetric downward saccades
+name: Hypermetric horizontal saccades
+name: Hypermetric saccades
+name: Hypermetropia
+name: Hypermobility of distal interphalangeal joints
+name: Hypermobility of interphalangeal joints
+name: Hypermobility of toe joints
+name: Hypermyelinated retinal nerve fibers
+name: Hypernatremia
+name: Hypernatremic dehydration
+name: Hypernatriuria
+name: Hyperopic astigmatism
+name: Hyperorality
+name: Hyperornithinemia
+name: Hyperostosis
+name: Hyperostosis cranialis interna
+name: Hyperostosis frontalis interna
+name: Hyperoxaluria
+name: Hyperoxemia
+name: Hyperoxemia in cord blood
+name: Hyperparakeratosis
+name: Hyperparathyroidism
+name: Hyperpepsinogenemia I
+name: Hyperperistalsis
+name: Hyperphalangy of the 2nd finger
+name: Hyperphalangy of the 3rd finger
+name: Hyperphenylalaninemia
+name: Hyperphoria
+name: Hyperphosphatemia
+name: Hyperphosphaturia
+name: Hyperpigmentation in sun-exposed areas
+name: Hyperpigmentation of eyelids
+name: Hyperpigmentation of the fundus
+name: Hyperpigmentation of the skin
+name: Hyperpigmented genitalia
+name: Hyperpigmented nevi
+name: Hyperpigmented nevi and streak
+name: Hyperpigmented nodule
+name: Hyperpigmented papule
+name: Hyperpigmented streaks
+name: Hyperpigmented/hypopigmented macules
+name: Hyperpituitarism
+name: Hyperplasia of midface
+name: Hyperplasia of the Leydig cells
+name: Hyperplasia of the endometrium
+name: Hyperplasia of the femoral trochanters
+name: Hyperplasia of the maxilla
+name: Hyperplasia of the premaxilla
+name: Hyperplastic callus formation
+name: Hyperplastic colonic polyposis
+name: Hyperplastic labia majora
+name: Hyperprolinemia
+name: Hyperprostaglandinuria
+name: Hyperproteinemia
+name: Hyperpyrexia
+name: Hyperreflexia
+name: Hyperreflexia in upper limbs
+name: Hyperreflexia proximally
+name: Hypersarcosinemia
+name: Hypersarcosinuria
+name: Hypersegmentation of neutrophil nuclei
+name: Hypersegmentation of neutrophil nuclei in CSF
+name: Hypersegmentation of proximal phalanx of second finger
+name: Hypersegmentation of proximal phalanx of third finger
+name: Hypersensitivity pneumonitis
+name: Hyperserinemia
+name: Hypersexuality
+name: Hypersomnia
+name: Hypersplenism
+name: Hypertaurinemia
+name: Hypertelorism
+name: Hypertension
+name: Hypertension associated with pheochromocytoma
+name: Hypertensive crisis
+name: Hypertensive retinopathy
+name: Hyperthreoninemia
+name: Hyperthreoninuria
+name: Hyperthyroidism
+name: Hypertonia
+name: Hypertonic dehydration
+name: Hypertrichosis
+name: Hypertrichotic hyperpigmented patch
+name: Hypertriglyceridemia
+name: Hypertrophic auricular cartilage
+name: Hypertrophic cardiomyopathy
+name: Hypertrophic nerve changes
+name: Hypertrophy of skin of soles
+name: Hypertrophy of the lower limb
+name: Hypertrophy of the upper limb
+name: Hypertrophy of the urinary bladder
+name: Hypertropia
+name: Hypertryptophanemia
+name: Hypertyrosinemia
+name: Hyperuricemia
+name: Hyperuricosuria
+name: Hypervalinemia
+name: Hyperventilation
+name: Hypervolemia
+name: Hyperxanthinemia
+name: Hypohidrosis or hyperhidrosis
+name: Immediate-type hypersensitivity drug reaction
+name: Immunologic hypersensitivity
+name: Infantile hypercalcemia
+name: Intermittent hyperpnea at rest
+name: Intermittent hyperventilation
+name: Intestinal lymphoid nodular hyperplasia
+name: Intra-oral hyperpigmentation
+name: Irregular hyperpigmentation
+name: Irregular hyperpigmentation of back
+name: Isolated systolic hypertension
+name: Joint hyperflexibility
+name: Joint hypermobility
+name: Knee joint hypermobility
+name: Labial hypertrophy
+name: Labial pseudohypertrophy
+name: Large hyperpigmented retinal spots
+name: Latent hypermetropia
+name: Left ventricular hypertrophy
+name: Limb hypertonia
+name: Linear arrays of macular hyperkeratoses in flexural areas
+name: Linear hyperpigmentation
+name: Lip hyperpigmentation
+name: Localized epidermolytic hyperkeratosis
+name: Lower extremity subcutanous fat hypertrophy
+name: Lower limb hyperreflexia
+name: Lower limb hypertonia
+name: Lumbar hyperlordosis
+name: Lumbar hypertrichosis
+name: Lymphoid nodular hyperplasia
+name: Macronodular adrenal hyperplasia
+name: Macular hyperpigmentation
+name: Macular hyperpigmented dermopathy
+name: Malignant hyperthermia
+name: Mandibular hyperostosis
+name: Marked muscular hypertrophy
+name: Maternal hyperphenylalaninemia
+name: Maternal hypertension
+name: Megakaryocyte nucleus hyperlobulation
+name: Megaloblastic erythroid hyperplasia
+name: Mesangial hypercellularity
+name: Metacarpophalangeal joint hyperextensibility
+name: Mild hypermetropia
+name: Mixed hypo- and hyperpigmentation of the skin
+name: Moderate hypermetropia
+name: Multifocal hyperintensity of cerebral white matter on MRI
+name: Multiple bilateral congenital hypertrophy of retinal pigment epithelium
+name: Muscle fiber hypertrophy
+name: Muscle hyperirritability
+name: Muscle hypertrophy of the lower extremities
+name: Neck hypertonia
+name: Neck muscle hypertrophy
+name: Neonatal hyperbilirubinemia
+name: Neonatal unconjugated hyperbilirubinemia
+name: Neutral hyperaminoaciduria
+name: Nodular regenerative hyperplasia of liver
+name: Nonketotic hyperglycinemia
+name: Ocular hypertension
+name: Orthokeratotic hyperkeratosis
+name: Palmar hyperhidrosis
+name: Palmar hyperkeratosis
+name: Palmoplantar hyperhidrosis
+name: Palmoplantar hyperkeratosis
+name: Pancreatic hyperplasia
+name: Pancreatic islet-cell hyperplasia
+name: Paraspinal muscle hypertrophy
+name: Parathyroid hyperplasia
+name: Patchy hypo- and hyperpigmentation
+name: Perifollicular hyperkeratosis
+name: Perifoveal ring of hyperautofluorescence
+name: Perifoveal ring of hyperautofluorescence surrounded by abnormal autofluorescence
+name: Perifoveal ring of hyperautofluorescence surrounded by normal autofluorescence
+name: Periodic hyperkalemic paralysis
+name: Perioral hyperpigmentation
+name: Periorbital hyperpigmentation
+name: Peripheral hypermyelination
+name: Periventricular white matter hyperdensities
+name: Plantar hyperkeratosis
+name: Podocyte hypertrophy
+name: Portal hypertension
+name: Postprandial hyperglycemia
+name: Postprandial hyperlactemia
+name: Primary hyperaldosteronism
+name: Primary hypercortisolism
+name: Primary hyperparathyroidism
+name: Progressive alveolar ridge hypertropy
+name: Progressive hyperpigmentation
+name: Progressive reticulate hyperpigmentation
+name: Proximal finger joint hyperextensibility
+name: Proximal upper limb muscle hypertrophy
+name: Pulmonary arterial hypertension
+name: Pulmonary arterial medial hypertrophy
+name: Pulmonary venous hypertension
+name: Punctate palmar hyperkeratosis
+name: Punctate palmoplantar hyperkeratosis
+name: Punctate periventricular T2 hyperintense foci
+name: Reduced delayed hypersensitivity
+name: Renal cortical hyperechogenicity
+name: Renal juxtaglomerular cell hypertrophy/hyperplasia
+name: Renal medullary hyperechogenicity
+name: Renovascular hypertension
+name: Reticular hyperpigmentation
+name: Right ventricular hypertrophy
+name: Sacral hypertrichosis
+name: Scapular muscle hypertrophy
+name: Scrotal hyperpigmentation
+name: Sebaceous hyperplasia
+name: Secondary hyperaldosteronism
+name: Secondary hypercortisolism
+name: Secondary hyperparathyroidism
+name: Skeletal muscle hypertrophy
+name: Solitary congenital hypertrophy of retinal pigment epithelium
+name: Spastic/hyperactive bladder
+name: Spotty hyperpigmentation
+name: Streaks of hyperkeratosis along each finger onto the palm
+name: Striatal T2 hyperintensity
+name: Subtentorial periventricular white matter hyperdensity
+name: Subungual hyperkeratosis
+name: Subungual hyperkeratotic fragments
+name: Superficial episcleral hyperemia
+name: Synovial hypertrophy
+name: Tertiary hyperparathyroidism
+name: Thigh hypertrophy
+name: Thoracic hypertrichosis
+name: Thymus hyperplasia
+name: Thyroid C cell hyperplasia
+name: Thyroid follicular hyperplasia
+name: Thyroid hyperplasia
+name: Transient hyperlipidemia
+name: Transient hyperphenylalaninemia
+name: Triceps hyperreflexia
+name: Triggered by hyperventilation
+name: Unconjugated hyperbilirubinemia
+name: Upper limb hypertonia
+name: Upper limb muscle hypertrophy
+name: Ventricular hypertrophy
+name: Ventricular septal hypertrophy
+name: Vertebral hyperostosis
+name: Villous hypertrophy of choroid plexus

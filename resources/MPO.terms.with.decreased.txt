@@ -1,0 +1,1523 @@
+name: decreased bone mineral density
+name: decreased compact bone thickness
+name: decreased chondrocyte number
+name: decreased circulating LDL cholesterol level
+name: decreased circulating HDL cholesterol level
+name: decreased circulating calcium level
+name: decreased circulating phosphate level
+name: decreased hematocrit
+name: decreased leukocyte cell number
+name: decreased neutrophil cell number
+name: decreased monocyte cell number
+name: decreased atrioventricular cushion size
+name: decreased bone marrow cell number
+name: decreased granulocyte number
+name: decreased mast cell number
+name: decreased enterocyte cell number
+name: decreased cell proliferation
+name: decreased mast cell protease storage
+name: decreased mast cell histamine storage
+name: decreased hair follicle number
+name: decreased curvature of zigzag hairs
+name: decreased presacral vertebrae number
+name: decreased digestive secretion
+name: decreased renal tubule number
+name: decreased hepatocyte number
+name: decreased ductal branching in the palatine gland
+name: decreased salivation
+name: decreased ductal branching in the coagulating gland
+name: decreased prostate gland duct number
+name: decreased percent water in carcass
+name: decreased thymocyte number
+name: decreased brain size
+name: decreased corpus callosum size
+name: decreased anterior vermis size
+name: decreased Purkinje cell number
+name: decreased colliculi size
+name: decreased motor neuron number
+name: decreased oligodendrocyte progenitor number
+name: decreased spinal cord size
+name: decreased sensory neuron number
+name: decreased Schwann cell number
+name: decreased sensitivity to skin irradiation
+name: decreased body height
+name: decreased body length
+name: decreased body weight
+name: decreased body size
+name: decreased metastatic potential
+name: decreased retinal photoreceptor cell number
+name: decreased anxiety-related response
+name: decreased exploration in new environment
+name: decreased grooming behavior
+name: decreased startle reflex
+name: decreased caudal vertebrae number
+name: decreased embryo size
+name: decreased trophoblast giant cell number
+name: decreased brown adipose tissue amount
+name: decreased white adipose tissue amount
+name: decreased IgG level
+name: decreased IgM level
+name: decreased IgA level
+name: decreased activated T cell number
+name: decreased level of surface class I molecules
+name: decreased inflammatory response
+name: decreased cerebrospinal fluid production
+name: decreased litter size
+name: decreased chemically-elicited antinociception
+name: decreased blinking frequency
+name: decreased tumor incidence
+name: decreased incidence of induced tumors
+name: decreased brain weight
+name: decreased germ cell number
+name: decreased lymph node number
+name: decreased susceptibility to hepatic steatosis
+name: decreased susceptibility to hyperlipidemia
+name: decreased airway responsiveness
+name: decreased susceptibility to infection
+name: decreased susceptibility to viral infection
+name: decreased susceptibility to bacterial infection
+name: decreased immunoglobulin level
+name: decreased IgD level
+name: decreased IgE level
+name: decreased mean corpuscular volume
+name: decreased basophil cell number
+name: decreased circulating triglyceride level
+name: decreased intestinal cholesterol absorption
+name: decreased circulating adrenocorticotropin level
+name: decreased circulating corticosterone level
+name: decreased circulating aldosterone level
+name: decreased corpora lutea number
+name: decreased mature ovarian follicle number
+name: decreased circulating glucagon level
+name: decreased circulating free fatty acid level
+name: decreased glucagon secretion
+name: decreased glycogen catabolism rate
+name: decreased circulating insulin level
+name: decreased vertical activity
+name: decreased circulating luteinizing hormone level
+name: decreased circulating testosterone level
+name: decreased circulating follicle stimulating hormone level
+name: decreased heart weight
+name: decreased susceptibility to dystrophic cardiac calcinosis
+name: decreased systemic arterial blood pressure
+name: decreased glutamic acid decarboxylase level
+name: decreased anti-insulin autoantibody level
+name: decreased hemoglobin content
+name: decreased erythrocyte cell number
+name: decreased susceptibility to pharmacologically induced seizures
+name: decreased superior colliculus size
+name: decreased urine phosphate level
+name: decreased circulating parathyroid hormone level
+name: decreased synaptic depression
+name: decreased paired-pulse facilitation
+name: decreased post-tetanic potentiation
+name: decreased circulating alanine transaminase level
+name: decreased compensatory renal growth
+name: decreased urine microalbumin level
+name: decreased urine protein level
+name: decreased circulating alkaline phosphatase level
+name: decreased urine calcium level
+name: decreased urine osmolality
+name: decreased mortality induced by ionizing radiation
+name: decreased circulating bicarbonate level
+name: decreased circulating chloride level
+name: decreased coronary flow rate
+name: decreased vasoconstriction
+name: decreased pulmonary vascular resistance
+name: decreased myocardial infarction size
+name: decreased time of peak ischemic contracture
+name: decreased time of onset of induced ischemic contracture
+name: decreased insulin secretion
+name: decreased aerobic running capacity
+name: decreased coping response
+name: decreased liver copper level
+name: decreased vascular permeability
+name: decreased susceptibility to induced joint inflammation
+name: decreased skin tensile strength
+name: decreased corneal stroma thickness
+name: decreased tendon stiffness
+name: decreased otolith number
+name: decreased cochlear coiling
+name: decreased lateral semicircular canal size
+name: decreased posterior semicircular canal size
+name: decreased superior semicircular canal size
+name: decreased lysosomal enzyme secretion
+name: decreased pulmonary endothelial cell surface
+name: decreased angiotensin I-converting enzyme activity
+name: decreased cholesterol efflux
+name: decreased neuron apoptosis
+name: decreased cellular sensitivity to gamma-irradiation
+name: decreased susceptibility to age related obesity
+name: decreased spike-wave discharge type I
+name: decreased spike-wave discharge type II
+name: decreased cardiomyocyte apoptosis
+name: decreased liver function
+name: decreased pancreatic beta cell number
+name: decreased rib number
+name: decreased circulating levels of thyroid hormone
+name: decreased circulating renin level
+name: decreased ovulation rate
+name: decreased circulating gonadotropin level
+name: decreased circulating glucocorticoid level
+name: decreased circulating estrogen level
+name: decreased circulating mineralocorticoid level
+name: decreased cardiac output
+name: decreased liver weight
+name: decreased width of hypertrophic chondrocyte zone
+name: decreased activity of parathyroid
+name: decreased susceptibility to induced choroidal neovascularization
+name: decreased susceptibility to induced arthritis
+name: decreased glycerol level
+name: decreased circulating glycerol level
+name: decreased tumor growth/size
+name: decreased susceptibility to induced retinal damage
+name: decreased circulating ketone body level
+name: decreased fear-related response
+name: decreased single cell response threshold
+name: decreased single cell response intensity
+name: decreased summary potential threshold
+name: decreased summary potential intensity
+name: decreased nerve fiber response intensity
+name: decreased nerve fiber response threshold
+name: decreased channel response intensity
+name: decreased channel response threshold
+name: decreased activity of thyroid gland
+name: decreased circulating dihydrotestosterone level
+name: decreased alcohol consumption
+name: decreased heart right ventricle size
+name: decreased skin turgor
+name: decreased autoantibody level
+name: decreased palatal length
+name: decreased left ventricle diastolic pressure
+name: decreased left ventricle systolic pressure
+name: decreased left ventricle developed pressure
+name: decreased satellite cell number
+name: decreased aggression towards males
+name: decreased aggression towards mice
+name: decreased urine glucose level
+name: decreased macrophage cell number
+name: decreased cell mass
+name: decreased aorta elastin content
+name: decreased stereotypic behavior
+name: decreased heart right ventricle weight
+name: decreased heart left ventricle weight
+name: decreased kidney weight
+name: decreased cellular glucose uptake
+name: decreased heart rate variability
+name: decreased lean body mass
+name: decreased pituitary hormone level
+name: decreased circulating VLDL triglyceride level
+name: decreased circulating carnitine level
+name: decreased circulating phospholipid level
+name: decreased cholesterol level
+name: decreased neurotransmitter release
+name: decreased thermal nociceptive threshold
+name: decreased hepatocyte proliferation
+name: decreased diastolic filling velocity
+name: decreased pulmonary artery pressure
+name: decreased bone mass
+name: decreased susceptibility to kidney reperfusion injury
+name: decreased renal sympathetic nerve activity
+name: decreased susceptibility to induced muscular atrophy
+name: decreased Schwann cell precursor number
+name: decreased circulating iron level
+name: decreased susceptibility to induced pancreatitis
+name: decreased fetal size
+name: decreased cellular sensitivity to ionizing radiation
+name: decreased muscle weight
+name: decreased vestibular hair cell number
+name: decreased cochlear inner hair cell number
+name: decreased cochlear outer hair cell number
+name: decreased cochlear hair cell number
+name: decreased endocochlear potential
+name: decreased cochlear microphonics
+name: decreased cochlear nerve compound action potential
+name: decreased cochlear outer hair cell electromotility
+name: decreased response of heart to induced stress
+name: decreased synaptic glutamate release
+name: decreased organ of Corti supporting cell number
+name: decreased incidence of tumors by chemical induction
+name: decreased incidence of tumors by ionizing radiation induction
+name: decreased incidence of tumors by UV induction
+name: decreased renal glomerulus number
+name: decreased vestibular hair cell stereocilia number
+name: decreased cochlear hair cell stereocilia number
+name: decreased outer hair cell stereocilia number
+name: decreased inner hair cell stereocilia number
+name: decreased tracheal cartilage ring number
+name: decreased myocardial fiber number
+name: decreased cellular sensitivity to X-ray irradiation
+name: decreased metacarpal bone number
+name: decreased metatarsal bone number
+name: decreased vertebrae number
+name: decreased cervical vertebrae number
+name: decreased lumbar vertebrae number
+name: decreased thoracic vertebrae number
+name: decreased sacral vertebrae number
+name: decreased length of long bones
+name: decreased circulating insulin-like growth factor I level
+name: decreased platelet serotonin level
+name: decreased circulating gastrin level
+name: decreased length of allograft survival
+name: decreased mitotic index
+name: decreased susceptibility to age-related hearing loss
+name: decreased anti-nuclear antigen antibody level
+name: decreased anti-double stranded DNA antibody level
+name: decreased susceptibility to experimental autoimmune encephalomyelitis
+name: decreased susceptibility to systemic lupus erythematosus
+name: decreased susceptibility to autoimmune diabetes
+name: decreased hematopoietic stem cell number
+name: decreased skeletal muscle mass
+name: decreased susceptibility to experimental autoimmune uveoretinitis
+name: decreased susceptibility to experimental autoimmune myasthenia gravis
+name: decreased susceptibility to experimental autoimmune thyroiditis
+name: decreased susceptibility to autoimmune hemolytic anemia
+name: decreased testis weight
+name: decreased ovary weight
+name: decreased platelet calcium level
+name: decreased mean systemic arterial blood pressure
+name: decreased systemic vascular resistance
+name: decreased endolymph production
+name: decreased energy expenditure
+name: decreased adiponectin level
+name: decreased male germ cell number
+name: decreased uterus weight
+name: decreased seminal vesicle weight
+name: decreased placenta weight
+name: decreased susceptibility to noise-induced hearing loss
+name: decreased epididymis weight
+name: decreased spleen weight
+name: decreased thymus weight
+name: decreased prostate gland weight
+name: decreased regulatory T cell number
+name: decreased B-1 B cell number
+name: decreased neuronal precursor cell number
+name: decreased osteoclast cell number
+name: decreased osteoblast cell number
+name: decreased bone strength
+name: decreased bone resorption
+name: decreased CNS synapse formation
+name: decreased eosinophil cell number
+name: decreased lymphocyte cell number
+name: decreased B cell number
+name: decreased T cell number
+name: decreased susceptibility to parasitic infection
+name: decreased cytotoxic T cell cytolysis
+name: decreased acute inflammation
+name: decreased double-negative T cell number
+name: decreased double-positive T cell number
+name: decreased B cell proliferation
+name: decreased T cell proliferation
+name: decreased spinal cord ventral horn cell number
+name: decreased circulating pituitary hormone level
+name: decreased circulating thyroid-stimulating hormone level
+name: decreased circulating growth hormone level
+name: decreased circulating prolactin level
+name: decreased adrenocorticotropin level
+name: decreased follicle stimulating hormone level
+name: decreased luteinizing hormone level
+name: decreased thyroid-stimulating hormone level
+name: decreased growth hormone level
+name: decreased prolactin level
+name: decreased cardiac muscle contractility
+name: decreased circulating VLDL cholesterol level
+name: decreased susceptibility to injury
+name: decreased eye pigmentation
+name: decreased circulating cholesterol level
+name: decreased circulating estradiol level
+name: decreased circulating progesterone level
+name: decreased fatty acid level
+name: decreased unsaturated fatty acid level
+name: decreased saturated fatty acid level
+name: decreased oxygen consumption
+name: decreased triglyceride level
+name: decreased heart rate
+name: decreased susceptibility to atherosclerosis
+name: decreased susceptibility to autoimmune disorder
+name: decreased susceptibility to prion infection
+name: decreased susceptibility to fungal infection
+name: decreased circulating serum albumin level
+name: decreased oocyte number
+name: decreased glycogen level
+name: decreased percent body fat/body weight
+name: decreased thyroxine level
+name: decreased triiodothyronine level
+name: decreased circulating thyroxine level
+name: decreased circulating triiodothyronine level
+name: decreased liver regeneration
+name: decreased pancreas regeneration
+name: decreased circulating atrial natriuretic factor
+name: decreased renal plasma flow rate
+name: decreased renal glomerular filtration rate
+name: decreased renal vascular resistance
+name: decreased body temperature
+name: decreased urine albumin level
+name: decreased cornea thickness
+name: decreased circulating creatinine level
+name: decreased creatinine clearance
+name: decreased circulating glucose level
+name: decreased mean corpuscular hemoglobin
+name: decreased blood urea nitrogen level
+name: decreased circulating total protein level
+name: decreased lactate dehydrogenase level
+name: decreased pulmonary respiratory rate
+name: decreased pulmonary ventilation
+name: decreased renin activity
+name: decreased tidal volume
+name: decreased vasodilation
+name: decreased susceptibility to type I hypersensitivity reaction
+name: decreased ventricle muscle contractility
+name: decreased angiogenesis
+name: decreased bleeding time
+name: decreased circulating antidiuretic hormone level
+name: decreased susceptibility to type II hypersensitivity reaction
+name: decreased susceptibility to type III hypersensitivity reaction
+name: decreased susceptibility to type IV hypersensitivity reaction
+name: decreased urine potassium level
+name: decreased plasma anion gap
+name: decreased circulating potassium level
+name: decreased lung weight
+name: decreased circulating aspartate transaminase level
+name: decreased circulating sodium level
+name: decreased circulating bilirubin level
+name: decreased mean corpuscular hemoglobin concentration
+name: decreased dopamine level
+name: decreased aggression
+name: decreased susceptibility to diet-induced obesity
+name: decreased circulating adrenaline level
+name: decreased circulating noradrenaline level
+name: decreased circulating leptin level
+name: decreased susceptibility to graft versus host disease
+name: decreased tympanic ring size
+name: decreased mitochondrial fission
+name: decreased apoptosis
+name: decreased vascular endothelial cell number
+name: decreased cerebral infarction size
+name: decreased susceptibility to ischemic brain injury
+name: decreased clearance of atrial thrombosis
+name: decreased body mass index
+name: decreased tegmentum size
+name: decreased visual acuity
+name: decreased systemic arterial diastolic blood pressure
+name: decreased systemic arterial systolic blood pressure
+name: decreased pulse pressure
+name: decreased retinal ganglion cell number
+name: decreased urine sodium level
+name: decreased circulating copper level
+name: decreased glycosylated hemoglobin level
+name: decreased circulating angiotensinogen level
+name: decreased long bone epiphyseal plate size
+name: decreased molar number
+name: decreased T cell apoptosis
+name: decreased number of peritubular myoid cells
+name: decreased stomach pH
+name: decreased Cajal-Retzius cell number
+name: decreased NK T cell number
+name: decreased NK cell number
+name: decreased memory T cell number
+name: decreased otic epithelial cell proliferation
+name: decreased CD4-positive, alpha beta T cell number
+name: decreased CD8-positive, alpha-beta T cell number
+name: decreased single-positive T cell number
+name: decreased T helper 1 cell number
+name: decreased T-helper 2 cell number
+name: decreased plasma cell number
+name: decreased amacrine cell number
+name: decreased Langerhans cell number
+name: decreased myeloid dendritic cell number
+name: decreased plasmacytoid dendritic cell number
+name: decreased dendritic cell number
+name: decreased Peyer's patch number
+name: decreased small intestinal microvillus size
+name: decreased small intestinal villus size
+name: decreased diameter of long bones
+name: decreased diameter of femur
+name: decreased diameter of fibula
+name: decreased diameter of humerus
+name: decreased diameter of radius
+name: decreased diameter of tibia
+name: decreased diameter of ulna
+name: decreased B-1a cell number
+name: decreased B-1b cell number
+name: decreased follicular B cell number
+name: decreased germinal center B cell number
+name: decreased marginal zone B cell number
+name: decreased naive B cell number
+name: decreased transitional stage B cell number
+name: decreased follicular dendritic cell number
+name: decreased B-2 B cell number
+name: decreased pro-B cell number
+name: decreased pre-B cell number
+name: decreased mature B cell number
+name: decreased immature B cell number
+name: decreased hippocampal commissure size
+name: decreased anterior commissure size
+name: decreased susceptibility to neuronal excitotoxicity
+name: decreased megakaryocyte cell number
+name: decreased somatotroph cell number
+name: decreased lactotroph cell number
+name: decreased gonadotroph cell number
+name: decreased thyrotroph cell number
+name: decreased corticotroph cell number
+name: decreased gamma-delta T cell number
+name: decreased gamma-delta intraepithelial T cell number
+name: decreased mature gamma-delta T cell number
+name: decreased CD4-positive, gamma-delta intraepithelial T cell number
+name: decreased CD8-positive, gamma-delta intraepithelial T cell number
+name: decreased primordial germ cell number
+name: decreased cellular sensitivity to alkylating agents
+name: decreased cellular sensitivity to methylmethanesulfonate
+name: decreased cellular sensitivity to hydrogen peroxide
+name: decreased cellular sensitivity to hydroxyurea
+name: decreased cellular sensitivity to ultraviolet irradiation
+name: decreased cellular sensitivity to oxidative stress
+name: decreased somatotroph cell size
+name: decreased thyrotroph cell size
+name: decreased lactotroph cell size
+name: decreased gonadotroph cell size
+name: decreased corticotroph cell size
+name: decreased somatotroph secretory granule number
+name: decreased retinal cone cell number
+name: decreased retinal rod cell number
+name: decreased spleen red pulp amount
+name: decreased spleen white pulp amount
+name: decreased spleen germinal center number
+name: decreased spleen germinal center size
+name: decreased muscle spindle number
+name: decreased IgG1 level
+name: decreased IgG2a level
+name: decreased IgG2b level
+name: decreased IgG3 level
+name: decreased cranium height
+name: decreased cranium width
+name: decreased chemical nociceptive threshold
+name: decreased zigzag hair amount
+name: decreased susceptibility to induced colitis
+name: decreased circulating tumor necrosis factor level
+name: decreased tumor necrosis factor secretion
+name: decreased interferon-alpha secretion
+name: decreased interferon-beta secretion
+name: decreased interferon-gamma secretion
+name: decreased circulating interferon-alpha level
+name: decreased circulating interferon-beta level
+name: decreased circulating interferon-gamma level
+name: decreased circulating interleukin-1 level
+name: decreased circulating interleukin-10 level
+name: decreased circulating interleukin-6 level
+name: decreased circulating interleukin-2 level
+name: decreased circulating interleukin-4 level
+name: decreased circulating interleukin-7 level
+name: decreased circulating interleukin-13 level
+name: decreased circulating interleukin-15 level
+name: decreased circulating interleukin-17 level
+name: decreased circulating interleukin-12 level
+name: decreased circulating interleukin-23 level
+name: decreased circulating interleukin-3 level
+name: decreased circulating interleukin-5 level
+name: decreased circulating interleukin-9 level
+name: decreased circulating interleukin-16 level
+name: decreased circulating interleukin-18 level
+name: decreased circulating interleukin-1 alpha level
+name: decreased circulating interleukin-1 beta level
+name: decreased circulating interleukin-12a level
+name: decreased circulating interleukin-12b level
+name: decreased interleukin-1 secretion
+name: decreased interleukin-1 alpha secretion
+name: decreased interleukin-1 beta secretion
+name: decreased interleukin-10 secretion
+name: decreased interleukin-12 secretion
+name: decreased interleukin-12a secretion
+name: decreased interleukin-12b secretion
+name: decreased interleukin-13 secretion
+name: decreased interleukin-15 secretion
+name: decreased interleukin-16 secretion
+name: decreased interleukin-17 secretion
+name: decreased interleukin-18 secretion
+name: decreased interleukin-2 secretion
+name: decreased interleukin-23 secretion
+name: decreased interleukin-23a secretion
+name: decreased interleukin-3 secretion
+name: decreased interleukin-4 secretion
+name: decreased interleukin-5 secretion
+name: decreased interleukin-6 secretion
+name: decreased interleukin-7 secretion
+name: decreased interleukin-9 secretion
+name: decreased memory B cell number
+name: decreased susceptibility to endotoxin shock
+name: decreased liver iron level
+name: decreased mast cell degranulation
+name: decreased survivor rate
+name: decreased B cell apoptosis
+name: decreased NK cell degranulation
+name: decreased circulating amylase level
+name: decreased spleen iron level
+name: decreased common myeloid progenitor cell number
+name: decreased nerve conduction velocity
+name: decreased blood uric acid level
+name: decreased transforming growth factor beta level
+name: decreased subcutaneous adipose tissue amount
+name: decreased hemoglobin concentration distribution width
+name: decreased abdominal adipose tissue amount
+name: decreased physiological sensitivity to xenobiotic
+name: decreased uterine NK cell number
+name: decreased hepatocyte apoptosis
+name: decreased IgG2c level
+name: decreased total fat pad weight
+name: decreased cerebellar granule cell number
+name: decreased mean platelet volume
+name: decreased pituitary gland weight
+name: decreased sensitivity to induced cell death
+name: decreased neuron number
+name: decreased cellular hemoglobin content
+name: decreased carbon dioxide production
+name: decreased erythroid progenitor cell number
+name: decreased vagina weight
+name: decreased blood osmolality
+name: decreased inferior colliculus size
+name: decreased interleukin-21 secretion
+name: decreased circulating interleukin-21 level
+name: decreased oviduct weight
+name: decreased endometrial gland number
+name: decreased pancreas weight
+name: decreased pancreatic beta cell mass
+name: decreased white fat cell lipid droplet size
+name: decreased brown fat cell lipid droplet size
+name: decreased brown fat cell number
+name: decreased white fat cell number
+name: decreased white fat cell size
+name: decreased brown fat cell size
+name: decreased brown fat lipid droplet number
+name: decreased prepulse inhibition
+name: decreased pancreatic acinar cell number
+name: decreased pancreatic islet number
+name: decreased pancreatic alpha cell number
+name: decreased pancreatic delta cell number
+name: decreased PP cell number
+name: decreased pancreatic epsilon cell number
+name: decreased fat cell size
+name: decreased guard hair length
+name: decreased activated sperm motility
+name: decreased hyperactivated sperm motility
+name: decreased gonadal fat pad weight
+name: decreased abdominal fat pad weight
+name: decreased epididymal fat pad weight
+name: decreased femoral fat pad weight
+name: decreased inguinal fat pad weight
+name: decreased interscapular fat pad weight
+name: decreased mammary fat pad weight
+name: decreased mesenteric fat pad weight
+name: decreased parametrial fat pad weight
+name: decreased renal fat pad weight
+name: decreased retroperitoneal fat pad weight
+name: decreased uterine fat pad weight
+name: decreased splenocyte proliferation
+name: decreased splenocyte number
+name: decreased splenocyte apoptosis
+name: decreased trabecular bone thickness
+name: decreased urine pH
+name: decreased liver triglyceride level
+name: decreased theca cell number
+name: decreased skeletal muscle fiber size
+name: decreased skeletal muscle fiber diameter
+name: decreased skeletal muscle fiber number
+name: decreased skeletal muscle fiber density
+name: decreased gastrocnemius weight
+name: decreased extensor digitorum longus weight
+name: decreased soleus weight
+name: decreased tibialis anterior weight
+name: decreased embryo weight
+name: decreased fetal weight
+name: decreased platelet ATP level
+name: decreased submandibular gland size
+name: decreased parotid gland size
+name: decreased thymocyte apoptosis
+name: decreased platelet aggregation
+name: decreased platelet ADP level
+name: decreased keratinocyte apoptosis
+name: decreased keratinocyte proliferation
+name: decreased keratohyalin granule number
+name: decreased keratohyalin granule size
+name: decreased brain zinc level
+name: decreased fertilization frequency
+name: decreased birth weight
+name: decreased birth body size
+name: decreased sensitivity to induced morbidity/mortality
+name: decreased sensitivity to xenobiotic induced morbidity/mortality
+name: decreased behavioral withdrawal response
+name: decreased susceptibility to infection induced morbidity/mortality
+name: decreased susceptibility to bacterial infection induced morbidity/mortality
+name: decreased susceptibility to viral infection induced morbidity/mortality
+name: decreased oligodendrocyte number
+name: decreased prostaglandin level
+name: decreased leukotriene level
+name: decreased neural crest cell number
+name: decreased Sertoli cell phagocytosis
+name: decreased susceptibility to bone fracture
+name: decreased palatine bone horizontal plate size
+name: decreased maxillary shelf size
+name: decreased tongue size
+name: decreased hyoid bone size
+name: decreased transitional stage T1 B cell number
+name: decreased transitional stage T2 B cell number
+name: decreased hippocampus pyramidal cell number
+name: decreased cerebral cortex pyramidal cell number
+name: decreased total body fat amount
+name: decreased liver cholesterol level
+name: decreased erythrocyte clearance
+name: decreased omental fat pad weight
+name: decreased grip strength
+name: decreased creatine level
+name: decreased circulating creatine level
+name: decreased red blood cell distribution width
+name: decreased serotonin level
+name: decreased pruritus
+name: decreased circulating fructosamine level
+name: decreased circulating creatine kinase level
+name: decreased circulating magnesium level
+name: decreased bone mineral content
+name: decreased DN1 thymic pro-T cell number
+name: decreased DN2 thymocyte number
+name: decreased DN3 thymocyte number
+name: decreased DN4 thymocyte number
+name: decreased brain cholesterol level
+name: decreased response to stress-induced hyperthermia
+name: decreased CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: decreased mammary gland epithelial cell proliferation
+name: decreased susceptibility to weight loss
+name: decreased susceptibility to weight gain
+name: decreased T follicular helper cell number
+name: decreased lymphatic vessel endothelial cell number
+name: decreased T-helper 17 cell number
+name: decreased quadriceps weight
+name: decreased transitional stage T3 B cell number
+name: decreased skeletal muscle weight
+name: decreased skeletal muscle size
+name: decreased kidney copper level
+name: decreased intestine copper level
+name: decreased hepatoma incidence
+name: decreased liver tumor incidence
+name: decreased lung tumor incidence
+name: decreased lymphoma incidence
+name: decreased mammary gland tumor incidence
+name: decreased stomach tumor incidence
+name: decreased tongue tumor incidence
+name: decreased organ/body region tumor incidence
+name: decreased classified tumor incidence
+name: decreased plasmacytoma incidence
+name: decreased skin tumor incidence
+name: decreased tumor latency
+name: decreased liver free fatty acids level
+name: decreased kidney iron level
+name: decreased respiratory quotient
+name: decreased QRS amplitude
+name: decreased liver glycogen level
+name: decreased skeletal muscle glycogen level
+name: decreased P wave amplitude
+name: decreased level of surface class II molecules
+name: decreased heart left ventricle size
+name: decreased Tc17 cell number
+name: decreased activation-induced B cell apoptosis
+name: decreased activation-induced cell death of T cells
+name: decreased ventral retina size
+name: decreased susceptibility to parasitic infection induced morbidity/mortality
+name: decreased right ventricle peak pressure
+name: decreased right ventricle diastolic pressure
+name: decreased right ventricle systolic pressure
+name: decreased type II pneumocyte number
+name: decreased type I pneumocyte number
+name: decreased bronchioalveolar stem cell number
+name: decreased CD4-positive, alpha-beta memory T cell number
+name: decreased CD8-positive, alpha-beta memory T cell number
+name: decreased central memory CD4-positive, alpha-beta T cell number
+name: decreased effector memory CD4-positive, alpha-beta T cell number
+name: decreased central memory CD8 positive, alpha-beta T cell number
+name: decreased effector memory CD8-positive, alpha-beta T cell number
+name: decreased respiratory mucosa goblet cell number
+name: decreased bone trabecula number
+name: decreased trabecular bone mass
+name: decreased bone volume
+name: decreased trabecular bone volume
+name: decreased alveolar lamellar body number
+name: decreased lung compliance
+name: decreased solitary pulmonary neuroendocrine cell number
+name: decreased number of pulmonary neuroendocrine bodies
+name: decreased osteoid volume
+name: decreased osteoid thickness
+name: decreased trabecular bone connectivity density
+name: decreased airway resistance
+name: decreased total lung capacity
+name: decreased club cell number
+name: decreased compact bone mass
+name: decreased compact bone volume
+name: decreased compact bone area
+name: decreased periosteum thickness
+name: decreased surfactant secretion
+name: decreased aorta wall thickness
+name: decreased circulating glutamate dehydrogenase level
+name: decreased core body temperature
+name: decreased body surface temperature
+name: decreased lung elastance
+name: decreased lung tissue damping
+name: decreased respiratory motile cilia number
+name: decreased macrophage nitric oxide production
+name: decreased macrophage cytokine production
+name: decreased macrophage apoptosis
+name: decreased primordial ovarian follicle number
+name: decreased primary ovarian follicle number
+name: decreased secondary ovarian follicle number
+name: decreased lung endothelial cell migration
+name: decreased lung endothelial cell adhesion
+name: decreased lung endothelial cell proliferation
+name: decreased mesenchymal cell proliferation involved in lung development
+name: decreased erythroblast number
+name: decreased hematopoietic cell number
+name: decreased embryonic epiblast cell proliferation
+name: decreased hair follicle apoptosis
+name: decreased brain copper level
+name: decreased brainstem copper level
+name: decreased intestinal calcium absorption
+name: decreased blood oxygen capacity
+name: decreased fetal derived definitive erythrocyte cell number
+name: decreased excitatory postsynaptic current amplitude
+name: decreased tail pigmentation
+name: decreased ear pigmentation
+name: decreased circulating erythropoietin level
+name: decreased erythropoietin level
+name: decreased nephron number
+name: decreased tubuloglomerular feedback response
+name: decreased glomerular capillary number
+name: decreased kidney apoptosis
+name: decreased renal tubule apoptosis
+name: decreased mesangial cell apoptosis
+name: decreased podocyte apoptosis
+name: decreased renal glomerulus apoptosis
+name: decreased fetal cardiomyocyte apoptosis
+name: decreased fetal cardiomyocyte proliferation
+name: decreased urine uric acid level
+name: decreased urine flow rate
+name: decreased urine magnesium level
+name: decreased kidney cell proliferation
+name: decreased dopaminergic neuron number
+name: decreased susceptibility to dopaminergic neuron neurotoxicity
+name: decreased urine chloride ion level
+name: decreased urine bicarbonate level
+name: decreased urine urea nitrogen level
+name: decreased urine creatinine level
+name: decreased urine glycosaminoglycan level
+name: decreased glomerular capsule space
+name: decreased placental labyrinth size
+name: decreased urine major urinary protein level
+name: decreased urination frequency
+name: decreased urine aldosterone level
+name: decreased urine antidiuretic hormone level
+name: decreased urine progesterone level
+name: decreased urine corticosterone level
+name: decreased urine deoxycorticosterone level
+name: decreased urine insulin level
+name: decreased urine prostaglandin level
+name: decreased foot pigmentation
+name: decreased lipoprotein lipase activity
+name: decreased triglyceride lipase activity
+name: decreased alkaline phosphatase activity
+name: decreased ornithine carbamoyltransferase activity
+name: decreased hormone-sensitive lipase activity
+name: decreased catalase activity
+name: decreased purine-nucleoside phosphorylase activity
+name: decreased phosphatidylcholine-sterol O-acyltransferase activity
+name: decreased glutathione peroxidase activity
+name: decreased glucokinase activity
+name: decreased glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+name: decreased circulating ghrelin level
+name: decreased skin pigmentation
+name: decreased mitochondria number
+name: decreased mitochondria size
+name: decreased mitochondrial DNA content
+name: decreased circulating histidine level
+name: decreased epidermal stem cell number
+name: decreased cumulus expansion
+name: decreased fibroblast proliferation
+name: decreased fibroblast cell migration
+name: decreased circulating interleukin-8 level
+name: decreased interleukin-8 secretion
+name: decreased myelin sheath thickness
+name: decreased somite size
+name: decreased urine ammonia level
+name: decreased urine nitrite level
+name: decreased podocyte number
+name: decreased urinary bladder weight
+name: decreased cell migration
+name: decreased dermal fibroblast proliferation
+name: decreased lung fibroblast proliferation
+name: decreased anoikis
+name: decreased pre-pro B cell number
+name: decreased pancreatic beta cell proliferation
+name: decreased CD8-positive, alpha-beta memory T cell proliferation
+name: decreased cell chemotaxis
+name: decreased kidney collecting duct number
+name: decreased renal glomerulus basement membrane thickness
+name: decreased cranium length
+name: decreased podocyte motility
+name: decreased circulating lipase level
+name: decreased circulating ferritin level
+name: decreased circulating transferrin level
+name: decreased circulating unsaturated transferrin level
+name: decreased hematopoietic stem cell proliferation
+name: decreased Schwann cell proliferation
+name: decreased pancreatic endocrine progenitor cell proliferation
+name: decreased heart left atrium weight
+name: decreased heart right atrium weight
+name: decreased food intake
+name: decreased fluid intake
+name: decreased eating frequency
+name: decreased drinking frequency
+name: decreased cardiac stroke volume
+name: decreased compensatory feeding amount
+name: decreased total retina thickness
+name: decreased threshold for auditory brainstem response
+name: decreased circulating lactate dehydrogenase level
+name: decreased microglial cell number
+name: decreased enteroendocrine cell number
+name: decreased macrophage proliferation
+name: decreased porphyrin level
+name: decreased leukemia incidence
+name: decreased embryonic cilium length
+name: decreased melanocyte number
+name: decreased susceptibility to hypertension
+name: decreased susceptilbility to retinal ischemic injury
+name: decreased astrocyte number
+name: decreased susceptibility to osteoporosis
+name: decreased midbrain size
+name: decreased Reichert's membrane thickness
+name: decreased spongiotrophoblast size
+name: decreased trophoblast glycogen cell number
+name: decreased inner cell mass proliferation
+name: decreased trophectoderm cell proliferation
+name: decreased bronchoconstrictive response
+name: decreased forebrain size
+name: decreased a wave amplitude
+name: decreased b wave amplitude
+name: decreased a wave implicit time
+name: decreased b wave implicit time
+name: decreased a wave latency
+name: decreased b wave latency
+name: decreased paraxial mesoderm size
+name: decreased regulatory T cell apoptosis
+name: decreased cytotoxic T cell apoptosis
+name: decreased keratinocyte migration
+name: decreased endothelial cell proliferation
+name: decreased neuronal stem cell self-renewal
+name: decreased hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased thalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased hypothalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased plasmalogen level
+name: decreased brain plasmalogen level
+name: decreased circulating prothrombin level
+name: decreased sterol level
+name: decreased brain sterol level
+name: decreased hepatoblast number
+name: decreased hindbrain size
+name: decreased axial mesoderm size
+name: decreased sternebra size
+name: decreased sternebra number
+name: decreased frequency of paradoxical sleep
+name: decreased slow-wave sleep duration
+name: decreased defecation amount
+name: decreased total tissue mass
+name: decreased circulating antithrombin level
+name: decreased circulating factor VIII level
+name: decreased circulating fibrinogen level
+name: decreased circulating fibronectin level
+name: decreased circulating homocysteine level
+name: decreased vitamin D level
+name: decreased bile salt level
+name: decreased testicular teratoma incidence
+name: decreased gnawing activity
+name: decreased tail rattling
+name: decreased susceptibility to induction of seizure by inducing agent
+name: decreased prothrombin time
+name: decreased partial thromboplastin time
+name: decreased large unstained cell number
+name: decreased erythrocyte sodium level
+name: decreased erythrocyte magnesium level
+name: decreased erythrocyte potassium level
+name: decreased erythrocyte magnesium ion content
+name: decreased erythrocyte potassium ion content
+name: decreased erythrocyte sodium ion content
+name: decreased erythrocyte potassium:chloride symporter activity
+name: decreased erythrocyte sodium:hydrogen antiporter activity
+name: decreased erythrocyte sodium:potassium-exchanging ATPase activity
+name: decreased erythrocyte calcium-activated potassium channel activity
+name: decreased nucleated erythrocyte cell number
+name: decreased muscle tumor incidence
+name: decreased rhabdomyosarcoma incidence
+name: decreased sarcoma incidence
+name: decreased gland tumor incidence
+name: decreased reproductive system tumor incidence
+name: decreased eye tumor incidence
+name: decreased cardiovascular system tumor incidence
+name: decreased hemolymphoid system tumor incidence
+name: decreased hepatobiliary system tumor incidence
+name: decreased integument system tumor incidence
+name: decreased nervous system tumor incidence
+name: decreased alimentary system tumor incidence
+name: decreased respiratory system tumor incidence
+name: decreased skeletal tumor incidence
+name: decreased urinary system tumor incidence
+name: decreased granulosa cell tumor incidence
+name: decreased myoepithelioma incidence
+name: decreased Type B reticulum cell tumor incidence
+name: decreased prostate gland tumor incidence
+name: decreased ovarian tumor incidence
+name: decreased intestinal adenoma incidence
+name: decreased colon tumor incidence
+name: decreased Harderian gland tumor incidence
+name: decreased pituitary gland tumor incidence
+name: decreased primary motor cortex size
+name: decreased retrosplenial granular cortex size
+name: decreased mammillothalamic tract size
+name: decreased hippocampus pyramidal cell length
+name: decreased dentate gyrus size
+name: decreased brain internal capsule size
+name: decreased optic tract size
+name: decreased hippocampal fimbria size
+name: decreased striatum size
+name: decreased genu of the facial nerve size
+name: decreased cerebellum interpositus nucleus size
+name: decreased cingulate cortex size
+name: decreased piriform cortex size
+name: decreased secondary somatosensory cortex size
+name: decreased amygdala size
+name: decreased habenula size
+name: decreased corticospinal tract size
+name: decreased cochlear VIII nucleus size
+name: decreased cerebellum dentate nucleus size
+name: decreased hindbrain apoptosis
+name: decreased serum complement activity
+name: decreased cell death
+name: decreased calcium uptake by cardiac muscle
+name: decreased forebrain volume
+name: decreased foot pad temperature
+name: decreased tumor incidence following infection
+name: decreased susceptibility to experimental autoimmune orchitis
+name: decreased mammary gland tumor incidence in breeding females
+name: decreased mammary gland tumor incidence in virgin females
+name: decreased susceptibility to chemically induced skin inflammation
+name: decreased noradrenaline level
+name: decreased kidney glutathione peroxidase activity
+name: decreased peroxidase activity
+name: decreased eosinophil peroxidase activity
+name: decreased catechol O-methyltransferase activity
+name: decreased brain catechol O-methyltransferase activity
+name: decreased choline O-acetyltransferase activity
+name: decreased brain choline acetyltransferase activity
+name: decreased glutamate decarboxylase activity
+name: decreased nicotinamide N-methyltransferase activity
+name: decreased alpha-fetoprotein level
+name: decreased glutathione level
+name: decreased kidney glutathione level
+name: decreased complement C5 level
+name: decreased ceruloplasmin level
+name: decreased circulating factor IX level
+name: decreased circulating factor X level
+name: decreased circulating factor XIII level
+name: decreased acetylcholinesterase activity
+name: decreased brain acetylcholinesterase activity
+name: decreased glutathione reductase level
+name: decreased kidney glutathione reductase level
+name: decreased phospholipase A2 level
+name: decreased monoamine oxidase activity
+name: decreased brain monoamine oxidase activity
+name: decreased benz (alpha) pyrene hydroxylase activity
+name: decreased 5-aminolevulinate synthase activity
+name: decreased urokinase activity
+name: decreased catalase level
+name: decreased erythrocyte catalase level
+name: decreased kidney catalase level
+name: decreased superoxide dismutase level
+name: decreased circulating ceruloplasmin level
+name: decreased haptoglobin level
+name: decreased circulating haptoglobin level
+name: decreased maternal body weight gain
+name: decreased embryonic neuroepithelium thickness
+name: decreased embryonic neuroepithelial cell proliferation
+name: decreased ventral ectodermal ridge size
+name: decreased hemangioblast number
+name: decreased neural crest cell proliferation
+name: decreased cardiac neural crest cell number
+name: decreased cranial neural crest cell number
+name: decreased cranial neural crest cell proliferation
+name: decreased alpha-beta T cell number
+name: decreased KLRG1-positive NK cell number
+name: decreased phospholipid transfer protein activity
+name: decreased rhombomere 1 size
+name: decreased rhombomere 2 size
+name: decreased rhombomere 3 size
+name: decreased rhombomere 4 size
+name: decreased rhombomere 5 size
+name: decreased rhombomere 6 size
+name: decreased rhombomere 7 size
+name: decreased rhombomere 8 size
+name: decreased enteric neural crest cell number
+name: decreased enteric neural crest cell proliferation
+name: decreased Ly6C high monocyte number
+name: decreased Ly6C low monocyte number
+name: decreased KLRG1+ CD8 alpha beta T cell number
+name: decreased KLRG1+ CD4 alpha beta T cell number
+name: decreased sebaceous gland number
+name: decreased embryonic cilium number
+name: decreased embryonic neuroepithelium primary cilium number
+name: decreased circulating thrombin level
+name: decreased dendritic cell apoptosis
+name: decreased fasting circulating glucose level
+name: decreased susceptibility to colitis induced morbidity/mortality
+name: decreased pancreas iron level
+name: decreased adrenal gland weight
+name: decreased pituitary gland apoptosis
+name: decreased sebocyte cell number
+name: decreased circulating lactate level
+name: decreased dendritic epidermal T cell number
+name: decreased myeloid cell number in bone marrow
+name: decreased memory-marker gamma-delta T cell number
+name: decreased CD5-positive gamma-delta T cell number
+name: decreased KLRG1-positive gamma-delta T cell number
+name: decreased memory-marker NK cell number
+name: decreased memory CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: decreased KLRG1-positive CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: decreased CD8-positive, naive alpha-beta T cell number
+name: decreased phytosterol level
+name: decreased eccrine gland number
+name: decreased conjunctiva goblet cell number
+name: decreased Paneth cell number
+name: decreased trachea gland number
+name: decreased fibroblast apoptosis
+name: decreased embryonic tissue cell apoptosis
+name: decreased CD4-negative NK T cell number
+name: decreased memory-marker CD4-negative NK T cell number
+name: decreased KLRG1-positive CD4-negative NK T cell number
+name: decreased CD4-positive NK T cell number
+name: decreased memory-marker CD4-positive NK T cell number
+name: decreased KLRG1-positive CD4-positive NK T cell number
+name: decreased nipple number
+name: decreased cerebellar granule cell precursor proliferation
+name: decreased volumetric bone mineral density
+name: decreased areal bone mineral density
+name: decreased internal diameter of femur
+name: decreased femur compact bone thickness
+name: decreased femur yield load
+name: decreased vertebra yield load
+name: decreased bone trabecular spacing
+name: decreased femur maximal load
+name: decreased femur fracture load
+name: decreased femur stiffness
+name: decreased bone stiffness
+name: decreased vertebra stiffness
+name: decreased vertebra maximal load
+name: decreased energy dissipated prior to femur fracture
+name: decreased CD11b-high dendritic cell number
+name: decreased CD11b-low dendritic cell number
+name: decreased CD103-positive CD11b-low dendritic cell number
+name: decreased myeloid cell number
+name: decreased immature NK cell number
+name: decreased Ly6C-positive immature NK cell number
+name: decreased mature NK cell number
+name: decreased Ly6C-positive mature NK cell number
+name: decreased Ly6C-positive NK T cell number
+name: decreased early germinal center B cell number
+name: decreased late germinal center B cell number
+name: decreased CD5-positive T cell number
+name: decreased CD5-positive Ly6C-positive T cell number
+name: decreased granulocyte monocyte progenitor cell number
+name: decreased megakaryocyte-erythroid progenitor cell number
+name: decreased nipple size
+name: decreased mammary gland number
+name: decreased circulating tyrosine level
+name: decreased intestinal phytosterol absorption
+name: decreased intestinal glucose absorption
+name: decreased T-helper cell number
+name: decreased palatal rugae number
+name: decreased marginal zone precursor B cell number
+name: decreased effector memory T-helper cell number
+name: decreased KLRG1-positive T-helper cell number
+name: decreased mammary myoepithelial cell contraction
+name: decreased IgG2 level
+name: decreased CD4-positive, CD25-positive NK T cell number
+name: decreased CD4-negative, CD25-positive NK T cell number
+name: decreased CD8-positive, CD25-positive alpha-beta T cell number
+name: decreased common lymphocyte progenitor cell number
+name: decreased eyelid cilium number
+name: decreased intestine length
+name: decreased colon length
+name: decreased small intestine length
+name: decreased large intestine length
+name: decreased subchondral bone mineral content
+name: decreased respiratory epithelial chloride transmembrane transport
+name: decreased submucosal gland secretion
+name: decreased cellular sensitivity to DNA damaging agents
+name: decreased cellular sensitivity to cisplatin
+name: decreased cardiac muscle glycogen level
+name: decreased brain glycogen level
+name: decreased small intestinal villus number
+name: decreased small intestinal villus height
+name: decreased pancreatic primary cilium length
+name: decreased pancreatic primary cilium number
+name: decreased pancreatic acinar cell zymogen granule number
+name: decreased pancreatic amylase secretion
+name: decreased chondrocyte proliferation
+name: decreased chondrocyte apoptosis
+name: decreased pancreatic beta cell apoptosis
+name: decreased pancreatic islet cell apoptosis
+name: decreased amylin secretion
+name: decreased body fat mass
+name: decreased white adipose tissue mass
+name: decreased circulating cortisol level
+name: decreased brown adipose tissue mass
+name: decreased fatty acid oxidation
+name: decreased fatty acid beta-oxidation
+name: decreased respiratory epithelial sodium ion transmembrane transport
+name: decreased epididymal cell proliferation
+name: decreased intestinal epithelial sodium ion transmembrane transport
+name: decreased intestinal epithelial chloride transmembrane transport
+name: decreased pancreatic duct epithelial chloride transmembrane transport
+name: decreased pancreatic duct epithelial sodium ion transmembrane transport
+name: decreased intestinal mucosa thickness
+name: decreased colon goblet cell number
+name: decreased ileal goblet cell number
+name: decreased alveolar macrophage number
+name: decreased response to antigen
+name: decreased sulfoglycosphingolipid level
+name: decreased brain sulfoglycosphingolipid level
+name: decreased bone mineral density of femur
+name: decreased arylsulphatase activity
+name: decreased aldehyde dehydrogenase activity
+name: decreased phenylalanine decarboxylase activity
+name: decreased delta-aminolaevulinate dehydratase activity
+name: decreased hepatic delta-aminolaevulinate dehydratase activity
+name: decreased aldehyde oxidase activity
+name: decreased circulating cholinesterase activity
+name: decreased cholinesterase activity
+name: decreased coumarin hydroxylase activity
+name: decreased bone ossification
+name: decreased susceptibility to pulmonary hyaline membrane formation
+name: decreased glucose-6-phosphate dehydrogenase activity
+name: decreased tyrosine aminotransferase activity
+name: decreased maltase activity
+name: decreased procollagen-proline 4-dioxygenase activity
+name: decreased beta-glucuronidase activity
+name: decreased spermatazoal beta-glucuronidase activity
+name: decreased hypoxanthine phosphoribosyltransferase activity
+name: decreased thiopurine S-methyltransferase activity
+name: decreased neocortex size
+name: decreased neocortex volume
+name: decreased blood catalase activity
+name: decreased tyrosine 3-monooxygenase activity
+name: decreased brain tyrosine 3-monooxygenase activity
+name: decreased hippocampus volume
+name: decreased susceptibility to non-insulin-dependent diabetes
+name: decreased susceptibility to diet-induced non-insulin dependent diabetes
+name: decreased susceptibility to aortic cartilaginous metaplasia
+name: decreased susceptibility to diet-induced aortic fatty streak lesions
+name: decreased hepatic glucose production
+name: decreased nitrate level
+name: decreased nitrite level
+name: decreased thromboxane level
+name: decreased sphingosine level
+name: decreased alcohol dehydrogenase activity
+name: decreased circulating HDL phospholipid level
+name: decreased circulating non-HDL phospholipid level
+name: decreased gallbladder volume
+name: decreased bone mineralization
+name: decreased brain external capsule size
+name: decreased susceptibility to virus induced diabetes
+name: decreased thyroid gland weight
+name: decreased lymphocyte activation involved in immune response
+name: decreased reticular tumor incidence
+name: decreased mononuclear phagocyte tumor incidence
+name: decreased circulating complement protein level
+name: decreased tear production
+name: decreased alertness
+name: decreased hemangioma incidence
+name: decreased proline oxidase activity
+name: decreased tyrosine aminotransferase level
+name: decreased basal metabolism
+name: decreased proline level
+name: decreased skeletal muscle cell apoptosis
+name: decreased pyruvate kinase activity
+name: decreased circulating arginase level
+name: decreased argininosuccinate synthetase level
+name: decreased collagen level
+name: decreased circulating factor XII level
+name: decreased beta-galactosidase level
+name: decreased galactosylceramidase level
+name: decreased beta-mannosidase level
+name: decreased branched-chain alpha-keto acid dehydrogenase level
+name: decreased N-acetylgalactosamine-4-sulfatase protein level
+name: decreased glycogen debranching enzyme level
+name: decreased creatine kinase level
+name: decreased hydroxymethylbilane synthase level
+name: decreased palmitoyl-(protein) hydrolase level
+name: decreased dystrophin level
+name: decreased guanylate cyclase activating protein-2 level
+name: decreased UDP-N-acetylglucosamine-1-phosphotransferase level
+name: decreased creatine kinase activity
+name: decreased hydroxymethylbilane synthase activity
+name: decreased palmitoyl-(protein) hydrolase activity
+name: decreased vascular endothelial cell proliferation
+name: decreased vascular endothelial cell adhesion
+name: decreased vascular endothelial cell apoptosis
+name: decreased capillary density
+name: decreased olfactory sensory neuron number
+name: decreased vocalization
+name: decreased brain iron level
+name: decreased heart iron level
+name: decreased kidney epithelial cell primary cilium length
+name: decreased intestinal iron level
+name: decreased radial glial cell number
+name: decreased neuronal precursor proliferation
+name: decreased fibroblast chemotaxis
+name: decreased cardiac muscle relaxation
+name: decreased freezing behavior
+name: decreased platelet alpha-granule number
+name: decreased platelet dense granule number
+name: decreased astrocyte size
+name: decreased papilloma incidence
+name: decreased NAD(P)H oxidase activity
+name: decreased microglial cell activation
+name: decreased sperm progressive motility
+name: decreased erythrocyte aggregation
+name: decreased myelin sheath amount
+name: decreased megakaryocyte progenitor cell number
+name: decreased dendritic spine density
+name: decreased dendritic spine length
+name: decreased susceptibility to xenobiotic induced hyperthermia
+name: decreased susceptibility to induced hypothermia
+name: decreased pons size
+name: decreased subiculum size
+name: decreased cerebellum fastigial nucleus size
+name: decreased substantia nigra size
+name: decreased hippocampal fornix size
+name: decreased optic chiasm size
+name: decreased stria medullaris size
+name: decreased ventromedial hypothalamic nucleus size
+name: decreased pontine nuclei size
+name: decreased pontocerebellar fibers size
+name: decreased premotor cortex size
+name: decreased corpus callosum cell number
+name: decreased ceramide level
+name: decreased corpus callosum cell density
+name: decreased corpus callosum average cell area
+name: decreased corpus callosum total cell area
+name: decreased cerebral cortex cell number
+name: decreased cerebral cortex total cell area
+name: decreased cerebral cortex cell density
+name: decreased cerebral cortex average cell area
+name: decreased thalamus cell number
+name: decreased thalamus total cell area
+name: decreased thalamus cell density
+name: decreased thalamus average cell area
+name: decreased dorsal striatum cell number
+name: decreased dorsal striatum total cell area
+name: decreased dorsal striatum cell density
+name: decreased dorsal striatum average cell area
+name: decreased hippocampus cell number
+name: decreased hippocampus total cell area
+name: decreased hippocampus cell density
+name: decreased hippocampus average cell area
+name: decreased hippocampal fimbria cell number
+name: decreased hippocampal fimbria total cell area
+name: decreased hippocampal fimbria cell density
+name: decreased hippocampal fimbria average cell area
+name: decreased anterior commissure cell number
+name: decreased anterior commissure total cell area
+name: decreased anterior commissure cell density
+name: decreased anterior commissure average cell area
+name: decreased stria medullaris cell number
+name: decreased stria medullaris total cell area
+name: decreased stria medullaris cell density
+name: decreased stria medullaris average cell area
+name: decreased hippocampal fornix cell number
+name: decreased hippocampal fornix total cell area
+name: decreased hippocampal fornix cell density
+name: decreased hippocampal fornix average cell area
+name: decreased optic chiasm cell number
+name: decreased optic chiasm total cell area
+name: decreased optic chiasm cell density
+name: decreased optic chiasm average cell area
+name: decreased ventromedial hypothalamic nucleus cell number
+name: decreased ventromedial hypothalamic nucleus total cell area
+name: decreased ventromedial hypothalamic nucleus cell density
+name: decreased ventromedial hypothalamic nucleus average cell area
+name: decreased pontine nuclei cell number
+name: decreased pontine nuclei total cell area
+name: decreased pontine nuclei cell density
+name: decreased pontine nuclei average cell area
+name: decreased substantia nigra cell number
+name: decreased substantia nigra total cell area
+name: decreased substantia nigra cell density
+name: decreased substantia nigra average cell area
+name: decreased pontocerebellar fibers cell number
+name: decreased pontocerebellar fibers total cell area
+name: decreased pontocerebellar fibers cell density
+name: decreased pontocerebellar fibers average cell area
+name: decreased cingulate cortex cell number
+name: decreased cingulate cortex total cell area
+name: decreased cingulate cortex cell density
+name: decreased cingulate cortex average cell area
+name: decreased dorsal subiculum cell number
+name: decreased dorsal subiculum total cell area
+name: decreased dorsal subiculum cell density
+name: decreased dorsal subiculum average cell area
+name: decreased inferior colliculus cell number
+name: decreased inferior colliculus total cell area
+name: decreased inferior colliculus cell density
+name: decreased inferior colliculus average cell area
+name: decreased superior colliculus cell number
+name: decreased superior colliculus total cell area
+name: decreased superior colliculus cell density
+name: decreased superior colliculus average cell area
+name: decreased cerebellum fastigial nucleus cell number
+name: decreased cerebellum fastigial nucleus total cell area
+name: decreased cerebellum fastigial nucleus cell density
+name: decreased cerebellum fastigial nucleus average cell area
+name: decreased photoreceptor outer segment number
+name: decreased jugular lymph sac number
+name: decreased circulating citrulline level
+name: decreased corneal epithelium thickness
+name: decreased lipogenesis
+name: decreased thigmotaxis
+name: decreased nervous system dopamine level
+name: decreased circulating dopamine level
+name: decreased middle ear goblet cell number
+name: decreased susceptibility to Riboviria infection
+name: decreased susceptibility to Herpesvirales infection
+name: decreased susceptibility to Ortervirales infection
+name: decreased susceptibility to Parvoviridae infection
+name: decreased susceptibility to Hepadnaviridae infection
+name: decreased susceptibility to Poxviridae infection
+name: decreased susceptibility to Adenoviridae infection
+name: decreased susceptibility to Retroviridae infection
+name: decreased susceptibility to Picornaviridae infection
+name: decreased susceptibility to Togaviridae infection
+name: decreased susceptibility to Flaviviridae infection
+name: decreased susceptibility to Orthomyxoviridae infection
+name: decreased susceptibility to Coronaviridae infection
+name: decreased susceptibility to Paramyxoviridae infection
+name: decreased mechanical nociceptive threshold
+name: decreased retinal apoptosis
+name: decreased adipocyte glucose uptake
+name: decreased cardiac cell glucose uptake
+name: decreased muscle cell glucose uptake
+name: decreased forehead pigmentation
+name: decreased inner canthal distance
+name: decreased basicranium angle
+name: decreased periocular mesenchyme apoptosis
+name: decreased osteoblast proliferation
+name: decreased osteoblast apoptosis
+name: decreased osteocyte apoptosis
+name: decreased osteocyte number
+name: decreased cementoblast number
+name: decreased circulating ammonia level
+name: decreased hair follicle cell proliferation
+name: decreased keratinocyte adhesion
+name: decreased pancreatic alpha cell mass
+name: decreased brain manganese level
+name: decreased liver manganese level
+name: decreased circulating manganese level
+name: decreased tooth number
+name: decreased incisor number
+name: decreased cysteine level
+name: decreased circulating cysteine level
+name: decreased methylmalonic acid level
+name: decreased urine creatine level
+name: decreased taurine level
+name: decreased circulating taurine level
+name: decreased methionine level
+name: decreased circulating methionine level
+name: decreased ornithine level
+name: decreased circulating ornithine level
+name: decreased circulating glycine level
+name: decreased glycine level
+name: decreased circulating arginine level
+name: decreased arginine level
+name: decreased circulating proline level
+name: decreased circulating phenylalanine level
+name: decreased circulating alanine level
+name: decreased hydroxyproline level
+name: decreased cystathionine level
+name: decreased circulating cystathionine level
+name: decreased serine level
+name: decreased circulating serine level
+name: decreased phenylalanine level
+name: decreased threonine level
+name: decreased circulating threonine level
+name: decreased glutamine level
+name: decreased circulating glutamine level
+name: decreased isoleucine level
+name: decreased circulating isoleucine level
+name: decreased circulating lysine level
+name: decreased lysine level
+name: decreased valine level
+name: decreased circulating valine level
+name: decreased gamma-aminobutyric acid level
+name: decreased glutamic acid level
+name: decreased circulating glutamic acid level
+name: decreased aspartic acid level
+name: decreased leucine level
+name: decreased circulating leucine level
+name: decreased choline level
+name: decreased histamine level
+name: decreased circulating histamine level
+name: decreased adrenaline level
+name: decreased anandamide level
+name: decreased urine catecholamine level
+name: decreased urine dopamine level
+name: decreased urine adrenaline level
+name: decreased urine noradrenaline level
+name: decreased urine citrate level
+name: decreased urine glycerol level
+name: decreased femur size
+name: decreased femur weight
+name: decreased joint mobility
+name: decreased radius size
+name: decreased ulna size
+name: decreased melanoblast proliferation
+name: decreased melanoblast apoptosis
+name: decreased telomere length
+name: decreased digit pigmentation
+name: decreased primordial germ cell proliferation
+name: decreased myoblast proliferation
+name: decreased brain ependyma motile cilium length
+name: decreased brain ependyma motile cilium number
+name: decreased circulating adiponectin level
+name: decreased spinal cord weight
+name: decreased circulating osteocalcin level
+name: decreased spongiotrophoblast cell number
+name: decreased adipose tissue glycogen level
+name: decreased pacinian corpuscle number
+name: decreased glycogen synthesis
+name: decreased kidney glycogen level
+name: decreased lung glycogen level
+name: decreased bone marrow adipose tissue amount
+name: decreased granulosa cell apoptosis
+name: decreased granulosa cell proliferation
+name: decreased susceptibility to Riboviria infection induced morbidity/mortality
+name: decreased susceptibility to Herpesvirales infection induced morbidity/mortality
+name: decreased susceptibility to Ortervirales infection induced morbidity/mortality
+name: decreased susceptibility to Parvoviridae infection induced morbidity/mortality
+name: decreased susceptibility to Hepadnaviridae infection induced morbidity/mortality
+name: decreased susceptibility to Poxviridae infection induced morbidity/mortality
+name: decreased susceptibility to Adenoviridae infection induced morbidity/mortality
+name: decreased susceptibility to Retroviridae infection induced morbidity/mortality
+name: decreased susceptibility to Picornaviridae infection induced morbidity/mortality
+name: decreased susceptibility to Togaviridae infection induced morbidity/mortality
+name: decreased susceptibility to Flaviviridae infection induced morbidity/mortality
+name: decreased susceptibility to Orthomyxoviridae infection induced morbidity/mortality
+name: decreased susceptibility to Coronaviridae infection induced morbidity/mortality
+name: decreased susceptibility to Paramyxoviridae infection induced morbidity/mortality
+name: decreased circulating C-reactive protein level
+name: decreased erythrocyte sedimentation rate
+name: decreased blood oxygen saturation level
+name: decreased circulating type I collagen C-terminal telopeptide level
+name: decreased circulating troponin level
+name: decreased circulating D-dimer level
+name: decreased erythrocyte osmotic fragility
+name: decreased susceptibility to induced thrombosis

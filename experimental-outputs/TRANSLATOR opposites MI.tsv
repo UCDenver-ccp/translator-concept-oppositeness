@@ -1,0 +1,21 @@
+opposite	x	x.count	x.minus.y	x.minus.y.count	y	y.count	y.minus.x	y.minus.x.count	xy	xy.count
+1	hot	192,120	hot -cold	15,658	cold	190,861	-hot cold	15,658	hot cold	15,657
+1	leukemia	342,485	leukemia -leukopenia	5,133	leukopenia	50,071	-leukemia leukopenia	5,133	leukemia leukopenia	5,133
+0	hot	192,120	hot -warm	4,094	warm	37,566	-hot warm	4,094	hot warm	4,094
+1	light	941,650	light -dark	48,407	dark	93,314	-light dark	48,407	light dark	48,405
+1	light	941,650	light -heavy	28,783	heavy	194,594	-light heavy	28,783	light heavy	28,784
+1	arterial	1,151,512	arterial -venous	183,230	venous	459,314	-arterial venous	183,230	arterial venous	183,231
+1	depression	539,864	depression -mania	6,381	mania	11,677	-depression mania	6,381	depression mania	6,381
+1	depression	539,864	depression -prominence	4,779	prominence	174,446	-depression prominence	4,779	depression prominence	4,779
+1	disease	7,211,377	disease -health	1,525,665	health	5,288,004	-disease health	1,525,665	disease health	1,525,562
+1	abnormal	1,367,904	abnormal -normal	258,240	normal	2,051,560	-abnormal normal	258,240	abnormal normal	258,237
+1	absent	156,430	absent -present	54,648	present	4,536,527	-absent present	54,648	absent present	54,644
+0	reader	57,263	reader -writer	845	writer	7,834	-reader writer	845	reader writer	845
+0	reader	57,263	reader -eraser	415	eraser	4,388	-reader eraser	415	reader eraser	415
+0	writer	7,834	writer -eraser	476	eraser	4,388	-writer eraser	476	writer eraser	476
+0	alive	55,686	alive -live	1,402	live	186,225	-alive live	1,402	alive live	1,402
+0	ad	1,650,424	ad -dead	57,794	dead	968,558	-ad dead	57,794	ad dead	57,793
+0	formation	7,372,304	formation -information	252,945	information	1,823,664	-formation information	252,945	formation information	252,936
+0	irate	26	irate -ate	975	ate	11,330	-irate ate	2,453,908	irate ate	0
+0	cat	139,788	cat -dog	13,511	dog	364,688	-cat dog	13,511	cat dog	13,511
+0	cold	190,861	cold -warm	10,555	warm	37,566	-cold warm	10,555	cold warm	10,555

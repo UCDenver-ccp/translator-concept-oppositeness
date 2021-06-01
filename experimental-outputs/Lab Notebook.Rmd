@@ -227,7 +227,7 @@ Motivation: this picks out a specific type of opposition: what Pustejovsky calls
 4. Most pairs of the form _hypox/hyperx_ where both members of the pair are single words have a single-word neutral point _normox_. For example, for the pair _hypotrophic/hypertrophic_, there is a neutral point _normotrophic_. If I had any question about the legitimacy of these, I checked Google Scholar to ensure that the _normox_ word is used.
 5. If I did not find such a word via Google Scholar, then I searched for the phrase _neither term01 nor term02_. If I found it, then I put the phrase in the field. (TODO: now that I think about it, if I didn't find the phrase, I didn't try again with the order _term02 term01_. Need to do that.)
 
-```{r}
+```{r, eval = FALSE}
 # "current" is the ones that Bill found currently in use
 in.both <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/typed.opposites.pato.in.both.txt", header = TRUE, sep = "\t")
 in.mine.only  <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/typed.opposites.pato.in.mine.txt", header = TRUE, sep = "\t")
@@ -286,7 +286,7 @@ Now handling:
 2. Now handling suffixes. So, we now get pairs like hydrophilic/hydrophobic (thanks to Leslie Rapp for that one). Embarrassingly, I am not getting leukemia/leukopenia--bug being hunted.
 
 1. Test cases in human-readable form
-2. Failing test case: _protein folding_ versus _protein unfolding_
+2. Failing test case: _protein folding_ versus _p274rotein unfolding_
 3. Failing test case: _name: oil gland decreased thickness_ versus _oil gland increased thickness_
 4. Consistent naming scheme for experimental-results directory
 5. _See email exchange with Bill_
@@ -297,6 +297,119 @@ Now handling:
 1. Took a week of vacation
 2. Took a sick day
 3. Generated the outputs for all of the CRAFT ontologies, plus HPO, MPO, and PATO
+
+## 2021-05-26
+
+
+```{r}
+# only need to do once
+#install.packages("entropy")
+#library(entropy)
+
+mi.calcs <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/TRANSLATOR opposites MI.tsv", header = TRUE, sep = "\t")
+
+get.rid.of.commas <- function(input.vector) {
+  output.vector <- gsub(",", "", input.vector)
+  return(output.vector)
+}
+
+# preprocessing--some things need to be integers, others factors
+mi.calcs$opposite <- factor(mi.calcs$opposite)
+mi.calcs$x.count <- as.integer(get.rid.of.commas(mi.calcs$x.count))
+mi.calcs$y.count <- as.integer(get.rid.of.commas(mi.calcs$y.count))
+mi.calcs$y.minus.x.count <- as.integer(get.rid.of.commas(mi.calcs$y.minus.x.count))
+mi.calcs$x.minus.y.count <- as.integer(get.rid.of.commas(mi.calcs$x.minus.y.count))
+mi.calcs$xy.count <- as.integer(get.rid.of.commas(mi.calcs$xy.count))
+as_tibble(mi.calcs)
+
+
+#mi.calcs <- mi.calcs %>% mutate(p.x = (x.count / (x.count + y.minus.x.count))) %>% mutate(p.y = (y.count / (y.count + y.minus.x.count))) %>% mutate(p.xy = (xy.count / (xy.count + x.minus.y.count + y.minus.x.count))) %>% 
+#mutate(mi.or.something = p.xy / (p.x * p.y)) 
+
+#mi.calcs <- mi.calcs %>% mutate(p.x = x.count / (x.not.y.count + y.not.x.count + x.and.y.count))
+#mi.calcs <- mi.calcs %>% mutate(p.x = x.count)
+# calculate p(x)
+mi.calcs <- mi.calcs %>% mutate(p.x = x.count / (x.minus.y.count + y.minus.x.count + xy.count))
+# calculate p(y)
+mi.calcs <- mi.calcs %>% mutate(p.y = y.count / (x.minus.y.count + y.minus.x.count + xy.count))
+# calculate p(x,y)
+mi.calcs <- mi.calcs %>% mutate(p.xy = xy.count / (x.minus.y.count + y.minus.x.count + xy.count))
+mi.calcs <- mi.calcs %>% mutate(mi.or.something = p.xy / (p.x * p.y))
+
+#mi.calcs$mi.or.something <- log(mi.calcs$mi.or.something)
+
+# Here I plot the values on a scale from 0.0 to 1.0
+ggplot(data = mi.calcs, mapping = aes(x = opposite, y = mi.or.something)) +
+  geom_boxplot() +
+  ylim(0, 1.0) + 
+  #ylab("MI or something") + 
+  labs(x = "Non-opposites versus opposites", y = "MI or something", title = "Like MI but not log")
+  #names(c("Not opposites", "Opposites"))
+
+shapiro.test(mi.calcs$mi.or.something)
+
+# Here I plot their logs
+mi.calcs$mi.or.something <- log(mi.calcs$mi.or.something)
+ggplot(data = mi.calcs, mapping = aes(x = opposite, y = mi.or.something)) +
+  geom_boxplot() +
+  #ylim(0, 1.0) + 
+  #ylab("MI or something") + 
+  labs(x = "Non-opposites versus opposites", y = "MI or something", title = "MI (maybe)")
+  #names(c("Not opposites", "Opposites"))
+
+head(mi.calcs)
+#mi.calcs$mi.or.something %>% gather(opposite)
+
+#mi.calcs <- mi.calcs %>%  select(opposite, mi.or.something)
+#head(mi.calcs)
+
+#wilcox.test(select(mi.calcs$opposite == "0"), select(mi.calcs$opposite == "1"))
+```
+
+## Next step
+
+Multi-word phrases, moving towards opposite sides of normal
+
+HPO/MPO/MONDO terms with increase and decrease; then adjectival ones (especially hyper- and hypo-) (and generate more of those? Easy enough to do)
+
+- Variability across those? Like, increased versus "increase in", "elevation of", etc.? Again, it's generation...
+
+
+## 2021-06-02
+
+1. Started by manually building a list
+2. Then searched HPO
+3. Comparing the two: we need to take synonymy into account where HPO doesn't
+
+Retrieval of HPO terms: 
+
+egrep -i '^name.+increased' ~/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep -vi 'obsolete' | sort > ~/Dropbox/N-Z/translator-concept-oppositeness/resources/HPO.terms.with.increased.txt
+
+egrep -i '^name.+hyper' ~/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep -vi 'obsolete' | sort > ~/Dropbox/N-Z/translator-concept-oppositeness/resources/HPO.terms.with.hyper.txt
+
+To find paired hyper/hypo terms: cat ../resources/HPO.terms.with.hyper.txt ../resources/HPO.terms.with.hypo.txt | ./hyperHypoOpposites.pl
+
+To find paired increased/decreased terms: cat ../resources/HPO.terms.with.increased.txt ../resources/HPO.terms.with.decreased.txt | ./increasedDecreasedOpposites.pl
+
+HPO contains:
+
+- 459 non-obsolete terms with 'increased'
+- 370 non-obsolete terms with 'decreased'
+- 168 paired non-obsolete increased/decreased terms
+
+- 453 non-obsolete terms with 'hyper'
+- 671 non-obsolete terms with 'hypo'
+- 108 paired non-obsolete hypo/hyper terms
+
+- 165 with 'reduced'
+- 153 with 'elevated'
+- 4 with 'depressed'
+- 33 with 'high'
+- 61 with 'low'
+
+```{r}
+
+```
 
 ## For reproducibility
 ```{r, echo = FALSE}

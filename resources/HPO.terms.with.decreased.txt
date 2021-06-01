@@ -1,0 +1,370 @@
+name: Cervical vertebral bodies with decreased anteroposterior diameter
+name: Chronic decreased circulating IgD
+name: Chronic decreased circulating IgE
+name: Chronic decreased circulating IgG1
+name: Chronic decreased circulating IgG3
+name: Chronic decreased circulating IgG4
+name: Chronic decreased circulating total IgG
+name: Chronic decreased cirulating IgG2
+name: Chronic partially decreased circulating IgG1
+name: Chronic partially decreased circulating IgG2
+name: Chronic partially decreased circulating IgG3
+name: Chronic partially decreased circulating IgG4
+name: Decreased 3-hydroxyacyl-CoA dehydrogenase level
+name: Decreased Achilles reflex
+name: Decreased Arden ratio of electrooculogram
+name: Decreased CD25 upregulation upon TCR activation
+name: Decreased CD69 upregulation upon TCR activation
+name: Decreased CSF 5-hydroxyindolacetic acid
+name: Decreased CSF 5-methyltetrahydrofolate concentration
+name: Decreased CSF alanine concentration
+name: Decreased CSF albumin concentration
+name: Decreased CSF amyloid level
+name: Decreased CSF arginine concentration
+name: Decreased CSF biopterin level
+name: Decreased CSF glutamate concentration
+name: Decreased CSF glutamine concentration
+name: Decreased CSF histidine concentration
+name: Decreased CSF homovanillic acid
+name: Decreased CSF isoleucine concentration
+name: Decreased CSF leucine concentration
+name: Decreased CSF lysine concentration
+name: Decreased CSF neopterin level
+name: Decreased CSF phenylalanine concentration
+name: Decreased CSF protein
+name: Decreased CSF serine concentration
+name: Decreased CSF threonine concentration
+name: Decreased CSF tyrosine concentration
+name: Decreased CSF valine concentration
+name: Decreased CSF/serum albumin ratio
+name: Decreased DLCO
+name: Decreased HDL cholesterol concentration
+name: Decreased HDL2a concentration
+name: Decreased HDL2b concentration
+name: Decreased HDL3a concentration
+name: Decreased HDL3b concentration
+name: Decreased HDL3c concentration
+name: Decreased LDL cholesterol concentration
+name: Decreased O-mannosyl glycans on alpha-dystroglycan
+name: Decreased QRS voltage
+name: Decreased T cell activation
+name: Decreased T3/T4 ratio
+name: Decreased VLDL cholesterol concentration
+name: Decreased acrosin in sperm head
+name: Decreased activity of NADPH oxidase
+name: Decreased activity of mitochondrial ATP synthase complex
+name: Decreased activity of mitochondrial complex I
+name: Decreased activity of mitochondrial complex II
+name: Decreased activity of mitochondrial complex III
+name: Decreased activity of mitochondrial complex IV
+name: Decreased activity of mitochondrial respiratory chain
+name: Decreased activity of the pyruvate dehydrogenase complex
+name: Decreased adenosylcobalamin
+name: Decreased adiponectin level
+name: Decreased adipose tissue
+name: Decreased adipose tissue around neck
+name: Decreased adipose tissue tocopherol level
+name: Decreased amplitude of sensory action potentials
+name: Decreased anterioposterior diameter of lumbar vertebral bodies
+name: Decreased antimullerian hormone level
+name: Decreased apolipoprotein AI level
+name: Decreased attenuation pattern on pulmonary HRCT
+name: Decreased basophil count
+name: Decreased beta-galactosidase activity
+name: Decreased beta-glucocerebrosidase level
+name: Decreased biotinidase level
+name: Decreased blood drug concentration
+name: Decreased body fat percentage
+name: Decreased body mass index
+name: Decreased body weight
+name: Decreased calvarial ossification
+name: Decreased carnitine level in liver
+name: Decreased carpal angles of wrist
+name: Decreased cervical spine flexion due to contractures of posterior cervical muscles
+name: Decreased cervical spine mobility
+name: Decreased circulating 12-HETE
+name: Decreased circulating 18-hydroxycortisone level
+name: Decreased circulating A-type natriuretic peptide level
+name: Decreased circulating ACTH level
+name: Decreased circulating IgA level
+name: Decreased circulating IgD
+name: Decreased circulating IgE
+name: Decreased circulating IgG level
+name: Decreased circulating IgG subclass level
+name: Decreased circulating IgG1 level
+name: Decreased circulating IgG2 level
+name: Decreased circulating IgG3 level
+name: Decreased circulating IgG4 level
+name: Decreased circulating T4 level
+name: Decreased circulating aldosterone level
+name: Decreased circulating androgen level
+name: Decreased circulating antibody level
+name: Decreased circulating beta-2-microglobulin level
+name: Decreased circulating beta-C-terminal telopeptide level
+name: Decreased circulating ceruloplasmin concentration
+name: Decreased circulating chylomicron concentration
+name: Decreased circulating copper concentration
+name: Decreased circulating corticosterone level
+name: Decreased circulating cortisol level
+name: Decreased circulating dehydroepiandrosterone level
+name: Decreased circulating dehydroepiandrosterone-sulfate level
+name: Decreased circulating follicle stimulating hormone level
+name: Decreased circulating free T3
+name: Decreased circulating free T4 level
+name: Decreased circulating free fatty acid level
+name: Decreased circulating globulin level
+name: Decreased circulating glycerol level
+name: Decreased circulating gonadotropin level
+name: Decreased circulating heparan sulfate level
+name: Decreased circulating hydroxyproline concentration
+name: Decreased circulating level of specific antibody
+name: Decreased circulating luteinizing hormone level
+name: Decreased circulating osteocalcin level
+name: Decreased circulating parathyroid hormone level
+name: Decreased circulating progesterone
+name: Decreased circulating purine concentration
+name: Decreased circulating renin level
+name: Decreased circulating selenium concentration
+name: Decreased circulating total IgA
+name: Decreased circulating total IgG
+name: Decreased circulating total IgM
+name: Decreased complex N-glycan level
+name: Decreased core 1 O-glycan level
+name: Decreased corneal reflex
+name: Decreased corneal sensation
+name: Decreased corneal thickness
+name: Decreased cranial base ossification
+name: Decreased cystatin C level
+name: Decreased diastolic blood pressure
+name: Decreased distal sensory nerve action potential
+name: Decreased eosinophil count
+name: Decreased erythrocyte sedimentation rate
+name: Decreased expression of GPI-anchored proteins on the cell surface
+name: Decreased facial expression
+name: Decreased fecal pH
+name: Decreased female libido
+name: Decreased femoral torsion
+name: Decreased fertility
+name: Decreased fertility in females
+name: Decreased fertility in males
+name: Decreased fetal movement
+name: Decreased fibular diameter
+name: Decreased finger mobility
+name: Decreased forced expiratory flow 25-75%
+name: Decreased fucosylation of N-linked protein glycosylation
+name: Decreased fucosylation of O-linked protein glycosylation
+name: Decreased fumarate hydratase activity
+name: Decreased galactosylation of N-linked protein glycosylation
+name: Decreased glomerular filtration rate
+name: Decreased glucagon level
+name: Decreased glucose-6-phosphate dehydrogenase level in blood
+name: Decreased glucose-6-phosphate dehydrogenase level in dried blood spot
+name: Decreased glucose-6-phosphate dehydrogenase level in leukocytes
+name: Decreased glucose-6-phosphate dehydrogenase level in red blood cells
+name: Decreased glucose-6-phosphate dehydrogenase level in tissue
+name: Decreased glucosephosphate isomerase level
+name: Decreased glycosyltransferase O-Fucosylpeptide 3-Beta-N-Acetylglucosaminyltransferase level
+name: Decreased head circumference
+name: Decreased heart rate variability
+name: Decreased helper T cell proportion
+name: Decreased hemoglobin concentration
+name: Decreased hepatic echogenicity
+name: Decreased hepcidin level
+name: Decreased high-mannose N-glycan level
+name: Decreased hip abduction
+name: Decreased immunoglobulin level in body fluid
+name: Decreased incisura length
+name: Decreased inflammatory response
+name: Decreased inhibin B level
+name: Decreased intestinal transit time
+name: Decreased intracranial pressure
+name: Decreased lacrimation
+name: Decreased lecithin cholesterol acyl transferase level
+name: Decreased level of 1,5 anhydroglucitol in serum
+name: Decreased level of D-mannose in urine
+name: Decreased level of GABA in serum
+name: Decreased level of carnosine in blood
+name: Decreased level of erythritol in CSF
+name: Decreased level of erythritol in urine
+name: Decreased level of heparin co-factor II
+name: Decreased level of histidine-rich glycoprotein
+name: Decreased level of plasminogen
+name: Decreased level of platelet-activating factor
+name: Decreased level of thrombomodulin
+name: Decreased level of tissue plasminogen activator
+name: Decreased levels of alpha-fetoprotein
+name: Decreased libido
+name: Decreased light- and dark-adapted electroretinogram amplitude
+name: Decreased lipoprotein lipase level
+name: Decreased liver function
+name: Decreased low-density lipoprotein particle size
+name: Decreased lymphocyte apoptosis
+name: Decreased lymphocyte proliferation in response to anti-CD3
+name: Decreased lymphocyte proliferation in response to mitogen
+name: Decreased male libido
+name: Decreased mannose-binding protein level
+name: Decreased mannosylation of N-linked protein glycosylation
+name: Decreased mean corpuscular hemoglobin concentration
+name: Decreased mean corpuscular volume
+name: Decreased mean platelet volume
+name: Decreased methionine synthase activity
+name: Decreased methylcobalamin
+name: Decreased methylmalonyl-CoA mutase activity
+name: Decreased miniature endplate potentials
+name: Decreased mitochondrial complex III activity in liver tissue
+name: Decreased mitochondrial number
+name: Decreased mobility 3rd-5th fingers
+name: Decreased monosialylated core 1 O-glycan level
+name: Decreased motor nerve conduction velocity
+name: Decreased movement range in interphalangeal joints
+name: Decreased muscle glycogen content
+name: Decreased muscle mass
+name: Decreased nasal nitric oxide
+name: Decreased nerve conduction velocity
+name: Decreased number of large peripheral myelinated nerve fibers
+name: Decreased number of peripheral myelinated nerve fibers
+name: Decreased number of small peripheral myelinated nerve fibers
+name: Decreased number of sternal ossification centers
+name: Decreased number of sweat glands
+name: Decreased number of vertebrae
+name: Decreased numbers of nephrons
+name: Decreased osteoclast count
+name: Decreased palmar creases
+name: Decreased patellar reflex
+name: Decreased peak expiratory flow
+name: Decreased phosphoribosylpyrophosphate synthetase level
+name: Decreased pineal volume
+name: Decreased pituitary glycoprotein hormone alpha subunit level
+name: Decreased plasma carnitine
+name: Decreased plasma free carnitine
+name: Decreased plasma total carnitine
+name: Decreased platelet P2Y12 receptor
+name: Decreased platelet alpha-2A-adrenergic receptor
+name: Decreased platelet glycoprotein IIb-IIIa
+name: Decreased platelet glycoprotein Ib
+name: Decreased platelet glycoprotein Ib-IX-V
+name: Decreased platelet glycoprotein VI
+name: Decreased platelet thromboxane A2 receptor
+name: Decreased post-bronchodilator forced expiratory flow 25-75%
+name: Decreased post-bronchodilator forced expiratory volume in one second
+name: Decreased post-bronchodilator forced vital capacity
+name: Decreased pre-bronchodilator forced expiratory flow 25-75%
+name: Decreased pre-bronchodilator forced vital capacity
+name: Decreased prealbumin level
+name: Decreased proportion of CD3-positive T cells
+name: Decreased proportion of CD4+CD25+ regulatory T cells
+name: Decreased proportion of CD4-positive T cells
+name: Decreased proportion of CD4-positive helper T cells
+name: Decreased proportion of CD4-positive, alpha-beta memory T cells
+name: Decreased proportion of CD8-positive T cells
+name: Decreased proportion of CD8-positive, alpha-beta TEMRA T cells
+name: Decreased proportion of CD8-positive, alpha-beta memory T cells
+name: Decreased proportion of central memory CD4-positive, alpha-beta T cells
+name: Decreased proportion of central memory CD8-positive, alpha-beta T cells
+name: Decreased proportion of class-switched memory B cells
+name: Decreased proportion of effector memory CD8-positive, alpha-beta T cells
+name: Decreased proportion of gamma-delta T cells
+name: Decreased proportion of immature B cells
+name: Decreased proportion of immature gamma-delta T cells
+name: Decreased proportion of marginal zone B cells
+name: Decreased proportion of memory B cells
+name: Decreased proportion of memory T cells
+name: Decreased proportion of naive B cells
+name: Decreased proportion of naive CD4 T cells
+name: Decreased proportion of naive CD8 T cells
+name: Decreased proportion of naive T cells
+name: Decreased proportion of plasmablasts
+name: Decreased proportion of transitional B cells
+name: Decreased proportion of unswitched memory B cells
+name: Decreased prothrombin time
+name: Decreased pulmonary fissure count
+name: Decreased pulmonary function
+name: Decreased pyruvate carboxylase activity
+name: Decreased red blood cell count
+name: Decreased renal parenchymal thickness
+name: Decreased renal tubular phosphate excretion
+name: Decreased resting energy expenditure
+name: Decreased retinol-binding protein level
+name: Decreased salivary cortisol level
+name: Decreased scrotal rugation
+name: Decreased sensitivity to hypoxemia
+name: Decreased sensory nerve conduction velocity
+name: Decreased serum anion gap
+name: Decreased serum bicarbonate concentration
+name: Decreased serum bile concentration
+name: Decreased serum complement C3
+name: Decreased serum complement C4
+name: Decreased serum complement C4a
+name: Decreased serum complement C4b
+name: Decreased serum complement C5
+name: Decreased serum complement C6
+name: Decreased serum complement C7
+name: Decreased serum complement C8
+name: Decreased serum complement C9
+name: Decreased serum complement factor B
+name: Decreased serum complement factor H
+name: Decreased serum complement factor I
+name: Decreased serum creatinine
+name: Decreased serum estradiol
+name: Decreased serum estriol
+name: Decreased serum estrone
+name: Decreased serum ferritin
+name: Decreased serum insulin-like growth factor 1
+name: Decreased serum iron
+name: Decreased serum leptin
+name: Decreased serum terminal complement component
+name: Decreased serum testosterone level
+name: Decreased serum thromboxane B2
+name: Decreased serum zinc
+name: Decreased sialylated N-glycan level
+name: Decreased sialylation of N-linked protein glycosylation
+name: Decreased sialylation of O-linked protein glycosylation
+name: Decreased size of nasopharyngeal adenoids
+name: Decreased size of nerve terminals
+name: Decreased size of the clitoris
+name: Decreased skull ossification
+name: Decreased small intestinal mucosa lactase level
+name: Decreased specific anti-polysaccharide antibody level
+name: Decreased specific antibody response to infection
+name: Decreased specific antibody response to polysaccharide vaccine
+name: Decreased specific antibody response to protein vaccine
+name: Decreased specific antibody response to protein-conjugated polysaccharide vaccine
+name: Decreased specific antibody response to vaccination
+name: Decreased specific pneumococcal antibody level
+name: Decreased succinic semialdehyde dehydrogenase level
+name: Decreased superoxide dismutase level
+name: Decreased sweating due to autonomic dysfunction
+name: Decreased systolic blood pressure
+name: Decreased tear drainage
+name: Decreased testicular size
+name: Decreased thalamic volume
+name: Decreased thyroid-stimulating hormone level
+name: Decreased total hemolytic complement activity
+name: Decreased total iron binding capacity
+name: Decreased transferrin saturation
+name: Decreased uridine diphosphate glucose-4-epimerase level in plasma
+name: Decreased uridine diphosphate glucose-4-epimerase level in red blood cells
+name: Decreased urinary 1-methylhistidine
+name: Decreased urinary 3-methylhistidine
+name: Decreased urinary catecholamine concentration
+name: Decreased urinary copper concentration
+name: Decreased urinary guanosine level
+name: Decreased urinary potassium
+name: Decreased urinary sulfate
+name: Decreased urinary urate
+name: Decreased urine alpha-ketoglutarate concentration
+name: Decreased urine bicarbonate concentration
+name: Decreased urine output
+name: Decreased urine urobilinogen
+name: Decreased vigilance
+name: Decreased waist to hip ratio
+name: Decreased/absent ankle reflexes
+name: Thymic hormone decreased
+name: Transient decreased circulating IgA
+name: Transient decreased circulating IgD
+name: Transient decreased circulating IgE
+name: Transient decreased circulating IgG1
+name: Transient decreased circulating IgG2
+name: Transient decreased circulating IgG3
+name: Transient decreased circulating IgG4
+name: Transient decreased circulating total IgG

@@ -1,0 +1,1401 @@
+_ 5-aminolevulinate synthase activity
+_ B cell apoptosis
+_ B cell number
+_ B cell proliferation
+_ B-1 B cell number
+_ B-1a cell number
+_ B-1b cell number
+_ B-2 B cell number
+_ CD103-positive CD11b-low dendritic cell number
+_ CD11b-high dendritic cell number
+_ CD11b-low dendritic cell number
+_ CD4-negative NK T cell number
+_ CD4-negative, CD25-positive NK T cell number
+_ CD4-positive NK T cell number
+_ CD4-positive, CD25-positive NK T cell number
+_ CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+_ CD4-positive, alpha beta T cell number
+_ CD4-positive, alpha-beta memory T cell number
+_ CD4-positive, gamma-delta intraepithelial T cell number
+_ CD5-positive Ly6C-positive T cell number
+_ CD5-positive T cell number
+_ CD5-positive gamma-delta T cell number
+_ CD8-positive, CD25-positive alpha-beta T cell number
+_ CD8-positive, alpha-beta T cell number
+_ CD8-positive, alpha-beta memory T cell number
+_ CD8-positive, alpha-beta memory T cell proliferation
+_ CD8-positive, gamma-delta intraepithelial T cell number
+_ CD8-positive, naive alpha-beta T cell number
+_ CNS synapse formation
+_ Cajal-Retzius cell number
+_ DN1 thymic pro-T cell number
+_ DN2 thymocyte number
+_ DN3 thymocyte number
+_ DN4 thymocyte number
+_ Harderian gland tumor incidence
+_ IgA level
+_ IgD level
+_ IgE level
+_ IgG level
+_ IgG1 level
+_ IgG2 level
+_ IgG2a level
+_ IgG2b level
+_ IgG2c level
+_ IgG3 level
+_ IgM level
+_ KLRG1+ CD4 alpha beta T cell number
+_ KLRG1+ CD8 alpha beta T cell number
+_ KLRG1-positive CD4-negative NK T cell number
+_ KLRG1-positive CD4-positive NK T cell number
+_ KLRG1-positive CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+_ KLRG1-positive NK cell number
+_ KLRG1-positive T-helper cell number
+_ KLRG1-positive gamma-delta T cell number
+_ Langerhans cell number
+_ Ly6C high monocyte number
+_ Ly6C low monocyte number
+_ Ly6C-positive NK T cell number
+_ Ly6C-positive immature NK cell number
+_ Ly6C-positive mature NK cell number
+_ N-acetylgalactosamine-4-sulfatase protein level
+_ NAD(P)H oxidase activity
+_ NK T cell number
+_ NK cell degranulation
+_ NK cell number
+_ PP cell number
+_ Paneth cell number
+_ Peyer's patch number
+_ Purkinje cell number
+_ QRS amplitude
+_ Reichert's membrane thickness
+_ Schwann cell number
+_ Schwann cell proliferation
+_ Sertoli cell phagocytosis
+_ T cell apoptosis
+_ T cell number
+_ T cell proliferation
+_ T follicular helper cell number
+_ T-helper 17 cell number
+_ T-helper 2 cell number
+_ T-helper cell number
+_ Tc17 cell number
+_ Type B reticulum cell tumor incidence
+_ UDP-N-acetylglucosamine-1-phosphotransferase level
+_ a wave amplitude
+_ a wave implicit time
+_ a wave latency
+_ abdominal adipose tissue amount
+_ abdominal fat pad weight
+_ acetylcholinesterase activity
+_ activated T cell number
+_ activation-induced B cell apoptosis
+_ activation-induced cell death of T cells
+_ activity of parathyroid
+_ activity of thyroid gland
+_ acute inflammation
+_ adipocyte glucose uptake
+_ adiponectin level
+_ adipose tissue glycogen level
+_ adrenal gland weight
+_ adrenaline level
+_ adrenocorticotropin level
+_ aerobic running capacity
+_ aggression
+_ aggression towards males
+_ aggression towards mice
+_ airway resistance
+_ airway responsiveness
+_ alcohol consumption
+_ alcohol dehydrogenase activity
+_ aldehyde dehydrogenase activity
+_ aldehyde oxidase activity
+_ alertness
+_ alimentary system tumor incidence
+_ alkaline phosphatase activity
+_ alpha-beta T cell number
+_ alpha-fetoprotein level
+_ alveolar lamellar body number
+_ alveolar macrophage number
+_ amacrine cell number
+_ amygdala size
+_ amylin secretion
+_ anandamide level
+_ angiogenesis
+_ angiotensin I-converting enzyme activity
+_ anoikis
+_ anterior commissure average cell area
+_ anterior commissure cell density
+_ anterior commissure cell number
+_ anterior commissure size
+_ anterior commissure total cell area
+_ anti-double stranded DNA antibody level
+_ anti-insulin autoantibody level
+_ anti-nuclear antigen antibody level
+_ anxiety-related response
+_ aorta elastin content
+_ aorta wall thickness
+_ apoptosis
+_ areal bone mineral density
+_ arginine level
+_ argininosuccinate synthetase level
+_ arylsulphatase activity
+_ aspartic acid level
+_ astrocyte number
+_ astrocyte size
+_ atrioventricular cushion size
+_ autoantibody level
+_ axial mesoderm size
+_ b wave amplitude
+_ b wave implicit time
+_ b wave latency
+_ basal metabolism
+_ basophil cell number
+_ behavioral withdrawal response
+_ benz (alpha) pyrene hydroxylase activity
+_ beta-galactosidase level
+_ beta-glucuronidase activity
+_ beta-mannosidase level
+_ bile salt level
+_ birth body size
+_ birth weight
+_ bleeding time
+_ blinking frequency
+_ blood catalase activity
+_ blood osmolality
+_ blood oxygen capacity
+_ blood oxygen saturation level
+_ blood urea nitrogen level
+_ blood uric acid level
+_ body fat mass
+_ body height
+_ body length
+_ body mass index
+_ body size
+_ body surface temperature
+_ body temperature
+_ body weight
+_ bone marrow adipose tissue amount
+_ bone marrow cell number
+_ bone mass
+_ bone mineral content
+_ bone mineral density
+_ bone mineral density of femur
+_ bone mineralization
+_ bone ossification
+_ bone resorption
+_ bone stiffness
+_ bone strength
+_ bone trabecula number
+_ bone trabecular spacing
+_ bone volume
+_ brain acetylcholinesterase activity
+_ brain catechol O-methyltransferase activity
+_ brain cholesterol level
+_ brain choline acetyltransferase activity
+_ brain copper level
+_ brain ependyma motile cilium length
+_ brain external capsule size
+_ brain glycogen level
+_ brain internal capsule size
+_ brain iron level
+_ brain manganese level
+_ brain monoamine oxidase activity
+_ brain plasmalogen level
+_ brain size
+_ brain sterol level
+_ brain sulfoglycosphingolipid level
+_ brain tyrosine 3-monooxygenase activity
+_ brain weight
+_ brain zinc level
+_ brainstem copper level
+_ branched-chain alpha-keto acid dehydrogenase level
+_ bronchioalveolar stem cell number
+_ bronchoconstrictive response
+_ brown adipose tissue amount
+_ brown adipose tissue mass
+_ brown fat cell lipid droplet size
+_ brown fat cell number
+_ brown fat cell size
+_ brown fat lipid droplet number
+_ calcium uptake by cardiac muscle
+_ capillary density
+_ carbon dioxide production
+_ cardiac cell glucose uptake
+_ cardiac muscle contractility
+_ cardiac muscle glycogen level
+_ cardiac muscle relaxation
+_ cardiac neural crest cell number
+_ cardiac output
+_ cardiac stroke volume
+_ cardiomyocyte apoptosis
+_ cardiovascular system tumor incidence
+_ catalase activity
+_ catalase level
+_ catechol O-methyltransferase activity
+_ caudal vertebrae number
+_ cell chemotaxis
+_ cell death
+_ cell mass
+_ cell migration
+_ cell proliferation
+_ cellular hemoglobin content
+_ cellular sensitivity to DNA damaging agents
+_ cellular sensitivity to X-ray irradiation
+_ cellular sensitivity to alkylating agents
+_ cellular sensitivity to cisplatin
+_ cellular sensitivity to gamma-irradiation
+_ cellular sensitivity to hydrogen peroxide
+_ cellular sensitivity to hydroxyurea
+_ cellular sensitivity to ionizing radiation
+_ cellular sensitivity to methylmethanesulfonate
+_ cellular sensitivity to oxidative stress
+_ cellular sensitivity to ultraviolet irradiation
+_ cementoblast number
+_ central memory CD4-positive, alpha-beta T cell number
+_ central memory CD8 positive, alpha-beta T cell number
+_ ceramide level
+_ cerebellar granule cell number
+_ cerebellar granule cell precursor proliferation
+_ cerebellum dentate nucleus size
+_ cerebellum fastigial nucleus average cell area
+_ cerebellum fastigial nucleus cell density
+_ cerebellum fastigial nucleus cell number
+_ cerebellum fastigial nucleus size
+_ cerebellum fastigial nucleus total cell area
+_ cerebellum interpositus nucleus size
+_ cerebral cortex average cell area
+_ cerebral cortex cell density
+_ cerebral cortex cell number
+_ cerebral cortex pyramidal cell number
+_ cerebral cortex total cell area
+_ cerebral infarction size
+_ cerebrospinal fluid production
+_ ceruloplasmin level
+_ cervical vertebrae number
+_ channel response intensity
+_ channel response threshold
+_ chemical nociceptive threshold
+_ chemically-elicited antinociception
+_ cholesterol efflux
+_ cholesterol level
+_ choline O-acetyltransferase activity
+_ cholinesterase activity
+_ chondrocyte apoptosis
+_ chondrocyte number
+_ chondrocyte proliferation
+_ cingulate cortex average cell area
+_ cingulate cortex cell density
+_ cingulate cortex cell number
+_ cingulate cortex size
+_ cingulate cortex total cell area
+_ circulating C-reactive protein level
+_ circulating D-dimer level
+_ circulating HDL cholesterol level
+_ circulating HDL phospholipid level
+_ circulating LDL cholesterol level
+_ circulating VLDL cholesterol level
+_ circulating VLDL triglyceride level
+_ circulating adiponectin level
+_ circulating adrenaline level
+_ circulating adrenocorticotropin level
+_ circulating alanine level
+_ circulating alanine transaminase level
+_ circulating aldosterone level
+_ circulating alkaline phosphatase level
+_ circulating ammonia level
+_ circulating amylase level
+_ circulating angiotensinogen level
+_ circulating antidiuretic hormone level
+_ circulating antithrombin level
+_ circulating arginase level
+_ circulating arginine level
+_ circulating aspartate transaminase level
+_ circulating atrial natriuretic factor
+_ circulating bicarbonate level
+_ circulating bilirubin level
+_ circulating calcium level
+_ circulating carnitine level
+_ circulating ceruloplasmin level
+_ circulating chloride level
+_ circulating cholesterol level
+_ circulating cholinesterase activity
+_ circulating citrulline level
+_ circulating complement protein level
+_ circulating copper level
+_ circulating corticosterone level
+_ circulating cortisol level
+_ circulating creatine kinase level
+_ circulating creatine level
+_ circulating creatinine level
+_ circulating cystathionine level
+_ circulating cysteine level
+_ circulating dihydrotestosterone level
+_ circulating dopamine level
+_ circulating erythropoietin level
+_ circulating estradiol level
+_ circulating estrogen level
+_ circulating factor IX level
+_ circulating factor VIII level
+_ circulating factor X level
+_ circulating factor XII level
+_ circulating factor XIII level
+_ circulating ferritin level
+_ circulating fibrinogen level
+_ circulating fibronectin level
+_ circulating follicle stimulating hormone level
+_ circulating free fatty acid level
+_ circulating fructosamine level
+_ circulating gastrin level
+_ circulating ghrelin level
+_ circulating glucagon level
+_ circulating glucocorticoid level
+_ circulating glucose level
+_ circulating glutamate dehydrogenase level
+_ circulating glutamic acid level
+_ circulating glutamine level
+_ circulating glycerol level
+_ circulating glycine level
+_ circulating gonadotropin level
+_ circulating growth hormone level
+_ circulating haptoglobin level
+_ circulating histamine level
+_ circulating histidine level
+_ circulating homocysteine level
+_ circulating insulin level
+_ circulating insulin-like growth factor I level
+_ circulating interferon-alpha level
+_ circulating interferon-beta level
+_ circulating interferon-gamma level
+_ circulating interleukin-1 alpha level
+_ circulating interleukin-1 beta level
+_ circulating interleukin-1 level
+_ circulating interleukin-10 level
+_ circulating interleukin-12 level
+_ circulating interleukin-12a level
+_ circulating interleukin-12b level
+_ circulating interleukin-13 level
+_ circulating interleukin-15 level
+_ circulating interleukin-16 level
+_ circulating interleukin-17 level
+_ circulating interleukin-18 level
+_ circulating interleukin-2 level
+_ circulating interleukin-21 level
+_ circulating interleukin-23 level
+_ circulating interleukin-3 level
+_ circulating interleukin-4 level
+_ circulating interleukin-5 level
+_ circulating interleukin-6 level
+_ circulating interleukin-7 level
+_ circulating interleukin-8 level
+_ circulating interleukin-9 level
+_ circulating iron level
+_ circulating isoleucine level
+_ circulating ketone body level
+_ circulating lactate dehydrogenase level
+_ circulating lactate level
+_ circulating leptin level
+_ circulating leucine level
+_ circulating levels of thyroid hormone
+_ circulating lipase level
+_ circulating luteinizing hormone level
+_ circulating lysine level
+_ circulating magnesium level
+_ circulating manganese level
+_ circulating methionine level
+_ circulating mineralocorticoid level
+_ circulating non-HDL phospholipid level
+_ circulating noradrenaline level
+_ circulating ornithine level
+_ circulating osteocalcin level
+_ circulating parathyroid hormone level
+_ circulating phenylalanine level
+_ circulating phosphate level
+_ circulating phospholipid level
+_ circulating pituitary hormone level
+_ circulating potassium level
+_ circulating progesterone level
+_ circulating prolactin level
+_ circulating proline level
+_ circulating prothrombin level
+_ circulating renin level
+_ circulating serine level
+_ circulating serum albumin level
+_ circulating sodium level
+_ circulating taurine level
+_ circulating testosterone level
+_ circulating threonine level
+_ circulating thrombin level
+_ circulating thyroid-stimulating hormone level
+_ circulating thyroxine level
+_ circulating total protein level
+_ circulating transferrin level
+_ circulating triglyceride level
+_ circulating triiodothyronine level
+_ circulating troponin level
+_ circulating tumor necrosis factor level
+_ circulating type I collagen C-terminal telopeptide level
+_ circulating tyrosine level
+_ circulating unsaturated transferrin level
+_ circulating valine level
+_ classified tumor incidence
+_ clearance of atrial thrombosis
+_ club cell number
+_ cochlear VIII nucleus size
+_ cochlear hair cell number
+_ cochlear inner hair cell number
+_ cochlear nerve compound action potential
+_ cochlear outer hair cell number
+_ collagen level
+_ colon goblet cell number
+_ colon length
+_ colon tumor incidence
+_ common lymphocyte progenitor cell number
+_ common myeloid progenitor cell number
+_ compact bone area
+_ compact bone mass
+_ compact bone thickness
+_ compact bone volume
+_ compensatory feeding amount
+_ compensatory renal growth
+_ complement C5 level
+_ conjunctiva goblet cell number
+_ coping response
+_ core body temperature
+_ cornea thickness
+_ corneal epithelium thickness
+_ corneal stroma thickness
+_ coronary flow rate
+_ corpora lutea number
+_ corpus callosum average cell area
+_ corpus callosum cell density
+_ corpus callosum cell number
+_ corpus callosum size
+_ corpus callosum total cell area
+_ corticospinal tract size
+_ corticotroph cell number
+_ corticotroph cell size
+_ coumarin hydroxylase activity
+_ cranial neural crest cell proliferation
+_ cranium height
+_ cranium length
+_ cranium width
+_ creatine kinase activity
+_ creatine kinase level
+_ creatine level
+_ creatinine clearance
+_ cumulus expansion
+_ curvature of zigzag hairs
+_ cystathionine level
+_ cysteine level
+_ cytotoxic T cell apoptosis
+_ cytotoxic T cell cytolysis
+_ defecation amount
+_ delta-aminolaevulinate dehydratase activity
+_ dendritic cell number
+_ dendritic epidermal T cell number
+_ dendritic spine density
+_ dendritic spine length
+_ dentate gyrus size
+_ diameter of femur
+_ diameter of fibula
+_ diameter of humerus
+_ diameter of long bones
+_ diameter of radius
+_ diameter of tibia
+_ diameter of ulna
+_ diastolic filling velocity
+_ digit pigmentation
+_ dopamine level
+_ dopaminergic neuron number
+_ dorsal striatum average cell area
+_ dorsal striatum cell density
+_ dorsal striatum cell number
+_ dorsal striatum total cell area
+_ dorsal subiculum average cell area
+_ dorsal subiculum cell density
+_ dorsal subiculum cell number
+_ dorsal subiculum total cell area
+_ double-negative T cell number
+_ double-positive T cell number
+_ drinking frequency
+_ dystrophin level
+_ ear pigmentation
+_ early germinal center B cell number
+_ eating frequency
+_ eccrine gland number
+_ effector memory CD4-positive, alpha-beta T cell number
+_ effector memory CD8-positive, alpha-beta T cell number
+_ effector memory T-helper cell number
+_ embryo size
+_ embryo weight
+_ embryonic neuroepithelial cell proliferation
+_ embryonic neuroepithelium thickness
+_ embryonic tissue cell apoptosis
+_ endolymph production
+_ endometrial gland number
+_ endothelial cell proliferation
+_ energy dissipated prior to femur fracture
+_ energy expenditure
+_ enterocyte cell number
+_ eosinophil cell number
+_ eosinophil peroxidase activity
+_ epidermal stem cell number
+_ epididymal cell proliferation
+_ epididymal fat pad weight
+_ epididymis weight
+_ erythroblast number
+_ erythrocyte aggregation
+_ erythrocyte calcium-activated potassium channel activity
+_ erythrocyte catalase level
+_ erythrocyte cell number
+_ erythrocyte clearance
+_ erythrocyte magnesium ion content
+_ erythrocyte magnesium level
+_ erythrocyte osmotic fragility
+_ erythrocyte potassium ion content
+_ erythrocyte potassium level
+_ erythrocyte potassium:chloride symporter activity
+_ erythrocyte sedimentation rate
+_ erythrocyte sodium ion content
+_ erythrocyte sodium level
+_ erythrocyte sodium:hydrogen antiporter activity
+_ erythrocyte sodium:potassium-exchanging ATPase activity
+_ erythroid progenitor cell number
+_ erythropoietin level
+_ excitatory postsynaptic current amplitude
+_ exploration in new environment
+_ extensor digitorum longus weight
+_ eye tumor incidence
+_ fasting circulating glucose level
+_ fat cell size
+_ fatty acid beta-oxidation
+_ fatty acid level
+_ fatty acid oxidation
+_ fear-related response
+_ femoral fat pad weight
+_ femur compact bone thickness
+_ femur fracture load
+_ femur maximal load
+_ femur size
+_ femur stiffness
+_ femur weight
+_ femur yield load
+_ fetal cardiomyocyte apoptosis
+_ fetal cardiomyocyte proliferation
+_ fetal derived definitive erythrocyte cell number
+_ fetal size
+_ fetal weight
+_ fibroblast apoptosis
+_ fibroblast cell migration
+_ fibroblast chemotaxis
+_ fibroblast proliferation
+_ fluid intake
+_ follicle stimulating hormone level
+_ follicular B cell number
+_ follicular dendritic cell number
+_ food intake
+_ foot pad temperature
+_ foot pigmentation
+_ forebrain size
+_ forebrain volume
+_ forehead pigmentation
+_ freezing behavior
+_ frequency of paradoxical sleep
+_ galactosylceramidase level
+_ gallbladder volume
+_ gamma-aminobutyric acid level
+_ gamma-delta T cell number
+_ gamma-delta intraepithelial T cell number
+_ gastrocnemius weight
+_ genu of the facial nerve size
+_ germinal center B cell number
+_ gland tumor incidence
+_ glomerular capsule space
+_ glucagon secretion
+_ glucokinase activity
+_ glucose-6-phosphate dehydrogenase activity
+_ glutamate decarboxylase activity
+_ glutamic acid decarboxylase level
+_ glutamic acid level
+_ glutamine level
+_ glutathione level
+_ glutathione peroxidase activity
+_ glutathione reductase level
+_ glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+_ glycerol level
+_ glycine level
+_ glycogen catabolism rate
+_ glycogen debranching enzyme level
+_ glycogen level
+_ glycogen synthesis
+_ glycosylated hemoglobin level
+_ gnawing activity
+_ gonadal fat pad weight
+_ gonadotroph cell number
+_ gonadotroph cell size
+_ granulocyte monocyte progenitor cell number
+_ granulocyte number
+_ granulosa cell apoptosis
+_ granulosa cell proliferation
+_ granulosa cell tumor incidence
+_ grip strength
+_ grooming behavior
+_ growth hormone level
+_ guanylate cyclase activating protein-2 level
+_ guard hair length
+_ habenula size
+_ hair follicle apoptosis
+_ hair follicle cell proliferation
+_ hair follicle number
+_ haptoglobin level
+_ heart iron level
+_ heart left atrium weight
+_ heart left ventricle size
+_ heart rate
+_ heart rate variability
+_ heart right atrium weight
+_ heart right ventricle size
+_ heart right ventricle weight
+_ heart weight
+_ hemangioblast number
+_ hemangioma incidence
+_ hematocrit
+_ hematopoietic cell number
+_ hematopoietic stem cell number
+_ hematopoietic stem cell proliferation
+_ hemoglobin concentration distribution width
+_ hemoglobin content
+_ hemolymphoid system tumor incidence
+_ hepatic delta-aminolaevulinate dehydratase activity
+_ hepatic glucose production
+_ hepatobiliary system tumor incidence
+_ hepatocyte apoptosis
+_ hepatocyte number
+_ hepatocyte proliferation
+_ hepatoma incidence
+_ hindbrain apoptosis
+_ hindbrain size
+_ hippocampal commissure size
+_ hippocampal fimbria average cell area
+_ hippocampal fimbria cell density
+_ hippocampal fimbria cell number
+_ hippocampal fimbria size
+_ hippocampal fimbria total cell area
+_ hippocampal fornix average cell area
+_ hippocampal fornix cell density
+_ hippocampal fornix cell number
+_ hippocampal fornix size
+_ hippocampal fornix total cell area
+_ hippocampus average cell area
+_ hippocampus cell density
+_ hippocampus cell number
+_ hippocampus pyramidal cell length
+_ hippocampus pyramidal cell number
+_ hippocampus total cell area
+_ hippocampus volume
+_ histamine level
+_ hormone-sensitive lipase activity
+_ hydroxymethylbilane synthase activity
+_ hydroxymethylbilane synthase level
+_ hydroxyproline level
+_ hyoid bone size
+_ hypothalamus hypoxanthine-guanine phosphoribosyltransferase level
+_ hypoxanthine phosphoribosyltransferase activity
+_ hypoxanthine-guanine phosphoribosyltransferase level
+_ ileal goblet cell number
+_ immature B cell number
+_ immature NK cell number
+_ immunoglobulin level
+_ incidence of induced tumors
+_ incidence of tumors by chemical induction
+_ incidence of tumors by ionizing radiation induction
+_ inferior colliculus average cell area
+_ inferior colliculus cell density
+_ inferior colliculus cell number
+_ inferior colliculus size
+_ inferior colliculus total cell area
+_ inflammatory response
+_ inguinal fat pad weight
+_ inner canthal distance
+_ inner cell mass proliferation
+_ insulin secretion
+_ integument system tumor incidence
+_ interferon-alpha secretion
+_ interferon-beta secretion
+_ interferon-gamma secretion
+_ interleukin-1 alpha secretion
+_ interleukin-1 beta secretion
+_ interleukin-1 secretion
+_ interleukin-10 secretion
+_ interleukin-12 secretion
+_ interleukin-12a secretion
+_ interleukin-12b secretion
+_ interleukin-13 secretion
+_ interleukin-15 secretion
+_ interleukin-16 secretion
+_ interleukin-17 secretion
+_ interleukin-18 secretion
+_ interleukin-2 secretion
+_ interleukin-21 secretion
+_ interleukin-23 secretion
+_ interleukin-23a secretion
+_ interleukin-3 secretion
+_ interleukin-4 secretion
+_ interleukin-5 secretion
+_ interleukin-6 secretion
+_ interleukin-7 secretion
+_ interleukin-8 secretion
+_ interleukin-9 secretion
+_ internal diameter of femur
+_ interscapular fat pad weight
+_ intestinal adenoma incidence
+_ intestinal calcium absorption
+_ intestinal cholesterol absorption
+_ intestinal epithelial chloride transmembrane transport
+_ intestinal epithelial sodium ion transmembrane transport
+_ intestinal glucose absorption
+_ intestinal iron level
+_ intestinal mucosa thickness
+_ intestinal phytosterol absorption
+_ intestine copper level
+_ intestine length
+_ isoleucine level
+_ jugular lymph sac number
+_ keratinocyte adhesion
+_ keratinocyte apoptosis
+_ keratinocyte migration
+_ keratinocyte proliferation
+_ keratohyalin granule number
+_ keratohyalin granule size
+_ kidney apoptosis
+_ kidney catalase level
+_ kidney cell proliferation
+_ kidney collecting duct number
+_ kidney copper level
+_ kidney epithelial cell primary cilium length
+_ kidney glutathione level
+_ kidney glutathione peroxidase activity
+_ kidney glutathione reductase level
+_ kidney glycogen level
+_ kidney iron level
+_ kidney weight
+_ lactate dehydrogenase level
+_ lactotroph cell number
+_ lactotroph cell size
+_ large intestine length
+_ large unstained cell number
+_ late germinal center B cell number
+_ lean body mass
+_ left ventricle developed pressure
+_ left ventricle diastolic pressure
+_ left ventricle systolic pressure
+_ length of allograft survival
+_ length of long bones
+_ leucine level
+_ leukemia incidence
+_ leukocyte cell number
+_ leukotriene level
+_ level of surface class I molecules
+_ level of surface class II molecules
+_ lipogenesis
+_ lipoprotein lipase activity
+_ litter size
+_ liver cholesterol level
+_ liver copper level
+_ liver free fatty acids level
+_ liver glycogen level
+_ liver iron level
+_ liver manganese level
+_ liver regeneration
+_ liver triglyceride level
+_ liver tumor incidence
+_ liver weight
+_ long bone epiphyseal plate size
+_ lumbar vertebrae number
+_ lung compliance
+_ lung elastance
+_ lung endothelial cell adhesion
+_ lung endothelial cell migration
+_ lung endothelial cell proliferation
+_ lung glycogen level
+_ lung tissue damping
+_ lung tumor incidence
+_ lung weight
+_ luteinizing hormone level
+_ lymph node number
+_ lymphocyte activation involved in immune response
+_ lymphocyte cell number
+_ lymphoma incidence
+_ lysine level
+_ lysosomal enzyme secretion
+_ macrophage apoptosis
+_ macrophage cell number
+_ macrophage cytokine production
+_ macrophage nitric oxide production
+_ macrophage proliferation
+_ maltase activity
+_ mammary fat pad weight
+_ mammary gland epithelial cell proliferation
+_ mammary gland number
+_ mammary gland tumor incidence
+_ mammary gland tumor incidence in breeding females
+_ mammary gland tumor incidence in virgin females
+_ mammillothalamic tract size
+_ marginal zone B cell number
+_ marginal zone precursor B cell number
+_ mast cell degranulation
+_ mast cell number
+_ maternal body weight gain
+_ mature B cell number
+_ mature NK cell number
+_ mature gamma-delta T cell number
+_ mature ovarian follicle number
+_ mean corpuscular hemoglobin
+_ mean corpuscular hemoglobin concentration
+_ mean corpuscular volume
+_ mean platelet volume
+_ mean systemic arterial blood pressure
+_ mechanical nociceptive threshold
+_ megakaryocyte cell number
+_ megakaryocyte progenitor cell number
+_ megakaryocyte-erythroid progenitor cell number
+_ melanoblast apoptosis
+_ melanoblast proliferation
+_ melanocyte number
+_ memory B cell number
+_ memory CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+_ memory T cell number
+_ memory-marker CD4-negative NK T cell number
+_ memory-marker CD4-positive NK T cell number
+_ memory-marker NK cell number
+_ memory-marker gamma-delta T cell number
+_ mesangial cell apoptosis
+_ mesenchymal cell proliferation involved in lung development
+_ mesenteric fat pad weight
+_ metastatic potential
+_ methionine level
+_ methylmalonic acid level
+_ microglial cell activation
+_ midbrain size
+_ middle ear goblet cell number
+_ mitochondria number
+_ mitochondria size
+_ mitochondrial DNA content
+_ mitochondrial fission
+_ mitotic index
+_ monoamine oxidase activity
+_ monocyte cell number
+_ mononuclear phagocyte tumor incidence
+_ mortality induced by ionizing radiation
+_ motor neuron number
+_ muscle cell glucose uptake
+_ muscle spindle number
+_ muscle tumor incidence
+_ muscle weight
+_ myelin sheath amount
+_ myelin sheath thickness
+_ myeloid cell number
+_ myeloid cell number in bone marrow
+_ myeloid dendritic cell number
+_ myoblast proliferation
+_ myocardial fiber number
+_ myocardial infarction size
+_ myoepithelioma incidence
+_ neocortex size
+_ neocortex volume
+_ nerve conduction velocity
+_ nerve fiber response intensity
+_ nerve fiber response threshold
+_ nervous system dopamine level
+_ nervous system tumor incidence
+_ neural crest cell proliferation
+_ neuron apoptosis
+_ neuron number
+_ neuronal precursor cell number
+_ neuronal precursor proliferation
+_ neuronal stem cell self-renewal
+_ neurotransmitter release
+_ neutrophil cell number
+_ nicotinamide N-methyltransferase activity
+_ nipple number
+_ nitrate level
+_ nitrite level
+_ noradrenaline level
+_ nucleated erythrocyte cell number
+_ number of pulmonary neuroendocrine bodies
+_ oligodendrocyte number
+_ oligodendrocyte progenitor number
+_ omental fat pad weight
+_ optic chiasm average cell area
+_ optic chiasm cell density
+_ optic chiasm cell number
+_ optic chiasm size
+_ optic chiasm total cell area
+_ optic tract size
+_ organ of Corti supporting cell number
+_ organ/body region tumor incidence
+_ ornithine carbamoyltransferase activity
+_ ornithine level
+_ osteoblast apoptosis
+_ osteoblast cell number
+_ osteoblast proliferation
+_ osteoclast cell number
+_ osteocyte apoptosis
+_ osteocyte number
+_ osteoid thickness
+_ osteoid volume
+_ ovary weight
+_ oviduct weight
+_ oxygen consumption
+_ palatal length
+_ palmitoyl-(protein) hydrolase activity
+_ palmitoyl-(protein) hydrolase level
+_ pancreas iron level
+_ pancreas regeneration
+_ pancreas weight
+_ pancreatic acinar cell number
+_ pancreatic alpha cell mass
+_ pancreatic alpha cell number
+_ pancreatic amylase secretion
+_ pancreatic beta cell apoptosis
+_ pancreatic beta cell mass
+_ pancreatic beta cell number
+_ pancreatic beta cell proliferation
+_ pancreatic delta cell number
+_ pancreatic duct epithelial chloride transmembrane transport
+_ pancreatic duct epithelial sodium ion transmembrane transport
+_ pancreatic endocrine progenitor cell proliferation
+_ pancreatic epsilon cell number
+_ pancreatic islet cell apoptosis
+_ pancreatic islet number
+_ papilloma incidence
+_ parametrial fat pad weight
+_ parotid gland size
+_ partial thromboplastin time
+_ percent body fat/body weight
+_ percent water in carcass
+_ periosteum thickness
+_ peroxidase activity
+_ phenylalanine decarboxylase activity
+_ phenylalanine level
+_ phosphatidylcholine-sterol O-acyltransferase activity
+_ phospholipase A2 level
+_ phospholipid transfer protein activity
+_ photoreceptor outer segment number
+_ physiological sensitivity to xenobiotic
+_ phytosterol level
+_ piriform cortex size
+_ pituitary gland apoptosis
+_ pituitary gland tumor incidence
+_ pituitary gland weight
+_ pituitary hormone level
+_ placenta weight
+_ placental labyrinth size
+_ plasma anion gap
+_ plasma cell number
+_ plasmacytoid dendritic cell number
+_ plasmacytoma incidence
+_ plasmalogen level
+_ platelet ADP level
+_ platelet ATP level
+_ platelet aggregation
+_ platelet alpha-granule number
+_ platelet calcium level
+_ platelet dense granule number
+_ platelet serotonin level
+_ podocyte apoptosis
+_ podocyte motility
+_ pons size
+_ pontine nuclei average cell area
+_ pontine nuclei cell density
+_ pontine nuclei cell number
+_ pontine nuclei size
+_ pontine nuclei total cell area
+_ pontocerebellar fibers average cell area
+_ pontocerebellar fibers cell density
+_ pontocerebellar fibers cell number
+_ pontocerebellar fibers size
+_ pontocerebellar fibers total cell area
+_ porphyrin level
+_ post-tetanic potentiation
+_ pre-B cell number
+_ pre-pro B cell number
+_ premotor cortex size
+_ prepulse inhibition
+_ presacral vertebrae number
+_ primary motor cortex size
+_ primary ovarian follicle number
+_ primordial germ cell number
+_ primordial ovarian follicle number
+_ pro-B cell number
+_ procollagen-proline 4-dioxygenase activity
+_ prolactin level
+_ proline level
+_ proline oxidase activity
+_ prostaglandin level
+_ prostate gland tumor incidence
+_ prostate gland weight
+_ prothrombin time
+_ pruritus
+_ pulmonary artery pressure
+_ pulmonary endothelial cell surface
+_ pulmonary respiratory rate
+_ pulmonary vascular resistance
+_ pulmonary ventilation
+_ pulse pressure
+_ purine-nucleoside phosphorylase activity
+_ pyruvate kinase activity
+_ quadriceps weight
+_ radial glial cell number
+_ radius size
+_ red blood cell distribution width
+_ regulatory T cell apoptosis
+_ regulatory T cell number
+_ renal fat pad weight
+_ renal glomerular filtration rate
+_ renal glomerulus apoptosis
+_ renal glomerulus basement membrane thickness
+_ renal plasma flow rate
+_ renal sympathetic nerve activity
+_ renal tubule apoptosis
+_ renal vascular resistance
+_ renin activity
+_ reproductive system tumor incidence
+_ respiratory epithelial chloride transmembrane transport
+_ respiratory epithelial sodium ion transmembrane transport
+_ respiratory motile cilia number
+_ respiratory mucosa goblet cell number
+_ respiratory quotient
+_ respiratory system tumor incidence
+_ response of heart to induced stress
+_ response to antigen
+_ response to stress-induced hyperthermia
+_ reticular tumor incidence
+_ retinal apoptosis
+_ retinal cone cell number
+_ retinal ganglion cell number
+_ retinal photoreceptor cell number
+_ retinal rod cell number
+_ retroperitoneal fat pad weight
+_ retrosplenial granular cortex size
+_ rhabdomyosarcoma incidence
+_ rhombomere 1 size
+_ rhombomere 2 size
+_ rhombomere 3 size
+_ rhombomere 4 size
+_ rhombomere 5 size
+_ rhombomere 6 size
+_ rhombomere 7 size
+_ rhombomere 8 size
+_ rib number
+_ right ventricle diastolic pressure
+_ right ventricle peak pressure
+_ right ventricle systolic pressure
+_ sacral vertebrae number
+_ salivation
+_ sarcoma incidence
+_ satellite cell number
+_ saturated fatty acid level
+_ sebaceous gland number
+_ secondary ovarian follicle number
+_ secondary somatosensory cortex size
+_ seminal vesicle weight
+_ sensitivity to induced cell death
+_ sensitivity to induced morbidity/mortality
+_ sensitivity to skin irradiation
+_ sensitivity to xenobiotic induced morbidity/mortality
+_ sensory neuron number
+_ serine level
+_ serotonin level
+_ serum complement activity
+_ single cell response intensity
+_ single cell response threshold
+_ single-positive T cell number
+_ skeletal muscle cell apoptosis
+_ skeletal muscle fiber density
+_ skeletal muscle fiber diameter
+_ skeletal muscle fiber number
+_ skeletal muscle fiber size
+_ skeletal muscle glycogen level
+_ skeletal muscle mass
+_ skeletal muscle size
+_ skeletal muscle weight
+_ skeletal tumor incidence
+_ skin pigmentation
+_ skin tumor incidence
+_ slow-wave sleep duration
+_ small intestine length
+_ soleus weight
+_ solitary pulmonary neuroendocrine cell number
+_ somatotroph cell number
+_ somatotroph cell size
+_ spermatazoal beta-glucuronidase activity
+_ sphingosine level
+_ spike-wave discharge type I
+_ spike-wave discharge type II
+_ spinal cord size
+_ spleen germinal center number
+_ spleen germinal center size
+_ spleen iron level
+_ spleen red pulp amount
+_ spleen weight
+_ spleen white pulp amount
+_ splenocyte apoptosis
+_ splenocyte number
+_ splenocyte proliferation
+_ spongiotrophoblast size
+_ startle reflex
+_ stereotypic behavior
+_ sternebra number
+_ sterol level
+_ stomach pH
+_ stomach tumor incidence
+_ stria medullaris average cell area
+_ stria medullaris cell density
+_ stria medullaris cell number
+_ stria medullaris size
+_ stria medullaris total cell area
+_ striatum size
+_ subchondral bone mineral content
+_ subcutaneous adipose tissue amount
+_ subiculum size
+_ submandibular gland size
+_ substantia nigra average cell area
+_ substantia nigra cell density
+_ substantia nigra cell number
+_ substantia nigra size
+_ substantia nigra total cell area
+_ sulfoglycosphingolipid level
+_ summary potential intensity
+_ summary potential threshold
+_ superior colliculus average cell area
+_ superior colliculus cell density
+_ superior colliculus cell number
+_ superior colliculus size
+_ superior colliculus total cell area
+_ superoxide dismutase level
+_ surfactant secretion
+_ susceptibility to Adenoviridae infection
+_ susceptibility to Adenoviridae infection induced morbidity/mortality
+_ susceptibility to Coronaviridae infection
+_ susceptibility to Coronaviridae infection induced morbidity/mortality
+_ susceptibility to Flaviviridae infection
+_ susceptibility to Flaviviridae infection induced morbidity/mortality
+_ susceptibility to Hepadnaviridae infection
+_ susceptibility to Hepadnaviridae infection induced morbidity/mortality
+_ susceptibility to Herpesvirales infection
+_ susceptibility to Herpesvirales infection induced morbidity/mortality
+_ susceptibility to Ortervirales infection
+_ susceptibility to Ortervirales infection induced morbidity/mortality
+_ susceptibility to Orthomyxoviridae infection
+_ susceptibility to Orthomyxoviridae infection induced morbidity/mortality
+_ susceptibility to Paramyxoviridae infection
+_ susceptibility to Paramyxoviridae infection induced morbidity/mortality
+_ susceptibility to Parvoviridae infection
+_ susceptibility to Parvoviridae infection induced morbidity/mortality
+_ susceptibility to Picornaviridae infection
+_ susceptibility to Picornaviridae infection induced morbidity/mortality
+_ susceptibility to Poxviridae infection
+_ susceptibility to Poxviridae infection induced morbidity/mortality
+_ susceptibility to Retroviridae infection
+_ susceptibility to Retroviridae infection induced morbidity/mortality
+_ susceptibility to Riboviria infection
+_ susceptibility to Riboviria infection induced morbidity/mortality
+_ susceptibility to Togaviridae infection
+_ susceptibility to Togaviridae infection induced morbidity/mortality
+_ susceptibility to age related obesity
+_ susceptibility to age-related hearing loss
+_ susceptibility to aortic cartilaginous metaplasia
+_ susceptibility to atherosclerosis
+_ susceptibility to autoimmune diabetes
+_ susceptibility to autoimmune disorder
+_ susceptibility to autoimmune hemolytic anemia
+_ susceptibility to bacterial infection
+_ susceptibility to bacterial infection induced morbidity/mortality
+_ susceptibility to chemically induced skin inflammation
+_ susceptibility to colitis induced morbidity/mortality
+_ susceptibility to diet-induced aortic fatty streak lesions
+_ susceptibility to diet-induced non-insulin dependent diabetes
+_ susceptibility to diet-induced obesity
+_ susceptibility to dopaminergic neuron neurotoxicity
+_ susceptibility to dystrophic cardiac calcinosis
+_ susceptibility to endotoxin shock
+_ susceptibility to experimental autoimmune encephalomyelitis
+_ susceptibility to experimental autoimmune myasthenia gravis
+_ susceptibility to experimental autoimmune orchitis
+_ susceptibility to experimental autoimmune thyroiditis
+_ susceptibility to experimental autoimmune uveoretinitis
+_ susceptibility to fungal infection
+_ susceptibility to graft versus host disease
+_ susceptibility to hypertension
+_ susceptibility to induced arthritis
+_ susceptibility to induced colitis
+_ susceptibility to induced muscular atrophy
+_ susceptibility to induced pancreatitis
+_ susceptibility to induced thrombosis
+_ susceptibility to induction of seizure by inducing agent
+_ susceptibility to infection
+_ susceptibility to infection induced morbidity/mortality
+_ susceptibility to injury
+_ susceptibility to ischemic brain injury
+_ susceptibility to kidney reperfusion injury
+_ susceptibility to neuronal excitotoxicity
+_ susceptibility to noise-induced hearing loss
+_ susceptibility to non-insulin-dependent diabetes
+_ susceptibility to osteoporosis
+_ susceptibility to parasitic infection
+_ susceptibility to parasitic infection induced morbidity/mortality
+_ susceptibility to pharmacologically induced seizures
+_ susceptibility to prion infection
+_ susceptibility to pulmonary hyaline membrane formation
+_ susceptibility to systemic lupus erythematosus
+_ susceptibility to type I hypersensitivity reaction
+_ susceptibility to type II hypersensitivity reaction
+_ susceptibility to type III hypersensitivity reaction
+_ susceptibility to type IV hypersensitivity reaction
+_ susceptibility to viral infection
+_ susceptibility to viral infection induced morbidity/mortality
+_ susceptibility to virus induced diabetes
+_ susceptibility to weight gain
+_ susceptibility to weight loss
+_ susceptilbility to retinal ischemic injury
+_ synaptic depression
+_ systemic arterial blood pressure
+_ systemic arterial diastolic blood pressure
+_ systemic arterial systolic blood pressure
+_ systemic vascular resistance
+_ tail pigmentation
+_ tail rattling
+_ taurine level
+_ tear production
+_ telomere length
+_ testicular teratoma incidence
+_ testis weight
+_ thalamus average cell area
+_ thalamus cell density
+_ thalamus cell number
+_ thalamus hypoxanthine-guanine phosphoribosyltransferase level
+_ thalamus total cell area
+_ theca cell number
+_ thermal nociceptive threshold
+_ thigmotaxis
+_ thiopurine S-methyltransferase activity
+_ thoracic vertebrae number
+_ threonine level
+_ thromboxane level
+_ thymocyte apoptosis
+_ thymocyte number
+_ thymus weight
+_ thyroid gland weight
+_ thyroid-stimulating hormone level
+_ thyrotroph cell number
+_ thyrotroph cell size
+_ thyroxine level
+_ tibialis anterior weight
+_ tidal volume
+_ time of onset of induced ischemic contracture
+_ time of peak ischemic contracture
+_ tongue size
+_ tongue tumor incidence
+_ total body fat amount
+_ total fat pad weight
+_ total lung capacity
+_ total retina thickness
+_ total tissue mass
+_ trabecular bone connectivity density
+_ trabecular bone mass
+_ trabecular bone thickness
+_ trabecular bone volume
+_ transforming growth factor beta level
+_ transitional stage B cell number
+_ transitional stage T1 B cell number
+_ transitional stage T2 B cell number
+_ transitional stage T3 B cell number
+_ triglyceride level
+_ triglyceride lipase activity
+_ triiodothyronine level
+_ trophectoderm cell proliferation
+_ trophoblast giant cell number
+_ trophoblast glycogen cell number
+_ tumor growth/size
+_ tumor incidence
+_ tumor incidence following infection
+_ tumor latency
+_ tumor necrosis factor secretion
+_ type II pneumocyte number
+_ tyrosine 3-monooxygenase activity
+_ tyrosine aminotransferase activity
+_ tyrosine aminotransferase level
+_ ulna size
+_ unsaturated fatty acid level
+_ urinary bladder weight
+_ urinary system tumor incidence
+_ urination frequency
+_ urine adrenaline level
+_ urine aldosterone level
+_ urine ammonia level
+_ urine antidiuretic hormone level
+_ urine bicarbonate level
+_ urine calcium level
+_ urine catecholamine level
+_ urine chloride ion level
+_ urine citrate level
+_ urine corticosterone level
+_ urine creatine level
+_ urine creatinine level
+_ urine deoxycorticosterone level
+_ urine dopamine level
+_ urine flow rate
+_ urine glucose level
+_ urine glycerol level
+_ urine glycosaminoglycan level
+_ urine insulin level
+_ urine magnesium level
+_ urine major urinary protein level
+_ urine microalbumin level
+_ urine nitrite level
+_ urine noradrenaline level
+_ urine osmolality
+_ urine pH
+_ urine phosphate level
+_ urine potassium level
+_ urine progesterone level
+_ urine prostaglandin level
+_ urine protein level
+_ urine sodium level
+_ urine urea nitrogen level
+_ urine uric acid level
+_ urokinase activity
+_ uterine NK cell number
+_ uterine fat pad weight
+_ uterus weight
+_ vagina weight
+_ valine level
+_ vascular endothelial cell adhesion
+_ vascular endothelial cell apoptosis
+_ vascular endothelial cell number
+_ vascular endothelial cell proliferation
+_ vascular permeability
+_ vasoconstriction
+_ vasodilation
+_ ventricle muscle contractility
+_ ventromedial hypothalamic nucleus average cell area
+_ ventromedial hypothalamic nucleus cell density
+_ ventromedial hypothalamic nucleus cell number
+_ ventromedial hypothalamic nucleus size
+_ ventromedial hypothalamic nucleus total cell area
+_ vertebra maximal load
+_ vertebra stiffness
+_ vertebra yield load
+_ vertebrae number
+_ vertical activity
+_ vestibular hair cell number
+_ vitamin D level
+_ volumetric bone mineral density
+_ white adipose tissue amount
+_ white adipose tissue mass
+_ white fat cell lipid droplet size
+_ white fat cell number
+_ white fat cell size
+_ width of hypertrophic chondrocyte zone

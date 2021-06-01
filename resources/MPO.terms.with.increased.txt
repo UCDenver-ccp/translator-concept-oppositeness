@@ -1,0 +1,1744 @@
+name: increased brown adipose tissue amount
+name: increased white adipose tissue amount
+name: increased bone mineral density
+name: increased circulating LDL cholesterol level
+name: increased circulating calcium level
+name: increased leukocyte cell number
+name: increased neutrophil cell number
+name: increased monocyte cell number
+name: increased bone marrow cell number
+name: increased granulocyte number
+name: increased mast cell number
+name: increased enterocyte cell number
+name: increased cell proliferation
+name: increased curvature of hairs
+name: increased curvature of guard hairs
+name: increased curvature of awl hairs
+name: increased curvature of zigzag hairs
+name: increased curvature of auchene hairs
+name: increased cranium width
+name: increased presacral vertebrae number
+name: increased rib number
+name: increased foot pad pigmentation
+name: increased salivary gland mucosal cell number
+name: increased salivary adenocarcinoma incidence
+name: increased salivation
+name: increased percent water in carcass
+name: increased thymocyte number
+name: increased satellite cell number
+name: increased collagen deposition in the muscles
+name: increased inferior colliculus size
+name: increased Purkinje cell number
+name: increased superior colliculus size
+name: increased Merkel's receptor number
+name: increased sensitivity to skin irradiation
+name: increased body height
+name: increased body length
+name: increased body weight
+name: increased body size
+name: increased metastatic potential
+name: increased vibrissae length
+name: increased incidence of corneal inflammation
+name: increased aggression towards mice
+name: increased aggression towards males
+name: increased aggression towards females
+name: increased aggression towards humans
+name: increased anxiety-related response
+name: increased stereotypic behavior
+name: increased exploration in new environment
+name: increased grooming behavior
+name: increased startle reflex
+name: increased circulating triglyceride level
+name: increased circulating free fatty acid level
+name: increased circulating HDL cholesterol level
+name: increased circulating phosphate level
+name: increased mortality induced by gamma-irradiation
+name: increased embryo size
+name: increased circulating corticosterone level
+name: increased circulating adrenocorticotropin level
+name: increased circulating follicle stimulating hormone level
+name: increased circulating luteinizing hormone level
+name: increased circulating corticotropin-releasing hormone level
+name: increased urine glucose level
+name: increased activated T cell number
+name: increased level of surface class I molecules
+name: increased inflammatory response
+name: increased susceptibility to otitis media
+name: increased mammary adenocarcinoma incidence
+name: increased dopamine level
+name: increased cerebrospinal fluid production
+name: increased litter size
+name: increased airway responsiveness
+name: increased thermal nociceptive threshold
+name: increased chemically-elicited antinociception
+name: increased blinking frequency
+name: increased cellular sensitivity to gamma-irradiation
+name: increased trichofolliculoma incidence
+name: increased pilomatricoma incidence
+name: increased papilloma incidence
+name: increased malignant tumor incidence
+name: increased tumor incidence
+name: increased incidence of induced tumors
+name: increased B cell derived lymphoma incidence
+name: increased T cell derived lymphoma incidence
+name: increased leukemia incidence
+name: increased lung adenocarcinoma incidence
+name: increased neurofibrosarcoma incidence
+name: increased adrenal gland tumor incidence
+name: increased sarcoma incidence
+name: increased malignant triton tumor incidence
+name: increased leiomyosarcoma incidence
+name: increased rhabdomyosarcoma incidence
+name: increased fibrohistocytoma incidence
+name: increased carcinoma incidence
+name: increased neuroblastoma incidence
+name: increased pituitary adenoma incidence
+name: increased colon hamartoma incidence
+name: increased colon adenoma incidence
+name: increased renal cystadenoma incidence
+name: increased hepatic hemangioma incidence
+name: increased lung adenoma incidence
+name: increased extremity angiosarcoma incidence
+name: increased pheochromocytoma incidence
+name: increased skin papilloma incidence
+name: increased circulating insulin level
+name: increased brain weight
+name: increased lymph node number
+name: increased intestinal adenoma incidence
+name: increased susceptibility to infection
+name: increased susceptibility to bacterial infection
+name: increased susceptibility to viral infection
+name: increased immunoglobulin level
+name: increased IgG level
+name: increased IgM level
+name: increased IgA level
+name: increased IgD level
+name: increased IgE level
+name: increased vertical activity
+name: increased circulating ketone body level
+name: increased mean corpuscular volume
+name: increased mean platelet volume
+name: increased basophil cell number
+name: increased hematocrit
+name: increased heart rate
+name: increased teratoma incidence
+name: increased intestinal cholesterol absorption
+name: increased circulating aldosterone level
+name: increased follicle recruitment
+name: increased corpora lutea number
+name: increased glucagon secretion
+name: increased circulating glucagon level
+name: increased glycogen catabolism rate
+name: increased trichoepithelioma incidence
+name: increased circulating testosterone level
+name: increased thigmotaxis
+name: increased spinal cord size
+name: increased heart weight
+name: increased susceptibility to dystrophic cardiac calcinosis
+name: increased systemic arterial blood pressure
+name: increased growth rate
+name: increased glutamic acid decarboxylase level
+name: increased anti-insulin autoantibody level
+name: increased cellular sensitivity to X-ray irradiation
+name: increased insulin sensitivity
+name: increased urine phosphate level
+name: increased circulating parathyroid hormone level
+name: increased susceptibility to pharmacologically induced seizures
+name: increased synaptic depression
+name: increased post-tetanic potentiation
+name: increased circulating alanine transaminase level
+name: increased lactate dehydrogenase level
+name: increased hemangioma incidence
+name: increased compensatory renal growth
+name: increased intestinal adenocarcinoma incidence
+name: increased urine microalbumin level
+name: increased urine protein level
+name: increased circulating serum albumin level
+name: increased circulating alkaline phosphatase level
+name: increased liver weight
+name: increased retinal ganglion cell number
+name: increased circulating bicarbonate level
+name: increased circulating chloride level
+name: increased coronary flow rate
+name: increased vasoconstriction
+name: increased pulmonary vascular resistance
+name: increased myocardial infarction size
+name: increased time of peak ischemic contracture
+name: increased time of onset of induced ischemic contracture
+name: increased insulin secretion
+name: increased aerobic running capacity
+name: increased coping response
+name: increased liver copper level
+name: increased vascular permeability
+name: increased susceptibility to ischemic brain injury
+name: increased natural killer cell mediated cytotoxicity
+name: increased corneal light-scattering
+name: increased erythrocyte cell number
+name: increased pre-B cell number
+name: increased early pro-B cell number
+name: increased late pro-B cell number
+name: increased erythroid progenitor cell number
+name: increased lysosomal enzyme secretion
+name: increased pulmonary endothelial cell surface
+name: increased angiotensin I-converting enzyme activity
+name: increased cholesterol efflux
+name: increased neuron apoptosis
+name: increased susceptibility to age related obesity
+name: increased spike-wave discharge type I
+name: increased spike-wave discharge type II
+name: increased cardiomyocyte apoptosis
+name: increased muscle free fatty acid level
+name: increased esophageal papilloma incidence
+name: increased intestinal hemangioma incidence
+name: increased liver adenoma incidence
+name: increased hepatocellular carcinoma incidence
+name: increased circulating levels of thyroid hormone
+name: increased circulating renin level
+name: increased circulating gonadotropin level
+name: increased insulinoma incidence
+name: increased glucagonoma incidence
+name: increased circulating glucocorticoid level
+name: increased circulating estrogen level
+name: increased circulating mineralocorticoid level
+name: increased myxoma incidence
+name: increased atrial myxoma incidence
+name: increased cardiac output
+name: increased muscle weight
+name: increased skeletal muscle size
+name: increased width of hypertrophic chondrocyte zone
+name: increased pancreatic islet cell adenoma incidence
+name: increased activity of parathyroid
+name: increased glycerol level
+name: increased circulating glycerol level
+name: increased fear-related response
+name: increased single cell response threshold
+name: increased single cell response intensity
+name: increased summary potential threshold
+name: increased summary potential intensity
+name: increased nerve fiber response intensity
+name: increased nerve fiber response threshold
+name: increased channel response intensity
+name: increased channel response threshold
+name: increased parathyroid adenoma incidence
+name: increased thyroid adenoma incidence
+name: increased activity of thyroid gland
+name: increased prolactinoma incidence
+name: increased circulating dihydrotestosterone level
+name: increased alcohol consumption
+name: increased leiomyoma incidence
+name: increased uterus leiomyoma incidence
+name: increased ovarian carcinoma incidence
+name: increased fibroma incidence
+name: increased ovarian fibroma incidence
+name: increased epididymal cystadenoma incidence
+name: increased renal hamartoma incidence
+name: increased renal hemangioblastoma incidence
+name: increased pancreatic beta cell number
+name: increased hemangiosarcoma incidence
+name: increased cell nucleus count
+name: increased tumor growth/size
+name: increased susceptibility to induced arthritis
+name: increased autoantibody level
+name: increased oral mucosa hemangioma incidence
+name: increased mouth tumor incidence
+name: increased oral papilloma incidence
+name: increased lip papilloma incidence
+name: increased gingival papilloma incidence
+name: increased palatal length
+name: increased lip tumor incidence
+name: increased lip neuroma incidence
+name: increased osteosarcoma incidence
+name: increased atrioventricular cushion size
+name: increased left ventricle diastolic pressure
+name: increased left ventricle systolic pressure
+name: increased left ventricle developed pressure
+name: increased defecation amount
+name: increased hepatocyte apoptosis
+name: increased allantois apoptosis
+name: increased hepatocyte proliferation
+name: increased ectoderm apoptosis
+name: increased cell mass
+name: increased aorta elastin content
+name: increased heart right ventricle weight
+name: increased left ventricle weight
+name: increased kidney weight
+name: increased cellular glucose import
+name: increased heart rate variability
+name: increased lean body mass
+name: increased pituitary hormone level
+name: increased circulating VLDL triglyceride level
+name: increased circulating carnitine level
+name: increased circulating phospholipid level
+name: increased cholesterol level
+name: increased mortality induced by ionizing radiation
+name: increased diastolic filling velocity
+name: increased pulmonary artery pressure
+name: increased muscle relaxation
+name: increased susceptibility to kidney reperfusion injury
+name: increased acute promyelocytic leukemia incidence
+name: increased renal sympathetic nerve activity
+name: increased susceptibility to induced muscular atrophy
+name: increased porphyrin level
+name: increased compact bone thickness
+name: increased bone strength
+name: increased renal tubule apoptosis
+name: increased fetal size
+name: increased squamous cell carcinoma incidence
+name: increased basal cell carcinoma incidence
+name: increased cellular sensitivity to ionizing radiation
+name: increased vestibular hair cell number
+name: increased cochlear inner hair cell number
+name: increased cochlear outer hair cell number
+name: increased cochlear hair cell number
+name: increased testicular teratoma incidence
+name: increased response of heart to induced stress
+name: increased organ of Corti supporting cell number
+name: increased incidence of tumors by chemical induction
+name: increased incidence of tumors by ionizing radiation induction
+name: increased incidence of tumors by UV-induction
+name: increased susceptibility to noise-induced hearing loss
+name: increased susceptibility to ototoxicity-induced hearing loss
+name: increased vertebrae number
+name: increased lumbar vertebrae number
+name: increased thoracic vertebrae number
+name: increased length of long bones
+name: increased circulating insulin-like growth factor I level
+name: increased platelet serotonin level
+name: increased circulating gastrin level
+name: increased susceptibility to age-related hearing loss
+name: increased length of allograft survival
+name: increased mitotic index
+name: increased susceptibility to induced pancreatitis
+name: increased anti-double stranded DNA antibody level
+name: increased cochlear nerve compound action potential
+name: increased anti-single stranded DNA antibody level
+name: increased macrophage derived foam cell number
+name: increased bile salt level
+name: increased anti-nuclear antigen antibody level
+name: increased anti-histone antibody level
+name: increased anti-erythrocyte antigen antibody level
+name: increased susceptibility to experimental autoimmune encephalomyelitis
+name: increased susceptibility to systemic lupus erythematosus
+name: increased susceptibility to autoimmune diabetes
+name: increased hematopoietic stem cell number
+name: increased skeletal muscle mass
+name: increased susceptibility to experimental autoimmune uveoretinitis
+name: increased susceptibility to experimental autoimmune myasthenia gravis
+name: increased susceptibility to experimental autoimmune thyroiditis
+name: increased susceptibility to autoimmune hemolytic anemia
+name: increased anti-chromatin antibody level
+name: increased Deiters cell number
+name: increased testis weight
+name: increased ovary weight
+name: increased platelet calcium level
+name: increased endometrial carcinoma incidence
+name: increased mean systemic arterial blood pressure
+name: increased systemic vascular resistance
+name: increased endolymph production
+name: increased energy expenditure
+name: increased adiponectin level
+name: increased uterus weight
+name: increased seminal vesicle weight
+name: increased placenta weight
+name: increased epididymis weight
+name: increased spleen weight
+name: increased thymus weight
+name: increased prostate gland weight
+name: increased regulatory T cell number
+name: increased B-1 B cell number
+name: increased neuronal precursor cell number
+name: increased osteoclast cell number
+name: increased osteoblast cell number
+name: increased bone resorption
+name: increased CNS synapse formation
+name: increased eosinophil cell number
+name: increased lymphocyte cell number
+name: increased B cell number
+name: increased T cell number
+name: increased susceptibility to parasitic infection
+name: increased acute inflammation
+name: increased double-negative T cell number
+name: increased double-positive T cell number
+name: increased circulating pituitary hormone level
+name: increased circulating thyroid-stimulating hormone level
+name: increased circulating growth hormone level
+name: increased circulating prolactin level
+name: increased adrenocorticotropin level
+name: increased follicle stimulating hormone level
+name: increased luteinizing hormone level
+name: increased thyroid-stimulating hormone level
+name: increased growth hormone level
+name: increased prolactin level
+name: increased circulating VLDL cholesterol level
+name: increased B cell proliferation
+name: increased susceptibility to injury
+name: increased circulating cholesterol level
+name: increased circulating estradiol level
+name: increased circulating progesterone level
+name: increased motor neuron number
+name: increased stomach mucosa thickness
+name: increased brain size
+name: increased fatty acid level
+name: increased unsaturated fatty acid level
+name: increased saturated fatty acid level
+name: increased oxygen consumption
+name: increased circulating ammonia level
+name: increased triglyceride level
+name: increased susceptibility to atherosclerosis
+name: increased circulating aspartate transaminase level
+name: increased circulating bilirubin level
+name: increased T cell proliferation
+name: increased susceptibility to autoimmune disorder
+name: increased susceptibility to prion infection
+name: increased susceptibility to fungal infection
+name: increased macrophage cell number
+name: increased glycogen level
+name: increased urine calcium level
+name: increased susceptibility to weight gain
+name: increased percent body fat/body weight
+name: increased thyroxine level
+name: increased triiodothyronine level
+name: increased circulating thyroxine level
+name: increased circulating triiodothyronine level
+name: increased chronic myelocytic leukemia incidence
+name: increased club cell number
+name: increased liver regeneration
+name: increased pancreas regeneration
+name: increased circulating atrial natriuretic factor
+name: increased renal plasma flow rate
+name: increased renal glomerular filtration rate
+name: increased renal vascular resistance
+name: increased body temperature
+name: increased circulating creatinine level
+name: increased creatinine clearance
+name: increased circulating glucose level
+name: increased mean corpuscular hemoglobin
+name: increased hemoglobin content
+name: increased blood urea nitrogen level
+name: increased circulating total protein level
+name: increased pulmonary respiratory rate
+name: increased pulmonary ventilation
+name: increased renin activity
+name: increased tidal volume
+name: increased vasodilation
+name: increased susceptibility to type I hypersensitivity reaction
+name: increased cardiac muscle contractility
+name: increased ventricle muscle contractility
+name: increased angiogenesis
+name: increased bone mass
+name: increased bleeding time
+name: increased circulating antidiuretic hormone level
+name: increased susceptibility to type II hypersensitivity reaction
+name: increased susceptibility to type III hypersensitivity reaction
+name: increased susceptibility to type IV hypersensitivity reaction
+name: increased urine potassium level
+name: increased plasma anion gap
+name: increased circulating potassium level
+name: increased lung weight
+name: increased circulating sodium level
+name: increased mean corpuscular hemoglobin concentration
+name: increased spleen neoplasm incidence
+name: increased aggression
+name: increased susceptibility to diet-induced obesity
+name: increased circulating adrenaline level
+name: increased circulating noradrenaline level
+name: increased circulating leptin level
+name: increased susceptibility to graft versus host disease
+name: increased sensory neuron number
+name: increased mitochondrial fission
+name: increased apoptosis
+name: increased vascular endothelial cell number
+name: increased cerebral infarction size
+name: increased clearance of atrial thrombosis
+name: increased retinal photoreceptor cell number
+name: increased body mass index
+name: increased fat cell size
+name: increased cardiac rhabdomyoma incidence
+name: increased systemic arterial diastolic blood pressure
+name: increased systemic arterial systolic blood pressure
+name: increased eyelid tumor incidence
+name: increased eyelid myxoma incidence
+name: increased eyelid neuroma incidence
+name: increased eyelid lipodermoid incidence
+name: increased choroid hemangioma incidence
+name: increased retinal hemangioma incidence
+name: increased retina hamartoma incidence
+name: increased retinal astrocytoma incidence
+name: increased Lisch nodule incidence
+name: increased testis tumor incidence
+name: increased pulse pressure
+name: increased medulloblastoma incidence
+name: increased retinoblastoma incidence
+name: increased urine sodium level
+name: increased myocardial fiber number
+name: increased circulating copper level
+name: increased glycosylated hemoglobin level
+name: increased circulating angiotensinogen level
+name: increased long bone epiphyseal plate size
+name: increased T cell apoptosis
+name: increased mammary adenoacanthoma incidence
+name: increased ovary tumor incidence
+name: increased stomach pH
+name: increased gastric adenocarcinoma incidence
+name: increased lung tumor incidence
+name: increased facial tumor incidence
+name: increased liver tumor incidence
+name: increased blastoma incidence
+name: increased NK T cell number
+name: increased NK cell number
+name: increased memory T cell number
+name: increased urine osmolality
+name: increased otic epithelial cell apoptosis
+name: increased CD4-positive, alpha beta T cell number
+name: increased CD8-positive, alpha-beta T cell number
+name: increased single-positive T cell number
+name: increased T-helper 1 cell number
+name: increased T-helper 2 cell number
+name: increased plasma cell number
+name: increased amacrine cell number
+name: increased myeloid dendritic cell number
+name: increased dendritic cell number
+name: increased Peyer's patch number
+name: increased diameter of long bones
+name: increased diameter of femur
+name: increased diameter of fibula
+name: increased diameter of humerus
+name: increased diameter of radius
+name: increased diameter of tibia
+name: increased diameter of ulna
+name: increased B-1a cell number
+name: increased B-1b cell number
+name: increased follicular B cell number
+name: increased germinal center B cell number
+name: increased marginal zone B cell number
+name: increased pro-B cell number
+name: increased transitional stage B cell number
+name: increased follicular dendritic cell number
+name: increased B-2 B cell number
+name: increased mature B cell number
+name: increased immature B cell number
+name: increased hippocampal commissure size
+name: increased anterior commissure size
+name: increased susceptibility to neuronal excitotoxicity
+name: increased megakaryocyte cell number
+name: increased somatotroph cell number
+name: increased lactotroph cell number
+name: increased gonadotroph cell number
+name: increased thyrotroph cell number
+name: increased corticotroph cell number
+name: increased gamma-delta T cell number
+name: increased gamma-delta intraepithelial T cell number
+name: increased mature gamma-delta T cell number
+name: increased CD4-positive, gamma-delta intraepithelial T cell number
+name: increased CD8-positive, gamma-delta intraepithelial T cell number
+name: increased primordial germ cell number
+name: increased cellular sensitivity to alkylating agents
+name: increased cellular sensitivity to methylmethanesulfonate
+name: increased cellular sensitivity to hydrogen peroxide
+name: increased cellular sensitivity to hydroxyurea
+name: increased cellular sensitivity to ultraviolet irradiation
+name: increased cellular sensitivity to oxidative stress
+name: increased somatotroph cell size
+name: increased thyrotroph cell size
+name: increased lactotroph cell size
+name: increased gonadotroph cell size
+name: increased corticotroph cell size
+name: increased retinal cone cell number
+name: increased retinal rod cell number
+name: increased spleen red pulp amount
+name: increased spleen white pulp amount
+name: increased spleen germinal center number
+name: increased spleen germinal center size
+name: increased muscle spindle number
+name: increased IgG1 level
+name: increased IgG2a level
+name: increased IgG2b level
+name: increased IgG3 level
+name: increased plasmacytoid dendritic cell number
+name: increased chemical nociceptive threshold
+name: increased susceptibility to induced colitis
+name: increased circulating tumor necrosis factor level
+name: increased tumor necrosis factor secretion
+name: increased interferon-alpha secretion
+name: increased interferon-beta secretion
+name: increased interferon-gamma secretion
+name: increased circulating interferon-alpha level
+name: increased circulating interferon-beta level
+name: increased circulating interferon-gamma level
+name: increased circulating interleukin-1 level
+name: increased circulating interleukin-10 level
+name: increased circulating interleukin-6 level
+name: increased circulating interleukin-2 level
+name: increased circulating interleukin-4 level
+name: increased circulating interleukin-7 level
+name: increased circulating interleukin-13 level
+name: increased circulating interleukin-15 level
+name: increased circulating interleukin-17 level
+name: increased circulating interleukin-12 level
+name: increased circulating interleukin-23 level
+name: increased circulating interleukin-3 level
+name: increased circulating interleukin-5 level
+name: increased circulating interleukin-9 level
+name: increased circulating interleukin-16 level
+name: increased circulating interleukin-18 level
+name: increased circulating interleukin-1 alpha level
+name: increased circulating interleukin-1 beta level
+name: increased circulating interleukin-12a level
+name: increased circulating interleukin-12b level
+name: increased interleukin-1 secretion
+name: increased interleukin-1 alpha secretion
+name: increased interleukin-1 beta secretion
+name: increased interleukin-10 secretion
+name: increased interleukin-12 secretion
+name: increased interleukin-12a secretion
+name: increased interleukin-12b secretion
+name: increased interleukin-13 secretion
+name: increased interleukin-15 secretion
+name: increased interleukin-16 secretion
+name: increased interleukin-17 secretion
+name: increased interleukin-18 secretion
+name: increased interleukin-2 secretion
+name: increased interleukin-23 secretion
+name: increased interleukin-23a secretion
+name: increased interleukin-3 secretion
+name: increased interleukin-4 secretion
+name: increased interleukin-5 secretion
+name: increased interleukin-6 secretion
+name: increased interleukin-7 secretion
+name: increased interleukin-9 secretion
+name: increased lung carcinoma incidence
+name: increased lung small cell carcinoma incidence
+name: increased lung non-small cell carcinoma incidence
+name: increased lung squamous cell carcinoma incidence
+name: increased lung large cell carcinoma incidence
+name: increased memory B cell number
+name: increased susceptibility to endotoxin shock
+name: increased mast cell degranulation
+name: increased heart ventricle size
+name: increased right ventricle peak pressure
+name: increased right ventricle diastolic pressure
+name: increased pancreatic acinar cell carcinoma incidence
+name: increased B cell apoptosis
+name: increased NK cell degranulation
+name: increased lens epithelium apoptosis
+name: increased lens fiber apoptosis
+name: increased small intestinal crypt cell apoptosis
+name: increased circulating amylase level
+name: increased liver iron level
+name: increased spleen iron level
+name: increased circulating iron level
+name: increased blood uric acid level
+name: increased transforming growth factor beta level
+name: increased hemoglobin concentration distribution width
+name: increased mature ovarian follicle number
+name: increased physiological sensitivity to xenobiotic
+name: increased enterocyte apoptosis
+name: increased IgG2c level
+name: increased total fat pad weight
+name: increased neurotransmitter release
+name: increased cerebellar granule cell number
+name: increased pituitary gland weight
+name: increased sensitivity to induced cell death
+name: increased neuron number
+name: increased Cajal-Retzius cell number
+name: increased cellular hemoglobin content
+name: increased carbon dioxide production
+name: increased basal metabolism
+name: increased vagina weight
+name: increased blood osmolality
+name: increased pancreas adenoma incidence
+name: increased adrenal gland adenoma incidence
+name: increased interleukin-21 secretion
+name: increased circulating interleukin-21 level
+name: increased oviduct weight
+name: increased pancreas weight
+name: increased pancreatic beta cell mass
+name: increased white fat cell size
+name: increased brown fat cell size
+name: increased white fat cell lipid droplet size
+name: increased brown fat cell lipid droplet size
+name: increased brown fat cell number
+name: increased white fat cell number
+name: increased brown fat lipid droplet number
+name: increased prepulse inhibition
+name: increased pancreatic ductal adenocarcinoma incidence
+name: increased pancreatic intraepithelial neoplasia incidence
+name: increased pancreas tumor incidence
+name: increased pancreatic acinar cell number
+name: increased pancreatic islet number
+name: increased pancreatic alpha cell number
+name: increased pancreatic delta cell number
+name: increased PP cell number
+name: increased pancreatic epsilon cell number
+name: increased prostate intraepithelial neoplasia incidence
+name: increased prostate gland adenocarcinoma incidence
+name: increased uterus tumor incidence
+name: increased uterus carcinoma incidence
+name: increased guard hair length
+name: increased brain tumor incidence
+name: increased gonadal fat pad weight
+name: increased abdominal fat pad weight
+name: increased epididymal fat pad weight
+name: increased femoral fat pad weight
+name: increased inguinal fat pad weight
+name: increased interscapular fat pad weight
+name: increased mammary fat pad weight
+name: increased mesenteric fat pad weight
+name: increased parametrial fat pad weight
+name: increased renal fat pad weight
+name: increased retroperitoneal fat pad weight
+name: increased uterine fat pad weight
+name: increased adenocarcinoma incidence
+name: increased small intestine adenocarcinoma incidence
+name: increased large intestine adenocarcinoma incidence
+name: increased duodenum adenocarcinoma incidence
+name: increased jejunum adenocarcinoma incidence
+name: increased cecum adenocarcinoma incidence
+name: increased colon adenocarcinoma incidence
+name: increased rectum adenocarcinoma incidence
+name: increased anal adenocarcinoma incidence
+name: increased follicular lymphoma incidence
+name: increased splenic marginal zone lymphoma incidence
+name: increased small lymphocytic lymphoma incidence
+name: increased lymphoblastic lymphoma incidence
+name: increased histiocytic sarcoma incidence
+name: increased splenocyte apoptosis
+name: increased splenocyte proliferation
+name: increased splenocyte number
+name: increased trabecular bone thickness
+name: increased urine pH
+name: increased liver triglyceride level
+name: increased theca cell number
+name: increased uterine NK cell number
+name: increased nucleated erythrocyte cell number
+name: increased trophoblast giant cell number
+name: increased skeletal muscle fiber size
+name: increased skeletal muscle fiber diameter
+name: increased variability of skeletal muscle fiber size
+name: increased skeletal muscle fiber number
+name: increased skeletal muscle fiber density
+name: increased gastrocnemius weight
+name: increased extensor digitorum longus weight
+name: increased soleus weight
+name: increased tibialis anterior weight
+name: increased embryo weight
+name: increased fetal weight
+name: increased myeloid sarcoma incidence
+name: increased myeloma incidence
+name: increased ovarian teratoma incidence
+name: increased platelet ATP level
+name: increased skin hamartoma incidence
+name: increased urine sulfate level
+name: increased mammary gland ductal carcinoma incidence
+name: increased gastrointestinal stromal tumor incidence
+name: increased submandibular gland size
+name: increased parotid gland size
+name: increased thymocyte apoptosis
+name: increased urinary bladder carcinoma incidence
+name: increased urinary bladder transitional cell carcinoma incidence
+name: increased platelet ADP level
+name: increased keratinocyte apoptosis
+name: increased keratinocyte proliferation
+name: increased platelet aggregation
+name: increased plasma membrane sphingolipid content
+name: increased gonad tumor incidence
+name: increased liver adenocarcinoma incidence
+name: increased Leydig cell tumor incidence
+name: increased keratohyalin granule number
+name: increased keratohyalin granule size
+name: increased brain zinc level
+name: increased placenta apoptosis
+name: increased birth weight
+name: increased birth body size
+name: increased skin squamous cell carcinoma incidence
+name: increased mammary gland number
+name: increased nipple number
+name: increased corneal stroma thickness
+name: increased sensitivity to induced morbidity/mortality
+name: increased sensitivity to xenobiotic induced morbidity/mortality
+name: increased behavioral withdrawal response
+name: increased susceptibility to infection induced morbidity/mortality
+name: increased susceptibility to bacterial infection induced morbidity/mortality
+name: increased susceptibility to viral infection induced morbidity/mortality
+name: increased urine uric acid level
+name: increased prostaglandin level
+name: increased leukotriene level
+name: increased tumor latency
+name: increased horizontal stereotypic behavior
+name: increased vertical stereotypic behavior
+name: increased Sertoli cell phagocytosis
+name: increased cellular sensitivity to thiophosphamide
+name: increased tongue size
+name: increased hyoid bone size
+name: increased transitional stage T1 B cell number
+name: increased transitional stage T2 B cell number
+name: increased hippocampus pyramidal cell number
+name: increased cerebral cortex pyramidal cell number
+name: increased total body fat amount
+name: increased liver cholesterol level
+name: increased erythrocyte clearance
+name: increased omental fat pad weight
+name: increased grip strength
+name: increased hepatoblastoma incidence
+name: increased creatine level
+name: increased circulating creatine level
+name: increased red blood cell distribution width
+name: increased serotonin level
+name: increased pruritus
+name: increased phytosterol level
+name: increased circulating phytosterol level
+name: increased osteochondroma incidence
+name: increased circulating fructosamine level
+name: increased circulating creatine kinase level
+name: increased circulating magnesium level
+name: increased chromosomal stability
+name: increased cervical vertebrae number
+name: increased sacral vertebrae number
+name: increased caudal vertebrae number
+name: increased bone mineral content
+name: increased DN1 thymic pro-T cell number
+name: increased DN2 thymocyte number
+name: increased DN3 thymocyte number
+name: increased DN4 thymocyte number
+name: increased oligodendrocyte number
+name: increased brain cholesterol level
+name: increased response to stress-induced hyperthermia
+name: increased CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: increased mammary gland epithelial cell proliferation
+name: increased number of Howell-Jolly bodies
+name: increased susceptibility to weight loss
+name: increased T follicular helper cell number
+name: increased T-helper 17 cell number
+name: increased quadriceps weight
+name: increased transitional stage T3 B cell number
+name: increased skeletal muscle weight
+name: increased kidney copper level
+name: increased intestine copper level
+name: increased hepatoma incidence
+name: increased tongue tumor incidence
+name: increased classified tumor incidence
+name: increased organ/body region tumor incidence
+name: increased melanoma incidence
+name: increased intraocular melanoma incidence
+name: increased astrocytoma incidence
+name: increased glioma incidence
+name: increased gastrointestinal tumor incidence
+name: increased skeletal tumor incidence
+name: increased nervous system tumor incidence
+name: increased plasmacytoma incidence
+name: increased reproductive system tumor incidence
+name: increased gland tumor incidence
+name: increased urinary system tumor incidence
+name: increased muscle tumor incidence
+name: increased cardiovascular system tumor incidence
+name: increased alimentary system tumor incidence
+name: increased integument system tumor incidence
+name: increased kidney tumor incidence
+name: increased eye tumor incidence
+name: increased hemolymphoid system tumor incidence
+name: increased hepatobiliary system tumor incidence
+name: increased respiratory system tumor incidence
+name: increased mammary gland tumor incidence
+name: increased skin tumor incidence
+name: increased stomach tumor incidence
+name: increased uvea tumor incidence
+name: increased retina tumor incidence
+name: increased choroid tumor incidence
+name: increased iris tumor incidence
+name: increased hamartoma incidence
+name: increased mesothelioma incidence
+name: increased Schwannoma incidence
+name: increased meningioma incidence
+name: increased oligodendroglioma incidence
+name: increased osteoma incidence
+name: increased neurofibroma incidence
+name: increased cholangiocarcinoma incidence
+name: increased thyroid tumor incidence
+name: increased parotid gland tumor incidence
+name: increased salivary gland tumor incidence
+name: increased submandibular gland tumor incidence
+name: increased pituitary gland tumor incidence
+name: increased parathyroid gland tumor incidence
+name: increased cutaneous melanoma incidence
+name: increased acute lymphoblastic leukemia incidence
+name: increased chronic lymphocytic leukemia incidence
+name: increased desmoid tumor incidence
+name: increased cardiac fibroma incidence
+name: increased lung fibroma incidence
+name: increased mammary gland fibroma incidence
+name: increased facial angiofibroma incidence
+name: increased lipoma incidence
+name: increased hibernoma incidence
+name: increased thyroid C-cell carcinoma incidence
+name: increased thyroid carcinoma incidence
+name: increased pancreatic islet cell carcinoma incidence
+name: increased teratocarcinoma incidence
+name: increased pituitary adenohypophysis tumor incidence
+name: increased pituitary melanotroph tumor incidence
+name: increased odontoma incidence
+name: increased odontosarcoma incidence
+name: increased prostate gland tumor incidence
+name: increased liver free fatty acids level
+name: increased gangliosarcoma incidence
+name: increased ganglioneuroma incidence
+name: increased fibrosarcoma incidence
+name: increased fibroadenoma incidence
+name: increased thymus tumor incidence
+name: increased adrenal cortical tumor incidence
+name: increased spindle cell carcinoma incidence
+name: increased kidney iron level
+name: increased respiratory quotient
+name: increased adenoma incidence
+name: increased renal carcinoma incidence
+name: increased adrenocortical adenoma incidence
+name: increased rhabdomyoma incidence
+name: increased liver glycogen level
+name: increased skeletal muscle glycogen level
+name: increased level of surface class II molecules
+name: increased heart right ventricle size
+name: increased heart left ventricle size
+name: increased Q wave amplitude
+name: increased QRS amplitude
+name: increased Tc17 cell number
+name: increased activation-induced B cell apoptosis
+name: increased activation-induced cell death of T cells
+name: increased siderocyte number
+name: increased glioblastoma incidence
+name: increased Schwann cell number
+name: increased susceptibility to parasitic infection induced morbidity/mortality
+name: increased right ventricle systolic pressure
+name: increased type II pneumocyte number
+name: increased bronchioalveolar stem cell number
+name: increased CD4-positive, alpha-beta memory T cell number
+name: increased CD8-positive, alpha-beta memory T cell number
+name: increased central memory CD4-positive, alpha-beta T cell number
+name: increased effector memory CD4-positive, alpha-beta T cell number
+name: increased central memory CD8 positive, alpha-beta T cell number
+name: increased effector memory CD8-positive, alpha-beta T cell number
+name: increased respiratory mucosa goblet cell number
+name: increased bone trabecula number
+name: increased trabecular bone mass
+name: increased bone volume
+name: increased trabecular bone volume
+name: increased alveolar lamellar body number
+name: increased oligodendrocyte progenitor number
+name: increased lung compliance
+name: increased solitary pulmonary neuroendocrine cell number
+name: increased number of pulmonary neuroendocrine bodies
+name: increased osteoid volume
+name: increased osteoid thickness
+name: increased trabecular bone connectivity density
+name: increased subcutaneous adipose tissue amount
+name: increased airway resistance
+name: increased total lung capacity
+name: increased compact bone mass
+name: increased compact bone volume
+name: increased compact bone area
+name: increased periosteum thickness
+name: increased surfactant secretion
+name: increased aorta wall thickness
+name: increased circulating glutamate dehydrogenase level
+name: increased core body temperature
+name: increased body surface temperature
+name: increased lung elastance
+name: increased lung tissue damping
+name: increased respiratory motile cilia number
+name: increased macrophage nitric oxide production
+name: increased macrophage cytokine production
+name: increased macrophage apoptosis
+name: increased primordial ovarian follicle number
+name: increased primary ovarian follicle number
+name: increased secondary ovarian follicle number
+name: increased lung endothelial cell migration
+name: increased lung endothelial cell adhesion
+name: increased lung endothelial cell proliferation
+name: increased lung endothelial cell apoptosis
+name: increased mesenchymal cell proliferation involved in lung development
+name: increased hypodermis neovascularization
+name: increased wet-to-dry lung weight ratio
+name: increased number of Heinz bodies
+name: increased erythroblast number
+name: increased hematopoietic cell number
+name: increased erythrocyte protoporphyrin level
+name: increased embryonic epiblast cell apoptosis
+name: increased hair follicle apoptosis
+name: increased brain copper level
+name: increased brainstem copper level
+name: increased intestinal calcium absorption
+name: increased blood oxygen capacity
+name: increased fetal derived definitive erythrocyte cell number
+name: increased excitatory postsynaptic current amplitude
+name: increased tail pigmentation
+name: increased ear pigmentation
+name: increased podocyte apoptosis
+name: increased circulating erythropoietin level
+name: increased erythropoietin level
+name: increased kidney apoptosis
+name: increased renal glomerulus apoptosis
+name: increased mesangial cell apoptosis
+name: increased metanephric mesenchyme apoptosis
+name: increased fetal cardiomyocyte apoptosis
+name: increased fetal cardiomyocyte proliferation
+name: increased endoneurial fluid pressure
+name: increased renal glomerulus basement membrane thickness
+name: increased urine flow rate
+name: increased urine magnesium level
+name: increased kidney cell proliferation
+name: increased dopaminergic neuron number
+name: increased susceptibility to dopaminergic neuron neurotoxicity
+name: increased urine chloride ion level
+name: increased urine bicarbonate level
+name: increased urine urea nitrogen level
+name: increased urine creatinine level
+name: increased urine glycosaminoglycan level
+name: increased glomerular capsule space
+name: increased placental labyrinth size
+name: increased placenta intervillous maternal lacunae size
+name: increased urine major urinary protein level
+name: increased urination frequency
+name: increased urine aldosterone level
+name: increased urine antidiuretic hormone level
+name: increased urine progesterone level
+name: increased urine corticosterone level
+name: increased urine deoxycorticosterone level
+name: increased urine microglobulin level
+name: increased urine beta2-microglobulin level
+name: increased susceptibility to induced choroid neovascularization
+name: increased urine insulin level
+name: increased urine prostaglandin level
+name: increased renal glomerulus lobularity
+name: increased lipoprotein lipase activity
+name: increased triglyceride lipase activity
+name: increased alkaline phosphatase activity
+name: increased ornithine carbamoyltransferase activity
+name: increased hormone-sensitive lipase activity
+name: increased catalase activity
+name: increased purine-nucleoside phosphorylase activity
+name: increased phosphatidylcholine-sterol O-acyltransferase activity
+name: increased glutathione peroxidase activity
+name: increased glucokinase activity
+name: increased glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+name: increased circulating ghrelin level
+name: increased mitochondria number
+name: increased mitochondria size
+name: increased circulating histidine level
+name: increased epidermal stem cell number
+name: increased chondrocyte number
+name: increased cumulus expansion
+name: increased fibroblast proliferation
+name: increased fibroblast cell migration
+name: increased circulating interleukin-8 level
+name: increased interleukin-8 secretion
+name: increased myelin sheath thickness
+name: increased urine ammonia level
+name: increased urine nitrite level
+name: increased urine selenium level
+name: increased urethra carcinoma incidence
+name: increased urethral gland adenocarcinoma incidence
+name: increased bulbourethral gland adenocarcinoma incidence
+name: increased urinary bladder weight
+name: increased cell migration
+name: increased anoikis
+name: increased cranium length
+name: increased pre-pro B cell number
+name: increased pancreatic beta cell proliferation
+name: increased CD8-positive, alpha-beta memory T cell proliferation
+name: increased cell chemotaxis
+name: increased lymphocyte chemotaxis
+name: increased kidney collecting duct number
+name: increased cranium height
+name: increased podocyte motility
+name: increased circulating lipase level
+name: increased circulating ferritin level
+name: increased circulating transferrin level
+name: increased circulating unsaturated transferrin level
+name: increased hematopoietic stem cell proliferation
+name: increased Schwann cell proliferation
+name: increased pancreatic endocrine progenitor cell proliferation
+name: increased heart left atrium weight
+name: increased heart right atrium weight
+name: increased food intake
+name: increased fluid intake
+name: increased eating frequency
+name: increased drinking frequency
+name: increased cardiac stroke volume
+name: increased compensatory feeding amount
+name: increased cornea thickness
+name: increased total retina thickness
+name: increased or absent threshold for auditory brainstem response
+name: increased circulating lactate dehydrogenase level
+name: increased mating frequency
+name: increased erythrocyte catalase activity
+name: increased foot pad temperature
+name: increased nerve conduction velocity
+name: increased melanocyte number
+name: increased susceptibility to pulmonary hyaline membrane formation
+name: increased myoepithelioma incidence
+name: increased susceptibility to hypertension
+name: increased susceptilbility to retinal ischemic injury
+name: increased astrocyte number
+name: increased susceptibility to osteoporosis
+name: increased midbrain size
+name: increased Reichert's membrane thickness
+name: increased spongiotrophoblast size
+name: increased trophoblast glycogen cell number
+name: increased hair follicle number
+name: increased inner cell mass proliferation
+name: increased trophectoderm cell proliferation
+name: increased trophectoderm apoptosis
+name: increased bronchoconstrictive response
+name: increased forebrain size
+name: increased a wave amplitude
+name: increased b wave amplitude
+name: increased a wave implicit time
+name: increased b wave implicit time
+name: increased a wave latency
+name: increased b wave latency
+name: increased somite number
+name: increased regulatory T cell apoptosis
+name: increased cytotoxic T cell apoptosis
+name: increased keratinocyte migration
+name: increased endothelial cell proliferation
+name: increased neuronal stem cell self-renewal
+name: increased hypoxanthine-guanine phosphoribosyltransferase level
+name: increased thalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: increased hypothalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: increased plasmalogen level
+name: increased brain plasmalogen level
+name: increased circulating prothrombin level
+name: increased sterol level
+name: increased brain sterol level
+name: increased cholangiocyte apoptosis
+name: increased hepatoblast apoptosis
+name: increased hindbrain apoptosis
+name: increased hindbrain size
+name: increased axial mesoderm size
+name: increased tail bud apoptosis
+name: increased sternebra number
+name: increased frequency of paradoxical sleep
+name: increased slow-wave sleep duration
+name: increased total tissue mass
+name: increased circulating antithrombin level
+name: increased circulating factor VIII level
+name: increased circulating fibrinogen level
+name: increased circulating fibronectin level
+name: increased circulating homocysteine level
+name: increased vitamin D level
+name: increased gnawing activity
+name: increased tail rattling
+name: increased susceptibility to induction of seizure by inducing agent
+name: increased aggression towards males in competition for females
+name: increased prothrombin time
+name: increased partial thromboplastin time
+name: increased large unstained cell number
+name: increased erythrocyte sodium level
+name: increased erythrocyte magnesium level
+name: increased erythrocyte potassium level
+name: increased erythrocyte magnesium ion content
+name: increased erythrocyte potassium ion content
+name: increased erythrocyte sodium ion content
+name: increased erythrocyte potassium:chloride symporter activity
+name: increased erythrocyte sodium:hydrogen antiporter activity
+name: increased erythrocyte sodium:potassium-exchanging ATPase activity
+name: increased erythrocyte calcium-activated potassium channel activity
+name: increased stomach glandular epithelium tumor incidence
+name: increased gastric gastrinoma incidence
+name: increased duodenum glandular epithelium tumor incidence
+name: increased duodenal gastrinoma incidence
+name: increased pancreatic gastrinoma incidence
+name: increased granulosa cell tumor incidence
+name: increased Type B reticulum cell tumor incidence
+name: increased lymphoma incidence
+name: increased colon tumor incidence
+name: increased Harderian gland tumor incidence
+name: increased corpus callosum size
+name: increased primary motor cortex size
+name: increased retrosplenial granular cortex size
+name: increased mammillothalamic tract size
+name: increased hippocampus pyramidal cell length
+name: increased dentate gyrus size
+name: increased brain internal capsule size
+name: increased optic tract size
+name: increased hippocampal fimbria size
+name: increased striatum size
+name: increased genu of the facial nerve size
+name: increased cerebellum interpositus nucleus size
+name: increased cingulate cortex size
+name: increased piriform cortex size
+name: increased secondary somatosensory cortex size
+name: increased amygdala size
+name: increased habenula size
+name: increased corticospinal tract size
+name: increased cochlear VIII nucleus size
+name: increased cerebellum dentate nucleus size
+name: increased midbrain apoptosis
+name: increased forebrain apoptosis
+name: increased neural tube apoptosis
+name: increased serum complement activity
+name: increased cell death
+name: increased calcium uptake by cardiac muscle
+name: increased forebrain volume
+name: increased tumor incidence following infection
+name: increased susceptibility to experimental autoimmune orchitis
+name: increased mammary gland tumor incidence in breeding females
+name: increased mammary gland tumor incidence in virgin females
+name: increased susceptibility to chemically induced skin inflammation
+name: increased noradrenaline level
+name: increased kidney glutathione peroxidase activity
+name: increased peroxidase activity
+name: increased eosinophil peroxidase activity
+name: increased catechol O-methyltransferase activity
+name: increased brain catechol O-methyltransferase activity
+name: increased choline O-acetyltransferase activity
+name: increased brain choline acetyltransferase activity
+name: increased glutamate decarboxylase activity
+name: increased nicotinamide N-methyltransferase activity
+name: increased alpha-fetoprotein level
+name: increased glutathione level
+name: increased kidney glutathione level
+name: increased complement C5 level
+name: increased ceruloplasmin level
+name: increased circulating factor IX level
+name: increased circulating factor X level
+name: increased circulating factor XIII level
+name: increased acetylcholinesterase activity
+name: increased brain acetylcholinesterase activity
+name: increased glutathione reductase level
+name: increased kidney glutathione reductase level
+name: increased phospholipase A2 level
+name: increased monoamine oxidase activity
+name: increased brain monoamine oxidase activity
+name: increased benz (alpha) pyrene hydroxylase activity
+name: increased 5-aminolevulinate synthase activity
+name: increased urokinase activity
+name: increased catalase level
+name: increased erythrocyte catalase level
+name: increased kidney catalase level
+name: increased superoxide dismutase level
+name: increased circulating ceruloplasmin level
+name: increased haptoglobin level
+name: increased circulating haptoglobin level
+name: increased maternal body weight gain
+name: increased embryonic neuroepithelium apoptosis
+name: increased embryonic neuroepithelium thickness
+name: increased embryonic neuroepithelial cell proliferation
+name: increased hemangioblast number
+name: increased neural crest cell proliferation
+name: increased inner cell mass apoptosis
+name: increased neural crest cell apoptosis
+name: increased cardiac neural crest cell number
+name: increased cardiac neural crest cell apoptosis
+name: increased cranial neural crest cell proliferation
+name: increased cranial neural crest cell apoptosis
+name: increased alpha-beta T cell number
+name: increased KLRG1-positive NK cell number
+name: increased phospholipid transfer protein activity
+name: increased rhombomere 1 size
+name: increased rhombomere 2 size
+name: increased rhombomere 3 size
+name: increased rhombomere 4 size
+name: increased rhombomere 5 size
+name: increased rhombomere 6 size
+name: increased rhombomere 7 size
+name: increased rhombomere 8 size
+name: increased vagal neural crest cell apoptosis
+name: increased trunk neural crest cell apoptosis
+name: increased Ly6C high monocyte number
+name: increased Ly6C low monocyte number
+name: increased KLRG1+ CD8 alpha beta T cell number
+name: increased KLRG1+ CD4 alpha beta T cell number
+name: increased spinal cord apoptosis
+name: increased sebaceous gland number
+name: increased head mesenchyme apoptosis
+name: increased pancreas apoptosis
+name: increased circulating thrombin level
+name: increased fasting circulating glucose level
+name: increased cytotoxic T cell cytolysis
+name: increased susceptibility to colitis induced morbidity/mortality
+name: increased pancreas iron level
+name: increased adrenal gland weight
+name: increased pituitary gland apoptosis
+name: increased melanotroph apoptosis
+name: increased corticotroph apoptosis
+name: increased Rathke pouch tumor incidence
+name: increased pineal gland tumor incidence
+name: increased sebum secretion
+name: increased sebaceous gland tumor incidence
+name: increased sebocyte number
+name: increased sebaceous gland adenoma incidence
+name: increased endometrial gland number
+name: increased circulating lactate level
+name: increased dendritic epidermal T cell number
+name: increased Langerhans cell number
+name: increased myeloid cell number in bone marrow
+name: increased memory-marker gamma-delta T cell number
+name: increased CD5-positive gamma-delta T cell number
+name: increased KLRG1-positive gamma-delta T cell number
+name: increased memory-marker NK cell number
+name: increased memory CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: increased KLRG1-positive CD4-positive, CD25-positive, alpha-beta regulatory T cell number
+name: increased CD8-positive, naive alpha-beta T cell number
+name: increased lacrimal gland apoptosis
+name: increased eccrine gland number
+name: increased conjunctiva goblet cell number
+name: increased Paneth cell number
+name: increased keratoacanthoma incidence
+name: increased fibroblast apoptosis
+name: increased embryonic tissue cell apoptosis
+name: increased ovary apoptosis
+name: increased granulosa cell apoptosis
+name: increased CD4-negative NK T cell number
+name: increased memory-marker CD4-negative NK T cell number
+name: increased KLRG1-positive CD4-negative NK T cell number
+name: increased CD4-positive NK T cell number
+name: increased memory-marker CD4-positive NK T cell number
+name: increased KLRG1-positive CD4-positive NK T cell number
+name: increased salivary gland adenoma incidence
+name: increased Harderian gland adenoma incidence
+name: increased ovary adenoma incidence
+name: increased submandibular gland apoptosis
+name: increased cerebellar granule cell precursor proliferation
+name: increased macrophage proliferation
+name: increased adrenal gland apoptosis
+name: increased testis apoptosis
+name: increased volumetric bone mineral density
+name: increased areal bone mineral density
+name: increased internal diameter of femur
+name: increased femur compact bone thickness
+name: increased femur yield load
+name: increased vertebra yield load
+name: increased bone trabecular spacing
+name: increased femur maximal load
+name: increased femur fracture load
+name: increased femur stiffness
+name: increased bone stiffness
+name: increased vertebra stiffness
+name: increased vertebra maximal load
+name: increased energy dissipated prior to femur fracture
+name: increased CD11b-high dendritic cell number
+name: increased CD11b-low dendritic cell number
+name: increased CD103-positive CD11b-low dendritic cell number
+name: increased myeloid cell number
+name: increased immature NK cell number
+name: increased Ly6C-positive immature NK cell number
+name: increased mature NK cell number
+name: increased Ly6C-positive mature NK cell number
+name: increased Ly6C-positive NK T cell number
+name: increased early germinal center B cell number
+name: increased late germinal center B cell number
+name: increased CD5-positive T cell number
+name: increased CD5-positive Ly6C-positive T cell number
+name: increased granulocyte monocyte progenitor cell number
+name: increased megakaryocyte-erythroid progenitor cell number
+name: increased circulating tyrosine level
+name: increased cystadenoma incidence
+name: increased intestinal phytosterol absorption
+name: increased intestinal glucose absorption
+name: increased T-helper cell number
+name: increased marginal zone precursor B cell number
+name: increased effector memory T-helper cell number
+name: increased KLRG1-positive T-helper cell number
+name: increased IgG2 level
+name: increased CD4-positive, CD25-positive NK T cell number
+name: increased CD4-negative, CD25-positive NK T cell number
+name: increased CD8-positive, CD25-positive alpha-beta T cell number
+name: increased common myeloid progenitor cell number
+name: increased common lymphocyte progenitor cell number
+name: increased intestine length
+name: increased colon length
+name: increased small intestine length
+name: increased large intestine length
+name: increased subchondral bone mineral content
+name: increased respiratory epithelial chloride transmembrane transport
+name: increased hepatocyte number
+name: increased cellular sensitivity to DNA damaging agents
+name: increased cellular sensitivity to cisplatin
+name: increased T cell acute lymphoblastic leukemia incidence
+name: increased B cell acute lymphoblastic leukemia incidence
+name: increased male germ cell apoptosis
+name: increased sebocyte proliferation
+name: increased cardiac muscle glycogen level
+name: increased brain glycogen level
+name: increased pancreatic amylase secretion
+name: increased chondrocyte proliferation
+name: increased chondrocyte apoptosis
+name: increased pancreatic alpha cell proliferation
+name: increased pancreatic beta cell apoptosis
+name: increased pancreatic islet cell apoptosis
+name: increased amylin secretion
+name: increased mammary gland apoptosis
+name: increased thymoma incidence
+name: increased Harderian gland adenocarcinoma incidence
+name: increased body fat mass
+name: increased white adipose tissue mass
+name: increased circulating cortisol level
+name: increased brown adipose tissue mass
+name: increased fatty acid oxidation
+name: increased fatty acid beta-oxidation
+name: increased brain apoptosis
+name: increased respiratory epithelial sodium ion transmembrane transport
+name: increased epididymal cell proliferation
+name: increased epididymal epithelium cell proliferation
+name: increased intestinal epithelial sodium ion transmembrane transport
+name: increased intestinal epithelial chloride transmembrane transport
+name: increased pancreatic duct epithelial chloride transmembrane transport
+name: increased pancreatic duct epithelial sodium ion transmembrane transport
+name: increased intestinal mucosa thickness
+name: increased colon goblet cell number
+name: increased ileal goblet cell number
+name: increased alveolar macrophage number
+name: increased response to antigen
+name: increased sulfoglycosphingolipid level
+name: increased brain sulfoglycosphingolipid level
+name: increased bone mineral density of femur
+name: increased arylsulphatase activity
+name: increased aldehyde dehydrogenase activity
+name: increased phenylalanine decarboxylase activity
+name: increased delta-aminolaevulinate dehydratase activity
+name: increased hepatic delta-aminolaevulinate dehydratase activity
+name: increased aldehyde oxidase activity
+name: increased circulating cholinesterase activity
+name: increased cholinesterase activity
+name: increased coumarin hydroxylase activity
+name: increased bone ossification
+name: increased glucose-6-phosphate dehydrogenase activity
+name: increased tyrosine aminotransferase activity
+name: increased maltase activity
+name: increased procollagen-proline 4-dioxygenase activity
+name: increased beta-glucuronidase activity
+name: increased spermatazoal beta-glucuronidase activity
+name: increased hypoxanthine phosphoribosyltransferase activity
+name: increased thiopurine S-methyltransferase activity
+name: increased neocortex size
+name: increased neocortex volume
+name: increased blood catalase activity
+name: increased tyrosine 3-monooxygenase activity
+name: increased brain tyrosine 3-monooxygenase activity
+name: increased incidence of epicardial mineralization
+name: increased bone mineralization
+name: increased hippocampus volume
+name: increased susceptibility to non-insulin-dependent diabetes
+name: increased susceptibility to diet-induced non-insulin dependent diabetes
+name: increased susceptibility to aortic cartilaginous metaplasia
+name: increased susceptibility to diet-induced aortic fatty streak lesions
+name: increased hepatic glucose production
+name: increased nitrate level
+name: increased nitrite level
+name: increased thromboxane level
+name: increased sphingosine level
+name: increased alcohol dehydrogenase activity
+name: increased circulating HDL phospholipid level
+name: increased circulating non-HDL phospholipid level
+name: increased gallbladder volume
+name: increased brain external capsule size
+name: increased anti-sperm antibody level
+name: increased vascular endothelial cell proliferation
+name: increased susceptibility to virus induced diabetes
+name: increased thyroid gland weight
+name: increased lymphocyte activation involved in immune response
+name: increased reticular tumor incidence
+name: increased mononuclear phagocyte tumor incidence
+name: increased susceptibility to malignant hyperthermia
+name: increased circulating complement protein level
+name: increased tear production
+name: increased alertness
+name: increased proline oxidase activity
+name: increased tyrosine aminotransferase level
+name: increased proline level
+name: increased skeletal muscle cell apoptosis
+name: increased pyruvate kinase activity
+name: increased circulating arginase level
+name: increased argininosuccinate synthetase level
+name: increased collagen level
+name: increased circulating factor XII level
+name: increased beta-galactosidase level
+name: increased galactosylceramidase level
+name: increased beta-mannosidase level
+name: increased branched-chain alpha-keto acid dehydrogenase level
+name: increased N-acetylgalactosamine-4-sulfatase protein level
+name: increased glycogen debranching enzyme level
+name: increased creatine kinase level
+name: increased hydroxymethylbilane synthase level
+name: increased palmitoyl-(protein) hydrolase level
+name: increased dystrophin level
+name: increased guanylate cyclase activating protein-2 level
+name: increased UDP-N-acetylglucosamine-1-phosphotransferase level
+name: increased creatine kinase activity
+name: increased hydroxymethylbilane synthase activity
+name: increased palmitoyl-(protein) hydrolase activity
+name: increased vascular endothelial cell adhesion
+name: increased vascular endothelial cell apoptosis
+name: increased capillary density
+name: increased capillary tortuosity
+name: increased endoplasmic reticulum stress
+name: increased brain iron level
+name: increased heart iron level
+name: increased intestinal iron level
+name: increased kidney epithelial cell primary cilium length
+name: increased radial glial cell number
+name: increased neuronal precursor proliferation
+name: increased liposarcoma incidence
+name: increased abdominal adipose tissue amount
+name: increased amnion apoptosis
+name: increased fibroblast chemotaxis
+name: increased cardiac muscle relaxation
+name: increased freezing behavior
+name: increased kindling response
+name: increased hepatocyte karyomegaly
+name: increased platelet alpha-granule number
+name: increased platelet dense granule number
+name: increased astrocyte size
+name: increased NAD(P)H oxidase activity
+name: increased microglial cell activation
+name: increased erythrocyte aggregation
+name: increased myelin sheath amount
+name: increased megakaryocyte progenitor cell number
+name: increased megakaryocyte progenitor cell proliferation
+name: increased dendritic spine density
+name: increased dendritic spine length
+name: increased cerebellar foliation
+name: increased pons size
+name: increased subiculum size
+name: increased cerebellum fastigial nucleus size
+name: increased substantia nigra size
+name: increased hippocampal fornix size
+name: increased optic chiasm size
+name: increased stria medullaris size
+name: increased ventromedial hypothalamic nucleus size
+name: increased pontine nuclei size
+name: increased pontocerebellar fibers size
+name: increased premotor cortex size
+name: increased corpus callosum cell number
+name: increased ceramide level
+name: increased corpus callosum cell density
+name: increased corpus callosum average cell area
+name: increased corpus callosum total cell area
+name: increased cerebral cortex cell number
+name: increased cerebral cortex total cell area
+name: increased cerebral cortex cell density
+name: increased cerebral cortex average cell area
+name: increased thalamus cell number
+name: increased thalamus total cell area
+name: increased thalamus cell density
+name: increased thalamus average cell area
+name: increased dorsal striatum cell number
+name: increased dorsal striatum total cell area
+name: increased dorsal striatum cell density
+name: increased dorsal striatum average cell area
+name: increased hippocampus cell number
+name: increased hippocampus total cell area
+name: increased hippocampus cell density
+name: increased hippocampus average cell area
+name: increased hippocampal fimbria cell number
+name: increased hippocampal fimbria total cell area
+name: increased hippocampal fimbria cell density
+name: increased hippocampal fimbria average cell area
+name: increased anterior commissure cell number
+name: increased anterior commissure total cell area
+name: increased anterior commissure cell density
+name: increased anterior commissure average cell area
+name: increased stria medullaris cell number
+name: increased stria medullaris total cell area
+name: increased stria medullaris cell density
+name: increased stria medullaris average cell area
+name: increased hippocampal fornix cell number
+name: increased hippocampal fornix total cell area
+name: increased hippocampal fornix cell density
+name: increased hippocampal fornix average cell area
+name: increased optic chiasm cell number
+name: increased optic chiasm total cell area
+name: increased optic chiasm cell density
+name: increased optic chiasm average cell area
+name: increased ventromedial hypothalamic nucleus cell number
+name: increased ventromedial hypothalamic nucleus total cell area
+name: increased ventromedial hypothalamic nucleus cell density
+name: increased ventromedial hypothalamic nucleus average cell area
+name: increased pontine nuclei cell number
+name: increased pontine nuclei total cell area
+name: increased pontine nuclei cell density
+name: increased pontine nuclei average cell area
+name: increased retinal inner nuclear layer thickness
+name: increased substantia nigra cell number
+name: increased substantia nigra total cell area
+name: increased substantia nigra cell density
+name: increased substantia nigra average cell area
+name: increased pontocerebellar fibers cell number
+name: increased pontocerebellar fibers total cell area
+name: increased pontocerebellar fibers cell density
+name: increased pontocerebellar fibers average cell area
+name: increased cingulate cortex cell number
+name: increased cingulate cortex total cell area
+name: increased cingulate cortex cell density
+name: increased cingulate cortex average cell area
+name: increased dorsal subiculum cell number
+name: increased dorsal subiculum total cell area
+name: increased dorsal subiculum cell density
+name: increased dorsal subiculum average cell area
+name: increased inferior colliculus cell number
+name: increased inferior colliculus total cell area
+name: increased inferior colliculus cell density
+name: increased inferior colliculus average cell area
+name: increased superior colliculus cell number
+name: increased superior colliculus total cell area
+name: increased superior colliculus cell density
+name: increased superior colliculus average cell area
+name: increased cerebellum fastigial nucleus cell number
+name: increased cerebellum fastigial nucleus total cell area
+name: increased cerebellum fastigial nucleus cell density
+name: increased cerebellum fastigial nucleus average cell area
+name: increased photoreceptor outer segment number
+name: increased oculomotor nerve neuroma incidence
+name: increased jugular lymph sac number
+name: increased circulating citrulline level
+name: increased acute myeloid leukemia incidence
+name: increased acute undifferentiated leukemia incidence
+name: increased corneal epithelium thickness
+name: increased cornea fragility
+name: increased lipogenesis
+name: increased nervous system dopamine level
+name: increased middle ear goblet cell number
+name: increased susceptibility to Riboviria infection
+name: increased susceptibility to Herpesvirales infection
+name: increased susceptibility to Ortervirales infection
+name: increased susceptibility to Parvoviridae infection
+name: increased susceptibility to Hepadnaviridae infection
+name: increased susceptibility to Poxviridae infection
+name: increased susceptibility to Adenoviridae infection
+name: increased susceptibility to Retroviridae infection
+name: increased susceptibility to Picornaviridae infection
+name: increased susceptibility to Togaviridae infection
+name: increased susceptibility to Flaviviridae infection
+name: increased susceptibility to Orthomyxoviridae infection
+name: increased susceptibility to Coronaviridae infection
+name: increased susceptibility to Paramyxoviridae infection
+name: increased mechanical nociceptive threshold
+name: increased lung apoptosis
+name: increased retinal apoptosis
+name: increased bone marrow adipose tissue amount
+name: increased adipocyte glucose uptake
+name: increased cardiac cell glucose uptake
+name: increased muscle cell glucose uptake
+name: increased foot pigmentation
+name: increased forehead pigmentation
+name: increased inner canthal distance
+name: increased tongue papilloma incidence
+name: increased osteoblast proliferation
+name: increased osteoblast apoptosis
+name: increased odontoblast number
+name: increased osteocyte apoptosis
+name: increased osteocyte number
+name: increased number of epithelial cell rests of Malassez
+name: increased cementoblast number
+name: increased hair follicle cell proliferation
+name: increased keratinocyte adhesion
+name: increased pancreatic alpha cell mass
+name: increased brain manganese level
+name: increased liver manganese level
+name: increased circulating manganese level
+name: increased sperm number
+name: increased cysteine level
+name: increased circulating cysteine level
+name: increased methylmalonic acid level
+name: increased circulating methylmalonic acid level
+name: increased urine creatine level
+name: increased taurine level
+name: increased circulating taurine level
+name: increased methionine level
+name: increased circulating methionine level
+name: increased ornithine level
+name: increased circulating ornithine level
+name: increased circulating glutathione level
+name: increased circulating glycine level
+name: increased glycine level
+name: increased circulating arginine level
+name: increased arginine level
+name: increased circulating proline level
+name: increased circulating phenylalanine level
+name: increased circulating alanine level
+name: increased acetylcholine level
+name: increased hydroxyproline level
+name: increased circulating hydroxyproline level
+name: increased cystathionine level
+name: increased circulating cystathionine level
+name: increased serine level
+name: increased circulating serine level
+name: increased phenylalanine level
+name: increased threonine level
+name: increased circulating threonine level
+name: increased glutamine level
+name: increased circulating glutamine level
+name: increased isoleucine level
+name: increased circulating isoleucine level
+name: increased circulating lysine level
+name: increased lysine level
+name: increased valine level
+name: increased circulating valine level
+name: increased beta-alanine level
+name: increased gamma-aminobutyric acid level
+name: increased urine gamma-aminobutyric acid level
+name: increased glutamic acid level
+name: increased circulating glutamic acid level
+name: increased aspartic acid level
+name: increased circulating homocitrulline level
+name: increased leucine level
+name: increased circulating leucine level
+name: increased histamine level
+name: increased circulating histamine level
+name: increased circulating dopamine level
+name: increased adrenaline level
+name: increased anandamide level
+name: increased urine catecholamine level
+name: increased urine dopamine level
+name: increased urine adrenaline level
+name: increased urine noradrenaline level
+name: increased urine citrate level
+name: increased urine glycerol level
+name: increased femur size
+name: increased femur weight
+name: increased radius size
+name: increased ulna size
+name: increased melanoblast proliferation
+name: increased melanoblast apoptosis
+name: increased skin pigmentation
+name: increased telomere length
+name: increased digit pigmentation
+name: increased nipple pigmentation
+name: increased primordial germ cell apoptosis
+name: increased mitochondrial DNA content
+name: increased myoblast proliferation
+name: increased brain ependyma motile cilium length
+name: increased circulating adiponectin level
+name: increased myoblast apoptosis
+name: increased circulating osteocalcin level
+name: increased adipose tissue glycogen level
+name: increased glycogen synthesis
+name: increased kidney glycogen level
+name: increased lung glycogen level
+name: increased granulosa cell proliferation
+name: increased susceptibility to Riboviria infection induced morbidity/mortality
+name: increased susceptibility to Herpesvirales infection induced morbidity/mortality
+name: increased susceptibility to Ortervirales infection induced morbidity/mortality
+name: increased susceptibility to Parvoviridae infection induced morbidity/mortality
+name: increased susceptibility to Hepadnaviridae infection induced morbidity/mortality
+name: increased susceptibility to Poxviridae infection induced morbidity/mortality
+name: increased susceptibility to Adenoviridae infection induced morbidity/mortality
+name: increased susceptibility to Retroviridae infection induced morbidity/mortality
+name: increased susceptibility to Picornaviridae infection induced morbidity/mortality
+name: increased susceptibility to Togaviridae infection induced morbidity/mortality
+name: increased susceptibility to Flaviviridae infection induced morbidity/mortality
+name: increased susceptibility to Orthomyxoviridae infection induced morbidity/mortality
+name: increased susceptibility to Coronaviridae infection induced morbidity/mortality
+name: increased susceptibility to Paramyxoviridae infection induced morbidity/mortality
+name: increased circulating C-reactive protein level
+name: increased erythrocyte sedimentation rate
+name: increased circulating procalcitonin level
+name: increased blood oxygen saturation level
+name: increased circulating type I collagen C-terminal telopeptide level
+name: increased circulating troponin level
+name: increased circulating troponin T level
+name: increased circulating troponin I level
+name: increased circulating D-dimer level
+name: increased erythrocyte osmotic fragility
+name: increased circulating myoglobin level
+name: increased circulating gamma-glutamyl transferase level
+name: increased susceptibility to induced thrombosis

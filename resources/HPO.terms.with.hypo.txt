@@ -1,0 +1,671 @@
+name: 2nd-5th toe middle phalangeal hypoplasia
+name: Abnormal hypopharynx morphology
+name: Abnormal hypothalamus morphology
+name: Abnormal hypothalamus physiology
+name: Abnormal hypoxanthine-guanine phosphoribosyltransferase level
+name: Abnormality of the hypothalamus-pituitary axis
+name: Abnormality of the hypothenar eminence
+name: Absent/hypoplastic coccyx
+name: Absent/hypoplastic paranasal sinuses
+name: Adrenal hypoplasia
+name: Adrenal medullary hypoplasia
+name: Adrenocortical hypoplasia
+name: Alternating hypophoria
+name: Alternating hypotropia
+name: Alveolar process hypoplasia
+name: Anterior hypopituitarism
+name: Anterior pituitary hypoplasia
+name: Aplasia/Hypoplasia affecting the anterior segment of the eye
+name: Aplasia/Hypoplasia affecting the eye
+name: Aplasia/Hypoplasia affecting the fundus
+name: Aplasia/Hypoplasia affecting the uvea
+name: Aplasia/Hypoplasia involving bones of the feet
+name: Aplasia/Hypoplasia involving bones of the skull
+name: Aplasia/Hypoplasia involving bones of the thorax
+name: Aplasia/Hypoplasia involving the carpal bones
+name: Aplasia/Hypoplasia involving the central nervous system
+name: Aplasia/Hypoplasia involving the corticospinal tracts
+name: Aplasia/Hypoplasia involving the femoral head and neck
+name: Aplasia/Hypoplasia involving the metacarpal bones
+name: Aplasia/Hypoplasia involving the musculature of the extremities
+name: Aplasia/Hypoplasia involving the musculature of the upper arm
+name: Aplasia/Hypoplasia involving the musculature of the upper limbs
+name: Aplasia/Hypoplasia involving the nose
+name: Aplasia/Hypoplasia involving the pelvis
+name: Aplasia/Hypoplasia involving the shoulder musculature
+name: Aplasia/Hypoplasia involving the sinuses
+name: Aplasia/Hypoplasia involving the skeletal musculature
+name: Aplasia/Hypoplasia involving the vertebral column
+name: Aplasia/Hypoplasia of fingers
+name: Aplasia/Hypoplasia of metatarsal bones
+name: Aplasia/Hypoplasia of the 1st metacarpal
+name: Aplasia/Hypoplasia of the 2nd finger
+name: Aplasia/Hypoplasia of the 2nd metacarpal
+name: Aplasia/Hypoplasia of the 2nd toe
+name: Aplasia/Hypoplasia of the 3rd finger
+name: Aplasia/Hypoplasia of the 3rd metacarpal
+name: Aplasia/Hypoplasia of the 3rd toe
+name: Aplasia/Hypoplasia of the 4th finger
+name: Aplasia/Hypoplasia of the 4th metacarpal
+name: Aplasia/Hypoplasia of the 4th toe
+name: Aplasia/Hypoplasia of the 5th finger
+name: Aplasia/Hypoplasia of the 5th metacarpal
+name: Aplasia/Hypoplasia of the 5th toe
+name: Aplasia/Hypoplasia of the Epiglottis
+name: Aplasia/Hypoplasia of the abdominal wall musculature
+name: Aplasia/Hypoplasia of the biceps
+name: Aplasia/Hypoplasia of the bladder
+name: Aplasia/Hypoplasia of the brainstem
+name: Aplasia/Hypoplasia of the breasts
+name: Aplasia/Hypoplasia of the capital femoral epiphysis
+name: Aplasia/Hypoplasia of the cerebellar vermis
+name: Aplasia/Hypoplasia of the cerebellum
+name: Aplasia/Hypoplasia of the cerebral white matter
+name: Aplasia/Hypoplasia of the cerebrum
+name: Aplasia/Hypoplasia of the cervical spine
+name: Aplasia/Hypoplasia of the clavicles
+name: Aplasia/Hypoplasia of the clitoris
+name: Aplasia/Hypoplasia of the cochlea
+name: Aplasia/Hypoplasia of the colon
+name: Aplasia/Hypoplasia of the corpus callosum
+name: Aplasia/Hypoplasia of the diaphragm
+name: Aplasia/Hypoplasia of the distal phalanges of the hand
+name: Aplasia/Hypoplasia of the distal phalanges of the toes
+name: Aplasia/Hypoplasia of the distal phalanx of the 2nd finger
+name: Aplasia/Hypoplasia of the distal phalanx of the 2nd toe
+name: Aplasia/Hypoplasia of the distal phalanx of the 3rd finger
+name: Aplasia/Hypoplasia of the distal phalanx of the 3rd toe
+name: Aplasia/Hypoplasia of the distal phalanx of the 4th finger
+name: Aplasia/Hypoplasia of the distal phalanx of the 4th toe
+name: Aplasia/Hypoplasia of the distal phalanx of the 5th finger
+name: Aplasia/Hypoplasia of the distal phalanx of the 5th toe
+name: Aplasia/Hypoplasia of the distal phalanx of the hallux
+name: Aplasia/Hypoplasia of the distal phalanx of the thumb
+name: Aplasia/Hypoplasia of the ear
+name: Aplasia/Hypoplasia of the earlobes
+name: Aplasia/Hypoplasia of the external ear
+name: Aplasia/Hypoplasia of the eyebrow
+name: Aplasia/Hypoplasia of the eyelid
+name: Aplasia/Hypoplasia of the fallopian tube
+name: Aplasia/Hypoplasia of the fibula
+name: Aplasia/Hypoplasia of the fifth metatarsal bone
+name: Aplasia/Hypoplasia of the fovea
+name: Aplasia/Hypoplasia of the frontal sinuses
+name: Aplasia/Hypoplasia of the gallbladder
+name: Aplasia/Hypoplasia of the hallux
+name: Aplasia/Hypoplasia of the inner ear
+name: Aplasia/Hypoplasia of the iris
+name: Aplasia/Hypoplasia of the lens
+name: Aplasia/Hypoplasia of the lungs
+name: Aplasia/Hypoplasia of the macula
+name: Aplasia/Hypoplasia of the mandible
+name: Aplasia/Hypoplasia of the maxilla
+name: Aplasia/Hypoplasia of the middle ear
+name: Aplasia/Hypoplasia of the middle phalanges of the hand
+name: Aplasia/Hypoplasia of the middle phalanges of the toes
+name: Aplasia/Hypoplasia of the middle phalanx of the 2nd finger
+name: Aplasia/Hypoplasia of the middle phalanx of the 2nd toe
+name: Aplasia/Hypoplasia of the middle phalanx of the 3rd finger
+name: Aplasia/Hypoplasia of the middle phalanx of the 3rd toe
+name: Aplasia/Hypoplasia of the middle phalanx of the 4th finger
+name: Aplasia/Hypoplasia of the middle phalanx of the 4th toe
+name: Aplasia/Hypoplasia of the middle phalanx of the 5th finger
+name: Aplasia/Hypoplasia of the middle phalanx of the 5th toe
+name: Aplasia/Hypoplasia of the musculature of the pelvis
+name: Aplasia/Hypoplasia of the musculature of the thigh
+name: Aplasia/Hypoplasia of the nails
+name: Aplasia/Hypoplasia of the nasal bone
+name: Aplasia/Hypoplasia of the nasal septum
+name: Aplasia/Hypoplasia of the nipples
+name: Aplasia/Hypoplasia of the optic nerve
+name: Aplasia/Hypoplasia of the optic tract
+name: Aplasia/Hypoplasia of the ovary
+name: Aplasia/Hypoplasia of the palmar creases
+name: Aplasia/Hypoplasia of the pancreas
+name: Aplasia/Hypoplasia of the patella
+name: Aplasia/Hypoplasia of the phalanges of the 2nd finger
+name: Aplasia/Hypoplasia of the phalanges of the 2nd toe
+name: Aplasia/Hypoplasia of the phalanges of the 3rd finger
+name: Aplasia/Hypoplasia of the phalanges of the 3rd toe
+name: Aplasia/Hypoplasia of the phalanges of the 4th finger
+name: Aplasia/Hypoplasia of the phalanges of the 4th toe
+name: Aplasia/Hypoplasia of the phalanges of the 5th finger
+name: Aplasia/Hypoplasia of the phalanges of the 5th toe
+name: Aplasia/Hypoplasia of the phalanges of the hallux
+name: Aplasia/Hypoplasia of the phalanges of the hand
+name: Aplasia/Hypoplasia of the phalanges of the thumb
+name: Aplasia/Hypoplasia of the phalanges of the toes
+name: Aplasia/Hypoplasia of the premaxilla
+name: Aplasia/Hypoplasia of the proximal phalanges of the hand
+name: Aplasia/Hypoplasia of the proximal phalanx of the 2nd finger
+name: Aplasia/Hypoplasia of the proximal phalanx of the 3rd finger
+name: Aplasia/Hypoplasia of the proximal phalanx of the 4th finger
+name: Aplasia/Hypoplasia of the proximal phalanx of the 5th finger
+name: Aplasia/Hypoplasia of the proximal phalanx of the hallux
+name: Aplasia/Hypoplasia of the proximal phalanx of the thumb
+name: Aplasia/Hypoplasia of the pubic bone
+name: Aplasia/Hypoplasia of the pyramidal tract
+name: Aplasia/Hypoplasia of the quadriceps
+name: Aplasia/Hypoplasia of the radius
+name: Aplasia/Hypoplasia of the retina
+name: Aplasia/Hypoplasia of the ribs
+name: Aplasia/Hypoplasia of the sacrum
+name: Aplasia/Hypoplasia of the scapulae
+name: Aplasia/Hypoplasia of the skin
+name: Aplasia/Hypoplasia of the spleen
+name: Aplasia/Hypoplasia of the sternum
+name: Aplasia/Hypoplasia of the sweat glands
+name: Aplasia/Hypoplasia of the tarsal bones
+name: Aplasia/Hypoplasia of the testes
+name: Aplasia/Hypoplasia of the thumb
+name: Aplasia/Hypoplasia of the thymus
+name: Aplasia/Hypoplasia of the thyroid gland
+name: Aplasia/Hypoplasia of the tibia
+name: Aplasia/Hypoplasia of the tongue
+name: Aplasia/Hypoplasia of the tragus
+name: Aplasia/Hypoplasia of the triceps
+name: Aplasia/Hypoplasia of the ulna
+name: Aplasia/Hypoplasia of the uvula
+name: Aplasia/Hypoplasia of the vagina
+name: Aplasia/Hypoplasia of the vertebrae
+name: Aplasia/Hypoplasia of toe
+name: Aplasia/Hypoplastia of the eccrine sweat glands
+name: Aplasia/hypoplasia affecting bones of the axial skeleton
+name: Aplasia/hypoplasia involving bones of the extremities
+name: Aplasia/hypoplasia involving bones of the hand
+name: Aplasia/hypoplasia involving bones of the lower limbs
+name: Aplasia/hypoplasia involving bones of the upper limbs
+name: Aplasia/hypoplasia involving forearm bones
+name: Aplasia/hypoplasia involving the skeleton
+name: Aplasia/hypoplasia of proximal toe phalanx
+name: Aplasia/hypoplasia of the 1st metatarsal
+name: Aplasia/hypoplasia of the extremities
+name: Aplasia/hypoplasia of the femur
+name: Aplasia/hypoplasia of the humerus
+name: Aplasia/hypoplasia of the proximal phalanx of the 2nd toe
+name: Aplasia/hypoplasia of the proximal phalanx of the 3rd toe
+name: Aplasia/hypoplasia of the proximal phalanx of the 4th toe
+name: Aplasia/hypoplasia of the proximal phalanx of the 5th toe
+name: Aplasia/hypoplasia of the uterus
+name: Aplastic/Hypoplastic nasopharyngeal adenoids
+name: Aplastic/hypoplastic lacrimal glands
+name: Aplastic/hypoplastic toenail
+name: Appendicular hypotonia
+name: Areas of hypopigmentation and hyperpigmentation that do not follow Blaschko lines
+name: Ascending aorta hypoplasia
+name: Autoimmune hypoparathyroidism
+name: Axillary and groin hyperpigmentation and hypopigmentation
+name: Axillary apocrine gland hypoplasia
+name: Biceps hypoplasia
+name: Biceps hyporeflexia
+name: Bilateral breast hypoplasia
+name: Bilateral renal hypoplasia
+name: Bilateral ulnar hypoplasia
+name: Bilateral vertebral artery hypoplasia
+name: Bone marrow hypocellularity
+name: Brachioradialis hyporeflexia
+name: Breast hypoplasia
+name: Bronchial cartilage hypoplasia
+name: CNS hypomyelination
+name: Calf muscle hypoplasia
+name: Carpal bone hypoplasia
+name: Central hypothyroidism
+name: Central hypotonia
+name: Central hypoventilation
+name: Central vertebral hypoplasia
+name: Cerebellar hemisphere hypoplasia
+name: Cerebellar hypoplasia
+name: Cerebellar vermis hypoplasia
+name: Cerebral hypomyelination
+name: Cerebral hypoplasia
+name: Cerebral white matter hypoplasia
+name: Cervical vertebral facet hypoplasia
+name: Chorioretinal hypopigmentation
+name: Clitoral hypoplasia
+name: Compensated hypothyroidism
+name: Confetti hypopigmentation pattern of lower leg skin
+name: Confetti-like hypopigmented macules
+name: Confluent hypointensity of cerebral white matter on MRI
+name: Congenital adrenal hypoplasia
+name: Congenital hypoparathyroidism
+name: Congenital hypoplastic anemia
+name: Congenital hypothyroidism
+name: Coronal hypospadias
+name: Corticospinal tract hypoplasia
+name: Decreased sensitivity to hypoxemia
+name: Deep white matter hypodensities
+name: Descending aorta hypoplasia
+name: Discrete 2 to 5-mm hyper- and hypopigmented macules
+name: Distal ulnar hypoplasia
+name: Dysgenesis of the hypothalamus
+name: Elevated hypoxanthine-guanine phosphoribosyltransferase level
+name: Episodic generalized hypotonia
+name: Episodic hypokalemia
+name: Episodic hypoventilation
+name: Erythroid hypoplasia
+name: External genital hypoplasia
+name: Facial hypotonia
+name: Fasting hypoglycemia
+name: Female hypogonadism
+name: Fibular hypoplasia
+name: Focal T2 hypointense basal ganglia lesion
+name: Focal T2 hypointense brainstem lesion
+name: Focal T2 hypointense thalamic lesion
+name: Focal autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Focal aware autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Focal dermal aplasia/hypoplasia
+name: Focal hypointensity of cerebral white matter on MRI
+name: Focal impaired awareness autonomic seizure with hypoventilation/hyperventilation/altered respiration
+name: Foveal hypopigmentation
+name: Foveal hyporeflective spaces on macular OCT
+name: Foveal intraretinal hyporeflective spaces on macular OCT
+name: Foveal subretinal hyporeflective spaces on macular OCT
+name: Generalized cerebral atrophy/hypoplasia
+name: Generalized hypopigmentation
+name: Generalized hypopigmentation of hair
+name: Generalized hypoplasia of dental enamel
+name: Generalized hypotonia
+name: Generalized hypotonia due to defect at the neuromuscular junction
+name: Generalized hypotrichosis
+name: Generalized neonatal hypotonia
+name: Glandular hypospadias
+name: Glenoid fossa hypoplasia
+name: Globus pallidus hypointensity on susceptibility-weighted imaging
+name: Gonadal hypoplasia
+name: Granulocytic hypoplasia
+name: Hemifacial hypoplasia
+name: Hemihypotrophy of lower limb
+name: Hypergonadotropic hypogonadism
+name: Hyperinsulinemic hypoglycemia
+name: Hyperpigmented/hypopigmented macules
+name: Hypoactive bowel sounds
+name: Hypoalaninemia
+name: Hypoalbuminemia
+name: Hypoammonemia
+name: Hypoamylasemia
+name: Hypoargininemia
+name: Hypoasparaginemia
+name: Hypoautofluorescent macular lesion
+name: Hypoautofluorescent retinal lesion
+name: Hypocalcemia
+name: Hypocalcemic seizures
+name: Hypocalcemic tetany
+name: Hypocalcification of dental enamel
+name: Hypocalciuria
+name: Hypocapnia
+name: Hypocapnia in cord blood
+name: Hypochloremia
+name: Hypochloremic metabolic alkalosis
+name: Hypochloriduria
+name: Hypocholesterolemia
+name: Hypochromia
+name: Hypochromic anemia
+name: Hypochromic microcytic anemia
+name: Hypocitraturia
+name: Hypocystinemia
+name: Hypodeviation
+name: Hypodipsia
+name: Hypodontia
+name: Hypodysplasia of the corpus callosum
+name: Hypofibrinogenemia
+name: Hypoganglionosis
+name: Hypogeusia
+name: Hypoglutamatemia
+name: Hypoglutaminemia
+name: Hypoglycemia
+name: Hypoglycemic coma
+name: Hypoglycemic encephalopathy
+name: Hypoglycemic seizures
+name: Hypoglycinemia
+name: Hypoglycorrhachia
+name: Hypoglycosylation of alpha-dystroglycan
+name: Hypogonadism
+name: Hypogonadotropic hypogonadism
+name: Hypohidrosis
+name: Hypohidrosis or hyperhidrosis
+name: Hypohidrotic ectodermal dysplasia
+name: Hypohistidinemia
+name: Hypoinsulinemia
+name: Hypointensity of cerebral white matter on MRI
+name: Hypoisoleucinemia
+name: Hypokalemia
+name: Hypokalemic alkalosis
+name: Hypokalemic hypochloremic metabolic alkalosis
+name: Hypokalemic metabolic alkalosis
+name: Hypoketotic hypoglycemia
+name: Hypokinesia
+name: Hypoleucinemia
+name: Hypolipidemia
+name: Hypolipoproteinemia
+name: Hypolysinemia
+name: Hypomagnesemia
+name: Hypomagnesiuria
+name: Hypomanganesemia
+name: Hypomature dental enamel
+name: Hypomelanotic macule
+name: Hypomethioninemia
+name: Hypometric horizontal saccades
+name: Hypometric saccades
+name: Hypometric upward saccades
+name: Hypomimic face
+name: Hypomineralization of enamel
+name: Hyponasal speech
+name: Hyponatremia
+name: Hyponatriuria
+name: Hypoornithinemia
+name: Hypoparathyroidism
+name: Hypoperistalsis
+name: Hypophenylalaninemia
+name: Hypophoria
+name: Hypophosphatemia
+name: Hypophosphatemic rickets
+name: Hypophosphaturia
+name: Hypopigmentation of hair
+name: Hypopigmentation of the fundus
+name: Hypopigmentation of the skin
+name: Hypopigmented genitalia
+name: Hypopigmented macule
+name: Hypopigmented skin patches
+name: Hypopigmented skin patches on arms
+name: Hypopigmented streaks
+name: Hypopituitarism
+name: Hypoplasia of deltoid muscle
+name: Hypoplasia of dental enamel
+name: Hypoplasia of eyelid
+name: Hypoplasia of facial musculature
+name: Hypoplasia of fetal nasal bone
+name: Hypoplasia of first ribs
+name: Hypoplasia of latissimus dorsi muscle
+name: Hypoplasia of lymphatic vessels
+name: Hypoplasia of mandible relative to maxilla
+name: Hypoplasia of maxilla relative to mandible
+name: Hypoplasia of olfactory tract
+name: Hypoplasia of penis
+name: Hypoplasia of proximal fibula
+name: Hypoplasia of proximal radius
+name: Hypoplasia of right ventricle
+name: Hypoplasia of serratus anterior muscle
+name: Hypoplasia of teeth
+name: Hypoplasia of the abdominal wall musculature
+name: Hypoplasia of the anterior nasal spine
+name: Hypoplasia of the antihelix
+name: Hypoplasia of the bladder
+name: Hypoplasia of the brainstem
+name: Hypoplasia of the calcaneus
+name: Hypoplasia of the capital femoral epiphysis
+name: Hypoplasia of the ciliary body
+name: Hypoplasia of the cochlea
+name: Hypoplasia of the corpus callosum
+name: Hypoplasia of the dental root
+name: Hypoplasia of the diaphragm
+name: Hypoplasia of the ear cartilage
+name: Hypoplasia of the eccrine sweat glands
+name: Hypoplasia of the epiglottis
+name: Hypoplasia of the fallopian tube
+name: Hypoplasia of the femoral head
+name: Hypoplasia of the fovea
+name: Hypoplasia of the frontal bone
+name: Hypoplasia of the frontal lobes
+name: Hypoplasia of the gallbladder
+name: Hypoplasia of the iris
+name: Hypoplasia of the iris dilator muscle
+name: Hypoplasia of the lacrimal punctum
+name: Hypoplasia of the lesser trochanter
+name: Hypoplasia of the lower eyelids
+name: Hypoplasia of the maxilla
+name: Hypoplasia of the musculature
+name: Hypoplasia of the musculature of the pelvis
+name: Hypoplasia of the nasal bone
+name: Hypoplasia of the odontoid process
+name: Hypoplasia of the olfactory bulb
+name: Hypoplasia of the optic tract
+name: Hypoplasia of the ovary
+name: Hypoplasia of the phalanges of the toes
+name: Hypoplasia of the pharynx
+name: Hypoplasia of the pons
+name: Hypoplasia of the premaxilla
+name: Hypoplasia of the primary teeth
+name: Hypoplasia of the prostate
+name: Hypoplasia of the pyramidal tract
+name: Hypoplasia of the radius
+name: Hypoplasia of the retina
+name: Hypoplasia of the semicircular canal
+name: Hypoplasia of the small intestine
+name: Hypoplasia of the thymus
+name: Hypoplasia of the tooth germ
+name: Hypoplasia of the ulna
+name: Hypoplasia of the upper arm musculature
+name: Hypoplasia of the upper eyelids
+name: Hypoplasia of the uterus
+name: Hypoplasia of the vagina
+name: Hypoplasia of the ventral pons
+name: Hypoplasia of the vestibular nerve
+name: Hypoplasia of the vestibule of the inner ear
+name: Hypoplasia of the zygomatic bone
+name: Hypoplastic 5th lumbar vertebrae
+name: Hypoplastic L5 vertebral pedicle
+name: Hypoplastic acetabulae
+name: Hypoplastic anemia
+name: Hypoplastic anterior commissure
+name: Hypoplastic aortic arch
+name: Hypoplastic areola
+name: Hypoplastic carotid canal
+name: Hypoplastic cervical vertebrae
+name: Hypoplastic coccygeal vertebrae
+name: Hypoplastic colon
+name: Hypoplastic dermoepidermal hemidesmosomes
+name: Hypoplastic distal humeri
+name: Hypoplastic distal radial epiphyses
+name: Hypoplastic distal segments of scapulae
+name: Hypoplastic facial bones
+name: Hypoplastic female external genitalia
+name: Hypoplastic fifth fingernail
+name: Hypoplastic fifth toenail
+name: Hypoplastic fingernail
+name: Hypoplastic frontal sinuses
+name: Hypoplastic heart
+name: Hypoplastic helices
+name: Hypoplastic hippocampus
+name: Hypoplastic ilia
+name: Hypoplastic iliac body
+name: Hypoplastic iliac wing
+name: Hypoplastic inferior ilia
+name: Hypoplastic inferior pubic rami
+name: Hypoplastic iris stroma
+name: Hypoplastic ischia
+name: Hypoplastic ischiopubic rami
+name: Hypoplastic labia majora
+name: Hypoplastic labia minora
+name: Hypoplastic lacrimal duct
+name: Hypoplastic left atrium
+name: Hypoplastic left heart
+name: Hypoplastic male external genitalia
+name: Hypoplastic nasal bridge
+name: Hypoplastic nasal septum
+name: Hypoplastic nasal tip
+name: Hypoplastic nasopharyngeal adenoids
+name: Hypoplastic nipples
+name: Hypoplastic olfactory lobes
+name: Hypoplastic pelvis
+name: Hypoplastic philtrum
+name: Hypoplastic pilosebaceous units
+name: Hypoplastic posterior communicating artery
+name: Hypoplastic pubic bone
+name: Hypoplastic pubic rami
+name: Hypoplastic pulmonary veins
+name: Hypoplastic radial head
+name: Hypoplastic right atrium
+name: Hypoplastic right heart
+name: Hypoplastic sacral vertebrae
+name: Hypoplastic sacrum
+name: Hypoplastic scapulae
+name: Hypoplastic spinal processes
+name: Hypoplastic spleen
+name: Hypoplastic superior helix
+name: Hypoplastic sweat glands
+name: Hypoplastic thumbnail
+name: Hypoplastic toenails
+name: Hypoplastic tricuspid valve
+name: Hypoplastic vertebral bodies
+name: Hypoplastic vertebral pedicle
+name: Hypoplastic-absent sebaceous glands
+name: Hypopnea
+name: Hypoprolinemia
+name: Hypoproteinemia
+name: Hypoproteinemic edema
+name: Hypopyon
+name: Hyporeflective spaces on macular OCT
+name: Hyporeflexia
+name: Hyporeflexia of lower limbs
+name: Hyporeflexia of upper limbs
+name: Hyposegmentation of neutrophil nuclei
+name: Hyposegmentation of neutrophil nuclei in CSF
+name: Hyposerinemia
+name: Hyposmia
+name: Hypospadias
+name: Hyposthenuria
+name: Hypotaurinemia
+name: Hypotelorism
+name: Hypotension
+name: Hypothalamic arteriovenous malformation
+name: Hypothalamic atrophy
+name: Hypothalamic gliosis
+name: Hypothalamic gonadotropin-releasing hormone deficiency
+name: Hypothalamic hamartoma
+name: Hypothalamic hypometabolism in FDG PET
+name: Hypothalamic hypothyroidism
+name: Hypothalamic luteinizing hormone-releasing hormone deficiency
+name: Hypothermia
+name: Hypothreoninemia
+name: Hypothyroidism
+name: Hypotriglyceridemia
+name: Hypotrophy of the small hand muscles
+name: Hypotropia
+name: Hypotryptophanemia
+name: Hypotyrosinemia
+name: Hypouricemia
+name: Hypovalinemia
+name: Hypoventilation
+name: Hypovolemia
+name: Hypovolemic shock
+name: Hypoxemia
+name: Hypoxemia in cord blood
+name: Increased urinary hypoxanthine
+name: Infantile axial hypotonia
+name: Infantile muscular hypotonia
+name: Inferior vermis hypoplasia
+name: Interhypothalamic Adhesion
+name: Intermittent hypothermia
+name: Internal carotid artery hypoplasia
+name: Intestinal hypoplasia
+name: Intraretinal hyporeflective spaces on macular OCT
+name: Iris hypoperfusion
+name: Iris hypopigmentation
+name: Isolated diastolic hypotension
+name: Jaw hyporeflexia
+name: Ketotic hypoglycemia
+name: Labial hypoplasia
+name: Lacrimal gland hypoplasia
+name: Laryngeal hypoplasia
+name: Localized hypoplasia of dental enamel
+name: Lymph node hypoplasia
+name: Macular hypopigmentation
+name: Macular hypopigmented whorls, streaks, and patches
+name: Macular hypoplasia
+name: Male hypogonadism
+name: Mandibular condyle hypoplasia
+name: Maxillozygomatic hypoplasia
+name: Mediosternal, longitudinal streak of hypopigmentation
+name: Megakaryocyte nucleus hypolobulation
+name: Midclavicular hypoplasia
+name: Midshaft hypospadias
+name: Mixed hypo- and hyperpigmentation of the skin
+name: Multifocal hypointensity of cerebral white matter on MRI
+name: Muscular hypotonia
+name: Muscular hypotonia of the trunk
+name: Neck muscle hypoplasia
+name: Neonatal hypoglycemia
+name: Neonatal hypoproteinemia
+name: Neonatal hypotonia
+name: Nocturnal hypoventilation
+name: Nonketotic hypoglycemia
+name: Normocytic hypoplastic anemia
+name: Olivopontocerebellar hypoplasia
+name: Optic disc hypoplasia
+name: Optic nerve hypoplasia
+name: Oral motor hypotonia
+name: Orthostatic hypotension
+name: Orthostatic hypotension due to autonomic dysfunction
+name: Pancreatic hypoplasia
+name: Panhypogammaglobulinemia
+name: Panhypopituitarism
+name: Paranasal sinus hypoplasia
+name: Parathyroid hypoplasia
+name: Parietal hypometabolism in FDG PET
+name: Partial hyposmia
+name: Patchy hypo- and hyperpigmentation
+name: Patchy hypopigmentation of hair
+name: Patellar hypoplasia
+name: Pectoral muscle hypoplasia/aplasia
+name: Pectoralis hypoplasia
+name: Pectoralis major hypoplasia
+name: Penile hypospadias
+name: Penoscrotal hypospadias
+name: Perineal hypospadias
+name: Periodic hypokalemic paresis
+name: Peripheral hypomyelination
+name: Periventricular white matter hypodensities
+name: Pituitary hypothyroidism
+name: Posterior pituitary hypoplasia
+name: Posterior vertebral hypoplasia
+name: Postural hypotension with compensatory tachycardia
+name: Prefrontal hypometabolism in FDG PET
+name: Primary hypothyroidism
+name: Progressive hypotrichosis
+name: Proximal tibial hypoplasia
+name: Pseudohypoaldosteronism
+name: Pseudohypoparathyroidism
+name: Pulmonary artery hypoplasia
+name: Pulmonary hypoplasia
+name: Reactive hypoglycemia
+name: Recurrent hypoglycemia
+name: Recurrent infantile hypoglycemia
+name: Reduced hypoxanthine-guanine phosphoribosyltransferase level
+name: Renal cortical hypoechogeneity
+name: Renal hypophosphatemia
+name: Renal hypoplasia
+name: Renal hypoplasia/aplasia
+name: Renal medullary pyramid hypoplasia
+name: Scrotal hypoplasia
+name: Scrotal hypospadias
+name: Severe muscular hypotonia
+name: Shoulder muscle hypoplasia
+name: Small hypothenar eminence
+name: Spotty hypopigmentation
+name: Subretinal hyporeflective spaces on macular OCT
+name: Substantia nigra hypointensity on susceptibility-weighted imaging
+name: T2 hypointense basal ganglia
+name: T2 hypointense brainstem
+name: T2 hypointense thalamus
+name: Temporal hypotrichosis
+name: Thalamic hypometabolism in FDG PET
+name: Thoracic hypoplasia
+name: Thumbs hypoplastic with bulbous tips
+name: Thyroid hypoplasia
+name: Total hyposmia
+name: Transient hypogammaglobulinemia of infancy
+name: Transient hypophosphatemia
+name: Triceps hypoplasia
+name: Triceps hyporeflexia
+name: Twelfth rib hypoplasia
+name: Unilateral breast hypoplasia
+name: Unilateral chest hypoplasia
+name: Unilateral hypoplasia of pectoralis major muscle
+name: Unilateral renal hypoplasia
+name: Unilateral ulnar hypoplasia
+name: Unilateral vertebral artery hypoplasia
+name: Upper limb muscle hypoplasia
+name: Ureteral hypoplasia
+name: Vertebral artery hypoplasia
+name: Vertebral hypoplasia
+name: Vestibular hypofunction

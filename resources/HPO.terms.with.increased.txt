@@ -1,0 +1,459 @@
+name: Increased Arden ratio of electrooculogram
+name: Increased B cell count
+name: Increased Burr cell count
+name: Increased C-peptide level
+name: Increased CSF N-Acetylaspartic acid concentration
+name: Increased CSF alanine concentration
+name: Increased CSF albumin concentration
+name: Increased CSF alpha-aminobutyrate concentration
+name: Increased CSF arginine concentration
+name: Increased CSF aspartate concentration
+name: Increased CSF citrulline concentration
+name: Increased CSF glutamate concentration
+name: Increased CSF glutamine concentration
+name: Increased CSF glycine concentration
+name: Increased CSF histidine concentration
+name: Increased CSF homocarnosine concentration
+name: Increased CSF interferon alpha
+name: Increased CSF isoleucine concentration
+name: Increased CSF lactate
+name: Increased CSF leucine concentration
+name: Increased CSF lysine concentration
+name: Increased CSF methionine concentration
+name: Increased CSF ornithine concentration
+name: Increased CSF phenylalanine concentration
+name: Increased CSF protein
+name: Increased CSF serine concentration
+name: Increased CSF threonine concentration
+name: Increased CSF tryptophan concentration
+name: Increased CSF tyrosine concentration
+name: Increased CSF urate concentration
+name: Increased CSF valine concentration
+name: Increased CSF/serum albumin ratio
+name: Increased DLCO
+name: Increased HDL cholesterol concentration
+name: Increased HDL2a concentration
+name: Increased HDL2b concentration
+name: Increased HDL3a concentration
+name: Increased HDL3b concentration
+name: Increased HDL3c concentration
+name: Increased HbA2 hemoglobin
+name: Increased LDL cholesterol concentration
+name: Increased LH response to gonadotropin-releasing hormone stimulation test
+name: Increased NT-proBNP level
+name: Increased OCT-measured foveal thickness
+name: Increased OCT-measured macular thickness
+name: Increased PIVKA-II
+name: Increased QRS voltage
+name: Increased RBC distribution width
+name: Increased RIPA
+name: Increased T cell count
+name: Increased T3/T4 ratio
+name: Increased Tn-antigen level
+name: Increased VLDL cholesterol concentration
+name: Increased Z-disc width
+name: Increased activity of mitochondrial respiratory chain
+name: Increased adiponectin level
+name: Increased adipose tissue
+name: Increased adipose tissue around the neck
+name: Increased alpha-globulin
+name: Increased annexin V binding to platelet phosphatidylserine
+name: Increased anterioposterior diameter of thorax
+name: Increased anterior vertebral height
+name: Increased anti-alpha-gal IgE antibody level
+name: Increased anti-animal dander IgE antibody level
+name: Increased anti-animal protein IgE antibody level
+name: Increased anti-bacteria IgE antibody level
+name: Increased anti-dairy protein IgE antibody level
+name: Increased anti-drug IgE antibody level
+name: Increased anti-dust mite IgE antibody level
+name: Increased anti-egg IgE antibody level
+name: Increased anti-feather IgE antibody level
+name: Increased anti-food allergen IgE antibody level
+name: Increased anti-fungi IgE antibody level
+name: Increased anti-gluten IgE antibody level
+name: Increased anti-house dust mite IgE antibody level
+name: Increased anti-insect IgE antibody level
+name: Increased anti-meat allergen IgE antibody level
+name: Increased anti-nut food product IgE antibody level
+name: Increased anti-parasite IgE antibody level
+name: Increased anti-plant based food allergen IgE antibody level
+name: Increased anti-plant product IgE antibody level
+name: Increased anti-seafood IgE antibody level
+name: Increased anti-venom IgE antibody level
+name: Increased antimullerian hormone level
+name: Increased antral follicle count
+name: Increased arm span
+name: Increased aromatic amino acid level in urine
+name: Increased aspartate family amino acid level in urine
+name: Increased axial length of the globe
+name: Increased basal tear production
+name: Increased basophil count
+name: Increased biotinidase level
+name: Increased blood drug concentration
+name: Increased blood folate concentration
+name: Increased blood pressure
+name: Increased blood urea nitrogen
+name: Increased body fat percentage
+name: Increased body mass index
+name: Increased body weight
+name: Increased bone density with cystic changes
+name: Increased bone mineral density
+name: Increased carotid artery intimal medial thickness
+name: Increased carrying angle
+name: Increased caudate lactate level
+name: Increased cellular sensitivity to UV light
+name: Increased cerebral lipofuscin
+name: Increased circulating 18-hydroxycortisone level
+name: Increased circulating A-type natriuretic peptide level
+name: Increased circulating ACTH level
+name: Increased circulating IgA level
+name: Increased circulating IgD level
+name: Increased circulating IgE level
+name: Increased circulating IgG level
+name: Increased circulating IgG subclass
+name: Increased circulating IgG1 level
+name: Increased circulating IgG2 level
+name: Increased circulating IgG3 level
+name: Increased circulating IgG4 level
+name: Increased circulating IgM level
+name: Increased circulating N-Acetylaspartic acid concentration
+name: Increased circulating T4 level
+name: Increased circulating adrenic acid concentration
+name: Increased circulating androgen level
+name: Increased circulating antibody level
+name: Increased circulating arachidonic acid level
+name: Increased circulating argininosuccinic acid
+name: Increased circulating band cell count
+name: Increased circulating beta-2-microglobulin level
+name: Increased circulating beta-C-terminal telopeptide level
+name: Increased circulating cathepsin D level
+name: Increased circulating ceruloplasmin concentration
+name: Increased circulating chylomicron concentration
+name: Increased circulating copper concentration
+name: Increased circulating corticosterone level
+name: Increased circulating cortisol level
+name: Increased circulating creatine kinase BB isoform
+name: Increased circulating creatine kinase MB isoform
+name: Increased circulating creatine kinase MM isoform
+name: Increased circulating ethanolamine concentration
+name: Increased circulating farnesol concentration
+name: Increased circulating free T3
+name: Increased circulating free T4 level
+name: Increased circulating free fatty acid level
+name: Increased circulating galectin-3 level
+name: Increased circulating globulin level
+name: Increased circulating gonadotropin level
+name: Increased circulating heparan sulfate level
+name: Increased circulating immature neutrophil count
+name: Increased circulating interleukin 10
+name: Increased circulating interleukin 6
+name: Increased circulating interleukin 8
+name: Increased circulating isovaleric acid concentration
+name: Increased circulating mead acid level
+name: Increased circulating metamyelocyte count
+name: Increased circulating myelocyte count
+name: Increased circulating myristoleate level
+name: Increased circulating nicotinurate level
+name: Increased circulating octadecanoate level
+name: Increased circulating oleate level
+name: Increased circulating osteocalcin level
+name: Increased circulating palmitate level
+name: Increased circulating pancreatic triacylglycerol lipase level
+name: Increased circulating precipitin level
+name: Increased circulating procalcitonin level
+name: Increased circulating progesterone
+name: Increased circulating prolactin concentration
+name: Increased circulating purine concentration
+name: Increased circulating renin level
+name: Increased circulating selenium concentration
+name: Increased circulating specific IgE antibody
+name: Increased circulating surfactant protein level
+name: Increased circulating thyroglobulin level
+name: Increased circulating thyroxine-binding globulin level
+name: Increased circulating trypsinogen
+name: Increased complex N-glycan level
+name: Increased connective tissue
+name: Increased core 1 O-glycan level
+name: Increased corneal curvature
+name: Increased corneal thickness
+name: Increased cotinine level
+name: Increased cup-to-disc ratio
+name: Increased cystatin C level
+name: Increased density of left ventricular trabeculae
+name: Increased density of long bone diaphyses
+name: Increased density of long bones
+name: Increased dermatoglyphic whorls
+name: Increased disialylated core 1 O-glycan level
+name: Increased endomysial connective tissue
+name: Increased erythrocyte protoporphyrin concentration
+name: Increased extraneuronal autofluorescent lipopigment
+name: Increased facial adipose tissue
+name: Increased factor IX activity
+name: Increased factor VIII activity
+name: Increased fecal coproporphyrin 1
+name: Increased fecal coproporphyrin 3
+name: Increased fecal porphyrin
+name: Increased female libido
+name: Increased femoral torsion
+name: Increased fetal movement
+name: Increased fibular diameter
+name: Increased fucosylation of N-linked protein glycosylation
+name: Increased fucosylation of O-linked protein glycosylation
+name: Increased globoside Gb3 level
+name: Increased globoside Gb4 level
+name: Increased glomerular filtration rate
+name: Increased glucagon level
+name: Increased glucose-6-phosphate dehydrogenase level in blood
+name: Increased glucose-6-phosphate dehydrogenase level in dried blood spot
+name: Increased glucose-6-phosphate dehydrogenase level in leukocytes
+name: Increased glucose-6-phosphate dehydrogenase level in red blood cells
+name: Increased glucose-6-phosphate dehydrogenase level in tissue
+name: Increased glutamine family amino acid level in urine
+name: Increased groin pigmentation with raindrop depigmentation
+name: Increased head circumference
+name: Increased heart rate variability
+name: Increased helper T cell proportion
+name: Increased hematocrit
+name: Increased hemoglobin
+name: Increased hemoglobin concentration
+name: Increased hemoglobin oxygen affinity
+name: Increased hepatic echogenicity
+name: Increased hepatic glycogen content
+name: Increased hepatitis A virus antibody level
+name: Increased hepatitis B virus antibody level
+name: Increased hepatitis C virus antibody level
+name: Increased hepatocellular lipid droplets
+name: Increased high-mannose N-glycan level
+name: Increased immunoglobulin level in body fluid
+name: Increased incisura length
+name: Increased incisura width
+name: Increased inflammatory response
+name: Increased intervertebral space
+name: Increased intestinal transit time
+name: Increased intraabdominal fat
+name: Increased intracellular sodium
+name: Increased intracranial pressure
+name: Increased intramuscular fat
+name: Increased intramyocellular lipid droplets
+name: Increased jitter at single fiber EMG
+name: Increased lactate dehydrogenase level
+name: Increased laxity of ankles
+name: Increased laxity of fingers
+name: Increased length of the tibia
+name: Increased level of 3-hydroxy-3-methylglutaric acid in urine
+name: Increased level of D-threitol in CSF
+name: Increased level of D-threitol in plasma
+name: Increased level of D-threitol in urine
+name: Increased level of GABA in serum
+name: Increased level of L-fucose in urine
+name: Increased level of L-glutamic acid in blood
+name: Increased level of L-pyroglutamic acid in urine
+name: Increased level of N-acetylneuraminic acid in fibroblasts
+name: Increased level of N-acetylneuraminic acid in urine
+name: Increased level of O-phosphoethanolamine in urine
+name: Increased level of allantoin in serum
+name: Increased level of carnosine in blood
+name: Increased level of circulating aspartic acid
+name: Increased level of galactitol in plasma
+name: Increased level of galactitol in red blood cells
+name: Increased level of galactitol in urine
+name: Increased level of galactonate in red blood cells
+name: Increased level of gamma-aminobutyric acid in urine
+name: Increased level of hexanoylglycine in urine
+name: Increased level of hippuric acid in blood
+name: Increased level of hippuric acid in urine
+name: Increased level of methylsuccinic acid in urine
+name: Increased level of myristic acid in serum
+name: Increased level of platelet-activating factor
+name: Increased level of propylene glycol in blood
+name: Increased level of ribitol in CSF
+name: Increased level of ribitol in urine
+name: Increased level of ribose in CSF
+name: Increased level of ribose in urine
+name: Increased level of xylitol in CSF
+name: Increased level of xylitol in urine
+name: Increased libido
+name: Increased lymphocyte apoptosis
+name: Increased male libido
+name: Increased mannose-binding protein level
+name: Increased mannosylation of N-linked protein glycosylation
+name: Increased mean corpuscular hemoglobin concentration
+name: Increased mean corpuscular volume
+name: Increased mean platelet volume
+name: Increased megakaryocyte count
+name: Increased micromegakaryocyte count
+name: Increased mitochondrial number
+name: Increased monosialylated core 1 O-glycan level
+name: Increased multinucleated megakaryocyte count
+name: Increased muscle fatiguability
+name: Increased muscle glycogen content
+name: Increased muscle lipid content
+name: Increased neuronal autofluorescent lipopigment
+name: Increased neutrophil mitochondria
+name: Increased neutrophil nuclear projections
+name: Increased neutrophil ribosomes
+name: Increased nuchal translucency
+name: Increased number of elastic fibers in the dermis
+name: Increased number of lymph nodes
+name: Increased number of skin folds
+name: Increased number of teeth
+name: Increased oocyte death
+name: Increased peripheral blast count
+name: Increased peripheral myelin thickness
+name: Increased phosphoribosylpyrophosphate synthetase level
+name: Increased pineal volume
+name: Increased pitch variability of speech
+name: Increased pituitary glycoprotein hormone alpha subunit level
+name: Increased placental thickness
+name: Increased plasma vitamin K epoxide after vitamin K supplementation
+name: Increased proinsulin:insulin ratio
+name: Increased proportion autoreactive unresponsive CD21-/low B cells
+name: Increased proportion of CD25+ mast cells
+name: Increased proportion of CD4+CD25+ regulatory T cells
+name: Increased proportion of CD4-positive T cells
+name: Increased proportion of CD4-positive, alpha-beta memory T cells
+name: Increased proportion of CD8-positive, alpha-beta TEMRA T cells
+name: Increased proportion of CD8-positive, alpha-beta memory T cells
+name: Increased proportion of HLA DR+ T cells
+name: Increased proportion of central memory CD4-positive, alpha-beta T cells
+name: Increased proportion of central memory CD8-positive, alpha-beta T cells
+name: Increased proportion of class-switched memory B cells
+name: Increased proportion of effector memory CD4-positive, alpha-beta T cells
+name: Increased proportion of effector memory CD8-positive, alpha-beta T cells
+name: Increased proportion of exhausted T cells
+name: Increased proportion of gamma-delta T cells
+name: Increased proportion of immature B cells
+name: Increased proportion of immature gamma-delta T cells
+name: Increased proportion of marginal zone B cells
+name: Increased proportion of memory B cells
+name: Increased proportion of memory T cells
+name: Increased proportion of naive B cells
+name: Increased proportion of naive CD4 T cells
+name: Increased proportion of naive CD8 T cells
+name: Increased proportion of naive T cells
+name: Increased proportion of plasmablasts
+name: Increased proportion of transitional B cells
+name: Increased proportion of unswitched memory B cells
+name: Increased proteinogenic amino acid level in urine
+name: Increased pulmonary capillary wedge pressure
+name: Increased pulmonary vascular resistance
+name: Increased radioactive iodine uptake
+name: Increased rate of premature chromosome condensation
+name: Increased ratio of VWF propeptide to VWF antigen
+name: Increased reactive oxygen species production
+name: Increased red blood cell count
+name: Increased red blood cell mass
+name: Increased red cell hemolysis by shear stress
+name: Increased red cell osmotic fragility
+name: Increased red cell osmotic resistance
+name: Increased red cell sickling tendency
+name: Increased renal tubular phosphate reabsorption
+name: Increased resting energy expenditure
+name: Increased retinal vascularity
+name: Increased salivary cortisol level
+name: Increased sarcoplasmic glycogen
+name: Increased scrotal rugation
+name: Increased sensitivity to ionizing radiation
+name: Increased serine family amino acid in urine
+name: Increased serum androstenedione
+name: Increased serum beta-hexosaminidase
+name: Increased serum bile acid concentration
+name: Increased serum bile acid concentration during pregnancy
+name: Increased serum estradiol
+name: Increased serum estriol
+name: Increased serum estrone
+name: Increased serum ferritin
+name: Increased serum iduronate sulfatase level
+name: Increased serum insulin-like growth factor 1
+name: Increased serum interferon-gamma level
+name: Increased serum iron
+name: Increased serum lactate
+name: Increased serum leptin
+name: Increased serum prostaglandin E2
+name: Increased serum pyruvate
+name: Increased serum serotonin
+name: Increased serum sorbitol concentration
+name: Increased serum testosterone level
+name: Increased serum zinc
+name: Increased sialylated N-glycan level
+name: Increased sialylation of N-linked protein glycosylation
+name: Increased size of nasopharyngeal adenoids
+name: Increased size of the clitoris
+name: Increased size of the mandible
+name: Increased skull ossification
+name: Increased spinal bone density
+name: Increased stool alpha1-antitrypsin concentration
+name: Increased stool urobilinogen concentration
+name: Increased subcutaneous truncal adipose tissue
+name: Increased sulfur amino acid level in urine
+name: Increased superoxide dismutase level
+name: Increased susceptibility to fractures
+name: Increased susceptibility to spontaneous sister chromatid exchange
+name: Increased tear production
+name: Increased theta frequency activity in EEG
+name: Increased thyroid-stimulating hormone level
+name: Increased total bilirubin
+name: Increased total hemolytic complement activity
+name: Increased total iron binding capacity
+name: Increased triceps skinfold thickness
+name: Increased troponin I level in blood
+name: Increased troponin T level in blood
+name: Increased upper to lower segment ratio
+name: Increased uridine diphosphate glucose-4-epimerase level in plasma
+name: Increased uridine diphosphate glucose-4-epimerase level in red blood cells
+name: Increased urinary 1-methylhistidine
+name: Increased urinary 11-deoxycorticosterone level
+name: Increased urinary 11-deoxycortisol level
+name: Increased urinary 11-deoxytetrahydrocorticosterone level
+name: Increased urinary 3-methylhistidine
+name: Increased urinary O-linked sialopeptides
+name: Increased urinary copper concentration
+name: Increased urinary cortisol level
+name: Increased urinary disaccharide excretion
+name: Increased urinary epithelial cell count
+name: Increased urinary excretion of galactosyl hydroxylysine
+name: Increased urinary fucosylated oligosaccharide
+name: Increased urinary galactosylated oligosaccharide
+name: Increased urinary glycerol
+name: Increased urinary high-mannose-type oligosaccharide
+name: Increased urinary hypoxanthine
+name: Increased urinary mucus
+name: Increased urinary multiantennary sialylated oligosaccharide
+name: Increased urinary neutrophil gelatinase-associated lipocalin
+name: Increased urinary non-proteinogenic amino acid level
+name: Increased urinary orosomucoid
+name: Increased urinary phosphoserine level
+name: Increased urinary polyhexose
+name: Increased urinary porphobilinogen
+name: Increased urinary potassium
+name: Increased urinary renal tubular epithelial cell count
+name: Increased urinary sedoheptulose
+name: Increased urinary squamous epithelial cell count
+name: Increased urinary sulfate
+name: Increased urinary sulfite
+name: Increased urinary taurine
+name: Increased urinary thiosulfate
+name: Increased urinary transitional epithelial cell count
+name: Increased urinary type 1 collagen N-terminal telopeptide level
+name: Increased urinary urate
+name: Increased urinary zinc level
+name: Increased urine alpha-ketoglutarate concentration
+name: Increased urine glutamate level
+name: Increased urine isobutyrylglycine concentration
+name: Increased urine neutrophil count
+name: Increased urine proteinogenic amino acid derivative level
+name: Increased urine sebacic acid concentration
+name: Increased urine succinate level
+name: Increased urine urobilinogen
+name: Increased variability in muscle fiber diameter
+name: Increased vertebral height
+name: Increased vertical cup-to-disc ratio
+name: Increased vertical cup-to-disc ratio - 0.6
+name: Increased vertical cup-to-disc ratio - 0.7
+name: Increased vertical cup-to-disc ratio - 0.8
+name: Increased vertical cup-to-disc ratio - 0.9
+name: Increased vertical cup-to-disc ratio - 1.0
+name: Increased waist to hip ratio
+name: Paradoxical increased cortisol secretion on dexamethasone suppression test
+name: Parathormone-independent increased renal tubular calcium reabsorption
