@@ -1,0 +1,108 @@
+OPPOSITE	hypernatriuria	hyponatriuria
+OPPOSITE	hypermelanotic macule	hypomelanotic macule
+OPPOSITE	hyperplastic labia majora	hypoplastic labia majora
+OPPOSITE	Generalized hyperpigmentation	Generalized hypopigmentation
+OPPOSITE	hypertyrosinemia	hypotyrosinemia
+OPPOSITE	hypermethioninemia	hypomethioninemia
+OPPOSITE	Focal T2 hyperintense basal ganglia lesion	Focal T2 hypointense basal ganglia lesion
+OPPOSITE	hypercholesterolemia	hypocholesterolemia
+OPPOSITE	Erythroid hyperplasia	Erythroid hypoplasia
+OPPOSITE	hypercapnia	hypocapnia
+OPPOSITE	Alternating hyperphoria	Alternating hypophoria
+OPPOSITE	hyperplasia of the maxilla	hypoplasia of the maxilla
+OPPOSITE	hyperautofluorescent macular lesion	hypoautofluorescent macular lesion
+OPPOSITE	Chorioretinal hyperpigmentation	Chorioretinal hypopigmentation
+OPPOSITE	hypercalciuria	hypocalciuria
+OPPOSITE	hyperthyroidism	hypothyroidism
+OPPOSITE	Foveal hyperpigmentation	Foveal hypopigmentation
+OPPOSITE	Thyroid hyperplasia	Thyroid hypoplasia
+OPPOSITE	hyperuricemia	hypouricemia
+OPPOSITE	Granulocytic hyperplasia	Granulocytic hypoplasia
+OPPOSITE	hyperphenylalaninemia	hypophenylalaninemia
+OPPOSITE	CNS hypermyelination	CNS hypomyelination
+OPPOSITE	hyperpigmented genitalia	hypopigmented genitalia
+OPPOSITE	hyperpituitarism	hypopituitarism
+OPPOSITE	hypernatremia	hyponatremia
+OPPOSITE	hypervalinemia	hypovalinemia
+OPPOSITE	hyperphosphaturia	hypophosphaturia
+OPPOSITE	hyperplasia of the premaxilla	hypoplasia of the premaxilla
+OPPOSITE	hyperreflexia	hyporeflexia
+OPPOSITE	Generalized hypertrichosis	Generalized hypotrichosis
+OPPOSITE	hyperphosphatemia	hypophosphatemia
+OPPOSITE	hypercalcemia	hypocalcemia
+OPPOSITE	Spotty hyperpigmentation	Spotty hypopigmentation
+OPPOSITE	hypercapnia in cord blood	hypocapnia in cord blood
+OPPOSITE	hyperkalemia	hypokalemia
+OPPOSITE	Focal T2 hyperintense brainstem lesion	Focal T2 hypointense brainstem lesion
+OPPOSITE	hypermagnesemia	hypomagnesemia
+OPPOSITE	Megakaryocyte nucleus hyperlobulation	Megakaryocyte nucleus hypolobulation
+OPPOSITE	hyperlipoproteinemia	hypolipoproteinemia
+OPPOSITE	hypertension	hypotension
+OPPOSITE	hyperisoleucinemia	hypoisoleucinemia
+OPPOSITE	Multifocal hyperintensity of cerebral white matter on MRI	Multifocal hypointensity of cerebral white matter on MRI
+OPPOSITE	Peripheral hypermyelination	Peripheral hypomyelination
+OPPOSITE	hyperornithinemia	hypoornithinemia
+OPPOSITE	Focal hyperintensity of cerebral white matter on MRI	Focal hypointensity of cerebral white matter on MRI
+OPPOSITE	hyperlipidemia	hypolipidemia
+OPPOSITE	hyperphoria	hypophoria
+OPPOSITE	hyperfibrinogenemia	hypofibrinogenemia
+OPPOSITE	Macular hyperpigmentation	Macular hypopigmentation
+OPPOSITE	hyperintensity of cerebral white matter on MRI	hypointensity of cerebral white matter on MRI
+OPPOSITE	hyperventilation	hypoventilation
+OPPOSITE	hyperleucinemia	hypoleucinemia
+OPPOSITE	hyperglycemia	hypoglycemia
+OPPOSITE	hypermetric saccades	hypometric saccades
+OPPOSITE	hyperpigmentation of the fundus	hypopigmentation of the fundus
+OPPOSITE	hyperpigmentation of the skin	hypopigmentation of the skin
+OPPOSITE	Bone marrow hypercellularity	Bone marrow hypocellularity
+OPPOSITE	hypercitraturia	hypocitraturia
+OPPOSITE	hyperprolinemia	hypoprolinemia
+OPPOSITE	hyperargininemia	hypoargininemia
+OPPOSITE	hyperinsulinemia	hypoinsulinemia
+OPPOSITE	Confluent hyperintensity of cerebral white matter on MRI	Confluent hypointensity of cerebral white matter on MRI
+OPPOSITE	hyperamylasemia	hypoamylasemia
+OPPOSITE	hyperglutamatemia	hypoglutamatemia
+OPPOSITE	hyperproteinemia	hypoproteinemia
+OPPOSITE	hyperammonemia	hypoammonemia
+OPPOSITE	hyperpigmented streaks	hypopigmented streaks
+OPPOSITE	hyperhidrosis	hypohidrosis
+OPPOSITE	Hemihypertrophy of lower limb	Hemihypotrophy of lower limb
+OPPOSITE	Triceps hyperreflexia	Triceps hyporeflexia
+OPPOSITE	Biceps hyperreflexia	Biceps hyporeflexia
+OPPOSITE	Pancreatic hyperplasia	Pancreatic hypoplasia
+OPPOSITE	hyperlysinemia	hypolysinemia
+OPPOSITE	hyperactive bowel sounds	hypoactive bowel sounds
+OPPOSITE	hypertropia	hypotropia
+OPPOSITE	hyperthreoninemia	hypothreoninemia
+OPPOSITE	hypermanganesemia	hypomanganesemia
+OPPOSITE	Alternating hypertropia	Alternating hypotropia
+OPPOSITE	Parathyroid hyperplasia	Parathyroid hypoplasia
+OPPOSITE	hyperperistalsis	hypoperistalsis
+OPPOSITE	hyperalbuminemia	hypoalbuminemia
+OPPOSITE	Adrenal hyperplasia	Adrenal hypoplasia
+OPPOSITE	hyperglycorrhachia	hypoglycorrhachia
+OPPOSITE	hypermagnesiuria	hypomagnesiuria
+OPPOSITE	hypermetric horizontal saccades	hypometric horizontal saccades
+OPPOSITE	hyperglutaminemia	hypoglutaminemia
+OPPOSITE	hyperglycinemia	hypoglycinemia
+OPPOSITE	Congenital adrenal hyperplasia	Congenital adrenal hypoplasia
+OPPOSITE	hypersegmentation of neutrophil nuclei	hyposegmentation of neutrophil nuclei
+OPPOSITE	Focal T2 hyperintense thalamic lesion	Focal T2 hypointense thalamic lesion
+OPPOSITE	hyperhistidinemia	hypohistidinemia
+OPPOSITE	hyperalaninemia	hypoalaninemia
+OPPOSITE	hyperchloremia	hypochloremia
+OPPOSITE	hypercystinemia	hypocystinemia
+OPPOSITE	Periventricular white matter hyperdensities	Periventricular white matter hypodensities
+OPPOSITE	hypervolemia	hypovolemia
+OPPOSITE	hyperchloriduria	hypochloriduria
+OPPOSITE	hyperparathyroidism	hypoparathyroidism
+OPPOSITE	hypertriglyceridemia	hypotriglyceridemia
+OPPOSITE	hyperdeviation	hypodeviation
+OPPOSITE	hypertelorism	hypotelorism
+OPPOSITE	hyperautofluorescent retinal lesion	hypoautofluorescent retinal lesion
+OPPOSITE	hyperasparaginemia	hypoasparaginemia
+OPPOSITE	Brachioradialis hyperreflexia	Brachioradialis hyporeflexia
+OPPOSITE	hypertryptophanemia	hypotryptophanemia
+OPPOSITE	hyperserinemia	hyposerinemia
+OPPOSITE	hypersegmentation of neutrophil nuclei in CSF	hyposegmentation of neutrophil nuclei in CSF
+OPPOSITE	hypertaurinemia	hypotaurinemia

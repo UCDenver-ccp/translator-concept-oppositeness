@@ -1,0 +1,223 @@
+name: Harderian gland hyperplasia
+name: Harderian gland hypertrophy
+name: L4 dorsal root ganglion hypertrophy
+name: L5 dorsal root ganglion hypertrophy
+name: Leydig cell hyperplasia
+name: Leydig cell hypertrophy
+name: Meckel's cartilage hyperplasia
+name: Meibomian gland hyperplasia
+name: Meibomian gland hypertrophy
+name: Sertoli cell hyperplasia
+name: abnormal afterhyperpolarization
+name: abnormal hyperactivated sperm motility
+name: abnormal hypersensitivity reaction
+name: abnormal long bone hypertrophic chondrocyte zone
+name: abnormal response to stress-induced hyperthermia
+name: abnormal somatic hypermutation frequency
+name: abnormal type I hypersensitivity reaction
+name: abnormal type II hypersensitivity reaction
+name: abnormal type III hypersensitivity reaction
+name: abnormal type IV hypersensitivity reaction
+name: adenohypophysis hyperplasia
+name: adenohypophysis hypertrophy
+name: adrenal cortical hyperplasia
+name: adrenal gland hyperplasia
+name: adrenal medulla hyperplasia
+name: adrenergic chromaffin cell hyperplasia
+name: airway basal cell hyperplasia
+name: aortic hypertrophy
+name: bile duct epithelium hyperplasia
+name: bile duct hyperplasia
+name: bronchial epithelial hyperplasia
+name: bronchiolar epithelial hyperplasia
+name: bulbourethral gland hyperplasia
+name: cardiac hypertrophy
+name: choroid plexus hyperplasia
+name: conjunctival hyperemia
+name: conotruncal ridge hyperplasia
+name: corneal epithelium hyperplasia
+name: craniofacial hyperostosis
+name: decreased hyperactivated sperm motility
+name: decreased response to stress-induced hyperthermia
+name: decreased susceptibility to hyperlipidemia
+name: decreased susceptibility to hypertension
+name: decreased susceptibility to type I hypersensitivity reaction
+name: decreased susceptibility to type II hypersensitivity reaction
+name: decreased susceptibility to type III hypersensitivity reaction
+name: decreased susceptibility to type IV hypersensitivity reaction
+name: decreased susceptibility to xenobiotic induced hyperthermia
+name: decreased width of hypertrophic chondrocyte zone
+name: dermal hyperplasia
+name: dermis papillary layer hypercellularity
+name: diaphragm muscle hyperplasia
+name: diencephalon hyperplasia
+name: dorsal root ganglion hyperplasia
+name: endometrium hyperplasia
+name: epidermal hyperplasia
+name: epidermis stratum granulosum hyperplasia
+name: epidermis stratum spinosum hyperplasia
+name: epididymis hypertrophy
+name: epiglottis hyperplasia
+name: esophageal epithelium hyperplasia
+name: esophagus hyperplasia
+name: exocrine pancreas hyperplasia
+name: eyelid hyperplasia
+name: facial hyperostosis
+name: forebrain hyperplasia
+name: gastric gland hyperplasia
+name: gastric hypertrophy
+name: gonial bone hyperplasia
+name: hair follicle inner root sheath hyperplasia
+name: hair follicle outer root sheath hyperplasia
+name: head mesenchyme hyperplasia
+name: heart hyperplasia
+name: heart left ventricle hypertrophy
+name: heart right ventricle hypertrophy
+name: heart valve hyperplasia
+name: hindbrain hyperplasia
+name: hyperactivity
+name: hyperactivity elicited by ethanol administration
+name: hyperactivity elicited by feed restriction
+name: hyperalgesia
+name: hypercapnia
+name: hyperchlorhydria
+name: hyperchromasia
+name: hyperchromic macrocytic anemia
+name: hyperchylomicronemia
+name: hyperdipsia
+name: hyperekplexia
+name: hyperglutaminuria
+name: hyperglycemia
+name: hyperglycinuria
+name: hypergranulosis
+name: hyperhidrosis
+name: hyperinnervation of Meissner's corpuscle
+name: hyperinnervation of Merkel's receptor
+name: hyperinnervation of hair guard cells
+name: hyperinnervation of hair-down cells
+name: hyperinnervation of hair-tylotrich cells
+name: hyperkalemia
+name: hyperkeratosis
+name: hyperlactation
+name: hyperlipidemia
+name: hypermetropia
+name: hypermyelination
+name: hyperostosis
+name: hyperoxaluria
+name: hyperoxia
+name: hyperpigmentation
+name: hyperpituitarism
+name: hyperpnea
+name: hyperresponsive
+name: hyperresponsive to electrical stimuli
+name: hyperresponsive to tactile stimuli
+name: hypersecretion of adrenocorticotropin
+name: hypersecretion of corticosterone
+name: hypersecretion of corticotropin-releasing hormone
+name: hypersulfatemia
+name: hypertension
+name: hyperthreoninuria
+name: hypertonicity
+name: hypertropia
+name: hyperventilation
+name: hypervolemia
+name: hypothalamus hyperplasia
+name: ileum hypertrophy
+name: increased response to stress-induced hyperthermia
+name: increased susceptibility to hypertension
+name: increased susceptibility to malignant hyperthermia
+name: increased susceptibility to type I hypersensitivity reaction
+name: increased susceptibility to type II hypersensitivity reaction
+name: increased susceptibility to type III hypersensitivity reaction
+name: increased susceptibility to type IV hypersensitivity reaction
+name: increased width of hypertrophic chondrocyte zone
+name: induced hyperactivity
+name: interstinal hyperperistalsis
+name: interstitial cells of Cajal hyperplasia
+name: iris hyperplasia
+name: juxtaglomerular cell hyperplasia
+name: kidney epithelium hyperplasia
+name: kidney medulla hyperplasia
+name: lacrimal gland hyperplasia
+name: lacrimal gland hypertrophy
+name: limb hypertonicity
+name: liver hyperplasia
+name: lung epithelium hyperplasia
+name: lymph node hyperplasia
+name: lymph node medullary cord hyperplasia
+name: lymphatic vessel hyperplasia
+name: lymphoid hyperplasia
+name: mammary gland alveolar hyperplasia
+name: mammary gland duct hyperplasia
+name: mammary gland hyperplasia
+name: mandibular hyperostosis
+name: mesangial cell hyperplasia
+name: midbrain hyperplasia
+name: muscle hypertonia
+name: myeloid hyperplasia
+name: myocardium hypertrophy
+name: nasal bone hyperplasia
+name: neuron hypertrophy
+name: ocular hypertelorism
+name: ocular hypertension
+name: otic hypertelorism
+name: ovary hyperplasia
+name: pancreas hyperplasia
+name: pancreatic acinar hyperplasia
+name: pancreatic islet hyperplasia
+name: papillary muscle hypertrophy
+name: parathyroid gland hyperplasia
+name: paravertebral ganglia hyperplasia
+name: periodontal ligament hypercellularity
+name: persistent hyperplastic primary vitreous
+name: pituitary gland hyperplasia
+name: pituitary gland hypertrophy
+name: pituitary intermediate lobe hyperplasia
+name: podocyte hypertrophy
+name: portal hypertension
+name: prevertebral ganglia hyperplasia
+name: primary vitreous hyperplasia
+name: prostate gland anterior lobe hyperplasia
+name: prostate gland epithelial hyperplasia
+name: prostate gland hyperplasia
+name: pulmonary hyperemia
+name: pulmonary hyperplasia
+name: pulmonary hypertension
+name: pyloric sphincter hypertrophy
+name: renal glomerulus hypertrophy
+name: renal tubule hypertrophy
+name: respiratory epithelium hypertrophy
+name: retina hyperplasia
+name: retinal pigment epithelium hyperplasia
+name: salivary gland epithelial hyperplasia
+name: salt-resistant hypertension
+name: salt-sensitive hypertension
+name: scrotum hyperplasia
+name: sebaceous gland hyperplasia
+name: sebaceous gland hypertrophy
+name: skeletal muscle hyperplasia
+name: skeletal muscle hypertrophy
+name: skin hyperplasia
+name: spleen hyperplasia
+name: stomach epithelial hyperplasia
+name: stomach fundus hypertrophy
+name: stomach mucosa hyperplasia
+name: stomach non-glandular epithelium hyperkeratosis
+name: stomach smooth muscle circular layer hypertrophy
+name: submandibular gland hyperplasia
+name: superior cervical ganglion hypertrophy
+name: synovial hyperemia
+name: testicular hyperplasia
+name: thalamus hyperplasia
+name: thymus cortex hyperplasia
+name: thymus hyperplasia
+name: thymus medulla hyperplasia
+name: thyroid gland hyperplasia
+name: toenail hyperkeratosis
+name: trigeminal ganglion hypertrophy
+name: ureter urothelium hyperplasia
+name: uterus hyperplasia
+name: uterus hypertrophy
+name: vagina hyperplasia
+name: vascular smooth muscle hyperplasia
+name: vascular smooth muscle hypertrophy

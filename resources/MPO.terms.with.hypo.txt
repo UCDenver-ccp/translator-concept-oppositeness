@@ -1,0 +1,303 @@
+name: Harderian gland hypoplasia
+name: Leydig cell hypoplasia
+name: Meckel's cartilage hypoplasia
+name: Meibomian gland hypoplasia
+name: Rathke's pouch hypoplasia
+name: Sertoli cell hypoplasia
+name: abnormal adenohypophysis development
+name: abnormal adenohypophysis morphology
+name: abnormal anterior hypothalamic nucleus morphology
+name: abnormal arcuate nucleus of hypothalamus morphology
+name: abnormal hypodermis fat layer morphology
+name: abnormal hypodermis morphology
+name: abnormal hypodermis muscle layer morphology
+name: abnormal hypoglossal canal morphology
+name: abnormal hypoglossal cord morphology
+name: abnormal hypoglossal nerve morphology
+name: abnormal hypoglossal nerve topology
+name: abnormal hypoglossal nucleus morphology
+name: abnormal hypopharynx morphology
+name: abnormal hypothalamic nucleus morphology
+name: abnormal hypothalamus morphology
+name: abnormal hypothalamus physiology
+name: abnormal hypothalamus secretion
+name: abnormal hypoxanthine phosphoribosyltransferase activity
+name: abnormal hypoxanthine-guanine phosphoribosyltransferase level
+name: abnormal neurohypophyseal bud morphology
+name: abnormal neurohypophysis development
+name: abnormal neurohypophysis median eminence morphology
+name: abnormal neurohypophysis morphology
+name: abnormal paraventricular hypothalamic nucleus morphology
+name: abnormal ventromedial hypothalamic nucleus average cell area
+name: abnormal ventromedial hypothalamic nucleus cell density
+name: abnormal ventromedial hypothalamic nucleus cell number
+name: abnormal ventromedial hypothalamic nucleus morphology
+name: abnormal ventromedial hypothalamic nucleus size
+name: abnormal ventromedial hypothalamic nucleus total cell area
+name: absent adenohypophysis
+name: absent hypodermis muscle layer
+name: absent hypoglossal canal
+name: absent hypoglossal nerve
+name: absent neurohypophysis
+name: acromion hypoplasia
+name: adenohypophysis hyperplasia
+name: adenohypophysis hypertrophy
+name: adenohypophysis hypoplasia
+name: adenohypophysis peliosis
+name: adrenal gland hypoplasia
+name: alisphenoid bone hypoplasia
+name: aorta hypoplasia
+name: aorta tubular hypoplasia
+name: aortic arch hypoplasia
+name: arytenoid cartilage hypoplasia
+name: ascending aorta hypoplasia
+name: atrioventricular cushion hypoplasia
+name: atrioventricular node hypoplasia
+name: atrium hypoplasia
+name: atrium myocardium hypoplasia
+name: axial mesoderm hypoplasia
+name: axial skeleton hypoplasia
+name: basioccipital bone hypoplasia
+name: basisphenoid bone hypoplasia
+name: brachypodia
+name: bulbourethral gland hypoplasia
+name: cerebellum hypoplasia
+name: cerebellum vermis hypoplasia
+name: ciliary body hypoplasia
+name: clavicle hypoplasia
+name: clitoris hypoplasia
+name: cochlear ganglion hypoplasia
+name: conotruncal ridge hypoplasia
+name: corneal epithelium hypoplasia
+name: cricoid cartilage hypoplasia
+name: decreased hypothalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased hypoxanthine phosphoribosyltransferase activity
+name: decreased hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased susceptibility to induced hypothermia
+name: decreased thalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: decreased ventromedial hypothalamic nucleus average cell area
+name: decreased ventromedial hypothalamic nucleus cell density
+name: decreased ventromedial hypothalamic nucleus cell number
+name: decreased ventromedial hypothalamic nucleus size
+name: decreased ventromedial hypothalamic nucleus total cell area
+name: descending aorta hypoplasia
+name: diencephalon hypoplasia
+name: dorsal root ganglion hypoplasia
+name: ear lobe hypoplasia
+name: ectopic adenohypophysis
+name: ectopic neurohypophysis
+name: endometrium hypoplasia
+name: enlarged adenohypophysis
+name: epididymis hypoplasia
+name: epiglottis hypoplasia
+name: esophagus hypoplasia
+name: ethmoturbinate hypoplasia
+name: exocrine pancreas hypoplasia
+name: external male genitalia hypoplasia
+name: eyelid hypoplasia
+name: face hypoplasia
+name: facial bone hypoplasia
+name: facial muscle hypoplasia
+name: female preputial gland hypoplasia
+name: first pharyngeal arch hypoplasia
+name: forebrain hypoplasia
+name: forestomach hypoplasia
+name: fourth pharyngeal arch artery hypoplasia
+name: fourth pharyngeal arch hypoplasia
+name: frontal bone hypoplasia
+name: frontonasal prominence hypoplasia
+name: genital tubercle hypoplasia
+name: glossopharyngeal nerve hypoplasia
+name: gonadal ridge hypoplasia
+name: gonial bone hypoplasia
+name: head mesenchyme hypoplasia
+name: heart hypoplasia
+name: heart left ventricle hypoplasia
+name: heart right ventricle hypoplasia
+name: heart valve hypoplasia
+name: hemifacial hypoplasia
+name: hindbrain hypoplasia
+name: hippocampus hypoplasia
+name: hyoid bone hypoplasia
+name: hypaxial muscle hypoplasia
+name: hypoactivity
+name: hypoactivity in response to feed restriction
+name: hypoalgesia
+name: hypocapnia
+name: hypochlorhydria
+name: hypochromic anemia
+name: hypochromic macrocytic anemia
+name: hypochromic microcytic anemia
+name: hypodipsia
+name: hypogeusia
+name: hypoglycemia
+name: hypohidrosis
+name: hypokalemia
+name: hypolactation
+name: hypopigmentation
+name: hypopituitarism
+name: hypoplastic trabecular meshwork
+name: hypopnea
+name: hypopyon
+name: hyporesponsive to electrical stimuli
+name: hyporesponsive to tactile stimuli
+name: hypospadia
+name: hyposulfatemia
+name: hypotension
+name: hypothalamus hemorrhage
+name: hypothalamus hyperplasia
+name: hypotonia
+name: hypoventilation
+name: hypovolemia
+name: hypoxemia
+name: hypoxia
+name: increased hypodermis neovascularization
+name: increased hypothalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: increased hypoxanthine phosphoribosyltransferase activity
+name: increased hypoxanthine-guanine phosphoribosyltransferase level
+name: increased pituitary adenohypophysis tumor incidence
+name: increased thalamus hypoxanthine-guanine phosphoribosyltransferase level
+name: increased ventromedial hypothalamic nucleus average cell area
+name: increased ventromedial hypothalamic nucleus cell density
+name: increased ventromedial hypothalamic nucleus cell number
+name: increased ventromedial hypothalamic nucleus size
+name: increased ventromedial hypothalamic nucleus total cell area
+name: incus hypoplasia
+name: inner ear hypoplasia
+name: internal male genitalia hypoplasia
+name: interparietal bone hypoplasia
+name: intervertebral disk hypoplasia
+name: intestinal hypoperistalsis
+name: iris hypoplasia
+name: iris stroma hypoplasia
+name: ischium hypoplasia
+name: kidney cortex hypoplasia
+name: kidney medulla hypoplasia
+name: kidney papillary hypoplasia
+name: lacrimal bone hypoplasia
+name: lacrimal gland hypoplasia
+name: lateral prostate gland hypoplasia
+name: left atrium hypoplasia
+name: liver hypoplasia
+name: lymph node hypoplasia
+name: lymphoid hypoplasia
+name: malleus hypoplasia
+name: mammary gland hypoplasia
+name: mandible hypoplasia
+name: mandibular condyloid process hypoplasia
+name: mandibular coronoid process hypoplasia
+name: mandibular prominence hypoplasia
+name: maxilla hypoplasia
+name: maxillary prominence hypoplasia
+name: maxillary shelf hypoplasia
+name: mesangial cell hypoplasia
+name: metacarpal bone hypoplasia
+name: midbrain hypoplasia
+name: middle ear ossicle hypoplasia
+name: midface hypoplasia
+name: muscle hypoplasia
+name: myocardial trabeculae hypoplasia
+name: myocardium hypoplasia
+name: myometrium hypoplasia
+name: nasal bone hypoplasia
+name: nasal septum cartilage hypoplasia
+name: nasal septum hypoplasia
+name: occipital bone hypoplasia
+name: ocular hypotelorism
+name: ocular hypotension
+name: olfactory bulb hypoplasia
+name: optic nerve hypoplasia
+name: orbicularis oculi muscle hypoplasia
+name: otic capsule hypoplasia
+name: otic vesicle hypoplasia
+name: outer ear hypoplasia
+name: ovary hypoplasia
+name: oviduct hypoplasia
+name: palatal shelf hypoplasia
+name: palate bone hypoplasia
+name: palatine bone horizontal plate hypoplasia
+name: palatine bone hypoplasia
+name: pancreas hypoplasia
+name: pancreatic acinar hypoplasia
+name: pancreatic islet hypoplasia
+name: papillary muscle hypoplasia
+name: parathyroid hypoplasia
+name: parietal bone hypoplasia
+name: pharyngeal arch artery hypoplasia
+name: pharyngeal arch hypoplasia
+name: pharynx hypoplasia
+name: philtrum hypoplasia
+name: pituitary gland hypoplasia
+name: pituitary intermediate lobe hypoplasia
+name: placental labyrinth hypoplasia
+name: premaxilla hypoplasia
+name: presphenoid bone hypoplasia
+name: prostate gland hypoplasia
+name: pterygoid bone hypoplasia
+name: pubis hypoplasia
+name: pulmonary artery hypoplasia
+name: pulmonary hypoplasia
+name: pulmonary hypotension
+name: pulmonary trunk hypoplasia
+name: pulmonary vein hypoplasia
+name: radius hypoplasia
+name: renal hypoplasia
+name: retina hypoplasia
+name: right atrium hypoplasia
+name: right ventricular myocardium hypoplasia
+name: scapular bone hypoplasia
+name: scrotum hypoplasia
+name: sebaceous gland hypoplasia
+name: second pharyngeal arch hypoplasia
+name: seminal vesicle hypoplasia
+name: sinus venosus hypoplasia
+name: sixth pharyngeal arch hypoplasia
+name: skeletal muscle hypoplasia
+name: skeletal muscle hypotrophy
+name: skin hypoplasia
+name: small adenohypophysis
+name: small hypoglossal canal
+name: spleen hypoplasia
+name: stapes hypoplasia
+name: sternum hypoplasia
+name: stomach hypoplasia
+name: styloid process hypoplasia
+name: submandibular gland hypoplasia
+name: telencephalon hypoplasia
+name: temporal bone hypoplasia
+name: temporal bone squamous part hypoplasia
+name: testis hypoplasia
+name: thalamus hypoplasia
+name: thick hypodermis
+name: thin hypodermis
+name: thin hypoglossal nerve
+name: third pharyngeal arch artery hypoplasia
+name: third pharyngeal arch hypoplasia
+name: thymus cortex hypoplasia
+name: thymus hypoplasia
+name: thymus medulla hypoplasia
+name: thyroid cartilage hypoplasia
+name: thyroid gland hypoplasia
+name: tongue hypoplasia
+name: tongue muscle hypoplasia
+name: trabecula carnea hypoplasia
+name: trachea hypoplasia
+name: tricuspid valve hypoplasia
+name: turbinate hypoplasia
+name: tympanic ring hypoplasia
+name: ureter hypoplasia
+name: urinary bladder hypoplasia
+name: uterine cervix hypoplasia
+name: uterus hypoplasia
+name: vagina hypoplasia
+name: vas deferens hypoplasia
+name: vascular smooth muscle hypoplasia
+name: vascular smooth muscle hypotrophy
+name: ventricle myocardium hypoplasia
+name: ventricular hypoplasia
+name: ventricular myocardium compact layer hypoplasia
+name: vertebral body hypoplasia
+name: vestibular ganglion hypoplasia
+name: vomer bone hypoplasia
+name: zygomatic arch hypoplasia
+name: zygomatic bone hypoplasia
