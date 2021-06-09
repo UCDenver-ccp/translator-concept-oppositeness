@@ -98,7 +98,7 @@ for (i in 1:length(current.only)) { print(current.only[[i]])}
 
 ## Comparison to Chris et al.'s stuff
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, eval = FALSE}
 chris <- read.table("/Users/kevincohen/Dropbox/N-Z/translator-concept-oppositeness/experimental-outputs/mungall_both_hp.tsv", header = FALSE, sep = "\t")
 colnames(chris) <- c("term01", "term02")
 chris <- as_tibble(chris)
@@ -119,7 +119,7 @@ print(chris)
 ```
 OK, we know the intersection/complements, so let's see what Chris's opposites look like, exactly.
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, eval = FALSE}
 library(ontologyIndex)
 # His data is IDs only, and we need the terms, so we need to have a searchable version of HPO.
 hpo.ontology <- get_ontology("/Users/kevincohen/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo")
@@ -301,7 +301,7 @@ Now handling:
 ## 2021-05-26
 
 
-```{r}
+```{r, eval = FALSE}
 # only need to do once
 #install.packages("entropy")
 #library(entropy)
@@ -436,8 +436,9 @@ counts <- as.integer(c())
 sheet <- data.frame()
 
 for (file_number in 1:length(files)) {
-  if (1) { print(paste("File:", files[file_number])) }  
+  if (DEBUG) { print(paste("File:", files[file_number])) }  
   sheet <- NULL
+  counts <- NULL
   # stupid name for the variable, derived from the fact that 
   # I made the files from different sheets of the same spreadsheet
   sheet <- data.frame()
@@ -450,27 +451,29 @@ for (file_number in 1:length(files)) {
   for (i in 1:nrow(sheet)) {
   #for (i in 1:5) {
  
-    if (1) { print(paste("Row number:", i))}
+    if (DEBUG) { print(paste("Row number:", i))}
     
     my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], '"', sep = "")
     #my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], sep = "")
-    print(my_query)
+    if (DEBUG) { print(my_query) } 
     my_entrez_id <- get_pubmed_ids(my_query)
     #print(my_entrez_id$Count)
     counts <- c(counts, as.integer(my_entrez_id$Count))
   } # loop through pairs of terms
   
   column.names <- colnames(sheet)
-  if (1) { print("Add counts to data.frame")}
+  if (DEBUG) { print("Add counts to data.frame")
+            print(paste("Rows in data.frame:", nrow(sheet), "Elements in counts:", length(counts)))}
   sheet <- cbind(sheet,counts) 
   column.names <- c(column.names, "counts")
-  if (1) { print("Reset column names") }
+  if (DEBUG) { print("Reset column names") }
   colnames(sheet) <- column.names
   
-  if (1) { print("Finally, generate the graph") }
+  if (DEBUG) { print("Finally, generate the graph") }
   boxplot(sheet$counts ~ sheet$opposites,
           main = files[file_number])
   
+  wilcox.test(sheet$counts ~ sheet$opposites)
   
 } # close for-loop through list of files
 
