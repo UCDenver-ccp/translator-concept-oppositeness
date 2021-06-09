@@ -375,21 +375,15 @@ HPO/MPO/MONDO terms with increase and decrease; then adjectival ones (especially
 - Variability across those? Like, increased versus "increase in", "elevation of", etc.? Again, it's generation...
 
 
+- Additional affixes: over- and under-
+
 ## 2021-06-02
 
-1. Started by manually building a list
-2. Then searched HPO
-3. Comparing the two: we need to take synonymy into account where HPO doesn't
+1. Observation: synonymy is impoverished in these ontologies.  For example, _increased hemoglobin_ is probably equivalent to _elevated hemoglobin_, but only the first is in the ontology.
+2. So, the data would benefit from Dr. Funking.
+3. Logical opposites don't necessarily occur in these ontologies, and there might be good reasons for that. For example, _hypoxemia_ is a clearly clinically relevant concept, but _hyperoxemia_ might _not_ be.  This contrasts with _decreased hemoglobin affinity for oxygen_ and _increased hemoglobin affinity for oxygen_, both of which _are_ entirely clinically relevant.
 
-Retrieval of HPO terms: 
-
-egrep -i '^name.+increased' ~/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep -vi 'obsolete' | sort > ~/Dropbox/N-Z/translator-concept-oppositeness/resources/HPO.terms.with.increased.txt
-
-egrep -i '^name.+hyper' ~/Dropbox/a-m/Corpora/obo/hp-2020-20-12.obo | egrep -vi 'obsolete' | sort > ~/Dropbox/N-Z/translator-concept-oppositeness/resources/HPO.terms.with.hyper.txt
-
-To find paired hyper/hypo terms: cat ../resources/HPO.terms.with.hyper.txt ../resources/HPO.terms.with.hypo.txt | ./hyperHypoOpposites.pl
-
-To find paired increased/decreased terms: cat ../resources/HPO.terms.with.increased.txt ../resources/HPO.terms.with.decreased.txt | ./increasedDecreasedOpposites.pl
+Here are some numbers that support (1) and (3):
 
 HPO contains:
 
@@ -397,9 +391,13 @@ HPO contains:
 - 370 non-obsolete terms with 'decreased'
 - 168 paired non-obsolete increased/decreased terms
 
+This suggests that although perhaps there should _not_ be more pairs of opposites, there certainly _could_ be.
+
 - 453 non-obsolete terms with 'hyper'
 - 671 non-obsolete terms with 'hypo'
 - 108 paired non-obsolete hypo/hyper terms
+
+Again, this suggests that although perhaps there should _not_ be more pairs of opposites, there certainly _could_ be.
 
 - 165 with 'reduced'
 - 153 with 'elevated'
@@ -407,8 +405,65 @@ HPO contains:
 - 33 with 'high'
 - 61 with 'low'
 
-```{r}
+The 153:33 ratio of _elevated_ to _high_ and 165:4:61 of _reduced/depressed/low_ suggests that for recognition in text, Funkification would increase recall.
 
+------------------------
+
+So, for any given ontology, here's what I did:
+
+1. Grep out the terms with _increase, decrease, hyper,_ or _hypo_.
+2. Find the subset of those (increase/decrease and hyper/hypo) that do occur in addition to their logical opposite. (scripts: _increasedDecreasedOpposites.pl_ and _hyperHypoOpposites.pl_)
+3. For that subset, generate synonyms for both members of the pair. (script: _generatePairs.pl_)
+
+_Now let's go to a terminal..._
+
+
+## 2021-06-09
+
+```{r}
+library("easyPubMed")
+files <- c("/Users/kevincohen/Downloads/TRANSLATOR opposites MI - PATO.tsv",
+           "/Users/kevincohen/Downloads/TRANSLATOR opposites MI - HPO.tsv")
+
+#sheet <- read.table("/Users/kevincohen/Downloads/TRANSLATOR opposites MI - PATO.tsv",
+#                  header = TRUE, sep = "\t")
+
+counts <- as.integer(c())
+sheet <- data.frame()
+
+for (file_number in 1:length(files)) {
+  sheet <- NULL
+  sheet <- data.frame()
+  sheet <- read.table(files[file_number], header = TRUE, sep = "\t")
+  sheet$opposites <- as.factor(sheet$opposites)
+
+  # FOR DEV ONLY
+  #sheet <- sheet[1:5, ]
+  
+  for (i in 1:nrow(sheet)) {
+  #for (i in 1:5) {
+    my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], '"', sep = "")
+    #my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], sep = "")
+    print(my_query)
+    my_entrez_id <- get_pubmed_ids(my_query)
+    #print(my_entrez_id$Count)
+    counts <- c(counts, as.integer(my_entrez_id$Count))
+  } # loop through pairs of terms
+  
+  column.names <- colnames(sheet)
+  sheet <- cbind(sheet,counts) 
+  column.names <- c(column.names, "counts")
+  colnames(sheet) <- column.names
+  
+  boxplot(sheet$counts ~ sheet$opposites,
+          main = files[file_number])
+  
+  
+} # close for-loop through list of files
+
+#print(counts)
+
+#boxplot(counts)
 ```
 
 ## For reproducibility

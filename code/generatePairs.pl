@@ -7,6 +7,9 @@ use strict 'vars';
 
 my $DEBUG = 0;
 
+# seed random number generator, just in case
+srand(1789);
+
 #my %increased = ();
 #my %decreased = ();
 
