@@ -4,4 +4,8 @@ resources/.DS_Store
 resources/ontologies/pro_reasoned.61.0.obo
 temp.tsv
 temp.txt
+<<<<<<< HEAD
 *DS_Store
+=======
+experimental-outputs/.DS_Store
+>>>>>>> bfa0373a8f17a4339e578c14883d03b026cfd9e3

@@ -1,0 +1,21 @@
+	asexual spore	CL:0000605	sexual spore	CL:0000596
+	atrichoblast	CL:0000332	trichoblast	CL:0000299
+	branched duct epithelial cell	CL:0000069	non-branched duct epithelial cell	CL:0000072
+	fast muscle cell	CL:0000190	slow muscle cell	CL:0000189
+	fast muscle myoblast	CL:0000858	slow muscle myoblast	CL:0000857
+	immature alpha-beta t cell	CL:0000790	mature alpha-beta t cell	CL:0000791
+	immature b cell	CL:0000816	mature b cell	CL:0000785
+	immature basophil	CL:0000768	mature basophil	CL:0000043
+	immature eosinophil	CL:0000772	mature eosinophil	CL:0000041
+	immature gamma-delta t cell	CL:0000799	mature gamma-delta t cell	CL:0000800
+	immature myeloid dendritic cell	CL:0000840	mature myeloid dendritic cell	CL:0000841
+	immature natural killer cell	CL:0000823	mature natural killer cell	CL:0000824
+	immature neutrophil	CL:0000776	mature neutrophil	CL:0000096
+	immature t cell	CL:0000804	mature t cell	CL:0000812
+	large luteal cell	CL:0000592	small luteal cell	CL:0000590
+X	primary motor neuron	CL:0000533	secondary motor neuron	CL:0000536
+X	primary neuron	CL:0000530	secondary neuron	CL:0000535
+X	primary oocyte	CL:0000654	secondary oocyte	CL:0000655
+X	primary pigment cell	CL:0000727	secondary pigment cell	CL:0000728
+X	primary spermatocyte	CL:0000656	secondary spermatocyte	CL:0000657
+X	secondary pigment cell	CL:0000728	tertiary pigment cell	CL:0000729

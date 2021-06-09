@@ -420,6 +420,10 @@ _Now let's go to a terminal..._
 
 ## 2021-06-09
 
+I've updated the format of the files that contain opposites and synonyms. Now it encodes whether or not they're opposites, whether or not they're synonyms (you can be one, or the other, or neither, but not both); whether they're in the original form (i.e. exact match to the term in the ontology), or derived; and their source.
+
+So, this code takes those and automates the searches that last week I was doing manually.
+ 
 ```{r}
 library("easyPubMed")
 files <- c("/Users/kevincohen/Downloads/TRANSLATOR opposites MI - PATO.tsv",
@@ -432,7 +436,10 @@ counts <- as.integer(c())
 sheet <- data.frame()
 
 for (file_number in 1:length(files)) {
+  if (1) { print(paste("File:", files[file_number])) }  
   sheet <- NULL
+  # stupid name for the variable, derived from the fact that 
+  # I made the files from different sheets of the same spreadsheet
   sheet <- data.frame()
   sheet <- read.table(files[file_number], header = TRUE, sep = "\t")
   sheet$opposites <- as.factor(sheet$opposites)
@@ -442,6 +449,9 @@ for (file_number in 1:length(files)) {
   
   for (i in 1:nrow(sheet)) {
   #for (i in 1:5) {
+ 
+    if (1) { print(paste("Row number:", i))}
+    
     my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], '"', sep = "")
     #my_query <- paste('"', sheet[i, "term.01"], '"', " ",  '"', sheet[i, "term.02"], sep = "")
     print(my_query)
@@ -451,10 +461,13 @@ for (file_number in 1:length(files)) {
   } # loop through pairs of terms
   
   column.names <- colnames(sheet)
+  if (1) { print("Add counts to data.frame")}
   sheet <- cbind(sheet,counts) 
   column.names <- c(column.names, "counts")
+  if (1) { print("Reset column names") }
   colnames(sheet) <- column.names
   
+  if (1) { print("Finally, generate the graph") }
   boxplot(sheet$counts ~ sheet$opposites,
           main = files[file_number])
   
