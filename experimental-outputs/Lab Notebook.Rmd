@@ -444,6 +444,10 @@ for (file_number in 1:length(files)) {
   sheet <- data.frame()
   sheet <- read.table(files[file_number], header = TRUE, sep = "\t")
   sheet$opposites <- as.factor(sheet$opposites)
+  sheet$synonyms <- as.factor(sheet$synonyms)
+  
+  #print(xtabs(~opposites+synonyms, data = sheet))
+  print(ftable(xtabs(~opposites+synonyms, data = sheet)))
 
   # FOR DEV ONLY
   #sheet <- sheet[1:5, ]
@@ -471,9 +475,13 @@ for (file_number in 1:length(files)) {
   
   if (DEBUG) { print("Finally, generate the graph") }
   boxplot(sheet$counts ~ sheet$opposites,
-          main = files[file_number])
+          #main = files[file_number],
+          main = paste(files[file_number], "OUTLIERS REMOVED"),
+          outline = FALSE) # outline = FALSE removes outliers, of which there are quite a few
   
-  wilcox.test(sheet$counts ~ sheet$opposites)
+  # silly to do this while I barely have any synonyms, or non-opposites at all, really...
+  #hypothesis.test <- wilcox.test(sheet$counts ~ sheet$opposites)
+  #print(hypothesis.test)
   
 } # close for-loop through list of files
 
@@ -481,6 +489,17 @@ for (file_number in 1:length(files)) {
 
 #boxplot(counts)
 ```
+
+For next week:
+
+1. Add the searches for the four conditions that the code doesn't cover yet. Right now, it only does the search for term.01 & term.02. Need to add these four:
+  a. term.01 
+  b. term.01 - term.02
+  c. term.02 
+  d. term.02 - term.01
+2. Automatic generation of synonyms needs to be rewritten for new file format.
+3. New file for MONDO.
+4. Classify opposites by type of opposition.  Hypothesis: can do some of that programmatically.
 
 ## For reproducibility
 ```{r, echo = FALSE}
