@@ -1,0 +1,41 @@
+anion binding	GO:0043168	ion binding	GO:0043167
+anion channel activity	GO:0005253	ion channel activity	GO:0005216
+anion transmembrane transporter activity	GO:0008509	ion transmembrane transporter activity	GO:0015075
+clathrin heavy chain binding	GO:0032050	clathrin light chain binding	GO:0032051
+dephosphorylation-gated channel activity	GO:0022859	phosphorylation-gated channel activity	GO:0022828
+dynein heavy chain binding	GO:0045504	dynein light chain binding	GO:0045503
+high molecular weight kininogen binding	GO:0030985	low molecular weight kininogen binding	GO:0030986
+high voltage-gated calcium channel activity	GO:0008331	low voltage-gated calcium channel activity	GO:0008332
+high-affinity basic amino acid transmembrane transporter activity	GO:0005287	low-affinity basic amino acid transmembrane transporter activity	GO:0097625
+high-affinity glucose:proton symporter activity	GO:0005358	low-affinity glucose:proton symporter activity	GO:0005359
+high-affinity iga receptor activity	GO:0002170	low-affinity iga receptor activity	GO:0002171
+high-affinity ige receptor activity	GO:0019768	low-affinity ige receptor activity	GO:0019769
+high-affinity igg receptor activity	GO:0019771	low-affinity igg receptor activity	GO:0019772
+high-affinity igm receptor activity	GO:0002172	low-affinity igm receptor activity	GO:0002173
+high-affinity phosphate transmembrane transporter activity	GO:0048249	low-affinity phosphate transmembrane transporter activity	GO:0009673
+high-affinity secondary active ammonium transmembrane transporter activity	GO:0015398	low-affinity secondary active ammonium transmembrane transporter activity	GO:0015400
+high-affinity sodium:dicarboxylate symporter activity	GO:0015362	low-affinity sodium:dicarboxylate symporter activity	GO:0015361
+high-affinity sulfate:proton symporter activity	GO:0009675	low-affinity sulfate:proton symporter activity	GO:0009676
+high-affinity tryptophan transmembrane transporter activity	GO:0005300	low-affinity tryptophan transmembrane transporter activity	GO:0022893
+high-density lipoprotein particle binding	GO:0008035	low-density lipoprotein particle binding	GO:0030169
+high-density lipoprotein particle receptor activity	GO:0070506	low-density lipoprotein particle receptor activity	GO:0005041
+high-density lipoprotein particle receptor binding	GO:0070653	low-density lipoprotein particle receptor binding	GO:0050750
+inorganic anion transmembrane transporter activity	GO:0015103	organic anion transmembrane transporter activity	GO:0008514
+inorganic cation transmembrane transporter activity	GO:0022890	organic cation transmembrane transporter activity	GO:0015101
+large conductance calcium-activated potassium channel activity	GO:0060072	small conductance calcium-activated potassium channel activity	GO:0016286
+large ribosomal subunit rrna binding	GO:0070180	small ribosomal subunit rrna binding	GO:0070181
+myosin heavy chain binding	GO:0032036	myosin light chain binding	GO:0032027
+myosin heavy chain kinase activity	GO:0016905	myosin light chain kinase activity	GO:0004687
+myosin i heavy chain binding	GO:0032037	myosin i light chain binding	GO:0032030
+myosin ii heavy chain binding	GO:0032038	myosin ii light chain binding	GO:0032033
+myosin vi heavy chain binding	GO:0070854	myosin vi light chain binding	GO:0070856
+non-sequence-specific dna binding, bending	GO:0044378	sequence-specific dna binding, bending	GO:0044374
+nuclear export signal receptor activity	GO:0005049	nuclear import signal receptor activity	GO:0061608
+obsolete gram-negative antibacterial peptide activity	GO:0008225	obsolete gram-positive antibacterial peptide activity	GO:0008224
+obsolete gram-negative bacterial cell surface binding	GO:0051636	obsolete gram-positive bacterial cell surface binding	GO:0051637
+obsolete high affinity fc receptor activity	GO:0019764	obsolete low affinity fc receptor activity	GO:0019765
+obsolete high affinity metal ion uptake transporter activity	GO:0015336	obsolete low affinity metal ion uptake transporter activity	GO:0015337
+obsolete high-density lipoprotein	GO:0005321	obsolete low-density lipoprotein	GO:0005322
+obsolete negative transcription elongation factor activity	GO:0008148	obsolete positive transcription elongation factor activity	GO:0008159
+primary active transmembrane transporter activity	GO:0015399	secondary active transmembrane transporter activity	GO:0015291
+ribosomal large subunit binding	GO:0043023	ribosomal small subunit binding	GO:0043024

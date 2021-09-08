@@ -203,7 +203,11 @@ my %opposites = ("fast" => "slow",
                  "tertiary" => "quaternary",
                  "hyper" => "hypo",
                  "biosynthetic" => "catabolic",
-                 "catabolic" => "biosynthetic"); # hyper and hypo are tough ones 'cause they're prefixes but my code for these requires word boundaries BUT these aren't negatives, per se.  Solution: a small function for this
+                 "catabolic" => "biosynthetic",
+                 "import" => "export",
+                 "export" => "import",
+                 "importation" => "exportation",
+                 "exportation" => "importation"); # hyper and hypo are tough ones 'cause they're prefixes but my code for these requires word boundaries BUT these aren't negatives, per se.  Solution: a small function for this
 
 ###### The ontology has been read in--now look for the opposites ##########
 
