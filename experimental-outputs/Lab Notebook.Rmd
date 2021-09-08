@@ -476,7 +476,10 @@ for (file_number in 1:length(files)) {
   if (DEBUG) { print("Finally, generate the graph") }
   boxplot(sheet$counts ~ sheet$opposites,
           #main = files[file_number],
-          main = paste(files[file_number], "OUTLIERS REMOVED"),
+          main = paste("DUMMY DATA Ontology", file_number),
+          names = c("NOT opposites", "OPPOSITES"),
+          ylab = "Hits on PubMed",
+          xlab = "",
           outline = FALSE) # outline = FALSE removes outliers, of which there are quite a few
   
   # silly to do this while I barely have any synonyms, or non-opposites at all, really...
@@ -497,6 +500,7 @@ For next week:
   b. term.01 - term.02
   c. term.02 
   d. term.02 - term.01
+2. Extra columns for *both* t1 and t2 original versus derived forms
 2. Automatic generation of synonyms needs to be rewritten for new file format.
 3. New file for MONDO.
 4. Classify opposites by type of opposition.  Hypothesis: can do some of that programmatically.
